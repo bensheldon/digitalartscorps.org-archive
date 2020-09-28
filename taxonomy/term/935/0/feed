@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - CSV</title>
+ <link>http://digitalartscorps.org/taxonomy/term/935/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Things to Look Out For When Migrating Data Between CMS&#039;s</title>
+ <link>http://digitalartscorps.org/node/1253</link>
+ <description>&lt;p&gt;While redeveloping the NAMAC site, I had some difficulty importing data from our ColdFusion CSM to a new Drupal CMS.  There were many odd glitches in migrating the data.  DON&quot;T UNDERESTIMATE THE TROUBLE OF THIS.&lt;/p&gt;
+&lt;p&gt;You will need to budget a sizeable amount of time to make this happen.&lt;/p&gt;
+&lt;p&gt;I was given an XLS file which needed to be translated into a CSV file.  I was also on a Mac and had to make sure the CSV was saved in a UTF-8 format for importing.&lt;/p&gt;
+&lt;p&gt;I used Drupal&#039;s Node Import module for this and had to break up the data across spreadsheets into a CSV with columns that Drupal could understand.  My question that I came too was:&lt;/p&gt;
+&lt;p&gt;&quot;How do I merge a multi-sheet ColdFusion database XLS file into a one sheet Drupal CSV database file?&quot;&lt;/p&gt;
+&lt;p&gt;I posted it on LinkedIn and this was one of the answers I got courtesy of Steve Boynes, Senior Programmer/Analyst at Dolby Laboratories:&lt;/p&gt;
+&lt;p&gt;&quot;Wow an XLS data source!  Current norms for Coldfusion development are to use a SQL based data source so it sounds like you might be working with a legacy site.  In any case, the task at hand is to map the data from your Coldfusion based web site into your new Drupal CMS based web site.&lt;/p&gt;
+&lt;p&gt;With an XLS datasource in Coldfusion each sheet is the equivalent of a Table in SQL.  The first row in each sheet defines the Column names of the &quot;table&quot;, and the subsequent rows represent the Row data.&lt;/p&gt;
+&lt;p&gt;You don&#039;t actually need to merge the multiple sheets of the XLS into a single CSV file, instead you need to create a individual CSV file for each sheet.  Unfortunately this isn&#039;t as easy as going into Excel and doing a File:Save As and setting the type to CSV because of the formatting requirements of the Drupal PHP based CSV parser.  So you&#039;ll want to write some Coldfusion code to create the CSV file for you.  The elegant solution would be to have a single Coldfusion page that would query all of your &quot;tables&quot; and write out the individual files to the filesystem.  But the quick and easy solution is to just query each table and output the fields as comma separated values directly to the screen, then just copy and paste this into Notepad and save it with a .CSV extension.  Just make sure you follow the appropriate convention for the CSV: first row containing the column names, double quotes around strings with commas, and date values in valid UNIX timestamp format.&lt;/p&gt;
+&lt;p&gt;On the Drupal side you&#039;ll want to use the node_import module to get the data in to your CMS.  You can use the wizard to map in the values from your CSV files.  Attached is a link to a pretty good readme on this process.&quot;&lt;/p&gt;
+&lt;p&gt;Links:&lt;br /&gt;
+&lt;a href=&quot;http://dir.rabhiomar.com/node/129&quot; title=&quot;http://dir.rabhiomar.com/node/129&quot;&gt;http://dir.rabhiomar.com/node/129&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is also an excellent article written on data exchange formats by Peter Campbell, IT Director at Earth Justice.  You can read it on the Idelaware Site here: &lt;a href=&quot;http://www.idealware.org/articles/data_exchange_alpha_soup.php&quot; title=&quot;http://www.idealware.org/articles/data_exchange_alpha_soup.php&quot;&gt;http://www.idealware.org/articles/data_exchange_alpha_soup.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hope someone finds this helpful!&lt;/p&gt;
+&lt;p&gt;_morgan&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/935">CSV</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/936">data</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/937">formats</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/934">XLS</category>
+ <pubDate>Thu, 27 Mar 2008 19:45:39 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1253 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - information management</title>
+ <link>http://digitalartscorps.org/taxonomy/term/979/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How To Set Up a Google &#039;Federated Search&#039; For Membership/Association-based NPOs</title>
+ <link>http://digitalartscorps.org/node/1370</link>
+ <description>&lt;p&gt;For fun, I created a &#039;&lt;a href=&quot;http://en.wikipedia.org/wiki/Federated_search&quot; title=&quot;definition on Wikipedia&quot;&gt;federated search&lt;/a&gt;&#039; for personal use at my org.&lt;/p&gt;
+&lt;p&gt;My Beta: &lt;a href=&quot;http://www.namac.org/federated-search-beta&quot; title=&quot;http://www.namac.org/federated-search-beta&quot;&gt;http://www.namac.org/federated-search-beta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was easy as pie to set up in under 5 minutes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get csv/xls spreadsheet of URLs you want to search (in my case a list of NAMAC&#039;s Member Orgs)&lt;/li&gt;
+&lt;li&gt;Set up Google Custom Search: &lt;a href=&quot;http://www.google.com/coop/cse/&quot; title=&quot;http://www.google.com/coop/cse/&quot;&gt;http://www.google.com/coop/cse/&lt;/a&gt; and login&lt;/li&gt;
+&lt;li&gt;Paste your orgs in the &#039;list of URLs to search&#039;&lt;/li&gt;
+&lt;li&gt;Save the URL to go to to perform the search or grab the generated code to paste anywhere you like.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Easy.  I use it to monitor/search what our Member Orgs are writing as well as as look for specific resources WITHIN the NAMAC network -&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Ways to Use It:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;funding partners&lt;/em&gt;&#039; to see where money is coming from/going from funders + what kinds of projected competitors/members and &#039;frenemies&#039; are getting funded&lt;/li&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;directory&lt;/em&gt;&#039; to see if more info can be aggregated/mashed up;)&lt;/li&gt;
+&lt;li&gt;Um...  I&#039;m not sure yet, but maybe you&#039;ve got an idea or two?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/641">google</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/979">information management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/311">search</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Fri, 24 Oct 2008 19:13:43 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1370 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

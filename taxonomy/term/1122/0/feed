@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - joomla</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1122/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mopeds and web stuffs</title>
+ <link>http://digitalartscorps.org/node/1614</link>
+ <description>&lt;p&gt;Whoops, it&#039;s been a while since I&#039;ve done one of these things. So my car was unable to pass smog and I&#039;m currently trying to get the guy who sold it to me to give me my money back and he&#039;s dodging my calls. Thankfully my boss knows someone in Marin (where I got it) who used to do lemon law stuff and now does legal aid, so hopefully she can put the fear of God in him. But now I have a moped, which is exciting and insurance is only $9 a month, so you can&#039;t beat that.&lt;/p&gt;
+&lt;p&gt;Project-wise things are still in early stages yet. I&#039;m looking at applications to hire a programmer for one of our sites (californiavoices.org if you know anyone who&#039;s good at Ruby on Rails and wants a low paying job you can send them my way). And moving the rest of them around so that they all are on joomla instead of a mix of random CMSes.&lt;/p&gt;
+&lt;p&gt;It seems like up until this point there hasn&#039;t been much standardization in the way they do web things. Everything is in different languages, hosted by different people in different places. So it&#039;s a little crazy making, but I&#039;m slowly trying to pull everything together. &lt;/p&gt;
+&lt;p&gt;Thankfully I haven&#039;t had the food stamps issues a lot of people seem to be. Other than my mail seems to be super super slow so I got a letter the other day saying that because I hadn&#039;t turned something in they were going to cut me off, but when I called they said they&#039;d gotten the paper work.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1614#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/388">cars</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/70">food stamps</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1122">joomla</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1175">moped</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/909">ruby on rails</category>
+ <pubDate>Thu, 22 Oct 2009 19:48:18 +0000</pubDate>
+ <dc:creator>Colleen Beach</dc:creator>
+ <guid isPermaLink="false">1614 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

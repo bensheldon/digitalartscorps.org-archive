@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - dvd</title>
+ <link>http://digitalartscorps.org/taxonomy/term/486/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Painful memories of Multimedia CDs</title>
+ <link>http://digitalartscorps.org/node/417</link>
+ <description>&lt;p&gt;I was reminded today of a difficult project I worked on a few years ago: creating a multimedia CD that would display text and video through your browser.&lt;/p&gt;
+&lt;p&gt;Lesson learned:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;There is a substantially higher expectation that things &#039;just work&#039; when you have a physical medium (like a CD) than when browsing the internet.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The nonprofit organization I was serving with had received a short (about five minutes), professionally produced news spotlight from a regional cable network and wanted to use it as a promotional piece, along with some info about our programs and a link to our website.&lt;/p&gt;
+&lt;p&gt;The idea was that all this would go on a CD that you would pop into your computer, fire up the browser and &lt;em&gt;viola&lt;/em&gt;, you&#039;re browsing this offline website on your home computer, watching videos, and having a &lt;em&gt;rich&lt;/em&gt; experience.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the entire cross-platform, media-format thing came into place.  The end result (after about a month of trial and error) was a CD that would autorun in Windows about 50% of the time, Mac users would have to click on an HTML file called &quot;Click Me&quot; and everyone would pray that they had the latest version of Quicktime or Windows Media Player installed.&lt;/p&gt;
+&lt;p&gt;Lesson learned:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Make a nice video DVD instead.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Video DVDs are very standardized and play almost anywhere.  The video looks better and people would rather watch things on their TV anyway.   The only thing you lose is additional text--send along a pamphlet with the DVD--and a direct link to the website--they can always type it in, and the multimedia CD link wouldn&#039;t even work if they don&#039;t have internet in the first place.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/417#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/484">authoring</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/485">cd</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/486">dvd</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/483">multimedia</category>
+ <pubDate>Tue, 23 Jan 2007 21:16:18 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">417 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

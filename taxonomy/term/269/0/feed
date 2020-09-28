@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - sage</title>
+ <link>http://digitalartscorps.org/taxonomy/term/269/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>RSSin&#039; across the Universe...</title>
+ <link>http://digitalartscorps.org/node/225</link>
+ <description>&lt;p&gt;&amp;quot;There&amp;#39;s newsfeeds on the starboard bow!  Starboard bow!  Starboard bow!&amp;quot;  &amp;lt;ahem&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(If you don&amp;#39;t get the joke, click &lt;a href=&quot;http://www.youtube.com/watch?v=4GA1zCH0tvc&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Anyway, I&amp;#39;ve been spending much of my time recently having fun with RSS. Much of what I&amp;#39;m doing is searching for information around the web that I can aggregate onto Social Source Commons, and naturally blogs are very helpful to this task, as are the official websites for the tools.  I&amp;#39;ve also been signing up for Google Alerts, and getting e-mail whenever a new hit on Google results for my search terms. &lt;/p&gt;
+&lt;p&gt;Since I&amp;#39;ve been using Firefox primarily, I downloaded Sage and have been using that.   It seems to work fairly well, but I&amp;#39;d be interested in hearing what other RSS readers people are using.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/225#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/270">newsfeeds</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/268">newsreaders</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/269">sage</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <pubDate>Fri, 20 Oct 2006 21:52:00 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">225 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

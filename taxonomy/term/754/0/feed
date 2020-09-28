@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Yea</title>
+ <link>http://digitalartscorps.org/taxonomy/term/754/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Computer Lab Relocation and Growth</title>
+ <link>http://digitalartscorps.org/node/936</link>
+ <description>&lt;p&gt;I returned from Lowell and hit the deck running early Monday. The highlight of the day was visiting the present computer lab and evaluating its relocation to the former County Jail site. This new site proved to be pretty well wired for power and well wired for cat 5 with  a present capacity for 24 PC&#039;s punched down to the IDF. The IDF rack has expandability to 48 nodes.&lt;/p&gt;
+&lt;p&gt;The rack will need switch/routing. Work on T1installation is in progress, mostly funded by E-rate, Tele-connect fund!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/936#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/754">Yea</category>
+ <pubDate>Tue, 26 Jun 2007 05:35:48 +0000</pubDate>
+ <dc:creator>Jim Mora</dc:creator>
+ <guid isPermaLink="false">936 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

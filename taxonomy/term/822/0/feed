@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - graphic design</title>
+ <link>http://digitalartscorps.org/taxonomy/term/822/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>yeah 2011</title>
+ <link>http://digitalartscorps.org/node/1890</link>
+ <description>&lt;p&gt;Things got a little busier over November and December. Expectedly I had an increase in phone calls/e-mails during the &quot;Storming Phase&quot; but nothing too out of control. I&#039;ve been lucky that major issues with different VISTAs have not overlapped so I haven&#039;t had to juggle too many concerns at the same time. I&#039;ve also gotten into a basic routine of e-mailing people about a month after I&#039;ve last heard from them and that seems to be working alright. Everyone definitely has a different way they like to communicate and I construct my e-mails according to whatever standard thats evolved naturally with that person. I&#039;d like to read more field reports but there has been a lot of artifacts and tangibles sent over so I think we are doing alright.&lt;/p&gt;
+&lt;p&gt;Howie and I finished &lt;a href=&quot;http://transmissionproject.org/projectlist&quot;&gt;this huge database&lt;/a&gt; of all 400 and some odd Digital Arts Service core members over the past 10 years and I&#039;m now working on how to best display the database on the transmission project&#039;s website. I&#039;ve been toying around with different custom &lt;a href=&quot;http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=217849425808715466462.0004952da65f8cd04ef3a&amp;amp;ll=44.715514,-99.667969&amp;amp;spn=38.084312,74.179688&amp;amp;z=4&quot;&gt;google map icons&lt;/a&gt; but haven&#039;t yet settled on anything.&lt;/p&gt;
+&lt;p&gt;In November I attended &lt;a href=&quot;http://www.edwardtufte.com/tufte/courses&quot;&gt;Edward Tufte&#039;s class on information design&lt;/a&gt; and it had a very big effect on me and how I design things. I&#039;d highly recommend going to one of his classes if you can get someone else to pay for it.&lt;/p&gt;
+&lt;p&gt;Projects Completed: Some info-graphics and normal-graphics, database of past DASC members and host sites, some google map icons, transmission project website redesign but not implementation, secret DASC swag design, increased Drupal knowledge, some conflict management action and some dealing with sticky situations action.&lt;/p&gt;
+&lt;p&gt;Projects in the works: Implement Transmission project redesign, more swag, increase Drupal knowledge further, do all that I can to help people when they ask.&lt;/p&gt;
+&lt;p&gt;Resolution of the Year: No TV (sit-coms/dramas mainly)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1890#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1306">conflict management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1372">edward tufte</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1373">information design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1371">mapping</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/149">vista leader</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <pubDate>Tue, 04 Jan 2011 20:29:00 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1890 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Resources for Good Site Aesthetics and Techniques</title>
+ <link>http://digitalartscorps.org/node/1014</link>
+ <description>&lt;p&gt;here are two link to fun web development stuff to look at, learn from and implement - updated daily (at least).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The most popular web development bookmarks on del.icio.us:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/popular/webdev&quot; title=&quot;http://del.icio.us/popular/webdev&quot;&gt;http://del.icio.us/popular/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;My favorite bookmarks on my del.icio.us account:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/memeshift/webdev&quot; title=&quot;http://del.icio.us/memeshift/webdev&quot;&gt;http://del.icio.us/memeshift/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; A website i go to DAILY to see what the latest trends in web design are:&lt;br /&gt;
+&lt;a href=&quot;http://www.designmeltdown.com&quot; title=&quot;http://www.designmeltdown.com&quot;&gt;http://www.designmeltdown.com&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 31 Jul 2007 21:51:29 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1014 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

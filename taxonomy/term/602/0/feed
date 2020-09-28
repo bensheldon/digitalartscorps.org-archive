@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - media reform</title>
+ <link>http://digitalartscorps.org/taxonomy/term/602/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Intellectual Property and Community Media</title>
+ <link>http://digitalartscorps.org/digitalmedia/reformandpolicy</link>
+ <description>&lt;p&gt;This is an article written by Reebee Garofalo.  He&#039;s a professor who teaches about music and social movements at UMass.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Copyright: Its Still About the Content, Stupid.&lt;/strong&gt;&lt;br /&gt;
+By Reebee Garofalo&lt;br /&gt;
+Original article can be found at: &lt;a href=&quot;http://acmboston.org/node/340&quot; title=&quot;http://acmboston.org/node/340&quot;&gt;http://acmboston.org/node/340&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reebee Garofalo is an internationally known scholar of popular music studies, professor at UMass/Boston, and founder of the Community Media and Technology Program at UMB&#039;s College of Public and Community Service, where he has taught since 1978.&lt;/p&gt;
+&lt;p&gt;For the last 30 or so years, I have been a popular music activist and educator. I have been asked to comment on the relevance of copyright law to community media. This fits with my own agenda for a couple of reasons: first, that music tends to get underrepresented in discussions of communication policy and media transformation (except when we want to censor it), and second, most of the copyright battles that will eventually plague all media have already happened in the music industry. We can learn a lot about the future by looking at the history of these struggles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read attachment for more.&lt;/strong&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/14">digitalmedia</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/602">media reform</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/494">policy</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/ACM - Copyright - By Reebee Garofalo.doc" length="75776" type="application/msword" />
+ <pubDate>Thu, 22 Mar 2007 15:59:13 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">658 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

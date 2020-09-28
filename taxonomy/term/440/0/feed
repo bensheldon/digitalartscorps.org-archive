@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - 2007</title>
+ <link>http://digitalartscorps.org/taxonomy/term/440/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>PSO January 18, 2007</title>
+ <link>http://digitalartscorps.org/node/404</link>
+ <description>&lt;p&gt; Hi Everyone&lt;/p&gt;
+&lt;p&gt;My name is Doreen Young and I am from Rochester, New York. I am attending my first PSO in Boston, Mass.  So far, the Vista orientation has been very interesting and fun!  I am enjoying the people I have met and I am looking forward to a great year as a Vista.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/404#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/440">2007</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/475">January 18</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <pubDate>Thu, 18 Jan 2007 21:54:47 +0000</pubDate>
+ <dc:creator>Doreen Young</dc:creator>
+ <guid isPermaLink="false">404 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>CTCNet Conference</title>
+ <link>http://digitalartscorps.org/node/356</link>
+ <description>&lt;p&gt;Does anyone know if there will be an annual CTCNET conference this year? I checked out their website and found two contradictory pieces of information.&lt;/p&gt;
+&lt;p&gt;One &lt;a href=&quot;http://ctcnet.org/what/conference/index.htm&quot;&gt;here&lt;/a&gt; that says there will be no conference due to strategic planning and one &lt;a href=&quot;http://www.ctcnet.org/join/support.htm&quot;&gt;here&lt;/a&gt; that claims there is one and it shall be in LA in June/July.  Talk about contradictory.&lt;/p&gt;
+&lt;p&gt;I call upon the powers that be to straighten this confusion out.&lt;/p&gt;
+&lt;p&gt;Carl Seifert &lt;/p&gt;
+&lt;p&gt;VISTA in VA &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/356#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/440">2007</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/47">ctcnet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/92">VISTA Life</category>
+ <pubDate>Tue, 02 Jan 2007 23:55:12 +0000</pubDate>
+ <dc:creator>Carl Seifert</dc:creator>
+ <guid isPermaLink="false">356 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

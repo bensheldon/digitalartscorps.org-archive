@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - roller derby</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1243/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>End of April at CMC</title>
+ <link>http://digitalartscorps.org/node/1676</link>
+ <description>&lt;p&gt;Haven&#039;t done a field report in a long time (again). The password to this thing always seems to get funky and then it gets put off until later. That&#039;s the best excuse I have at the moment.&lt;/p&gt;
+&lt;p&gt;CMC is just starting to get it&#039;s first email newsletter together using the civiCRM. That will go out on Wednesday if everyone gets their pieces for it in on time. In reality it&#039;ll probably go out next Monday, but I&#039;m telling everyone to get stuff to me by Wednesday.&lt;/p&gt;
+&lt;p&gt;I cannot recommend CiviCRM highly enough. It&#039;s free and relatively user friendly. Although some of the admin type set up (especially for using CiviMail and having it send out email blasts) can be a bit of a headache. But it&#039;s really helped everyone at the office get all their contacts in one place so we can actually see who knows who and find them easily.&lt;/p&gt;
+&lt;p&gt;The budget we had for updating our Ruby on Rails site for the after school program turned out to be mostly imaginary so that site has been sitting mostly stagnant since I got here. I&#039;m trying to learn some Ruby on Rails in between other stuff, but it&#039;s sort of on the back burner.&lt;/p&gt;
+&lt;p&gt;It&#039;s allergy season here and making me somewhat miserable. I had to go to the doctor the other day because my lungs were apparently only working about half as good as they were supposed to be. So they have me on some inhalers now so I can breathe again. Although I&#039;m still sneezing and all that good stuff. Good old valley pollution. &lt;/p&gt;
+&lt;p&gt;I also just got myself promoted from fresh meat to Rock &#039;n Rolla Girl on my roller derby team (&lt;a href=&quot;http://www.ccaderby.com/&quot; title=&quot;http://www.ccaderby.com/&quot;&gt;http://www.ccaderby.com/&lt;/a&gt;). Our first bout is in June so I&#039;m looking forward to that. I have my very own Union Jack helmet now and lots of bruises. &lt;/p&gt;
+&lt;p&gt;And through my derby team I&#039;ve found a circus arts fire troupe and am teaching them hoop dance (they&#039;ve got a fire hoop on order) and they&#039;re teaching me poi. I even got to play with some fire fans the other week.&lt;/p&gt;
+&lt;p&gt;I also managed to snag a low-income ticket to Burning Man! That&#039;s not until August but I&#039;m already super excited! (Applications for low-income tickets are still open until the end of May it&#039;d be cool to have other VISTAs there).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1676#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1244">allergies</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1245">circus arts</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/750">civicrm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1243">roller derby</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/909">ruby on rails</category>
+ <pubDate>Mon, 26 Apr 2010 22:05:15 +0000</pubDate>
+ <dc:creator>Colleen Beach</dc:creator>
+ <guid isPermaLink="false">1676 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

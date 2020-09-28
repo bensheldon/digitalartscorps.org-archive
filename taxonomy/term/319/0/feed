@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - database</title>
+ <link>http://digitalartscorps.org/taxonomy/term/319/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>yeah 2011</title>
+ <link>http://digitalartscorps.org/node/1890</link>
+ <description>&lt;p&gt;Things got a little busier over November and December. Expectedly I had an increase in phone calls/e-mails during the &quot;Storming Phase&quot; but nothing too out of control. I&#039;ve been lucky that major issues with different VISTAs have not overlapped so I haven&#039;t had to juggle too many concerns at the same time. I&#039;ve also gotten into a basic routine of e-mailing people about a month after I&#039;ve last heard from them and that seems to be working alright. Everyone definitely has a different way they like to communicate and I construct my e-mails according to whatever standard thats evolved naturally with that person. I&#039;d like to read more field reports but there has been a lot of artifacts and tangibles sent over so I think we are doing alright.&lt;/p&gt;
+&lt;p&gt;Howie and I finished &lt;a href=&quot;http://transmissionproject.org/projectlist&quot;&gt;this huge database&lt;/a&gt; of all 400 and some odd Digital Arts Service core members over the past 10 years and I&#039;m now working on how to best display the database on the transmission project&#039;s website. I&#039;ve been toying around with different custom &lt;a href=&quot;http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=217849425808715466462.0004952da65f8cd04ef3a&amp;amp;ll=44.715514,-99.667969&amp;amp;spn=38.084312,74.179688&amp;amp;z=4&quot;&gt;google map icons&lt;/a&gt; but haven&#039;t yet settled on anything.&lt;/p&gt;
+&lt;p&gt;In November I attended &lt;a href=&quot;http://www.edwardtufte.com/tufte/courses&quot;&gt;Edward Tufte&#039;s class on information design&lt;/a&gt; and it had a very big effect on me and how I design things. I&#039;d highly recommend going to one of his classes if you can get someone else to pay for it.&lt;/p&gt;
+&lt;p&gt;Projects Completed: Some info-graphics and normal-graphics, database of past DASC members and host sites, some google map icons, transmission project website redesign but not implementation, secret DASC swag design, increased Drupal knowledge, some conflict management action and some dealing with sticky situations action.&lt;/p&gt;
+&lt;p&gt;Projects in the works: Implement Transmission project redesign, more swag, increase Drupal knowledge further, do all that I can to help people when they ask.&lt;/p&gt;
+&lt;p&gt;Resolution of the Year: No TV (sit-coms/dramas mainly)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1890#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1306">conflict management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1372">edward tufte</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1373">information design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1371">mapping</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/149">vista leader</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <pubDate>Tue, 04 Jan 2011 20:29:00 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1890 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Finally</title>
+ <link>http://digitalartscorps.org/node/1763</link>
+ <description>&lt;p&gt;I have something to show for my time with the Transmission Project so far. Today I published an article on past Corps members&#039; experiences working with Salesforce databases. I would like to thank Billy especially for creating the graphics and prepping the document for PDF format.&lt;/p&gt;
+&lt;p&gt;The article is available to download as a pdf below, and you can read my introduction on the &lt;a href=&quot;http://transmissionproject.org/current&quot;&gt;current&lt;/a&gt; page of the Transmission Project website.&lt;/p&gt;
+&lt;p&gt;The article&#039;s intended audience is really other organizations, but I encourage anyone who is working with Salesforce -- or any CRM -- to take a look at what we&#039;ve learned. Anyone interested in how the Transmission Project approaches its past partnerships may also find something useful.&lt;/p&gt;
+&lt;p&gt;I found that, in conducting my research, having access to other VISTAs&#039; field reports is extremely helpful when trying to get a sense of your perspectives on the projects you are tackling. I was able to search through field reports to learn not only when Corps members encountered problems with Salesforce and what they had to say about it, but also when they felt they had been successful.&lt;/p&gt;
+&lt;p&gt;What I&#039;m trying to say is don&#039;t stop reporting because what you say here can actually provide an important resource for me (and others, but do you really require any reason to post other than that it will make my job easier?).&lt;/p&gt;
+&lt;p&gt;Over and out,&lt;br /&gt;
+Howie&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1763#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/573">capacity building</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1183">salesforce</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/Transmission Project - The VISTA and the Database.pdf" length="356033" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 19:48:19 +0000</pubDate>
+ <dc:creator>Howard Fisher</dc:creator>
+ <guid isPermaLink="false">1763 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>How To Set Up a Google &#039;Federated Search&#039; For Membership/Association-based NPOs</title>
+ <link>http://digitalartscorps.org/node/1370</link>
+ <description>&lt;p&gt;For fun, I created a &#039;&lt;a href=&quot;http://en.wikipedia.org/wiki/Federated_search&quot; title=&quot;definition on Wikipedia&quot;&gt;federated search&lt;/a&gt;&#039; for personal use at my org.&lt;/p&gt;
+&lt;p&gt;My Beta: &lt;a href=&quot;http://www.namac.org/federated-search-beta&quot; title=&quot;http://www.namac.org/federated-search-beta&quot;&gt;http://www.namac.org/federated-search-beta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was easy as pie to set up in under 5 minutes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get csv/xls spreadsheet of URLs you want to search (in my case a list of NAMAC&#039;s Member Orgs)&lt;/li&gt;
+&lt;li&gt;Set up Google Custom Search: &lt;a href=&quot;http://www.google.com/coop/cse/&quot; title=&quot;http://www.google.com/coop/cse/&quot;&gt;http://www.google.com/coop/cse/&lt;/a&gt; and login&lt;/li&gt;
+&lt;li&gt;Paste your orgs in the &#039;list of URLs to search&#039;&lt;/li&gt;
+&lt;li&gt;Save the URL to go to to perform the search or grab the generated code to paste anywhere you like.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Easy.  I use it to monitor/search what our Member Orgs are writing as well as as look for specific resources WITHIN the NAMAC network -&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Ways to Use It:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;funding partners&lt;/em&gt;&#039; to see where money is coming from/going from funders + what kinds of projected competitors/members and &#039;frenemies&#039; are getting funded&lt;/li&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;directory&lt;/em&gt;&#039; to see if more info can be aggregated/mashed up;)&lt;/li&gt;
+&lt;li&gt;Um...  I&#039;m not sure yet, but maybe you&#039;ve got an idea or two?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/641">google</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/979">information management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/311">search</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Fri, 24 Oct 2008 19:13:43 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1370 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Constituent Management Databases</title>
+ <link>http://digitalartscorps.org/node/951</link>
+ <description>&lt;p&gt;from the &lt;strong&gt;Tech Soup Newsletter&lt;/strong&gt;: Tracking Constituents in Small and Mid-Sized Organizations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.techsoup.org/learningcenter/databases/page7129.cfm&quot; title=&quot;http://www.techsoup.org/learningcenter/databases/page7129.cfm&quot;&gt;http://www.techsoup.org/learningcenter/databases/page7129.cfm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Before you consider what actual database tool is right for you, it&#039;s important to think through what&#039;s important for your organization.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Understand who will use it&lt;/strong&gt;. Your organization&#039;s databases shouldn&#039;t be the domain of the technical. Many people will need to use it — for instance, a constituent database should be used by anyone looking up a constituent phone number or tracking a contact with someone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Think through the processes and data you need to track.&lt;/strong&gt; What do you currently do that should be supported in the new system? What isn&#039;t working well right now that could be improved with a new system? What do you think you might want to do down the road? Try to consider all the ways that you could interact with the data you&#039;re going to track.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Begin with your outputs in mind. &lt;/strong&gt;Make a list of the reports, lists, and other things that you will want to output from the system. What information will you need? In what ways will you need to filter the data?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prioritize your needs&lt;/strong&gt;. Define which of your needs are critical, and which are just nice to have. Trying to support everything at once can result in a system that&#039;s too complicated for your needs or not being able to find a system at all.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/774">constituents</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/772">donor management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/773">tracking</category>
+ <pubDate>Tue, 03 Jul 2007 00:27:49 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">951 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Projects, Daytrips and Life in General</title>
+ <link>http://digitalartscorps.org/node/555</link>
+ <description>&lt;p&gt;There has been a lot going on in my neck of the woods (San Diego, CA). &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;:&lt;br /&gt; For one thing, my company, the Pangea Foundation, was just granted a contract to develop databasing software to be used in the &lt;a href=&quot;http://www.ecd.org&quot; title=&quot;Enterprise Corporation of the Delta&quot;&gt;Home Again Mississippi&lt;/a&gt; project (I think that is the project; If not, you get to see a cool webpage with stories). It is really such an honor that a company as small as ours was chosen to do such an enormous project. Unfortunately, though, we only have until March 30th to finish (people need homes!) and we just found out we got the job yesterday! Craziness! The gist is that there was some sort of insurance/state relief decision made where select people are each being given $100,000 to rebuild/repair their homes. However, the state of Mississippi has no way to track who needs it, at what stage they&amp;#39;re at or any of the other details that go along with it. So along comes Pangea to the rescue! They saw some of our other systems and have heard about our great tech support and training assistance (ya baby) and felt we were the company for them. It&amp;#39;s so exciting! Our software will hopefully expedite the process of all of the people getting the funds they need to rebuild their homes. Woot!&lt;/p&gt;
+&lt;p&gt;Second, Laura and I went to a Cultural Proficiency seminar last Friday that was very interesting. Many of the counselors who we are working with on our new AP Tracking system were there so it was good to network with them in addition to learning about cultural differences and how to overcome them.&lt;/p&gt;
+&lt;p&gt;Third, the mentoring program for which we have been working on a tracking system has been growing by leaps and bounds! It used to be just Wednesday mornings but then there was a waiting list to get involved! So now there is a Thursday morning session as well! (That was a lot of exclamation points, I apologize.) We help Karen, the program director at our office, get things organized and input all of the new data for the programs. It&amp;#39;s been fun and I&amp;#39;m glad it&amp;#39;s growing. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Moving away from work onto daytrips and fun times:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Laura, Mike Denegal (former VISTA leader) and I took a daytrip to Tijuana on Sunday. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/user963/Tijuana_030_compressed.jpg&quot; alt=&quot;Pangea crew in TJ&quot; title=&quot;Pangea crew in TJ&quot; hspace=&quot;5&quot; width=&quot;448&quot; height=&quot;336&quot; align=&quot;left&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;It was way too much fun. Here&amp;#39;s a link for &lt;a href=&quot;http://pepperdine.facebook.com/album.php?aid=2023805&amp;amp;l=15b98&amp;amp;id=8501288&quot;&gt;pictures&lt;/a&gt;. Check them out! It was cool because we took the trolley from our office which was only $5 roundtrip and were able to just walk across the border, thereby missing all of the traffic and wait times! Everything is pretty cheap down there and there is a lot going on. If you ever make it to San Diego, it’s totally a fun thing to do. &lt;/p&gt;
+&lt;p&gt;Laura and I have also been taking some free classes at one of the continuing education campuses here in San Diego. We started off with HTML and then moved onto Dreamweaver (all the way through intermediate!) and Photoshop. It’s so cool to be able to learn new skills and expand horizons! There is totally one of those guys who can’t keep his hand down in lecture and likes to argue with the teacher (you all know what I’m talking about) but besides that, class is awesome.&lt;/p&gt;
+&lt;p&gt;Otherwise, fun things I’ve been doing include going to cheap local concerts, watching movies and baking. Oh yeah, and doing Tae Bo videos with new and improved Billy Bands (yeah, I’m weird)! You guys are going to see Laura and me at the conference and be like, “Dang, those girls are svelte.” Just kidding…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thought provoking life questions:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I came to the realization the other day that my VISTA term is nearly half over. What that really means is that my year of procrastination that was to be used for deciding what I wanted to do with the rest of my life is nearly half over. I feel like I haven’t come to any real conclusions. I really like technology and when I work at it, I can learn and accomplish a lot, but I’m no techy genius, unlike many of my fellow VISTAs out there! I just don’t feel I have a ton to offer sometimes. I majored in business and I am pretty good at that – organizing, planning, implementing, etc. I could draw you a pretty nice supply/demand graph any day of the week. However, I’ve found that really putting things into practice is often difficult. All I really know is that I want to be useful and I want to help people but I don’t know in what area I can do that most efficiently. I know I don’t want to go back to school. I should probably move away from San   Diego for an adventure and growth but it’s just so comfortable here for me. My family is here, my friends are here, I know my way around (Anyone who knows me well knows that is huge because I have absolutely NO sense of direction). So yeah, anyone out there in the same boat? Have any suggestions or ideas? &lt;/p&gt;
+&lt;p&gt;Hope everyone is doing well and that no one has frozen over with the recent weather. Looking forward to seeing many of you in April at NTEN!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/555#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/552">Disaster Relief</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/555">jobs</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/554">Mexico</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/553">Tijuana</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/92">VISTA Life</category>
+ <pubDate>Thu, 22 Feb 2007 19:30:00 +0000</pubDate>
+ <dc:creator>Corey Funderburk</dc:creator>
+ <guid isPermaLink="false">555 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Commercial databases</title>
+ <link>http://digitalartscorps.org/node/482</link>
+ <description>&lt;p&gt;In our conference call I agreed to provide information about what commercial database my organization decided to go with.  Although, I&amp;#39;m not sure exactly who asked for it. So whoever you are...here it is.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.socialsolutions.com/&quot;&gt;Social Solutions&lt;/a&gt; is the name of the company. They specialize in social service organizations big and small. They have clients that are 5 employees and hundreds, from Girl Scouts of America to Computer CORE (5 employees). The database software is called ETO (Efforts to Outcomes) and is built around the idea of tracking successes and clients. &lt;/p&gt;
+&lt;p&gt;Shoot me an email if you have any other questions. &lt;a href=&quot;mailto:ceseifert@gmail.com&quot;&gt;ceseifert@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Later!&lt;/p&gt;
+&lt;p&gt;carls &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/482#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/507">commercial</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <pubDate>Tue, 06 Feb 2007 18:43:25 +0000</pubDate>
+ <dc:creator>Carl Seifert</dc:creator>
+ <guid isPermaLink="false">482 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Tools of my trade</title>
+ <link>http://digitalartscorps.org/node/264</link>
+ <description>&lt;p class=&quot;MsoNormal&quot;&gt;At present my work is focused mainly on a small software development project for which I write code in php. &lt;span&gt; &lt;/span&gt;I have to write code to interact with a database and generate forms and reports.&lt;/p&gt;
+&lt;p&gt;  Among the tools I am using for this project, Pear::DB and Smarty are more significant. PEAR is allowing me to write code which is database neutral. That is I do not have to write database functions addressed to a specific database. I need to do it only once in a single statement when I connect to a database of my choice. This is a cool concept that allows portability. For example same code can be used to connect to MySQL or SQLite or PostgresSQL data bases with changes only to configuration parameters. &lt;br /&gt;
+&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Another tool that I am using is “Smarty templates” for report layout. With Smarty I can&lt;span&gt;  &lt;/span&gt;&lt;span&gt; &lt;/span&gt;write code separating presentation details from the processing logic. Additionally Smarty allows me to use conditional logic and looping within the template, thus allowing me to separate not only the template but also the logic, this ability to use some level of logic, instead  of just plugging in the variables, gives me more control over the display&lt;/p&gt;
+&lt;p&gt;  For example I have been able to code the display of a form containing a list box filled with the results of a data base query. I am also able to create a table, populated with records from database with a layout based on a condition. Using smarty has simplified and reduced my php code as well. I find, having HTML files (templates)separated from PHP files is convenient in terms of running through HTML validator, linking to style sheets, debugging and editing.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/264#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/322">MySQL</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/321">PHP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/323">Smarty</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/320">template</category>
+ <pubDate>Fri, 03 Nov 2006 16:53:43 +0000</pubDate>
+ <dc:creator>Kamala Kalluri</dc:creator>
+ <guid isPermaLink="false">264 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

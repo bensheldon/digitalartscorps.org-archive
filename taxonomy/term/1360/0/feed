@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - bar code</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1360/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Getting it Done</title>
+ <link>http://digitalartscorps.org/node/1871</link>
+ <description>&lt;p&gt;Field report time!&lt;/p&gt;
+&lt;p&gt;I have been putting this report off in hopes to have some great media and artifacts to present, but this will have to wait until my next report.  I found some time to give a quick status update of what I&#039;ve been up to.  We really need more activity on here!&lt;/p&gt;
+&lt;p&gt;I have been working on two major goals right now:  developing programming for our evening workshops and establishing a system to track our technology that both stays in-house and are rented out to the community.&lt;/p&gt;
+&lt;p&gt;For our evening workshops at Media Arts Center, we&#039;ve slowly  been reaching our goal of having our calendar ready 3 months in advance.&lt;br /&gt;
+We have just reached having it all set one month- the workshop type, instructor, goals, marketing, scheduling, etc are currently ready one month in advance.  We have had great turnouts for Final Cut workshops and build-it-with-others workshops like the DIY Steadycam.  New volunteers are increasing, thanks to new volunteer recruiting/policies we have established.  The next step for our workshops is to redesign our brochures/marketing.  We need to be more appealing to younger audiences, cut costs, and create new job descriptions for volunteers/interns.  This begins mid-december.&lt;/p&gt;
+&lt;p&gt;As for tracking technology, I had to start from the very beginning.  The current inventory spreadsheet was missing crucial information including serial numbers and price values.  I was able to finally utilize the snazzy barcode scanner I purchased to make the task a lot easier. The information is almost 100% entered in and will benefit accounting, identifying outdated technology, and our equipment rental process.  Audits? Easy.  Grantwriting? Simple!  Equipment rental?  Sure, let&#039;s see what&#039;s available!  By the end of January, I hope to have finalized a working rental system that incorporates barcodes into our equipment inventory and member databases.  I&#039;m hoping by the end of my year here, we can have a reservation system available on our website, and maybe even a mobile app.&lt;/p&gt;
+&lt;p&gt;On Tuesdays, FabLab offers design workshops of all sorts.  They have vinyl cutter, laser engraving, 3D scanners...man!!!  I joined their fun last tuesday @ Intro to Interactivity.  We made IR pens to make DIY smartboards.  It really works!!&lt;/p&gt;
+&lt;p&gt;More to come,&lt;br /&gt;
+Chris&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1871#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1360">bar code</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1359">FabLab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1361">media lab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/312">technology</category>
+ <pubDate>Mon, 22 Nov 2010 20:58:25 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1871 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

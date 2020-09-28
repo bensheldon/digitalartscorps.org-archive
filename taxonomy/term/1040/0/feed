@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - reporting</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1040/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Project had Fun Stuff to do</title>
+ <link>http://digitalartscorps.org/node/1444</link>
+ <description>&lt;p&gt;While I&#039;m still in the process of updating the service listings in the database, I had a 2-week respite from that, creating reports from the case management system.  The fun part was using Crystal Reports to create the reports.  The process involved downloading data from the system into Excel worksheets, then overlaying the spreadsheet with Crystal Reports. &lt;/p&gt;
+&lt;p&gt; This reporting method was vastly different from the reporting I had done in the past while a consultant -- in those days I used a DBMS language with reporting and procedural capability called Nomad.  Crystal Reports is a GUI-based software that can be used for nearly every major ODBC database as well as Excel.  The reports involved demographic data and case management system usage.&lt;/p&gt;
+&lt;p&gt;Note: Crystal Reports costs approximately $75 for a non-profit and is available from Tech Soup (or at least is was about a year or so ago).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1444#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1041">crystal reports</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1040">reporting</category>
+ <pubDate>Mon, 02 Feb 2009 20:55:57 +0000</pubDate>
+ <dc:creator>Marilyn Taylor</dc:creator>
+ <guid isPermaLink="false">1444 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

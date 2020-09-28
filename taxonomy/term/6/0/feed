@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - editorial</title>
+ <link>http://digitalartscorps.org/taxonomy/term/6/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Recoil magazine</title>
+ <link>http://digitalartscorps.org/node/185</link>
+ <description>&lt;p&gt;While at the PSO I wore a black t-shrit that said Recoil on it. Recoil is the name of a local free magazine printed on newsprint. On the front is a magazine devoted to local events and advertising, articles about and interviews of bands (local or those coming to town) and reviews of CD&amp;#39;s local and national. On the back is a satire magazine of fake and funny news articles a la &amp;quot;The Onion&amp;quot;. &lt;/p&gt;
+&lt;p&gt;I was wearing this shirt when we took the big group photo. That photo that greats us when we all when we click on&amp;quot;vista blogs&amp;quot;. The word Recoil has been removed from my shirt. I&amp;#39;m guessing someone thought that it was a possible copyright issue or something. But I hardly think a local Grand Rapids magazine will be suing AmeriCorp for use of the logo.&lt;/p&gt;
+&lt;p&gt; Bizaar.&lt;/p&gt;
+&lt;p&gt; In the words of Sam the Eagle, &amp;quot;You are all weirdos.&amp;quot;&lt;/p&gt;
+&lt;p&gt; Peace,&lt;/p&gt;
+&lt;p&gt;Richard &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/185#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/182">censorship</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/183">copyright</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/41">ctcvista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/6">editorial</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/46">fun</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/185">PSO photo</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/184">Recoil</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/42">vistalife</category>
+ <pubDate>Mon, 09 Oct 2006 15:26:17 +0000</pubDate>
+ <dc:creator>Richard T. Anderson</dc:creator>
+ <guid isPermaLink="false">185 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A response for Net Neutrality</title>
+ <link>http://digitalartscorps.org/node/5</link>
+ <description>&lt;p&gt;This morning a co-worker placed an article from the July 2006 edition of Communications Engineering and Design Magazine entitled &lt;a href=&quot;http://www.cedmagazine.com/article/CA6348436.html&quot;&gt;&quot;Net neutrality legislation--my take on it&quot;&lt;/a&gt; by Jeffrey Krauss, President of Telecommunications and Technology Policy.&lt;/p&gt;
+&lt;p&gt;Net Neutrality is an important issue; pending legislation and changing business practices have the potential to dramatically change how we use the Internet. Below I have responded to some of the points Mr. Krauss brought up in the article.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;&quot;There&#039;s an enormous coalition supporting net neutrality, hundreds of individuals and organizations and companies that I have never heard of. But if you follow the money, you find that it&#039;s really Google, Amazon.com, eBay and Yahoo! that are behind this campaign.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yes, there is wide support for Net Neutrality and for good reason. I run several small websites (and am known to browse the web myself), and am happy that Google, Amazon.com, et al are behind the campaign and helping to pay for it. I don&#039;t have the money or resources to fight for Net Neutrality as well as they can, so I&#039;m really glad that&lt;br /&gt;
+they are.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;Never mind that was no evidence that any ISP was blocking access&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A Canadian Telco has &lt;a href=&quot;http://www.edmontonsun.com/News/Canada/2005/07/24/1145417-sun.html&quot;&gt;blocked access&lt;/a&gt;. AT&amp;amp;T&#039;s CEO is &lt;a href=&quot;http://www.ft.com/cms/s/3ced445e-91c5-11da-bab9-0000779e2340.html&quot;&gt;threatening to do so &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;What? You say that your voice telephone service, which uses the PacketCable specifications designed by CableLabs, gives better quality of service control than the versions offered by Skype or Vonage? That&#039;s prohibited. Too bad!&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Exactly. As a paying customer I should be able to use whatever service I want as long as it is not malicious to the network itself. There is a big difference between &quot;malicious&quot; and merely &quot;inefficient&quot;.&lt;/p&gt;
+&lt;p&gt;The main issue is the structural difference between content or services (Amazon, Google, Skype, P2P), and distribution (ISPs and bandwidth). This is not entirely cut and dry because Telcos are ISPs and offer services (Comcast VOIP), and Google may soon become an ISP, but the concept that the content or services themselves, and their distribution should be seperate is at the heart of the Net Neutrality debate.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;But they don&#039;t give you the right to use network intelligence to block spam, or to identify and control peer-to-peer traffic.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;What is wrong with peer-to-peer traffic? The issue should be the content itself, if it&#039;s copyrighted material, not the manner in which it&#039;s distributed (P2P as opposed to Server-Client), and there are many legal uses of P2P (such as noncommecial media and Open Source Software distribution). Like I said earlier, as a customer, I pay for bandwidth (as does Google, et al), and I believe I should have the right to use that bandwidth in any fashion I choose, as long as it is not malicious to the network. If the issue is that the ISP has oversold their bandwidth with the assumption that I *wouldn&#039;t* use it, then that is the ISP&#039;s failure--and one that proper market forces will take care of.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;There are already commercial mechanisms that allow Web vendors to achieve improved quality of service, but these bills would prohibit ISPs from offering such services.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are commercial mechanisms, like the Akamai example given in the text, that Amazon and other web vendors use to increase network speed and efficiency. But these occur upstream of ISPs; an ISP could then QoS out any benefit from using Akamai on the ISP&#039;s network. Without Net Neutrality legislation, in order for Amazon to offer a guaranteed user experience, they would have to contract with the ISP of every single customer Amazon wishes to do business with. This would actually drive services like Akamai out of business! And if I don&#039;t have the money or resources to negotiate with ISPs, then I&#039;m locked out; a little guy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;Nothing in these bills protects ISPs from powerful content owners imposing their priorities unilaterally.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Why would these bills include that? That isn&#039;t even technologically possible. Google itself has no power over me if I choose instead to use Yahoo (or any competing search engine, large or small) in my web browser. Unfortunately, my ISP *does* have the power to unilaterally affect what search engine I use, and Net Neutrality legislation hopes to make it illegal for my ISP to brandish that power. Google and Yahoo provide content, ISPs should distribute that content without regard to who it is coming from.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;If new technology or new services were to be deployed that allow competitors to leapfrog their dominant market position, that&#039;s bad for them. The goal of this legislation is to make sure that doesn&#039;t happen.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Completely false. The concept of Net Neutrality is that any content or service can compete on equal footing without the express consent (or money changing hands) of the distributors. In fact, this statement is directly applicable to the ISPs desires, *not* the services. In the earlier example of the VOIP service, ISPs want to slow or block deployment of Skype or Vonage because they *do* in fact &quot;compete&quot; with services offered natively by ISPs.&lt;/p&gt;
+&lt;p&gt;Companies like Amazon, Google and Yahoo are owed their enormous growth and success because they have offered superior services that have competed fairly without ISPs meddling. These companies continue to innovate because they currently *do not* lock out (or slow down) competitors (both current and emerging) by contracting with ISPs for special status or enhanced benefits; Net Neutrality legislation seeks to codify this. Google was once a small business that succeeded through innovation; without Net Neutrality, other innovative small businesses will not have the chance to share in similar success.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/5#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/6">editorial</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/10">ISP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/5">Net Neutrality</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/9">opinion</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/11">P2P</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/7">telecommunications</category>
+ <pubDate>Tue, 08 Aug 2006 20:04:15 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">5 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

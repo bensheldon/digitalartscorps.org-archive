@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - analysis</title>
+ <link>http://digitalartscorps.org/taxonomy/term/816/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website Traffic Analysis</title>
+ <link>http://digitalartscorps.org/node/1004</link>
+ <description>&lt;h4&gt; Website Traffic Analysis &lt;/h4&gt;
+&lt;p&gt;DEFINITIONS&lt;br /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hits: A questionable measure of web site traffic. Count one hit each time a browser request is made from a web server. For example, a page containing 5 images counts 6 hits each time it is viewed (once for each image and once for the page itself). Page views are a much better way to measure traffic.
+&lt;/li&gt;
+&lt;li&gt;page views: the number of times distinct pages of a website are served
+&lt;/li&gt;
+&lt;li&gt;unique visits: individuals who have visited a Web site (or network) at least once in a fixed time frame, typically a 30 day period
+&lt;/li&gt;
+&lt;li&gt;referrers: links in other pages that link to the site
+&lt;/li&gt;
+&lt;li&gt;user pathway analysis: tracks how users travel through a site
+&lt;/li&gt;
+&lt;li&gt;most and least popular pages: self-explanatory - however, this can tell you which pages you are spending too much or too little time on - why would you waste a lot of time on a site that does not get a lot of views - you need to strategize navigation elements and &#039;action&#039; buttons to pages that get the traffic. &lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;screen resolution/browsers: this information will tell you what browsers are being used and what the screen resolution is of the computers viewing your site are - you&#039;ll need this info to compose your site for optimized cross-browser/screen resolution browsing by users&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things To Look For&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;    IT&#039;S ABOUT TREND NOT NUMBERS (of hits, page views, etc.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consistency:
+&lt;ul&gt;
+&lt;li&gt;Is there consistency between pages and navigational elements?
+&lt;/li&gt;
+&lt;li&gt;people may not always enter the website through the home page
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Interest:
+&lt;ul&gt;
+&lt;li&gt;can you keep your users on a page for at least 1 minute?
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Traffic patterns:
+&lt;ul&gt;
+&lt;li&gt;are these correlated with eCampaigns/eNewsletters?
+&lt;/li&gt;
+&lt;li&gt;time of day: are users coming during the day (usually work related) or at night (usually leisure related)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+Privacy
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;riseup.net created a patch to ensure privacy on log files for your website (files which store user access info)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://dev.riseup.net/privacy/&quot; class=&quot;external autonumber&quot; title=&quot;http://dev.riseup.net/privacy/&quot; rel=&quot;nofollow&quot;&gt;[2]&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; the Electronic Frontier Foundation has some articles too
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.eff.org/osp/&quot; class=&quot;external autonumber&quot; title=&quot;http://www.eff.org/osp/&quot; rel=&quot;nofollow&quot;&gt;[3]&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;    Tools:&lt;br /&gt;
+    *&lt;a href=&quot;http://www.sitemeter.com&quot; class=&quot;external autonumber&quot; title=&quot;http://www.sitemeter.com&quot; rel=&quot;nofollow&quot;&gt;[4]&lt;/a&gt;&lt;br /&gt;
+    *&lt;a href=&quot;http://www.crazyegg.com&quot; class=&quot;external autonumber&quot; title=&quot;http://www.crazyegg.com&quot; rel=&quot;nofollow&quot;&gt;[5]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;    **tracks where on the page people clicked -VERY COOL!&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/816">analysis</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/818">website analysis</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/817">website planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/814">website traffic</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/815">website traffic analysis</category>
+ <pubDate>Tue, 24 Jul 2007 00:36:22 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1004 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

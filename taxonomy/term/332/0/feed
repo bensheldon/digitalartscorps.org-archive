@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - software design</title>
+ <link>http://digitalartscorps.org/taxonomy/term/332/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>FLOSS Usability Sprint</title>
+ <link>http://digitalartscorps.org/node/268</link>
+ <description>&lt;p&gt;Last weekend Aspiration co-hosted a Usuability Sprint at Google in Silicon Valley.  The purpose of this sprint was to bring together designers of Free/Libre/Open Source Software (FLOSS) software with &amp;quot;usability experts&amp;quot;, with the hope that some good design work could be done to make the products more user-friendly.   Google provided most of the usability experts, and the open source projects represented were &lt;a href=&quot;http://drupal.org/&quot;&gt;Drupal&lt;/a&gt;, Sustainable Civil Society, &lt;a href=&quot;http://www.socialtext.com/&quot;&gt;SocialText&lt;/a&gt;, &lt;a href=&quot;http://hyperscope.org/&quot;&gt;HyperScope&lt;/a&gt;, and of course, &lt;a href=&quot;http://www.socialsourcecommons.org/&quot;&gt;Social Source Commons&lt;/a&gt; (represented by Gunner and me).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;First off, I need to say that Google is awesome.  They provided the meeting space and food for the weekend completely free of charge to anyone.  We had constant access to snacks and drinks, and even got a &amp;quot;shwag bag&amp;quot; of free stuff.  Aside from that, Google seems to really go out of their way to make their employees happy, from the free snacks and drinks to the kitchens on every floor, to the free laundry service there.  Needless to say, I was very impressed.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We also got a lot of work done for Social Source Commons.  We are in the process of adding &amp;quot;COmmunity Toolboxes&amp;quot; as a feature, and we spent the weekend designing the relevent pages for this new feature in order to ensure that we have all the functionality covered.  We did a lot of good work, and developed some nice wireframes that we sent to our developers to integrated into the website.  Hopefully we should have those up and running soon, because the value added by having &amp;quot;Community Toolboxes&amp;quot; will really help SSC to provide value to nonprofits and those providing them with technical assistance.  I&amp;#39;ll blog more about Community Toolboxes later, when we incorporate them into the website. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/268#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/332">software design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/331">usability</category>
+ <pubDate>Fri, 03 Nov 2006 18:49:57 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">268 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - email</title>
+ <link>http://digitalartscorps.org/taxonomy/term/777/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Question: How does your org. send email newsletters?</title>
+ <link>http://digitalartscorps.org/node/960</link>
+ <description>&lt;p&gt;I&#039;m looking for a more professional way for my organization to send out emails. Currently when we send out mass emails, we send them from our individual addresses and put our members&#039; emails in the &#039;BCC&#039; (or even the &#039;To&#039;) field. Once I used an Outlook plugin called &quot;send personally,&quot; which sends individual emails to everyone in the &quot;To&quot; field. Ideally our organization emails would like to send emails our from something like &#039;announcements@our domain&#039;, we would have some way of managing where the replies go, and some way of managing two overlapping groups of contacts. So I&#039;m wondering: do your organizations use specific email newsletter tools? Are they web-based (like the ones in &lt;a href=&quot;http://www.idealware.org/articles/fgt_email_newsletter_tools.php&quot;&gt;Idealware&#039;s rundown&lt;/a&gt;) or locally installed software?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/960#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/777">email</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/210">question</category>
+ <pubDate>Fri, 06 Jul 2007 18:43:12 +0000</pubDate>
+ <dc:creator>Rebecca White</dc:creator>
+ <guid isPermaLink="false">960 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

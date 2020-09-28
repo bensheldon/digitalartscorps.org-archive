@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - VISTA PSO</title>
+ <link>http://digitalartscorps.org/taxonomy/term/65/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>PSO Post-Mortem</title>
+ <link>http://digitalartscorps.org/node/1300</link>
+ <description>&lt;p&gt;So, first of all, it was great hanging out with everyone at the PSO in Boston this year. We have a really great crew this year, which makes it a fun and challenging time to become a VISTA Leader, and I&#039;m really looking forward to the next 12 months.&lt;/p&gt;
+&lt;p&gt;Since the PSO, I&#039;ve been mainly going over the PSO feedback, getting caught up on my projects at Acorn Active Media, and helping to get Stephen and Nicole settled in their roles as VISTAs at the Urbana-Champaign Independent Media Center, which is about 4 blocks from my apartment. Acorn is closely allied with the IMC, and I&#039;ve always spent a great deal of time there helping out. It&#039;s really great to see the IMC having regular staff meetings, and mobilizing around getting them active on their projects.&lt;/p&gt;
+&lt;p&gt;I have to go up to Chicago this weekend, so right now I&#039;m just trying to make sure that the two of them have everything they need, and to complete some of my projects before I have to leave. Currently I&#039;m working on creating new drafts of the research whitepaper on open-source wireless mesh networking that I completed in May, and of the ARIN IPv6 policy proposal for community networks. The former needs to incorporate some edits by another member of Acorn, and I&#039;m using the opportunity to shore up some of the citations and to add screenshots from the newest build of the mesh software we&#039;re developing, but in order to do that I need to build custom images and determine how to flash them onto the hardware I have (Fonera+&#039;s). The latter was introduced at the ARIN meeting in May, where it received a lot of interest but was sent back for revisions. There&#039;s a advisory council meeting on a Thursday in the middle of each month, so I was trying to get the edit in for this Thursday, but I&#039;m not sure if I&#039;ll make it with all of my other projects. It has to be done by September at the latest.&lt;/p&gt;
+&lt;p&gt;I&#039;m also working on a website design project for Tokyoprogressive.org and ongoing server maintenance on the Chambana.net colocation project. Chambana.net has a new mailserver that I want to get online, and set up filesharing, distributed logons and a local Ubuntu mirror for the production lab that my VISTAs are working in. Hopefully I&#039;ll be able to get at least some of these done before Friday, but if not I should get them done in short order next week.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1300#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Thu, 17 Jul 2008 03:42:22 +0000</pubDate>
+ <dc:creator>Josh King</dc:creator>
+ <guid isPermaLink="false">1300 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Orientation</title>
+ <link>http://digitalartscorps.org/node/927</link>
+ <description>&lt;p&gt;Arrive in Boston, June 19th, first trip to the city.  Looking forward to working with CTC and Head on Fire, San Diego.  Orientation is great so far, alot of good useful information.  Just miss my baby.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/927#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/54">san diego</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/tn.jpg" length="1968" type="image/pjpeg" />
+ <pubDate>Wed, 20 Jun 2007 20:32:32 +0000</pubDate>
+ <dc:creator>Dianne Curtain</dc:creator>
+ <guid isPermaLink="false">927 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>First Post</title>
+ <link>http://digitalartscorps.org/node/921</link>
+ <description>&lt;p&gt;Hwllo everyone, Im here.... what did I get myself into????&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/921#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Wed, 20 Jun 2007 20:27:53 +0000</pubDate>
+ <dc:creator>Charles Farmer</dc:creator>
+ <guid isPermaLink="false">921 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Nice People and Info</title>
+ <link>http://digitalartscorps.org/node/919</link>
+ <description>&lt;p&gt;It was a long day of travel to get here yesterday for all of us. Today was not as bad as we had been warned, although there was a lot of paperwork and random information disseminated. I seem to have it a bit easier because I am essentially going back home to start work; therefore I am not as concerned with the living logistics of another city. The leaders have been personalable and accessible. The accomodations are less than optimal. We&#039;re in the dorm rooms of UMASS at Lowell instead of a hotel. I can roll with the punches about most accomidations, but I have to truthfully say I am very disappointed with the decision to house us here. I personally have very bad allergies and did not stay in the dorms in college and a week&#039;s worth of not breathing for me is not a great experience.&lt;/p&gt;
+&lt;p&gt;I have met some people, particularly those in my home state, that seem to be good resources for some of the tech issues I am pretty sure I&#039;m going to have questions about. I think the networking we are getting a chance to do with other VISTAS is one of the best things I&#039;ve gotten from this exercise. We are all gonna be in the same boat very soon and it has been very helpful and nice to meet these other people face to face.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/919#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Wed, 20 Jun 2007 20:26:59 +0000</pubDate>
+ <dc:creator>Kelli Williams</dc:creator>
+ <guid isPermaLink="false">919 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Reporting is Like Building With LEGOs</title>
+ <link>http://digitalartscorps.org/node/914</link>
+ <description>&lt;p&gt;This is a post from a class demonstration where I showed some of our new VISTAs how to navigate the field reporting interface.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accomplishments&lt;/strong&gt;: showing new VISTAs how to navigate the site&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenges&lt;/strong&gt;: it&#039;s really, really hot (but we had some nice air conditioning)&lt;/p&gt;
+&lt;p&gt;Here&#039;s a link to my &lt;a href=&quot;http://www.namac.org&quot; title=&quot;NAMAC&quot;&gt;project&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/914#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/722">example</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/143">training</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Wed, 20 Jun 2007 20:24:35 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">914 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>BETA REPORT</title>
+ <link>http://digitalartscorps.org/node/911</link>
+ <description>&lt;p&gt;BETA REPORT&lt;br /&gt;
+                                        MOVING RIGHT ALONG&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/911#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Wed, 20 Jun 2007 20:24:29 +0000</pubDate>
+ <dc:creator>Tony Brown</dc:creator>
+ <guid isPermaLink="false">911 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Felicia Sullivan&#039;s &quot;The Three C&#039;s of NPTech: Contacts, Communication, Cash&quot;</title>
+ <link>http://digitalartscorps.org/node/419</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.feliciasullivan.net/index.php&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/187/366446916_a614d5cdcd_m.jpg&quot; alt=&quot;Felicia Sullivan at PSO&quot; title=&quot;Felicia Sullivan at PSO&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;Felicia Sullivan&lt;/a&gt; presented at last week&amp;#39;s Pre-Service Orientation (PSO) about &amp;quot;&lt;a href=&quot;http://organizerscollaborative.org/node/560&quot;&gt;The Three C&amp;#39;s of NPTech:  Contacts, Communication, Cash&lt;/a&gt;.&amp;quot;  The full powerpoint presentation (with loads of helpful links) is available at &lt;a href=&quot;http://organizerscollaborative.org/presentations&quot; target=&quot;_blank&quot;&gt;http://organizerscollaborative.org/presentations&lt;/a&gt;.  Felicia is the new Executive Director of the Organizer&amp;#39;s Collaborative, as well as an ongoing advocate for community media and technology projects in Boston and in Lowell, MA.  The CTC VISTA Project is partnering with the OC to hold then next PSO in Lowell in June during the Grassroots Radio / Grassroots Tech June 21-24 in Lowell (&lt;a href=&quot;http://www.grassrootsradioxii.org/&quot; target=&quot;_blank&quot;&gt;http://www.grassrootsradioxii.org &lt;/a&gt; and &lt;a href=&quot;http://www.organizerscollaborative.org/conference&quot; target=&quot;_blank&quot;&gt;http://www.organizerscollaborative.org/conference&lt;/a&gt;).  Stay tuned for more info! &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/419#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/489">crm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/26">fundraising</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/491">nptech</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/490">ogranizers collaborative</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/109">volunteer management</category>
+ <pubDate>Wed, 24 Jan 2007 13:57:03 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">419 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>My First Blog</title>
+ <link>http://digitalartscorps.org/node/390</link>
+ <description>&lt;p&gt;Greetings,&lt;/p&gt;
+&lt;p&gt;My name is Kevin Bulger and I am a new CTC VISTA member. I am from Michigan, but I will be volunteering in Miami for the next year.  &lt;/p&gt;
+&lt;p&gt;For right now, I am sitting in the computer lab here typing in my first blog entry. Boston is awesome and I have been having a good time at the PSO. I am looking forward to serving with the Collins Center for the next year.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/390#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Thu, 18 Jan 2007 21:26:52 +0000</pubDate>
+ <dc:creator>Kevin Bulger</dc:creator>
+ <guid isPermaLink="false">390 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>my first blog...a little late</title>
+ <link>http://digitalartscorps.org/node/85</link>
+ <description>&lt;p&gt;Hey all,It was really great to meet so many interesting, unique, and talented people these past few days at our PSO, and I&amp;#39;m anxious to continue working with all of you throughout this coming year.  Good luck with your first weeks and safe travels!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/85#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/66">first blogs</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Sat, 09 Sep 2006 02:25:19 +0000</pubDate>
+ <dc:creator>Erin Taylor</dc:creator>
+ <guid isPermaLink="false">85 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

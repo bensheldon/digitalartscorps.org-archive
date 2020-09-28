@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - question</title>
+ <link>http://digitalartscorps.org/taxonomy/term/210/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Question: How does your org. send email newsletters?</title>
+ <link>http://digitalartscorps.org/node/960</link>
+ <description>&lt;p&gt;I&#039;m looking for a more professional way for my organization to send out emails. Currently when we send out mass emails, we send them from our individual addresses and put our members&#039; emails in the &#039;BCC&#039; (or even the &#039;To&#039;) field. Once I used an Outlook plugin called &quot;send personally,&quot; which sends individual emails to everyone in the &quot;To&quot; field. Ideally our organization emails would like to send emails our from something like &#039;announcements@our domain&#039;, we would have some way of managing where the replies go, and some way of managing two overlapping groups of contacts. So I&#039;m wondering: do your organizations use specific email newsletter tools? Are they web-based (like the ones in &lt;a href=&quot;http://www.idealware.org/articles/fgt_email_newsletter_tools.php&quot;&gt;Idealware&#039;s rundown&lt;/a&gt;) or locally installed software?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/960#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/777">email</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/210">question</category>
+ <pubDate>Fri, 06 Jul 2007 18:43:12 +0000</pubDate>
+ <dc:creator>Rebecca White</dc:creator>
+ <guid isPermaLink="false">960 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Background Checks</title>
+ <link>http://digitalartscorps.org/node/208</link>
+ <description>&lt;p&gt;Does anyoneknow how one goes about doing a background check?&lt;/p&gt;
+&lt;p&gt;We had a guy come in to volunteer a while ago, and he seemed okay. but until that point we hadn&amp;#39;t had anyone come with us that the MoLLIE supervisor didn&amp;#39;t know. Everyone had already worked with MoLLIE before. And for some reason, Jeanne and I thought the same thing at the same time after he left, &amp;#39;what do we really now about this guy?&amp;#39;&lt;/p&gt;
+&lt;p&gt;It was surprising to me that in 5 years, the idea of doing background checks on people had not occured to those running a program that works regularly with children. That&amp;#39;s like a no brainer, right? There&amp;#39;s laws about this sort of thing, right? Well, from now on we are going to do checks on employees and volunteers, we just have to figure out how. &lt;/p&gt;
+&lt;p&gt;Unfortunately, no one here knows anything about how to do background checks. I did some looking online a few weeks ago. You get dozens of sites claiming to do background checks. On several of them I checked myself. And though I didn&amp;#39;t give my social security number, the sites could have still done better. most of the info was wrong, stating that I had lived in several cities that I have not, etc.&lt;/p&gt;
+&lt;p&gt;Jeanne is gone for most of the week helping her father in Florida. She asked me to try to figure the background check issue while she was gone. I&amp;#39;m not sure where to look. the proliferation of such sites online make it hard to determine which, if any, are on the level. So if anyone has suggestions, I&amp;#39;d love to hear from you. &lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;Rich &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/208#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/209">background check</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/208">children</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/41">ctcvista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/210">question</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <pubDate>Tue, 17 Oct 2006 20:00:10 +0000</pubDate>
+ <dc:creator>Richard T. Anderson</dc:creator>
+ <guid isPermaLink="false">208 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

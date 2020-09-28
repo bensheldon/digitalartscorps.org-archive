@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - wiki</title>
+ <link>http://digitalartscorps.org/taxonomy/term/417/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Three: Community Outreach and Wiki Goes Live</title>
+ <link>http://digitalartscorps.org/node/1617</link>
+ <description>&lt;p&gt;Right now, my major projects include...&lt;br /&gt;
+1. Obtaining a contractor to build out several wifi networks in Koreatown.  Attached is the request for proposals (RFP) I put together.  We anticipate having 4-5 bidders, and we&#039;re doing a site walkthrough with the contractors on Wednesday.  The bids are due on...the 11th I think?  Then we get to read through and select the one that best meets our needs...exciting.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Building a small wifi network at one of our apartments.  I think this will technically be our last in-house deployment.  Just waiting on budget approval.  I&#039;ll update with more about BPL as I deploy (and inevitably encounter problems!) but for now you can see the proposal.  BPL + open mesh will provide more than adequate coverage of this small building, I think it&#039;s a good way to deploy in buildings with simple layouts and small floor plans like the one we&#039;re doing.  The goal is to get it deployed before Thanksgiving.  Eek.  Physically deploying is the easy part, it&#039;s just getting the money.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepping donated computers to be given to families, to be given out after we launch the new wifi network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since last time, I finished the main sections of the Wireless Wiki, an online manual and community space to help residents maintain/troubleshoot their free wifi networks on their own:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot; title=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot;&gt;http://wiki.littletokyounplugged.org/LTSCWireless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alsot held the first resident wifi meeting at one of the housing projects, Angelina Apartments.  The wifi there is Meraki (a more expensive type of wireless mesh) and was set up about a year ago.  The peeps who showed up seemed really interested in making the wifi better (it has been arguably spotty and not as good as it could be).  So, will be working to install more gateways and access points, try to get coverage to all parts of the building.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1617#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/PHD_wifi_RFP.doc" length="768512" type="application/msword" />
+ <pubDate>Mon, 26 Oct 2009 16:48:11 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1617 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Two: Wikwikwik</title>
+ <link>http://digitalartscorps.org/node/1595</link>
+ <description>&lt;p&gt;Since my last report,  a bunch of projects have progressed and a bunch more have begun.  The wiki has been moving along.  Almost all of the content is up, it&#039;s been reskinned, and I&#039;ve added a translator and some access restriction extensions so we can store some somewhat &quot;classified&quot; information to it.  Mediawiki has been a breeze to use after overcoming some permissions issues during the install; for a website that is primarily for disseminating information, I like it a lot more than Joomla/Drupal/modular type things.  It isn&#039;t flashy and requires some setup, but it will be great to let residents create accounts and add info to the database.&lt;/p&gt;
+&lt;p&gt;Onto the new things.  Drew up a proposal for deployment of a very small wifi deployment at an affordable housing project, and will be deploying that before the years&#039; end.  Wrote a request for proposals for wifi at a set of newly rehabbed housing developments for which we recently received a grant.  Found a really good resource for writing RFPs.  It&#039;ll be nice to both deploy a network firsthand and oversee deployment of a network by a contractor.&lt;/p&gt;
+&lt;p&gt;Am kind of excited about the wifi network I&#039;ll be installing.  It relies on Broadband over Powerlines (BPL), which sends wireless signals through existing powerlines and has been proposed as a way to bring internet connectivity to areas where it otherwise would be unfeasible or expensive to build out completely new infrastructure (rural areas, underdeveloped countries).  While BPL is yet to be totally proven/adopted for long-distance internet service (and interferes with HAM radios uh oh), it&#039;s widely available for household networks.  The plan is to just have one internet connection and then use BPL adapters to bounce the connection up to each floor of this apartment building, then build out an open mesh network around these BPL gateways.  The cost will be super low, less than a grand to bring free internet to the building, and the speed is gonna be acceptable, probably around 7Mbps down.  I&#039;m concerned about hardware security, though.  There is lots of vandalism and theft in the building... still looking into addressing that.&lt;/p&gt;
+&lt;p&gt;Cheers, have a happy Autumn.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1595#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/ModelRFPFormat.pdf" length="40298" type="application/pdf" />
+ <pubDate>Tue, 06 Oct 2009 16:54:37 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1595 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Beat</title>
+ <link>http://digitalartscorps.org/node/1083</link>
+ <description>&lt;p&gt;Well it&#039;s been awhile since I&#039;ve posted, and I know I could just copy and paste from my CCTV blog, which I&#039;ll do eventually (once I get back to writing longer blog posts instead of just the snippets I&#039;ve had time to do lately). For now I must say: I am beat. I&#039;ve never worked so many days in a row in my life, and it&#039;s all because I just held the orientation (Saturday, 9/8) and first training session (Sunday, 9/9) for citizen journalists for our new program, NeighborMedia. It went well, but I&#039;m at the point of expiration.   I will probably advantage of the Jewish New Year tomorrow to rest and restore.&lt;/p&gt;
+&lt;p&gt;We&#039;re starting to launch CEA programs too (the youth newscast component of my VISTAness), which is something I&#039;ve been putting on the back burner that I really need to start focusing on. Thankfully there are some other staff members working on those projects with me, so I&#039;m not alone in that endeavor.&lt;/p&gt;
+&lt;p&gt;Anyway, I&#039;m thinking about posting some of my orientation materials on the wiki but I don&#039;t know how useful it would be to anyone else. I&#039;d like to attach the file here but that&#039;s not working either (help?), so you can just check it out in my blog at &lt;a href=&quot;http://www.cctvcambridge.org/node/1814&quot; title=&quot;http://www.cctvcambridge.org/node/1814&quot;&gt;http://www.cctvcambridge.org/node/1814&lt;/a&gt;. Does anyone know if there are other citizen journalism projects going on in the ctc vista world?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1083#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/94">blogging</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/296">citizen journalism</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/846">file attachments</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/845">neighbormedia</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <pubDate>Wed, 12 Sep 2007 20:33:07 +0000</pubDate>
+ <dc:creator>Julie Adler</dc:creator>
+ <guid isPermaLink="false">1083 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Live from Project HQ</title>
+ <link>http://digitalartscorps.org/node/940</link>
+ <description>&lt;p&gt;The PSO is finished. Deep Breath. Exhale. &lt;/p&gt;
+&lt;p&gt;On to the exciting portion of the VISTA year! Many from June&#039;s PSO started at their organizations Monday and some will begin shortly. Already heard good things coming from Rayna at YES in MA, Kelli at The United Way in NC, and Rian at the Davis Community Network in CA. Sounds like people have really hit the ground running.&lt;/p&gt;
+&lt;p&gt;Here at HQ, we&#039;re catching up on filing and sorting all the PSO paperwork, updating some Website odds and ends, following up with everyone, and still recovering from the PSO. &lt;/p&gt;
+&lt;p&gt;Things to look for: The CTC*VISTA Wiki has a front page that now links to the new Working Groups categories. Check it out at: &lt;a href=&quot;http://ctcvista.org/wiki&quot; title=&quot;http://ctcvista.org/wiki&quot;&gt;http://ctcvista.org/wiki&lt;/a&gt; . I&#039;m heading up the Volunteer Management working group and also the Business/Marketing working group. I&#039;ve been adding/re-organizing the Volunteer Management section the last 2 days. Check it here: &lt;a href=&quot;http://ctcvista.org/node/609&quot; title=&quot;http://ctcvista.org/node/609&quot;&gt;http://ctcvista.org/node/609&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ll be checking in mid-week next week with all the East Coast VISTA&#039;s to see how things are going after the first week and a half. Talk to you folks soon!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/940#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/740">working groups</category>
+ <pubDate>Wed, 27 Jun 2007 16:00:43 +0000</pubDate>
+ <dc:creator>Kevin Palmer</dc:creator>
+ <guid isPermaLink="false">940 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Digital Media Group Updates March</title>
+ <link>http://digitalartscorps.org/node/627</link>
+ <description>&lt;p&gt;The Digital Media group had a great call last Friday around finding, developing and sharing curricula for digital media programs.  We&amp;#39;re aiming to share as much as possible on the CTC VISTA wiki page &amp;lt;&lt;a href=&quot;/node/558&quot; target=&quot;_blank&quot;&gt;http://www.ctcvista.org/node/558&lt;/a&gt;&amp;gt; and shoot more proprietary stuff to each other by email.  Kevin and AJ also added a bunch of new pages so check out the Digital Media section for more content!&lt;/p&gt;
+&lt;p&gt; &lt;span&gt;The next conference call is scheduled for Friday April 13th at 2pm EST.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; Here&amp;#39;s the individual updates...&lt;/p&gt;
+&lt;p&gt; •    AJ (HOME Inc) -&lt;span&gt;big screening/presentation&lt;/span&gt; in front of whole school of youth work, congrats!; &lt;br /&gt; •    Colleen - &lt;span&gt;moved to CTC VISTA Project HQ&lt;/span&gt; to work on outreach, communications, and the CTC VISTA wiki&lt;br /&gt; •    Dan (Pui Tak Center) – created &lt;span&gt;templates&lt;/span&gt; for org newsletter, annual report, and website.&lt;br /&gt; •    Derek (Phillips Community Television) – &lt;span&gt;workshop on graphic design and logo development&lt;/span&gt; for high school youth (9 weeks long, 1 day week); created new website for PCTV in Drupal (interested in Drupal working group); working with Youth Media Network trying to step up more community outreach, so working on marketing and coordination for the fall screening; might work on manual for youth program on a starter manual for new youth&lt;br /&gt; •    Elisha (TINCAN) - first tasks included updating documentation from former VISTA; working on a new grant to extend the current program to &lt;span&gt;work with small town museums to digitize their collections&lt;/span&gt;, get it online, and create videos about themselves; working with community outreach to get more contributors for the History website; outreach to History teachers in the area&lt;br /&gt; •    Gariet (Portland Community Television/OLLIE) - still implementing OLLIE program with schools and working on Youth Video Exchange Network video sharing (with some technical difficulties with format)&lt;br /&gt; •    Jessica (CDS) - ongoing mentoring of a youth project; l&lt;span&gt;earning to communicate with community partners&lt;/span&gt; (listening skills);&lt;br /&gt; •    Julie (BNN) - teaching herself Audience software (for &lt;span&gt;community billboards&lt;/span&gt;) and working on Roxbury studio programs to train the youth to use the software.&lt;br /&gt; •    Kevin (HOME Inc.) - applying for C4All grant to hire a consultant to upgrade school&amp;#39;s technology centers for accessibility and do data research; &lt;span&gt;created organizational handbook&lt;/span&gt; for HOME Inc (lots of project management and strategic planning experience)&lt;br /&gt; •    Lashanda (Benton Harbor African Arts and Culture Council) - working with Helen Mitchell, the Executive Director, whose working with one of the local community newspapers, to add &lt;span&gt;newspaper and journalism to the after school program&lt;/span&gt;&lt;br /&gt; •    Leena (YMCA of Greater Boston) - getting oriented into afterschool program and working with current staff to &lt;span&gt;integrate more technology into current programs&lt;/span&gt;; implementing Kinetic City curriculum (science and engineering projects); looking for more formal curriculum structure formats&lt;br /&gt; •    Mike (The Media Aid Center) - working on Media Aid Center &lt;span&gt;community kiosks&lt;/span&gt; in the community and putting microphones for audio recording.&lt;br /&gt; •    Naomi (OTXWest) - helping out with updating the website; added stuff to curriculum for classes; getting &lt;span&gt;more digital media elements into existing programs;&lt;/span&gt; Project Soar summer program with schools doing digital storytelling&lt;br /&gt; •    Ramon (The Media Aid Center) - making phone calls to organizations for &lt;span&gt;outreach, field trips, potential volunteers, and new members&lt;/span&gt;; working on camera angles curriculum for summer program and how to set up a green screen&lt;br /&gt; •    Ray (Computers4Kids) - starting to think about life after vista (degree in engineering); set up new machines from Dell; attendance for workshops is getting better; plans to spend last couple months to sit down to crank out &lt;span&gt;instructor manuals&lt;/span&gt;;&lt;br /&gt; •    Renae (Pink House) - working on a &lt;span&gt;online radio show with youth&lt;/span&gt;, with volunteers/ local celebrities from the neighborhood (through BlogTalkRadio.com); will send me an update.&lt;br /&gt; •    Richard (Grand Rapids Community Media Center) - working on a United Way grant for the MOLLIE program; the GRMC as a whole is fundraising to support the whole center and also to recruit youth for summer program to do &lt;span&gt;video about community&lt;/span&gt;; looking for audio curriculum for a class&lt;br /&gt; •    Shaneka (Westside Youth Technical Entrepreneur Center) - was supposed to the ICCN Manager&amp;#39;s training this week but flights got canceled; still doing the video production/music; connecting with middle school; I&lt;span&gt;llinois Inst of Tech Women&amp;#39;s month program for girls with HD cameras &lt;/span&gt;to do interviews with different generations of women and the video that was produced was played at a cultural event;&lt;br /&gt; •    Tony (Boys &amp;amp; Girls Clubs of the East Valley, AZ) - going to a WTEA Wisconsin Tech Ed March 26th; a bunch of tech events like an awards banquet, tech field trip to CA (need to raise money); still writing &lt;span&gt;grants for new furniture from IKEA&lt;/span&gt; donation request from local store; &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/627#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/428">digital media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/455">digital media group</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <pubDate>Wed, 14 Mar 2007 20:23:51 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">627 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>To Wiki or Not to Wiki, that&#039;s the question</title>
+ <link>http://digitalartscorps.org/node/341</link>
+ <description>&lt;p&gt;Part of my work this year for the CTC VISTA Project is fostering some resource development among the VISTAs.  This is new concept for a project that has mostly focused on just training, supporting, and placing capacity building VISTAs in community and technology centers.  As Paul Hansen mentioned in his Project update &lt;a href=&quot;/digest/fall06/projecthq_update&quot;&gt;article in the last Digest&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&amp;quot;It&amp;#39;s because a more focused structure makes it much more feasible for us to provide substantive (priority area specific) support and training to the our VISTAs. And, in a tighter network of VISTAs, members are more likely to support each other in more general ways, as they face the challenges of VISTA service.&amp;quot; &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As a sometimes idealistic VISTA Leader, I see creating resources as just another way to support CTC VISTAs - to not only give the current VISTAs a chance to summarize and exhibit an aspect of their work but also capture that work for the next round.    &lt;/p&gt;
+&lt;p&gt;Fellow VISTA Leader Ben Sheldon and I have been hashing out both the ideal ways for the VISTAs to collaborate, tempered by the practicality of VISTA life, such as limited time, varying technology skills, and motivation/value of the CTC VISTA network.  It&amp;#39;s a big challenge to build an active community and build the right tools to support it at the same time.  So, we started informally polling VISTAs old and new, by phone, email, and at the MA area meeting.  I appreciated all the responses, especially because they were honest and surprisingly in-depth.&lt;/p&gt;
+&lt;p&gt;The current blog system was created under the idea that VISTAs would have one point of entry to contribute content to the Project.  The problem with the blog is that it is traditionally a journal of a VISTAs tasks, impressions, and musings over time.  When we encourage people to blog once a month, the entries are often entered out of guilt, contain several different ideas or discussion points, and VISTAs don&amp;#39;t got back to entries to update them if issues evolve.  Even with the addition of tagging, you still need to read through a month&amp;#39;s work of reflection to find one idea.  Plus, blogs are still primarily a one-way / one-to-many communication tool or as Ross put it &amp;quot;communicating by publishing.&amp;quot;  Unless people comment and the author responds, there&amp;#39;s not any two-way collaboration on the ideas.&lt;/p&gt;
+&lt;p&gt;And these IDEAS is what I&amp;#39;m trying to harvest, chunk, and sort. &lt;/p&gt;
+&lt;p&gt;So, our newest idea is to create a &lt;a href=&quot;http://en.wikipedia.org/wiki/Wiki&quot; target=&quot;_blank&quot; title=&quot;Definition of wiki on Wikipedia&quot;&gt;&lt;em&gt;&lt;strong&gt;wiki&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.  I am a self confessed wiki skeptic.  Yes, I use &lt;a href=&quot;http://en.wikipedia.org/wiki/Wiki&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;, and yes, I trust the content, but the wiki collaboration process seems very techie and wonky from the outside.  Former VISTA Leader, Saul Baizman, created and maintained a wiki for the Project but he was primarily the only person who added anything to it, even among Project HQ staff.    &lt;/p&gt;
+&lt;p&gt;BUT (there&amp;#39;s always a but..), why do we think a wiki is possibly a good tool for our little resource gathering project?  As usual, Tech Soup has a clairvoyant sense of what I&amp;#39;m wondering about as a community technologist: check out this article, &lt;a href=&quot;http://www.techsoup.org/learningcenter/webbuilding/page6031.cfm&quot; target=&quot;_blank&quot;&gt;Nonprofits Share Their Wiki Success Stories&lt;/a&gt;, by Brian Satterfield.    First bit that struck me was the reference to a &amp;quot;wikimaster&amp;quot; - a sort of editor to oversee/maintain the wiki with a &amp;quot;big picture view.&amp;quot; We&amp;#39;ve been talking at Project HQ that some central editor is going to be essential to keep the resource development hopping.  &lt;/p&gt;
+&lt;p&gt;Second part that caught my eye was the case study of how &lt;a href=&quot;http://alzheimerontario.org/&quot;&gt;Alzheimer Society of Ontario&lt;/a&gt;  rolled out the use of their wiki.  They introduced the wiki technology in person (&amp;quot;...the organization initially got the wiki off to a good start by getting major stakeholders excited about the technology&amp;quot;), then did in-person trainings, online documentation, and Quicktime movie tutorials.&lt;/p&gt;
+&lt;p&gt;Our idea is to create a mini-working model of how the wiki could work and do a focus group at the PSO in January with new and current VISTA to gauge their reactions to the tool.  I&amp;#39;m hoping to work with Aliya and the other TANP VISTAs to do a survey in the coming months to get opinions as well.&lt;/p&gt;
+&lt;p&gt;Ben can speak more to the wiki technology options (Drupal module vs. &lt;a href=&quot;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.mediawiki.org%2F&amp;amp;ei=Zz2ARcqtOqPcwQL_5fDuAQ&amp;amp;usg=__JVnnKRhMAo7Q-lo59q79dKSGOc8=&amp;amp;sig2=xtIWztHZWzRsUUp-Tbkmgg&quot; target=&quot;_blank&quot; title=&quot;Media Wiki&quot;&gt;Media Wiki&lt;/a&gt; vs. hopping into existing wiki site somewhere), but I&amp;#39;m curious as to how the CTC VISTA community at large feels about resource development and wikis as a tool.  &lt;/p&gt;
+&lt;p&gt;ANY INPUT IS WELCOME...in fact, more input is exactly what we&amp;#39;re aiming for!  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/341#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/41">ctcvista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/419">online collaboration</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/418">resource development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/329">resource portal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <pubDate>Fri, 15 Dec 2006 12:00:32 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">341 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

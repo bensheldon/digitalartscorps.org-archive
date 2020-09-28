@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - sprinting</title>
+ <link>http://digitalartscorps.org/taxonomy/term/559/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Open Source Development and &quot;Barrier to Entry&quot;</title>
+ <link>http://digitalartscorps.org/node/568</link>
+ <description>&lt;p&gt;Last week I had the opportunity to participate in my first &amp;quot;sprint&amp;quot;. In a sprint, a bunch of people get together and work on an open source project for a few days. In my two days (and one night :p) of sprinting, I learned a lot, met some awesome people, and contributed to the start of a project. I highly recommend sprinting to anyone who gets a chance to do it.&lt;/p&gt;
+&lt;p&gt;However, one thing I noticed when sprinting was the difficulty of getting to a point where you can make progress on a project. For example, before you could work on my project, you had to download and install particular versions of six different tools. And then you had configure your system properly (set environment variables and run scripts and such). &lt;/p&gt;
+&lt;p&gt;If there were nice installers that worked for all platforms for the tools, maybe it wouldn&amp;#39;t have been so bad. But there are often not installers, and all the tasks multiply -- you have to install other things to allow you to install the things you actually need. Here is the &lt;a href=&quot;http://initd.org/pub/software/pysqlite/doc/install-source-win32.html&quot;&gt;Windows install page for one of the tools&lt;/a&gt; my project required, for example.&lt;/p&gt;
+&lt;p&gt;(There are perhaps the most issues in getting set up on Windows, maybe because most open source developers are not using Windows so they sometimes don&amp;#39;t bother to document for it and they sometimes don&amp;#39;t have an easy way to test things on Windows. But I think this is a serious issue. &lt;a href=&quot;http://marketshare.hitslink.com/report.aspx?qprid=2&quot;&gt;Most people are using Windows.&lt;/a&gt; If we want anyone to be able to join open source development efforts, we have to make it possible for people to start contributing on the platform they already have.) &lt;/p&gt;
+&lt;p&gt;I was able to get the stuff I needed running after a few hours because there were people around who I could ask for help when I got stuck. And luckily my pretty-old (from before college) laptop did not collapse from the weight of the tools. But what about the person alone in their apartment who just wants to contribute? And what if they only have a dialup connection?&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s not like people who have trouble getting the tools setup don&amp;#39;t have anything to contribute. But we aren&amp;#39;t letting them get to a point where they can. I mentioned the issues in getting started to some other sprinters and they said &amp;quot;Yes, the barrier to entry for open source development is high.&amp;quot; But no one mentioned anything that is being done about it. &lt;/p&gt;
+&lt;p&gt;What can we do to make it easier to contribute? Produce better documentation? (Lack of documentation is already a big problem in the open source world.) Set up more ways for programmers to connect to one another in person? Make better operating systems so tool setup goes more smoothly?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/568#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/560">barrier to entry</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/561">development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/559">sprinting</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/558">tools</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/432">windows</category>
+ <pubDate>Mon, 05 Mar 2007 17:55:08 +0000</pubDate>
+ <dc:creator>cheryl jerozal</dc:creator>
+ <guid isPermaLink="false">568 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

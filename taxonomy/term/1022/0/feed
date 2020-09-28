@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - email blasts</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1022/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Gobble Gobble</title>
+ <link>http://digitalartscorps.org/node/1393</link>
+ <description>&lt;p&gt;Howdy dowdy!&lt;br /&gt;
+Currently I am the last stages of helping out the Communications Team test email blast services. I know Vertical Response was highly recommended, but correct me if I&#039;m wrong, I found that if an org has multiple campaigns (i.e. newsletters) and one person subscribes for all of their campaigns, and then decides to unsubscribe from one campaign, then that person is unsubscribed from all campaigns. So I have decided to check VR off of my list and check out iContact, mailChimp, and constant contact. At this point, the skill that I need to learn is HTML. That way our org doesn&#039;t have to spend on a newsletter template consultant. Guess how much that costs? ~$350 bolivares (Venezuelan currency), jk...dollars.&lt;br /&gt;
+Oh one more thing, Drupal and Joomla! may be on the backseat for a while, since our org is leaning towards redefining it&#039;s purpose etc. Which means that I will still be posting my articles relating to &quot;community technology&quot; but not so much trying to learn how to manage a CMS. Nevertheless, I have set a secret personal goal: to learn how to upgrade Drupal from v. 0.00001 to version 6 point something.&lt;br /&gt;
+Last time I reported, Dia de Los Muertos at Olvera Street happened and the CTCNet Conference near Inglewood happened. One challenge that I overcame was not having foodstamps for about 2 weeks. This meant that there was no more peanuts and pistachio snacking at the office, sad face. But now I am changed man!&lt;br /&gt;
+I am looking forward to eating sweet potato (aka Camote) pie (maybe one purchased from Albertsons, I will try to get one from a Farmers Market) and watching/playing football out in Mendota, Califas. Happy Turkey Day!  &lt;/p&gt;
+&lt;p&gt;*forgive me for the dearth of postings (thanks GRE!).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1393#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1022">email blasts</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/125">foodstamps</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1024">newsletter templates</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1023">thanksgiving</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/983">Vertical Response</category>
+ <pubDate>Tue, 25 Nov 2008 19:43:02 +0000</pubDate>
+ <dc:creator>Edward Gonzales</dc:creator>
+ <guid isPermaLink="false">1393 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

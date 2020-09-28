@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - high</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1032/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>TV shows and Websites</title>
+ <link>http://digitalartscorps.org/node/1419</link>
+ <description>&lt;p&gt;I&#039;m more or less continuing work on some of the same projects described in my last report.  At Brighton High School we are finishing up post-production of the first episode of BHTV, which the TV production class has worked all semester to produce.  &lt;/p&gt;
+&lt;p&gt;On the web I&#039;m working on further developing our Drupal website that&#039;s being used at Somerville high school.  Some of the things I&#039;m adding are a grading feature which which allows the teacher to calculate grades and share them privately with each student, as well as an &quot;assignment board&quot; feature which will sort all projects with their associated content, due dates, groups and so on.  I&#039;m also creating a resource page on the organization website where al of our curriculum materials can be stored and downloaded.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1419#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1031">brighton</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1032">high</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/223">literacy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/76">school</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1030">TV</category>
+ <pubDate>Mon, 29 Dec 2008 17:18:40 +0000</pubDate>
+ <dc:creator>Stephen Loverme</dc:creator>
+ <guid isPermaLink="false">1419 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

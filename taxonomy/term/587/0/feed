@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Meraki</title>
+ <link>http://digitalartscorps.org/taxonomy/term/587/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Meraki: The Future of Community Wireless or It&#039;s Death Knell</title>
+ <link>http://digitalartscorps.org/node/649</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://meraki.net/&quot;&gt;Meraki&lt;/a&gt;, a spin-off of &lt;a href=&quot;http://pdos.csail.mit.edu/roofnet/doku.php&quot;&gt;MIT Roofnet&lt;/a&gt;, has been the darling of the community and municipal networking sector for the past year. The fervor hit hyperspeed last month when Meraki received &lt;a href=&quot;http://meraki.net/news/2007/02/05/meraki-networks-closes-sequoia-capital-led-5-million-series-a-funding/&quot;&gt;$5 million in venture capital&lt;/a&gt; from Sequoia Capital, largely backed by Google. This capital injection has vaulted Meraki into the driver&amp;#39;s seat for creating &amp;quot;low-cost&amp;quot; wireless mesh networks.&lt;/p&gt;
+&lt;p&gt;For years, community networking has been stunted by the high cost of single board computers, the vital hardware that provides the network. Some organizations, like &lt;a href=&quot;http://cuwin.net/&quot;&gt;the CUWiN Foundation&lt;/a&gt;, have tried to build wireless backbones out of older computers, which most often has had disappointing results. A very small, very affordable mesh router is the holy grail for community and municipal networking. But does Meraki&amp;#39;s signature item, the Meraki Mini, deliver the goods?&lt;/p&gt;
+&lt;h3&gt;Meraki&amp;#39;s Success&lt;/h3&gt;
+&lt;p&gt;Meraki&amp;#39;s success in attracting investors is the result of good engineering. With a price point of $50 for the internal model and $99 for the outdoor model, Meraki has done a fine job of creating a small, cheap wireless router. With their planned network in San Francisco, Meraki stands poised to demonstrate that a wide-area mesh network is possible using their hardware and a closed version of Roofnet&amp;#39;s software.&lt;/p&gt;
+&lt;p&gt;Meraki&amp;#39;s most impressive success has been marketing. They have received adoration of the main stream media, including the &lt;a href=&quot;http://www.nytimes.com/2007/02/04/business/yourmoney/04digi.html&quot;&gt;New York Times&lt;/a&gt;. When I was in India for the WISFII Summit in October, Meraki was all the rage as well. And now pundits like &lt;a href=&quot;http://www.bwianews.com/2007/03/meraki_another_.html&quot;&gt;Steve Stroh&lt;/a&gt; are touting the miracle of Meraki&amp;#39;s mesh, brushing aside any consideration of &amp;quot;the limitations of this particular hardware implementation.&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Don&amp;#39;t Believe the Hype&lt;/h3&gt;
+&lt;p&gt;In its original business model, Meraki advertized itself as open architecture, encouraging several different software organizations and companies to use the product. Since the announcement of venture capital, all reference to open source or open architecture has disappeared from their website. This suggests that Meraki is no longer interested in supporting various software solutions, which is a mistake if you ask me. Part of that mistake is in closing off their source, but the biggest part of their miscalculation is that they are relying on technology that does not conform to common networking standards like IP, standards that form the basis of the Internet as we know it.&lt;/p&gt;
+&lt;p&gt;Perhaps more damning are the actual limitations on Meraki&amp;#39;s hardware. As Stroh correctly points out, Meraki has chosen to optimize for price. I have no problem with that strategy as long as people understand the compromises that are being made. People don&amp;#39;t understand what those compromises are because they aren&amp;#39;t being presented with that information.&lt;/p&gt;
+&lt;p&gt;The most obvious compromise is power. In urban areas, the lack of power on the radios is probably beneficial, as it reduces interference. For rural areas, power is essential, as residences are considerably farther apart. When Meraki markets their outdoor product as &amp;quot;Into the wild. Rural or urban.&amp;quot;, they are falsely advertising their product. For most of the rural deployments I work with, Meraki products are simply not an option.&lt;/p&gt;
+&lt;p&gt;An additional cause for concern, especially for community and municipal networks, is long-term sustainability. Meraki&amp;#39;s products are complete units, with everything soldered right onto the board. When 802.11n or 802.11s (the mesh networking protocol) become available standards, purchasers of the Meraki Mini will either be forced to purchase a completely new product or they will be stuck using outdated technology. How happy citizens will be when a city rolls out a Meraki network, only to find that next year they have to spend the same amount or more to keep up with technology? The kind of revolt that suggests could very well spell the end of municipal networks. &lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Meraki&amp;#39;s wireless mesh routers are not bad products, but they aren&amp;#39;t the solution that they claim to be. The Mini is a cheap wireless mesh hardware that has been compromised by the gradual alienation of open source alternatives to Meraki&amp;#39;s software. Moreover, the hardware is unable to provide the long-term sustainability or the coverage required by rural networks. If you live in one of the world&amp;#39;s densely populated cities, Meraki has delivered a great product for your networking needs today. Just don&amp;#39;t think about next year.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/649#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/587">Meraki</category>
+ <pubDate>Tue, 20 Mar 2007 17:56:26 +0000</pubDate>
+ <dc:creator>Ross Musselman</dc:creator>
+ <guid isPermaLink="false">649 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

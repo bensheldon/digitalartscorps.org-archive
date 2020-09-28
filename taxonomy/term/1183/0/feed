@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - salesforce</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1183/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Finally</title>
+ <link>http://digitalartscorps.org/node/1763</link>
+ <description>&lt;p&gt;I have something to show for my time with the Transmission Project so far. Today I published an article on past Corps members&#039; experiences working with Salesforce databases. I would like to thank Billy especially for creating the graphics and prepping the document for PDF format.&lt;/p&gt;
+&lt;p&gt;The article is available to download as a pdf below, and you can read my introduction on the &lt;a href=&quot;http://transmissionproject.org/current&quot;&gt;current&lt;/a&gt; page of the Transmission Project website.&lt;/p&gt;
+&lt;p&gt;The article&#039;s intended audience is really other organizations, but I encourage anyone who is working with Salesforce -- or any CRM -- to take a look at what we&#039;ve learned. Anyone interested in how the Transmission Project approaches its past partnerships may also find something useful.&lt;/p&gt;
+&lt;p&gt;I found that, in conducting my research, having access to other VISTAs&#039; field reports is extremely helpful when trying to get a sense of your perspectives on the projects you are tackling. I was able to search through field reports to learn not only when Corps members encountered problems with Salesforce and what they had to say about it, but also when they felt they had been successful.&lt;/p&gt;
+&lt;p&gt;What I&#039;m trying to say is don&#039;t stop reporting because what you say here can actually provide an important resource for me (and others, but do you really require any reason to post other than that it will make my job easier?).&lt;/p&gt;
+&lt;p&gt;Over and out,&lt;br /&gt;
+Howie&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1763#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/573">capacity building</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1183">salesforce</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/Transmission Project - The VISTA and the Database.pdf" length="356033" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 19:48:19 +0000</pubDate>
+ <dc:creator>Howard Fisher</dc:creator>
+ <guid isPermaLink="false">1763 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A desk of my own</title>
+ <link>http://digitalartscorps.org/node/1622</link>
+ <description>&lt;p&gt;Yay! I have a desk.  It&#039;s made a bigger difference than I expected in my productivity and excitement about coming in to work some mornings.  The feel of having even a little space that&#039;s more or less my own is great... maybe I&#039;ll even put a few things on the wall in the next few weeks!  In the end, it just took me realizing that it would make a difference to me, and then deciding to establish myself at this unused desk.  Good stuff.&lt;/p&gt;
+&lt;p&gt;In terms of work, the excitement(?) of this past month has been learning my way around the intricacies of Salesforce, the Customer Relationship Management (CRM) platform my organization uses to track everything and everyone they have contact with.&lt;/p&gt;
+&lt;p&gt;I&#039;m working on a system using outside PHP code with Salesforce code and internal pages to sync with MySQL database tables. The goal is to manage the database that will display event calendars on our new website, and also let volunteers interact with that database from the backend to create radio versions of those calendars. Oh yeah, and match up the event venues with our records for those venues and their underwriting / sponsorship history.  No problem.&lt;/p&gt;
+&lt;p&gt;We&#039;ve also finished strategic planning here for the next year, including a detailed action plan for my project, rebuilding the website.  That means that for the last few weeks we&#039;ve had two separate timelines to try to follow -- this action plan and my VAD. I just spent this afternoon coordinating those, which happened more smoothly than I expected. So this month, and here on out, I&#039;ll have just one timeline to follow.  That will be good, since trying to coordinate with both meant that I often wasn&#039;t totally satisfying either; the unexpected complications of some steps didn&#039;t help.&lt;/p&gt;
+&lt;p&gt;Our fall pledge drive starts in just a few days. Those next ten days will be something of a flashback to my first week here, which happened to also be the special one-week summer pledge drive that happened this year. It&#039;s nice to think that I&#039;m so well settled in here now, know my coworkers and my way around, and just generally the way things work. (It&#039;s also exciting because there&#039;s tons of great food in the office to tempt the &#039;round the clock phone volunteers; I may not have to buy food for two weeks!)&lt;/p&gt;
+&lt;p&gt;That&#039;s it for now... happy to be transitioning into a more active phase of my year, actually starting to make decisions and build working systems instead of always being in research mode.  And still thinking about next year... I know from experience that there will be plenty of questions about that when I visit family over the holidays!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1622#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1150">kdhx</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1183">salesforce</category>
+ <pubDate>Mon, 02 Nov 2009 23:25:12 +0000</pubDate>
+ <dc:creator>Robyn Haas</dc:creator>
+ <guid isPermaLink="false">1622 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

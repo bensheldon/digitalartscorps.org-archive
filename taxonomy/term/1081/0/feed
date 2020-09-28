@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - rails</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1081/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mon Jul  6 15:01:58 EDT 2009</title>
+ <link>http://digitalartscorps.org/node/1520</link>
+ <description>&lt;p&gt;Since my &lt;a href=&quot;http://ctcvista.org/node/1470&quot; title=&quot;previous field report&quot;&gt;previous field report&lt;/a&gt;, I have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;participated in a discussion of how the CCTS (the org I&#039;m serving)&lt;br /&gt;
+    should develop its &quot;business&quot; in the future.&lt;/li&gt;
+&lt;li&gt;helped the hiring process by placing ads and by participating in&lt;br /&gt;
+    the interview of a candidate;&lt;/li&gt;
+&lt;li&gt;studied some existing, alternative, Content Management Systems&lt;br /&gt;
+   (CMS) not invented at CCTS, as candidate replacements for the CMS&lt;br /&gt;
+   that was invented at CCTS;&lt;/li&gt;
+&lt;li&gt;demonstrated a pattern for adding automated tests for the CCTS&lt;br /&gt;
+     CMS, documenting the tests, and at the same time, documenting the&lt;br /&gt;
+     requirements;&lt;/li&gt;
+&lt;li&gt;investigated somewhat into how we might be able to achieve&lt;br /&gt;
+       a cleaner separation between&lt;br /&gt;
+       the core CMS and the customizations of it to the needs of specific&lt;br /&gt;
+       clients;&lt;/li&gt;
+&lt;li&gt;maintained a file server (made backups, etc.) for the office files&lt;/li&gt;
+&lt;li&gt;maintained an environment for our software development&lt;br /&gt;
+    (using the Ubuntu distribution);&lt;/li&gt;
+&lt;li&gt;supported workstations running one of Microsoft&#039;s operating systems&lt;/li&gt;
+&lt;li&gt;helped move the office;&lt;/li&gt;
+&lt;li&gt;constructed a &lt;a href=&quot;http://pennstation.cctsbaltimore.org/admin/home_page/2/edit&quot;&gt;&quot;sandbox&quot; installation&lt;/a&gt; of the CCTS CMS for&lt;br /&gt;
+    demonstrating its ease of use;&lt;/li&gt;
+&lt;li&gt;contributed time to the maintenance of the CMS;&lt;/li&gt;
+&lt;li&gt;participated in an interim edit of the old, static, CCTS web site&lt;/li&gt;
+&lt;li&gt;taught other personnel about programming techniques and principles&lt;br /&gt;
+    (e. g., finite-state machines).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Please keep in mind that since the purpose of the CCTS is to build the&lt;br /&gt;
+capacity of &lt;em&gt;other&lt;/em&gt; organizations, anything I do that helps CCTS,&lt;br /&gt;
+contributes to capacity building in the social-profit sector.
+&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1520#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1081">rails</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/910">ruby</category>
+ <pubDate>Mon, 06 Jul 2009 19:47:40 +0000</pubDate>
+ <dc:creator>Jack Waugh</dc:creator>
+ <guid isPermaLink="false">1520 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

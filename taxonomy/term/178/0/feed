@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Open Source</title>
+ <link>http://digitalartscorps.org/taxonomy/term/178/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month 11: Final Workshops and Facility Recommendations</title>
+ <link>http://digitalartscorps.org/node/1513</link>
+ <description>&lt;p&gt;In May/June, I offered several training workshops, likely the last round of dedicated sessions as my year of VISTA service comes to a close.  The remainder of my year will be devoted to compiling the training materials I&#039;ve written, and writing the manuals I haven&#039;t had time to compose yet.&lt;/p&gt;
+&lt;p&gt;Of the three video production workshops I led, one was an interactive session with students from the READY School in Champaign, IL.  After an initial tour of our facilities and those of Urbana Public Television, the students checked out free camcorders and videotaped a day at their school, with interviews and shots of classrooms, art, bulletin boards, and the building itself.  Our training session covered the fundamentals of cutting, arranging, and editing scenes, using Adobe Premiere Pro.  The students, whose school year is finished, now have two local resources for continued learning where they can finish this and other films if they would like.&lt;/p&gt;
+&lt;p&gt;Many of the training sessions were about A/V data backup, transfer, and duplication, as members of the IMC get ready to work more independently after I have finished my service.  Beyond these and other basic recording and editing tips, two of the audio workshops addressed key issues for citizen journalists - 1) posting to the web and 2) understanding the principles of digital audio and their application.  Finally, I have been working with our community radio station WRFU, to ensure that members are knowledgeable about making PSAs, news stories, and updating their Drupal site.  In the last month, I will compile and share these resources; for now, I have been revising the manuals as I go, and sharing with smaller working groups.  &lt;/p&gt;
+&lt;p&gt;Though we often use commercial software like Premiere at the IMC, the only real expenses that any artists or journalists should ever have to face are time and hardware (cameras, mics, computers, a/v equipment, etc.).  I encourage everyone I train to use and tell others about free and open source software (FOSS), and this month I continued my research into these tools.  Specifically, FOSS operating systems can be installed (easily and for free) and used to keep older and slower computers running quickly and efficiently - especially important for organizations with small budgets.  Operating systems I recommend are Ubuntu (which has many variants, including one with media production applications called Ubuntu Studio), Puppy Linux, Dyne:bolic, and Pure:dyne.  There are others, but these systems have familiar desktop and window environments, can be expanded to include office productivity and media software, and some even run off of live CDs, so no installation is necessary.  We received a donated laptop that was quite slow, running Windows 98 - now with the most recent version of Xubuntu, it is much faster and is available for IMC members to use for on-location recording, broadcast, and web publishing.&lt;/p&gt;
+&lt;p&gt;A critical component of documentation is not just manuals or progress reports, but recommendations.  The final aspect of capacity building requires communicating to your organization what they can do to grow after the absence of VISTA staff.  At the IMC I am in the process of troubleshooting and listing improvements that could be made to the production facilities - via hardware that will need to be purchased, and software that is free.  Luckily for us, we just hired some summer youth employees through the Champaign Consortium, and each individual has his/her own project to use as a learning experience and as a service to the IMC - adding to the continuity and capacity built so far with VISTAs.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1513#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1029">audio</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/526">Computer lab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/110">radio</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/143">training</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/134">video</category>
+ <pubDate>Fri, 19 Jun 2009 22:12:05 +0000</pubDate>
+ <dc:creator>Stephen Fonzo</dc:creator>
+ <guid isPermaLink="false">1513 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Data Management / API</title>
+ <link>http://digitalartscorps.org/node/732</link>
+ <description>&lt;p&gt;&lt;strong&gt;How Open APIs Can Change How Nonprofits Manage Data&lt;/strong&gt;&lt;br /&gt;
+See attached presentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using Open APIs for a Virtual March&lt;/strong&gt;&lt;br /&gt;
+See attached presentation.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/645">applications</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/585">tech assistance for non-profits</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/TANP - NTEN_OpenAPI.pdf" length="891228" type="application/pdf" />
+ <pubDate>Thu, 19 Apr 2007 15:15:43 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">732 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>What is A Content Management System?</title>
+ <link>http://digitalartscorps.org/node/731</link>
+ <description>&lt;p&gt;An OS content management system (CMS) allows you to manage website text and images through a database.  This typically means:&lt;br /&gt;
+Quicker website setup&lt;br /&gt;
+Completely flexible graphic design&lt;br /&gt;
+Tools to easily update pages and navigation&lt;br /&gt;
+Support for rule-based content (like events or news)&lt;br /&gt;
+Community support and plug-ins&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comparing Open Source Content Management Systems:&lt;/strong&gt;&lt;br /&gt;
+- Joomla&lt;br /&gt;
+- Drupal&lt;br /&gt;
+- Plone&lt;br /&gt;
+(see attached presentation)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Drupal&lt;/em&gt; is a content management system (CMS).  It seems to be pretty popular in this crowd.  It is implemented in PHP.  There are many useful plugins for it.  Is the present site based on Drupal?&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Joomla&lt;/em&gt; is another CMS implemented in PHP.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Plone&lt;/em&gt; is a CMS implemented in Python.&lt;/p&gt;
+&lt;p&gt;
+For someone&#039;s listing of CMS implemented in Ruby on Rails, see &lt;a href=&quot;http://www.ajaxlines.com/ajax/stuff/article/top_ruby_cms.php&quot;&gt;Top 20 Ruby CMS&lt;/a&gt;.  A &lt;a href=&quot;http://www.google.com/search?q=ruby+cms&quot;&gt;search&lt;/a&gt; on Google for mentions of &quot;Ruby&quot; and &quot;CMS&quot; in the same article produced about 2.8 million hits.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/751">content management system</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/TANP - osscms_quinn_slides.ppt" length="896000" type="application/vnd.ms-powerpoint" />
+ <pubDate>Thu, 19 Apr 2007 15:06:50 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">731 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>What I&#039;ve been up to</title>
+ <link>http://digitalartscorps.org/node/586</link>
+ <description>&lt;p&gt;I&amp;#39;ve been in California for a month and a half now and I love it! I found a place to live in Alameda which is just outside of Oakland where I work. Alameda is really nice and safe. I love my job and the people I work with are really cool! &lt;/p&gt;
+&lt;p&gt;I have been busy with a few projects at work. I developed an addition to their 3 hour Take Home Computer Class (THCP). This class provides Oakland students in grades 6-12 with basic computer training along with training on the Open Source software (OpenOffice, The Gimp, Audacity, typing tutors, anti-virus, anti-spyware, etc.) that we install on each computer. Once the students take the class,  then they receive a free refurbished computer with free life time tech support. &lt;/p&gt;
+&lt;p&gt;I made an OpenOffice Impress presentation (software similar and compatible to PowerPoint) that explains Dial-up, DSL, and Cable Internet service (Wireless discussion will be added soon). I developed this addition because I noticed that the instructors would always get a lot of questions about these types of Internet services. Students didn&amp;#39;t know the differences between them or how they worked, etc. I actually teach this portion of the class and explain in more detail about these technologies as I show them my presentation. My addition to the class is a success. The students and parents have a better understanding about how these technologies work. &lt;/p&gt;
+&lt;p&gt;I&amp;#39;ve also been working on the new OTX-West website  (&lt;a href=&quot;http://otxwest.org/&quot; target=&quot;_blank&quot; title=&quot;OTX-West&quot; class=&quot;links&quot;&gt;www.otxwest.org&lt;/a&gt;) using Dreamweaver. That&amp;#39;s a lot of fun. I&amp;#39;ve never used Dreamweaver before so I am getting some hands on experience. &lt;/p&gt;
+&lt;p&gt;Finally, I&amp;#39;ve been working with the director of curriculum on this summers digital storytelling workshop. We are in the process of revamping the curriculum and adding a web development part to it as well. I&amp;#39;m planing on going to &lt;a href=&quot;http://www.storycenter.org/index1.html&quot; target=&quot;_blank&quot; title=&quot;The Center for Digital Storytelling&quot; class=&quot;links&quot;&gt;The Center for Digital Story Telling &lt;/a&gt;in Berkeley, CA to see how they do their workshops and to get more information on how we can improve our workshop. There is a CTC VISTA working there already so I&amp;#39;ll be getting in touch with her soon.  I also have been learning the Open Source software that we use to create the digital stories (&lt;a href=&quot;http://www.gimp.org/&quot; target=&quot;_blank&quot; title=&quot;The Gimp&quot; class=&quot;links&quot;&gt;The Gimp&lt;/a&gt;,  &lt;a href=&quot;http://audacity.sourceforge.net/&quot; target=&quot;_blank&quot; title=&quot;Audacity&quot; class=&quot;links&quot;&gt;Audacity&lt;/a&gt;, &lt;a href=&quot;http://www.audiograbber.com-us.net/&quot; target=&quot;_blank&quot; title=&quot;Audiograbber&quot; class=&quot;links&quot;&gt;Audiograbber&lt;/a&gt;, &lt;a href=&quot;http://www.openoffice.org/index.html&quot; target=&quot;_blank&quot; title=&quot;OpenOffice&quot; class=&quot;links&quot;&gt;OpenOffice&lt;/a&gt;, &lt;a href=&quot;http://www.nvu.com/index.php&quot; target=&quot;_blank&quot; title=&quot;Nvu&quot;&gt;Nvu&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;Anyway, that&amp;#39;s it for now. I attached an OpenOffice Impress copy and PowerPoint compatible copy of my slide show. The PowerPoint copy may alter the formatting and animations that were used in the OpenOffice Impress version but you can get the jist of it. &lt;/p&gt;
+&lt;p&gt; Until next time....&lt;/p&gt;
+&lt;p&gt;Naomi &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/586#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/521">digital storytelling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/315">dreamweaver</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/479">otx-west</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Internet Options_PowerPoint compatible.ppt" length="371200" type="application/x-mspowerpoint" />
+ <pubDate>Fri, 09 Mar 2007 22:35:13 +0000</pubDate>
+ <dc:creator>Naomi Jimenez</dc:creator>
+ <guid isPermaLink="false">586 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Open Source Development and &quot;Barrier to Entry&quot;</title>
+ <link>http://digitalartscorps.org/node/568</link>
+ <description>&lt;p&gt;Last week I had the opportunity to participate in my first &amp;quot;sprint&amp;quot;. In a sprint, a bunch of people get together and work on an open source project for a few days. In my two days (and one night :p) of sprinting, I learned a lot, met some awesome people, and contributed to the start of a project. I highly recommend sprinting to anyone who gets a chance to do it.&lt;/p&gt;
+&lt;p&gt;However, one thing I noticed when sprinting was the difficulty of getting to a point where you can make progress on a project. For example, before you could work on my project, you had to download and install particular versions of six different tools. And then you had configure your system properly (set environment variables and run scripts and such). &lt;/p&gt;
+&lt;p&gt;If there were nice installers that worked for all platforms for the tools, maybe it wouldn&amp;#39;t have been so bad. But there are often not installers, and all the tasks multiply -- you have to install other things to allow you to install the things you actually need. Here is the &lt;a href=&quot;http://initd.org/pub/software/pysqlite/doc/install-source-win32.html&quot;&gt;Windows install page for one of the tools&lt;/a&gt; my project required, for example.&lt;/p&gt;
+&lt;p&gt;(There are perhaps the most issues in getting set up on Windows, maybe because most open source developers are not using Windows so they sometimes don&amp;#39;t bother to document for it and they sometimes don&amp;#39;t have an easy way to test things on Windows. But I think this is a serious issue. &lt;a href=&quot;http://marketshare.hitslink.com/report.aspx?qprid=2&quot;&gt;Most people are using Windows.&lt;/a&gt; If we want anyone to be able to join open source development efforts, we have to make it possible for people to start contributing on the platform they already have.) &lt;/p&gt;
+&lt;p&gt;I was able to get the stuff I needed running after a few hours because there were people around who I could ask for help when I got stuck. And luckily my pretty-old (from before college) laptop did not collapse from the weight of the tools. But what about the person alone in their apartment who just wants to contribute? And what if they only have a dialup connection?&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s not like people who have trouble getting the tools setup don&amp;#39;t have anything to contribute. But we aren&amp;#39;t letting them get to a point where they can. I mentioned the issues in getting started to some other sprinters and they said &amp;quot;Yes, the barrier to entry for open source development is high.&amp;quot; But no one mentioned anything that is being done about it. &lt;/p&gt;
+&lt;p&gt;What can we do to make it easier to contribute? Produce better documentation? (Lack of documentation is already a big problem in the open source world.) Set up more ways for programmers to connect to one another in person? Make better operating systems so tool setup goes more smoothly?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/568#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/560">barrier to entry</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/561">development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/559">sprinting</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/558">tools</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/432">windows</category>
+ <pubDate>Mon, 05 Mar 2007 17:55:08 +0000</pubDate>
+ <dc:creator>cheryl jerozal</dc:creator>
+ <guid isPermaLink="false">568 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>What is CiviCRM?</title>
+ <link>http://digitalartscorps.org/node/506</link>
+ <description>&lt;p&gt;CiviCRM is actually a suite of tools based on the &lt;a href=&quot;http://www.drupal.org&quot;&gt;Drupal&lt;/a&gt; content management system.  A bit tricky to set up (at first), but once configured and running it is VERY powerful. It allows NPOs to coordinate their efforts quite well and collects has good set of tools for this.  Some key things it attends to is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Volunteer coordination&lt;/li&gt;
+&lt;li&gt;Event coordination&lt;/li&gt;
+&lt;li&gt;Donor management&lt;/li&gt;
+&lt;li&gt;eNewsletter management&lt;/li&gt;
+&lt;li&gt;Constituent relationship management&lt;/li&gt;
+&lt;li&gt;Google/Yahoo mapping of various events and volunteers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It also includes blogs, forums and image galleries and there’s a good base of users out there.  The listservs are very friendly too.  Here&#039;s a link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.civicrm.org&quot; title=&quot;http://www.civicrm.org&quot;&gt;http://www.civicrm.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is a fantastic, FREE, and pretty comprehensive online manual for CiviCRM available at FLOSSmanuals: &lt;a href=&quot;http://en.flossmanuals.net/CiviCRM/&quot; title=&quot;http://en.flossmanuals.net/CiviCRM/&quot;&gt;http://en.flossmanuals.net/CiviCRM/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/750">civicrm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/752">constituent relationship management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/751">content management system</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/489">crm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <pubDate>Wed, 07 Feb 2007 17:11:11 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">506 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>CTC VISTAs Can Share! - Digital Media Toolkit</title>
+ <link>http://digitalartscorps.org/digest/fall06/blog_danielle</link>
+ <description>&lt;p&gt;[From the blog of &lt;a href=&quot;/blog/4&quot;&gt;Danielle Martin&lt;/a&gt;, &lt;a href=&quot;/node/199&quot;&gt;10/13/2006&lt;/a&gt;]
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.cpcs.umb.edu/vista/pa/digital-media/OPEN%20ME%20FIRST.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/files/user4/sullytoolkit.jpg&quot; alt=&quot;&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;176&quot; height=&quot;100&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.cpcs.umb.edu/vista/blog/morgan_sully/&quot; target=&quot;_blank&quot; title=&quot;Morgan&amp;#039;s Blog&quot;&gt;Morgan Sully&lt;/a&gt;, developed an open &lt;a href=&quot;http://www.cpcs.umb.edu/vista/pa/digital-media/OPEN%20ME%20FIRST.html&quot;&gt;DIY                         Digital Media Toolkit/CD-ROM&lt;/a&gt;, with a simple HTML start page and links to resources and free software (usually distributed on CD) to bring to sessions he did in his work with &lt;a href=&quot;http://www.thecentersd.org/&quot; target=&quot;_blank&quot;&gt;The San Diego Lesbian, Gay, Bisexual Transgender Community Center&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;He put it up on his &lt;a href=&quot;http://www.cpcs.umb.edu/vista/blog/morgan_sully/archives/001257.html&quot; target=&quot;_blank&quot; title=&quot;Morgan&amp;#039;s Blog&quot;&gt;blog&lt;/a&gt; and posted it to the Digital Media discussion list (and Nettrice posted it to the old &lt;a href=&quot;http://www.cpcs.umb.edu/vista/pa/digital-media/ideas.html&quot; target=&quot;_blank&quot;&gt;portal&lt;/a&gt;), and opened it up for folks to take and customize for their own work.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/files/mediatoolkit/begin.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://ctcvista.org/files/mediatoolkit/picture%20files/surprised%20rox.JPG&quot; alt=&quot;Roxanne&quot; title=&quot;Roxanne&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;140&quot; height=&quot;120&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;In response, &lt;a href=&quot;http://www.cpcs.umb.edu/vista/blog/roxanne_johnson/archives/001132.html&quot; target=&quot;_blank&quot;&gt;Roxanne Johnson,&lt;/a&gt; built upon it and compiled her own &lt;strong&gt;&lt;a href=&quot;http://ctcvista.org/files/mediatoolkit/begin.html&quot; target=&quot;_blank&quot; title=&quot;Roxanne&amp;#039;s Toolkit Upgrade&quot;&gt;toolkit&lt;/a&gt;&lt;/strong&gt; to train her AmeriCorps volunteers and youth at the &lt;a href=&quot;http://www.technologypower.org/&quot;&gt;Twin Cities C-CAN/CTEP Project&lt;/a&gt; in MN.&lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;Read more about &lt;a href=&quot;/blogs/4&quot;&gt;Danielle&amp;#39;s&lt;/a&gt; work as is a second year VISTA and VISTA Leader at the &lt;a href=&quot;http://cpcs.umb.edu/vista&quot;&gt;CTC VISTA Project&lt;/a&gt; and project manager and trainer at &lt;a href=&quot;http://www.massimpact.org&quot;&gt;massIMPACT&lt;/a&gt; at her &lt;a href=&quot;/blogs/4&quot;&gt;blog&lt;/a&gt;.&lt;/div&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/160">blogs</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/14">digitalmedia</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/21">toolkit</category>
+ <pubDate>Wed, 08 Nov 2006 16:57:24 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">282 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>CTC VISTA 2.0: The Evolution of the Project&#039;s Communications</title>
+ <link>http://digitalartscorps.org/digest/fall06/project_evolution</link>
+ <description>&lt;p&gt;by &lt;a href=&quot;/user/4&quot; target=&quot;_blank&quot; title=&quot;http://www.ctcvista.org/user/4&quot;&gt;Danielle Martin&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Last fall, then VISTA Leader Saul Baizman wrote a candid article on the latest evolution of the CTC VISTA Project communications scheme for the Fall edition of the &lt;em&gt;&lt;a href=&quot;http://www.comtechreview.org&quot;&gt;Community Technology Review&lt;/a&gt;&lt;/em&gt; entitled “&lt;a href=&quot;http://www.comtechreview.org/fall-2005/000379.html&quot;&gt;Build an Information and Communications Technology Infrastructure in 21 Days&lt;/a&gt;.” At the time when Saul first started tackling the problem, the Project’s site was mostly a static site with contact information and some examples of the Project work.  In his tenure at the Project, Saul helped the site evolve from a confusing, multi-tool system to a more simplified contact directory complimented by a webblog system. &lt;/p&gt;
+&lt;p&gt;
+&lt;div class=&quot;float_center&quot;&gt;&lt;img src=&quot;http://www.comtechreview.org/fall-2005/baizman_roster.jpg&quot; alt=&quot;Old CTC VISTA Project Directory&quot; title=&quot;Old CTC VISTA Project Directory&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;500&quot; height=&quot;271&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Old CTC VISTA Project Directory&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;But like all things technology, new dogs with new tricks appeared in the form of an &lt;a href=&quot;/node/155&quot;&gt;open source content management system&lt;/a&gt; called &lt;a href=&quot;http://drupal.org/&quot;&gt;Drupal&lt;/a&gt;.  After a little fiddling, the Project staff discovered that &lt;a href=&quot;http://drupal.org/&quot;&gt;Drupal&lt;/a&gt; could perform many of the same functions under the same database umbrella.  Concurrently, the Project has evolved in emphasizing opportunities for collaboration and resource sharing among CTC VISTAs on our new site &lt;a href=&quot;http://www.ctcvista.org&quot;&gt;CTCVISTA.org&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The idea of developing common resources as a Project is not a new one.  The implementation of the priority areas (Community Networking, Community Organizing, Digital Media, and Technical Assistance to Nonprofits) last year was stimulated by the potential of connecting often very different organizations around the theme of empowering communities with technology. &lt;/p&gt;
+&lt;p&gt;Over the year, Project HQ staff realized that any discussions and content sharing among the VISTAs needed to be simple and, more importantly, fueled by their immediate challenges and interests, and not just by more general issues of the larger field.  CTC VISTAs could be better served by a simple space for sharing timely, specific resources.  Also, with a wider view of all the work of each organization at the ground level, the Project has the perspective to connect the dots – to spark connections among similar projects across organizational structures and geography.       &lt;/p&gt;
+&lt;p&gt;This expansive view across organizations, as well as across national membership organizations such as &lt;a href=&quot;http://www.ctcnet.org&quot;&gt;CTCNet&lt;/a&gt;, &lt;a href=&quot;http://www.nten.org&quot;&gt;NTEN&lt;/a&gt;, &lt;a href=&quot;http://www.namac.org/&quot;&gt;NAMAC&lt;/a&gt;, &lt;a href=&quot;http://www.alliancecm.org/&quot;&gt;ACM&lt;/a&gt; and others, also made it clear that there are many existing (and unfortunately unused) resources available.  In a time of excessive content generation and media overload, the Project didn’t want to reinvent the wheel.  However, many new VISTAs don’t have time or research skills to sift through all the content available on the Web.  So with the advent of aggregation and tagging technologies, we decided to incorporate tools such as Delicious for social bookmarking and other tools to pull local CTC VISTA site content into “&lt;a href=&quot;/resources&quot;&gt;resource pages&lt;/a&gt;.” &lt;/p&gt;
+&lt;p&gt;Unfortunately, this call for collaboration clashes with the current environment where non-profits are often in competition with each other. We see the CTC VISTA Project as an ideal proponent for fostering a new environment of resource sharing for several reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;As usually new recruits to the non-profit sector, CTC VISTAs can bring fresh ideas and tools into existing non-profits.&lt;/li&gt;
+&lt;li&gt;The one-year      timeframe of CTC VISTA’s work allows for focus on specific tasks and      development of a reachable end goal – but many of these tasks are almost      impossible without reaching out to others for help or training. &lt;/li&gt;
+&lt;li&gt;These VISTAs are connected through the CTC VISTA Project, and thus there is an inherent      network of peers to reach out to for help and advice. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;div class=&quot;float_center&quot;&gt;
+&lt;a href=&quot;http://www.ctcvista.org&quot; target=&quot;_blank&quot; title=&quot;New CTCVISTA.org&quot;&gt;&lt;img src=&quot;/files/user4/newsite.jpg&quot; alt=&quot;New CTCVISTA.org&quot; title=&quot;New CTCVISTA.org&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; width=&quot;500&quot; height=&quot;296&quot; border=&quot;1&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;New CTCVISTA.org&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;And thus, we revamped the Project website, using Drupal technology and are attempting to adjust our thought processes and communications mechanisms to new, open and tag-based ideologies.  The VISTAs now only have to log into one place to view the directory and blog about their experiences.  Each bit of content created on the site (blog entries, newsletter articles, and new resources) is tagged by both priority area designation and free tagged by the VISTAs according to their own naming conventions.  The Project also adjusted how VISTA Leaders support groups of VISTAs, now by priority area and with focused monthly conference calls and resource portal home pages.  We also plan to use the new resource portal as a place to gather pertinent content in a timely and useful way.  &lt;/p&gt;
+&lt;p&gt;So in the way of all great iterations of technology, we did not throw away the hard work done by past VISTAs like Saul – we made a conscious effort to evaluate our work and communications and extract lessons learned.  With a focus on user-generated content and social networking principles, the Project hopes to create a positive experience for a new set of VISTAs as well as create a space for continuing innovation and cooperation in the years to come. &lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;
+&lt;div class=&quot;float_right&quot;&gt;
+&lt;img src=&quot;http://static.flickr.com/110/283020382_d54952aeb6_t.jpg&quot; alt=&quot;Danielle Martin&quot; title=&quot;Danielle Martin&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Danielle Martin&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/4&quot;&gt;Danielle Martin&lt;/a&gt; is a VISTA Leader, serving both at the CTC VISTA Project HQ as well as with MassIMPACT, coordinating new programs and training in digital storytelling and other multimedia community organizing projects with housing developments in MA. Her background is in after-school multimedia programs for youth, instructional design for web-based trainings, and fundraising and development.  She was previously the Technology Director at the &lt;a href=&quot;http://www.bgcb.org/get_into_clubs/CHARLESTOWN.cfm&quot;&gt;Charlestown Boys &amp;amp; Girls Club&lt;/a&gt; (MA) &lt;a href=&quot;http://www.computerclubhouse.org/&quot;&gt;Computer Clubhouse&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/330">collaboration</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/329">resource portal</category>
+ <pubDate>Fri, 03 Nov 2006 18:37:30 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">267 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Dancing with Samba</title>
+ <link>http://digitalartscorps.org/node/180</link>
+ <description>&lt;p&gt;Over the past two weeks, I&amp;#39;ve been putting together a server so that people across the street from us at UMass Lowell (we&amp;#39;re on-campus also) can mount their website files, hosted with us, as a network drive under Windows.  This can be done with FTP, but it&amp;#39;s still a bit messy.  Fortunately, there&amp;#39;s software out there, called Samba, that lets you make a Linux/Unix computer act as a Windows server.  Here&amp;#39;s how we&amp;#39;ve used it.&lt;/p&gt;
+&lt;p&gt;The first step is to set up a computer running Linux/Mac OSX/FreeBSD/NetBSD/Solaris... (any Unix flavor).  This is a whole blog entry unto itself, but these days, it&amp;#39;s not too hard, and it&amp;#39;s getting easier and easier every day.  Here at the CSL, we have a fairly well-established checklist for doing this, but there are always minor kinks in the process.  Since our income is fairly small at this point (getting larger, thanks to some new grants and kind donors), our equipment is mostly hand-me-down.  In this case, it meant learning about a new server we&amp;#39;d never spent much time on (memory on it must be installed in pairs!).&lt;/p&gt;
+&lt;p&gt;Once you have a computer running some form of Unix, you need to install the Samba software.  For us, that means going to the command-line (GUI on a server?  No Way!), typing:&lt;/p&gt;
+&lt;p&gt;apt-get install samba&lt;/p&gt;
+&lt;p&gt;and going through a few prompts.  We use &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian GNU/Linux&lt;/a&gt; here at the lab, so your install procedure may be different.&lt;/p&gt;
+&lt;p&gt;I found helpful resources for the install part at:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.aboutdebian.com/&quot;&gt;aboutdebian.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.linuxhomenetworking.com/&quot;&gt;linuxhomenetworking.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;So now Samba is installed, but it doesn&amp;#39;t work right!  Surprise, surprise.  How could it possibly come pre-configured for everyone?  To make things work properly, it means editing a file called smb.conf.  In our case, this file is located in the /etc/samba directory, but again, your mileage may vary.  You can either edit the smb.conf file directly, or you can edit it using a web-based tool called SWAT (Samba Web Administration Tool).  I mostly edited the smb.conf file directly, but getting SWAT running was kind of fun, too.&lt;/p&gt;
+&lt;p&gt;So how to edit smb.conf directly?  My preference is to use an editor called &lt;em&gt;vi&lt;/em&gt;, but again, you have all kinds of choices.  Some people may prefer to use &lt;em&gt;emacs&lt;/em&gt; or &lt;em&gt;Notepad&lt;/em&gt; (if they&amp;#39;re the Windows sort) or &lt;em&gt;TextEdit&lt;/em&gt; if they&amp;#39;re on a Mac.  Just has to be a text editor.&lt;/p&gt;
+&lt;p&gt;How to use SWAT?  It has to be running, first of all.  The easiest way to check is to open a browser and type in:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://your.server.name:901&quot; title=&quot;http://your.server.name:901&quot;&gt;http://your.server.name:901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That&amp;#39;s right: SWAT is a web server running on port 901.&lt;/p&gt;
+&lt;p&gt;If SWAT&amp;#39;s not running, don&amp;#39;t fear: it probably just means uncommenting a few lines or adding a few lines in your inetd.conf or xinetd.conf files.  In my case, I just uncommented a few lines in /etc/inetd.conf and restarted the &lt;em&gt;inetd&lt;/em&gt; process with:&lt;/p&gt;
+&lt;p&gt;/etc/init.d/inetd restart&lt;/p&gt;
+&lt;p&gt;But that&amp;#39;s all I know right now about SWAT!&lt;/p&gt;
+&lt;p&gt;I won&amp;#39;t go into much further detail about editing the smb.conf file, because I need to eat dinner, but there are some sections that govern the server&amp;#39;s operation, and then you have one section for each file share (thing that becomes a network drive under Windows).&lt;/p&gt;
+&lt;p&gt;If this sort of thing interests you, and it should if you&amp;#39;re wanting to avoid dishing out money for a Windows server license and want to learn more about Unix/Linux, here&amp;#39;s a full list of resources, with descriptions, that I&amp;#39;ve used:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&quot;http://samba.org/&quot;&gt;samba.org&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;The official site of the Samba project, &lt;a href=&quot;http://samba.org&quot;&gt;samba.org&lt;/a&gt; has plenty of documentation on every Samba option under the sun.  You can find the Samba manual as well as several e-books, including O&amp;#39;Reilly&amp;#39;s Using Samba, which I found to be readable and easy to follow.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&quot;http://aboutdebian.com/&quot;&gt;aboutdebian.com&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;This is a good website for people new to &lt;a href=&quot;http://debian.org/&quot;&gt;Debian GNU/Linux&lt;/a&gt; or for people who have never set up a particular type of server (like Samba!) using Debian.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&quot;http://linuxhomenetworking.com/&quot;&gt;linuxhomenetworking.com&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;This site is the much more complete version of aboutdebian.com.  The author goes into extensive detail about how to install and configure web servers, file servers, logging servers, DNS servers, and many more, using Fedora Core (Red Hat) Linux.  &lt;em&gt;Very&lt;/em&gt; applicable.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&quot;http://google.com/&quot;&gt;Google&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Everyone knows about it, everyone uses it, but I&amp;#39;ve yet to find a better place than Google to search for error messages.&lt;/dd&gt;
+&lt;p&gt;  --John  &lt;/p&gt;&lt;/dl&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/180#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/176">File Sharing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/175">Linux</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/177">Printer Sharing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/172">Samba</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/174">Windows Server</category>
+ <pubDate>Fri, 06 Oct 2006 23:47:40 +0000</pubDate>
+ <dc:creator>John Miller</dc:creator>
+ <guid isPermaLink="false">180 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - storage</title>
+ <link>http://digitalartscorps.org/taxonomy/term/699/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Creating institutional memory</title>
+ <link>http://digitalartscorps.org/node/876</link>
+ <description>&lt;p&gt;Recently I&#039;ve been working on improving how the CTC VISTA Project stores its files, and thus, how we maintain a memory of what we&#039;ve done irrespective of who did it.  For VISTAs, that&#039;s crucial because we&#039;re, by definition, here today and gone tomorrow (or a year from today).&lt;/p&gt;
+&lt;p&gt;To begin, I&#039;m working on implementing a central file-server where we can house all of our documents, both archived and current.  We&#039;re using the University&#039;s Apple XServe and I&#039;m working to make sure that everyone at HQ has a login and just as important, &lt;em&gt;knows how to connect and use it&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In the past, all of our documents have been stored on our local machines and flung at eachother as email attachments.  Recently we&#039;ve been using Google Documents because its collaborative editing makes versioning a breeze (ever tried to merge changes from five different people), but since we&#039;re all using our personal Google accounts and sharing documents, I&#039;m scared at what happens when the document creator leaves the VISTA Project.  I&#039;ve played around with Google for Domains, but for most of us, editing with a desktop application, like Microsoft Office or Open Office, is easiest.  Workflow optimization is key, and if we&#039;re distributing these documents as files, importing and exporting from Google can become a major headache.&lt;/p&gt;
+&lt;p&gt;I originally got the idea for this from the &lt;a href=&quot;http://www.benton.org/?q=publibrary&quot;&gt;Benton Foundation&lt;/a&gt;&#039;s &lt;a href=&quot;http://www.benton.org/publibrary/stratcom/techlit.pdf&quot;&gt;Technology Literacy Benchmarks for Nonprofits&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/876#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/204">resources</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/699">storage</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/902">sustainability</category>
+ <pubDate>Sat, 02 Jun 2007 18:18:20 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">876 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

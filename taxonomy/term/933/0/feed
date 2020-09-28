@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - patch</title>
+ <link>http://digitalartscorps.org/taxonomy/term/933/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How To Apply A Patch to a Drupal Module</title>
+ <link>http://digitalartscorps.org/node/1252</link>
+ <description>&lt;p&gt;Sometimes, particularly when using a custom Drupal module, you may need to a apply what&#039;s called a &#039;patch&#039;.  A patch is simply a text file with a set of instructions saying which lines of code within a module need to be changed, added or deleted to get the module to function better or more accurately.&lt;/p&gt;
+&lt;p&gt;Oft times, patches are applied to make sure a module works correctly across Drupal distributions (versions).&lt;/p&gt;
+&lt;p&gt;Below are instructions for applying a patch.  Once you get the hang of it, the whole process can take less than 2 minutes.&lt;/p&gt;
+&lt;p&gt;Instructions For Applying a Patch to a Drupal Module:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download the whole folder for a module to your Desktop (off of the server where you have it running)&lt;/li&gt;
+&lt;li&gt;Create a text file (ending in &lt;em&gt;.patch&lt;/em&gt;) using a patch for the respective module (you might have been brought to a webpage with &lt;a href=&quot;http://drupal.org/files/issues/morelink.patch&quot;&gt;lines of code&lt;/a&gt; to be copied and pasted from the pageinto the text file)&lt;/li&gt;
+&lt;li&gt;Save it and place it in the module&#039;s folder&lt;/li&gt;
+&lt;li&gt;Open up *Terminal&lt;/li&gt;
+&lt;li&gt;Navigate to the folder (using &lt;em&gt;cd&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Run this command:&lt;em&gt; patch -b &amp;lt; file_name.patch&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Upload the whole folder BACK to it&#039;s respective location on the server (and overwrite the original folder there)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;*Note, this is a command line program for Mac used in conjunction with TextEdit (for editing the text file). Windows equivalents would be MS-DOS and NotePad.&lt;/em&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/932">module</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/933">patch</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Thu, 27 Mar 2008 18:54:31 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1252 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

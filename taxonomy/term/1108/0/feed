@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Little Tokyo Service Center</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1108/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month One: Series of Tubes</title>
+ <link>http://digitalartscorps.org/node/1552</link>
+ <description>&lt;p&gt;It&#039;s like being in Hawaii with the extended family.  Being called &quot;hapa&quot; brings back the memories.&lt;/p&gt;
+&lt;p&gt;At the moment, I&#039;m writing a manual that will serve as a crash course in wireless networking, networking hardware, and monitoring/maintaining the networks that are at LTSC.  The goal is to recruit residents from LTSC affordable housing to take care of the wireless internet and have this manual as a resource for them.  It&#039;s been pretty interesting to learn about wireless mesh networks, and I think they&#039;re a pretty neat alternative to traditional wireless networks.  It is a little weird to be writing a manual for something I am only just learning myself, but the outgoing tech coordinator has been patient and there are tons of great resources online, so it&#039;s been a fairly speedy process.  I worry that not enough community members are interested in volunteering to become &quot;network caretakers,&quot; but hopefully there will be more interest in the upcoming meetings.&lt;/p&gt;
+&lt;p&gt;Meanwhile, have also been working on planning and deploying a new mesh network that will provide wireless coverage to a new section of Little Tokyo.  This network will for the public and for small businesses (as opposed to the free access LTSC provides for affordable housing).  The next month is going to involve planning the deployment and working with an intern to approach businesses and see if they will host a wireless node and help us build out the network.&lt;/p&gt;
+&lt;p&gt;The work load so far has been manageable, but am anticipating a lot more work in the next few months as our outreach meetings with tenants become more frequent.  I do feel like I&#039;m juggling a lot of disparate projects, between the deployment of the new public wifi, the affordable housing wifi stuff, and other little projects.&lt;/p&gt;
+&lt;p&gt;I&#039;m really looking forward to meeting with residents more often.  One of our older residents is a monk...she is awesome and is totally up on technology and using the wireless (and nagging us if anything goes wrong).  There have been sad moments though, like when one of the residents hung himself.  :(  Brings home how isolated and unhappy some of the people who live here are...  Still trying to process that, makes working on wireless feel a little silly you know?&lt;/p&gt;
+&lt;p&gt;Attached: a laser reading of the temp on top of the Japanese American National Museum.  At least the routers get heat shields.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1552#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1110">awkward</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1108">Little Tokyo Service Center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/janmroof.JPG" length="166756" type="image/jpeg" />
+ <pubDate>Mon, 31 Aug 2009 20:58:25 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1552 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

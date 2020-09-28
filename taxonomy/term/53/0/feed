@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - VISTA</title>
+ <link>http://digitalartscorps.org/taxonomy/term/53/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Finally</title>
+ <link>http://digitalartscorps.org/node/1763</link>
+ <description>&lt;p&gt;I have something to show for my time with the Transmission Project so far. Today I published an article on past Corps members&#039; experiences working with Salesforce databases. I would like to thank Billy especially for creating the graphics and prepping the document for PDF format.&lt;/p&gt;
+&lt;p&gt;The article is available to download as a pdf below, and you can read my introduction on the &lt;a href=&quot;http://transmissionproject.org/current&quot;&gt;current&lt;/a&gt; page of the Transmission Project website.&lt;/p&gt;
+&lt;p&gt;The article&#039;s intended audience is really other organizations, but I encourage anyone who is working with Salesforce -- or any CRM -- to take a look at what we&#039;ve learned. Anyone interested in how the Transmission Project approaches its past partnerships may also find something useful.&lt;/p&gt;
+&lt;p&gt;I found that, in conducting my research, having access to other VISTAs&#039; field reports is extremely helpful when trying to get a sense of your perspectives on the projects you are tackling. I was able to search through field reports to learn not only when Corps members encountered problems with Salesforce and what they had to say about it, but also when they felt they had been successful.&lt;/p&gt;
+&lt;p&gt;What I&#039;m trying to say is don&#039;t stop reporting because what you say here can actually provide an important resource for me (and others, but do you really require any reason to post other than that it will make my job easier?).&lt;/p&gt;
+&lt;p&gt;Over and out,&lt;br /&gt;
+Howie&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1763#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/573">capacity building</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1183">salesforce</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/Transmission Project - The VISTA and the Database.pdf" length="356033" type="application/pdf" />
+ <pubDate>Tue, 24 Aug 2010 19:48:19 +0000</pubDate>
+ <dc:creator>Howard Fisher</dc:creator>
+ <guid isPermaLink="false">1763 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>The First Week</title>
+ <link>http://digitalartscorps.org/node/1716</link>
+ <description>&lt;p&gt;So it begins again. &lt;/p&gt;
+&lt;p&gt;My VISTA position here at Chicago Access Network Television (&lt;a href=&quot;http://www.cantv.org&quot; title=&quot;www.cantv.org&quot;&gt;www.cantv.org&lt;/a&gt;) is actually my second year as a VISTA? Why did I sign up again? Did I just enjoy living in poverty THAT much? Let&#039;s just say that the combination of public service and media work was just too tempting for me to resist. &lt;/p&gt;
+&lt;p&gt;Things are a bit different here at CAN TV than they were at the last organization that I served. The first, most noticeable one is its size. The Volunteer Center had only a handful of employees, and really had more VISTAs than staff. CAN TV is a medium sized organization with access to a (somewhat) steady source of income, thanks to a Chicago ordinance that mandates all cable stations in the area dedicate funds to public access television. There&#039;s quite a few more employees, and all of them have pretty concrete job responsibilities, instead of slashes (my job was marketing/communications/tech support/social media coordinator at The Volunteer Center). &lt;/p&gt;
+&lt;p&gt;But when you&#039;re a VISTA, some things do remain consistent. The paychecks are consistently small, no matter where you go, but that&#039;s something you adapt to. And I think that the initial period of &quot;discovery&quot; is always an interesting one, where you learn about the organization and they learn what you can really do for them. I&#039;m looking forward to finding out more about CAN TV and how I can make an impact on the community through my year of service here.&lt;/p&gt;
+&lt;p&gt;If anyone is looking for advice from a grizzled veteran VISTA who&#039;s still out in the field, feel free to contact me at &lt;a href=&quot;mailto:miketewing@gmail.com&quot;&gt;miketewing@gmail.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1716#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/225">advice</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1278">beginning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Tue, 03 Aug 2010 23:40:47 +0000</pubDate>
+ <dc:creator>Michael Ewing</dc:creator>
+ <guid isPermaLink="false">1716 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>MuniWireless and Community Wireless</title>
+ <link>http://digitalartscorps.org/node/1152</link>
+ <description>&lt;p&gt;In late October, I flew out to San Jose to attend the MuniWireless &#039;07 Silicon Valley conference. As a VISTA I run a project that provides free wireless Internet access to low-income residents of subsidized housing in Boston&#039;s South End neighborhood. Ours is not so much a municipal wireless project as a community wireless project, a distinction that the conference helped me understand, but nonetheless, those of us interested in building smaller-scale &quot;grassroots&quot; networks designed to serve smaller communities such as housing developments can learn a great deal from the MuniWireless experience.&lt;/p&gt;
+&lt;p&gt;1. What is the purpose of municipal wireless and how is it different than community wifi efforts?&lt;/p&gt;
+&lt;p&gt;High-speed Internet access is and will continue to have a transformative impact on our economy analogous to that of the Interstate Highway System after it was built in the &#039;50s. Eisenhower sold the expensive highway project to the American public as a military necessity, a solution to the military&#039;s difficulties transferring masses of troops and equipment across a vast country during wartime. However, although promoted as a military project, the highways were of course used to carry all sorts of traffic, from passenger cars to 18-wheeler trucks. By changing the way Americans traveled and moved goods, the highways also led to major changes in the way we lived and conducted business.&lt;/p&gt;
+&lt;p&gt;Ubiquitous access to broadband may have an analogous impact. Voice and video communications can be encoded into data and transmitted via the Internet. The days when we could purchase TV service from a cable company or a satellite company and telephone service from a phone company are over. One company can provide each family with a high-speed connection capable of carrying telephone calls, TV service, and Internet access all at once. &lt;/p&gt;
+&lt;p&gt;Yet many technologists worry that broadband penetration in the United States is lagging behind other industrialized countries. One cause for this is the relative lack of competition in the American broadband market. In America, consumers can choose between a cable company and a phone company when it comes to access, and this duopoly leads to higher prices and lower speeds relative to the rest of the world. According to a study published two years ago, a 100Mbps connection in Japan cost $22 a month, while a 26Mbps connection in France cost the equivalent of $36 monthly. Today, I pay about $25 a month for a 768Kbps connection at my home in Boston.&lt;/p&gt;
+&lt;p&gt;Municipal wireless can provide an alternative to the cable/DSL duopoly for a city or region. Installing wireless radios is much cheaper than laying down fiber. Both MuniWIreless and community wireless efforts take advantage of this fact, and both seek to alleviate the &quot;digital divide&quot;, which arises when low-income populations cannot afford the high price of broadband access. However, the primary distinctions between MuniWireless and community wireless is that municipal efforts seek to provide ubiquitous access for a large area (or at least for the outdoors areas as we&#039;ll discuss later) and to deploy infrastructure that will enable them to compete with existing Internet Service Providers. Community wireless projects serve much smaller communities, such as housing developments or individual buildings, rather than wide areas. Such small-scale efforts typically buy and redistribute inexpensive Internet connections from the same companies municipal networks seek to undercut. &lt;/p&gt;
+&lt;p&gt;One important characteristic of WiFi, the technology now in use for both MuniWireless and community wireless projects, is that it has a relatively weak signal. Unlike, say, shortwave radio, which can be transmitted across the globe, WiFi can be flaky. It doesn&#039;t travel through walls very well. As a result, municipal wireless projects have found that guaranteeing access inside buildings is prohibitively expensive, and many projects now aim to reach only up to the windows of a building, although users of the network can deploy repeaters to enhance the signal enough to provide indoor coverage. Community WiFi efforts, by contrast, typically aim to provide access throughout a building, so that resident&#039;s can connect to the network from their desktop or laptop computers.&lt;/p&gt;
+&lt;p&gt;2. What is the state of the municipal wireless market?&lt;/p&gt;
+&lt;p&gt;The conference I attended was titled &quot;industry at a crossroads&quot;, and this was probably putting it politely. One presenter noted that his mother doesn&#039;t understand what he does for a living, but she feels bad for him as a result of all of the recent bad press about municipal wireless projects falling apart. Over the summer, some of the largest projects in the country, including those in Chicago and San Francisco were cancelled, scaled back or otherwise reevaluated.&lt;/p&gt;
+&lt;p&gt;There are a number of reasons for the recent stumbles. A new technology called WiMax will provide far greater improvements in wireless power and range when it debuts to the public in the next few years, and nobody wants to spend millions building a network that might be obsolete soon. Additionally, there are legitimate questions about whether public-sector projects should be competing with private-sector telecommunications companies, concerns that are beyond the scope of this article. &lt;/p&gt;
+&lt;p&gt;The biggest stumbling block at this point, however, is that providing ubiquitous WiFi coverage, while still less expensive than deploying wired infrastructure, can cost $100,000 to $300,000 a square mile, and without strong a business case demonstrating how the investment will pay off, funders have been hesitant to commit millions of dollars. Politicians have been eager to promise free or cheap broadband access to the public, but with Internet Service Providers already notorious for their slim margins, it is difficult to see how municipal projects can recoup their initial costs while undercutting ISPs on price and living up to the lofty civic goals that accompany public projects, such as providing open access to all partners.&lt;/p&gt;
+&lt;p&gt;I firmly believe that digital inclusion projects will have positive economic benefits in the long term. By providing free WiFi in the South End, we are enabling an underserved community to become technology users for the first time, helping to create a market that did not exist before. Unfortunately, the exact economic and social impact of what we are doing is amorphous and difficult to quantify. It is very shaky ground on which to base the rationale for building a multimillion dollar public project.&lt;/p&gt;
+&lt;p&gt;That&#039;s why digital inclusion, when it was mentioned at all during the MuniWireless conference, always seemed to be the last item on everyone&#039;s agenda. The industry has very quickly shifted to a new sales pitch for municipal wireless networks. Now, the idea is to use this new infrastructure to improve public safety and to reduce the cost of delivering municipal services. Specifically, a wireless network can be a platform for video surveillance cameras to monitor high-crime neighborhoods. Auditory sensors, such as the SpotShotter technology currently being deployed in Dorchester, can be placed around a neighborhood and can alert police when a gun is fired. The sensors are advanced enough to distinguish between a firecracker, a pistol and a rifle, pinpoint the exact location of the shot, and swivel cameras towards the scene, so that police will already have reviewed live video of the location in their cars before they arrive. A second, less exciting application, involves enabling municipal employees such as cops and building inspectors to submit reports from wireless devices out in the field, so they never have to waste time traveling to and from the office. It has always been easier to fund anti-crime projects than anti-poverty projects, making the first scenario far more attractive to funders than using a wireless network to ease the digital divide. The second scenario, offers municipalities an easy means of calculating the potential financial windfall that a wireless network will provide, and, in contrast to digital inclusion ideas that promise to increase economic activity in the future, that windfall comes directly from the city&#039;s budget.&lt;/p&gt;
+&lt;p&gt;The ambitious wireless projects that are deployed over the next few years, will be funded principally by an &quot;anchor tenant&quot;, namely a government bureaucracy interested in using the network to achieve specific goals, such as improved public safety, or lower costs of providing civic services. But just as the Interstate Highway System was sold to the public as a defense project, but ended up carrying primarily civilian traffic, there is no reason to believe that municipal wireless networks, once deployed, cannot be useful for digital inclusion, increasing broadband penetration, and other purposes.&lt;/p&gt;
+&lt;p&gt;3. How should community groups interested in digital inclusion approach municipal wireless projects?&lt;/p&gt;
+&lt;p&gt;Non-profits and other community wireless projects should not see municipal wireless as a competitor, but as a platform for us to build on. When a municipal wireless network is built, the role of community wireless developers should be to deploy inexpensive technology that takes the municipal networks signal from the street and deliver it into the apartments of our constituents. A citywide effort of business leaders will quickly lose sight of the needs of underserved communities, which are inexpensive Internet access combined with inexpensive computer training and computer repair services provided by members of the community to their peers.&lt;/p&gt;
+&lt;p&gt;The HUD &quot;Community Technology Centers&quot; serve as an extraordinary resource for municipal networks. These institutions are already providing the necessary skills training, equipment donation and repair programs that will enable poor users to take advantage of municipal wireless networks. Because the infrastructure will already have been paid for by the anchor tenant, municipal network operators should be able to provide excess bandwidth at little or no cost to community groups, eliminating the need for those organizations to buy bandwidth from ISPs. The costs of providing access will then become so inexpensive (say $50 per family for a $100 router that can serve four families as well as other infrastructure, repair and training programs) that with a little grant money, community wireless groups should be able to achieve self-sufficiency with a combination of low access fees (say $5 a month) and advertising that is conducted in a tasteful and unobtrusive manner. These are of course back of the envelope calculations, but even if municipal networks refuse to provide free or cheap access to non-profits, their very existence will still help by forcing ISPs to lower broadband prices. &lt;/p&gt;
+&lt;p&gt;In the end, if municipalities and their partners can justify the cost of building municipal wireless networks, then non-profits, underserved communities and the public as a whole will be able to benefit from telecommunications infrastructure that is owned by the public and intended to be utilized for the public good.&lt;/p&gt;
+&lt;p&gt;(I intend on writing another blog post later to discuss the lessons that non-profits and community groups can take away from the muniwireless experience).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1152#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/873">castle square</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/372">municipal wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/870">muniwireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/872">roofnet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 07 Nov 2007 22:11:20 +0000</pubDate>
+ <dc:creator>Gabriel Fishman</dc:creator>
+ <guid isPermaLink="false">1152 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Week 3</title>
+ <link>http://digitalartscorps.org/node/999</link>
+ <description>&lt;p&gt;The 3rd week had more updating for the &lt;a href=&quot;http://www.4people.org&quot; title=&quot;www.4people.org&quot;&gt;www.4people.org&lt;/a&gt; website.  I completed updating the county listings for Eastern Washington and started on the county listings for Western Washington (Clark, Clallam, Grays Harbor got done -- started on Island county on Friday).&lt;/p&gt;
+&lt;p&gt;My eyes are swimming and I sure do wish I had Kedit.  It&#039;s so much more powerful than Notepad and doesn&#039;t screw up the href links to websites like other editors do.  I&#039;m still considering buying a license since the test version only allows me to edit files containing no more than 75 lines of text.&lt;/p&gt;
+&lt;p&gt;While the work has been tedious, it&#039;s been necessary.  Our I&amp;amp;R system is getting cleaned up in this process.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/999#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/804">4people.org</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/805">kedit</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/806">tedious</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/349">work</category>
+ <pubDate>Fri, 20 Jul 2007 22:56:39 +0000</pubDate>
+ <dc:creator>Marilyn Taylor</dc:creator>
+ <guid isPermaLink="false">999 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Secret universe?</title>
+ <link>http://digitalartscorps.org/node/982</link>
+ <description>&lt;p&gt;It is Friday afternoon, and I am about to conclude my first *official* week as a CTC*VISTA at Cambridge Community Television. To sum it up: I feel like I have been given the key to a secret door that leads to the land of 21st-century innovation.&lt;/p&gt;
+&lt;p&gt;I don&#039;t mean that in a dorky way...really. (Judging by the listserv emails, I&#039;m quite the airhead compared to all you techies.) I just feel this is giving me a huge leg up over everyone else I graduated with 2 months ago. Ironically enough, I found out about CTC*VISTA through a job/internship opportunity newsletter of BU&#039;s College of Communication. It&#039;s ironic because I had never heard about CCTV at BU, even though it&#039;s located less than a mile away from the BU Bridge, offers full access to equipment, much more freedom to create content (as well as a larger viewership base than BUTV has), and classes that are simple to get into and teach you things like podcasting and HTML (while my multimedia class last semester merely taught me Microsoft FrontPage). I did hear about WGBH quite often, and it was through my internship there that I first heard about CCTV. The reason I am recalling this stuff is to emphasize what a turn of luck it was that brought me here. Ever since Penguin Day I&#039;ve been realizing more and more what a necessary component this VISTAship is in completing my media education in today&#039;s world. (And I&#039;m getting like $11,000 for it!)&lt;/p&gt;
+&lt;p&gt;I just read Meegan&#039;s comment about the Knight Foundation news challenge. I looked through the winners and saw organizations like Harvard and MIT...both involved in groundbreaking digital media projects, and both located around the corner from my host organization. Lisa Williams, founder of placeblogger.com and h2otown, resides in the neighboring community of Watertown and my supervisor just told me to set up a meeting with her. Not to be profane but...WTF!? This entire experience is blowing my mind right now. I&#039;m going to have a blog on CCTV&#039;s website and I&#039;m currently working on a new program (worthy of being crowned by the Knight foundation, I&#039;d say) to place citizen journalists around the city and use all of CCTV&#039;s awesome resources to become the glue that holds these communities together. When the school year begins, I&#039;m also going to be working in a state-of-the-art media studio (which I got to see the other day and it totally blows BU&#039;s facilities out of the water) to create new youth media programs for the educational access channels. I didn&#039;t even know what PEG access &lt;em&gt;was&lt;/em&gt; a month ago...or open-source software, for that matter.&lt;/p&gt;
+&lt;p&gt;And the icing on the cake would be that the people here are all really great, and I get to interact with some really diverse members of the community.... and on days like yesterday, I even get to experience surprise visits from Sir Ben Sheldon himself!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/982#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/111">ben sheldon</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/794">knight foundation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/683">peg access</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Fri, 13 Jul 2007 19:11:33 +0000</pubDate>
+ <dc:creator>Julie Adler</dc:creator>
+ <guid isPermaLink="false">982 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>First Day(!)</title>
+ <link>http://digitalartscorps.org/node/910</link>
+ <description>&lt;p&gt;Hey Everybody,&lt;/p&gt;
+&lt;p&gt;This is my first Field Report.  I have to give one of these every two week--biweekly, it&#039;s called--so I&#039;ll try to make them bastions of quality information for the masses.  See you in two weeks.&lt;/p&gt;
+&lt;p&gt;Yours,&lt;br /&gt;
+Karl&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/910#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Wed, 20 Jun 2007 20:24:28 +0000</pubDate>
+ <dc:creator>Karl Otto</dc:creator>
+ <guid isPermaLink="false">910 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>FIRST FIELD REPORT</title>
+ <link>http://digitalartscorps.org/node/906</link>
+ <description>&lt;p&gt;Once upon a time I flew into Boston. I had to wait four hours at the airport before I could go home. I was so tired when I woke up the next day, and I was sadened to discover that I hadn&#039;t shaved my legs. I looked like a monkey.&lt;br /&gt;
+love&lt;br /&gt;
+victoria&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/906#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Wed, 20 Jun 2007 20:22:14 +0000</pubDate>
+ <dc:creator>Victoria Edwards</dc:creator>
+ <guid isPermaLink="false">906 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Intel Computer Clubhouse Conference</title>
+ <link>http://digitalartscorps.org/node/810</link>
+ <description>&lt;p&gt;  &lt;span&gt;The Intel Computer Clubhouse conference is a time for Clubhouse Coordinators, Assistants, Executive Directors, and Staff within the network to reconnect and be inspired within their perspective clubhouses.&lt;span&gt;  &lt;/span&gt;This year the windy city was honored to host the Annual Intel Computer Clubhouse Conference from April 23-27, 2007 at the Orrington Hotel in Evanston. Individuals worldwide, from South Africa to Latin America to the Middle East had a chance to visit our wonderful city. They were able to experience Chicago’s diverse cultures and visit the neighbors where the four Intel Comput&lt;/span&gt;&lt;span&gt;er Clubhouses are located: WYTEC (West Garfield), ABJ Community Center (Southside), The Zone HACC (Rogers Park), and Austin YMCA (Austin).&lt;/span&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;The 2007 theme was &lt;/span&gt;&lt;span&gt;Moving Beyond Four Walls.&lt;/span&gt;&lt;span&gt; Attendees showed the connection and collaboration between clubhouses nationwide by showcase a youth video boomerang that bounced from Atlanta to Chicago to Virginia to Miami. Preparations were also made for regional teen summits where teens from Detroit, Chicago, and Missouri will have a chance to work together on collaborative projects. The 2007 conference was truly inspiring beyond the clubhouse walls.&lt;span&gt;   &lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/810#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/206">conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/640">Intel Computer Clubhouse</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Wed, 16 May 2007 18:21:53 +0000</pubDate>
+ <dc:creator>Shaneka Smith</dc:creator>
+ <guid isPermaLink="false">810 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Suiting up for Intel Computer Clubhouse Annual Conference</title>
+ <link>http://digitalartscorps.org/node/724</link>
+ <description>&lt;p&gt;In March of 2006, the Intel Computer Clubhouse Annual Conference was held in Mexico City, Mexico.  I had been involved with WYTEC Clubhouse in Chicago for about 6 months during that time and was still familiarizing myself with the technoloy as well as the learning model of the clubhouse.  Last year&amp;#39;s conference exposed me to new people and creative ideas to implement at my clubhouse, from Flash animation ideas to using a Green Screen in digital photography and video.&lt;/p&gt;
+&lt;p&gt; I am pleased to learn that the annual Intel Computer Clubhouse Conference in 2007 will be here in Chicago.  This conference will give me an opportuinity to reconnect with the individuals I met last year as well as share creative ideas and learn software I am not too familiar with.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/724#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/206">conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/640">Intel Computer Clubhouse</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Tue, 17 Apr 2007 18:04:03 +0000</pubDate>
+ <dc:creator>Shaneka Smith</dc:creator>
+ <guid isPermaLink="false">724 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Suiting up for Intel Computer Clubhouse Annual Conference</title>
+ <link>http://digitalartscorps.org/node/723</link>
+ <description>&lt;p&gt;In March of 2006, the Intel Computer Clubhouse Annual Conference was held in Mexico City, Mexico.  I had been involved with WYTEC Clubhouse in Chicago for about 6 months during that time and was still familiarizing myself with the technoloy as well as the learning model of the clubhouse.  Last year&amp;#39;s conference exposed me to new people and creative ideas to implement at my clubhouse, from Flash animation ideas to using a Green Screen in digital photography and video.&lt;/p&gt;
+&lt;p&gt; I am pleased to learn that the annual Intel Computer Clubhouse Conference in 2007 will be here in Chicago.  This conference will give me an opportuinity to reconnect with the individuals I met last year as well as share creative ideas and learn software I am not too familiar with.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/723#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/206">conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/640">Intel Computer Clubhouse</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Tue, 17 Apr 2007 18:03:59 +0000</pubDate>
+ <dc:creator>Shaneka Smith</dc:creator>
+ <guid isPermaLink="false">723 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

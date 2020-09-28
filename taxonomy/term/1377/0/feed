@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Mozilla</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1377/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Still Storming</title>
+ <link>http://digitalartscorps.org/node/1901</link>
+ <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve almost completed my first goal in developing a system to manage incoming/outgoing technology. I&#039;ve done some research with how other media centers, libraries, universities, and public access stations do this, and found a useful and free system.  Now I&#039;m learning how to become a savvy website administrator!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The system I found is a module within Drupal.  It&#039;s called MERCI, or Manage Equipment Reservations, Checkout and Inventory.  This was developed by the genius minds at OpenMediaProject.org who&#039;s core mission is to bring people more control of their public access channels.  In fact, many of you may be using Open Media&#039;s  tools.  (BAVC, Brookline, Access Humboldt?).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;What I need to make sure of is that I will not leave a burden of a system that no one understands how to change, update, or improve.   To set up anything besides the basic functions will require an IT position to be staffed at the organization.  Expect a screencast or other documentation to help beginner developers get this up and running as a simple, in-house resource for tracking inventory.  Any help or collaboration with this is encouraged!&lt;/p&gt;
+&lt;p&gt;Now that we have visiting instructors that are from outside our organization, the need for educational curriculum on a web-based structure is growing.  Google Apps have been a great way to ween off our internal server.  Google Docs is used to host reports, curriculum and handouts, and share PDFs onto our blog, macsddiy.posterous.com .  Our best program feedback is collected using Google Forms.  An email is sent after every workshop that asks  to identify what we need to to improve workshop and what the community wants to see more of.  I also began a workshop proposal form available on the blog so outside instructors can submit their ideas to us.&lt;/p&gt;
+&lt;p&gt;This week has been by far, the most intense because we host the San Diego Latino Film Festival March 10-20.  I realize that the media lab is a reality thanks to the festival, but right now it&#039;s a major thorn in my side.  I&#039;m constantly resolving annoying IT issues&lt;br /&gt;
+due to outdated equipment and our overuse of printers and bandwidth.  I cannot wait to rebuild some infrastructure when this festival is all done with and get back to why I&#039;m here!&lt;/p&gt;
+&lt;p&gt;I&#039;ll leave on this note:  Mozilla Drumbeat.   Amazing.  DrumbeatSD was an event organized by NewMediaRights.org and Mozilla a few blocks from here.  &quot;Some of the spaces included open data visualization and discussion, open source music and video experimentation, and using technology to enhance our community&#039;s connection with local farms and farmer&#039;s markets.&quot;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1901#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1378">DrumbeatSD</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1375">MERCI</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1377">Mozilla</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1376">open media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <pubDate>Fri, 18 Feb 2011 20:48:27 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1901 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

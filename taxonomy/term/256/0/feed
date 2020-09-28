@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - planning</title>
+ <link>http://digitalartscorps.org/taxonomy/term/256/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>My Favorite Marketing Resources from a VISTA</title>
+ <link>http://digitalartscorps.org/node/1848</link>
+ <description>&lt;p&gt;If you&#039;ve never done a marketing plan, I can definitely point you to some great resources that you should know about right away.&lt;/p&gt;
+&lt;p&gt;Depending on how in-depth you want to get with the marketing plan, a good place to start is a communications audit- this helps you assess the lay of the land and identify potential problem areas. This site is great for that: &lt;a href=&quot;http://www.mediaevaluationproject.org/WorkingPaper1.pdf&quot;&gt;http://www.mediaevaluationproject.org/WorkingPaper1.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The best tool for marketing planning I&#039;ve found is Smart Chart- it takes you through the planning process step-by-step and is absolutely fantastic: &lt;a href=&quot;http://www.smartchart.org/&quot;&gt;http://www.smartchart.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Then, if you&#039;re going to have a social media component to it, you really can&#039;t beat the Idealware Social Media Decision Guide: &lt;a href=&quot;http://www.idealware.org/reports/nonprofit-social-media-decision-guide&quot;&gt;http://www.idealware.org/reports/nonprofit-social-media-decision-guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;These three resources are absolutely fantastic tools that I highly recommend. Anyone else have any good ones?&lt;/p&gt;
+&lt;p&gt;From Morgan Sully:&lt;/p&gt;
+&lt;p&gt;I&#039;m currently developing a Marketing Plan and Schedule for Media Arts Center San Diego and two things I found useful are:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.marketingrealestatemadeeasy.com/marketing-schedule.html&quot; title=&quot;http://www.marketingrealestatemadeeasy.com/marketing-schedule.html&quot;&gt;http://www.marketingrealestatemadeeasy.com/marketing-schedule.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://masterful-marketing.com/small-business-marketing-plan/&quot; title=&quot;http://masterful-marketing.com/small-business-marketing-plan/&quot;&gt;http://masterful-marketing.com/small-business-marketing-plan/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1347">communications audit</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1346">idealware</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/59">marketing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/994">social media</category>
+ <pubDate>Mon, 27 Sep 2010 15:52:23 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1848 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A desk of my own</title>
+ <link>http://digitalartscorps.org/node/1622</link>
+ <description>&lt;p&gt;Yay! I have a desk.  It&#039;s made a bigger difference than I expected in my productivity and excitement about coming in to work some mornings.  The feel of having even a little space that&#039;s more or less my own is great... maybe I&#039;ll even put a few things on the wall in the next few weeks!  In the end, it just took me realizing that it would make a difference to me, and then deciding to establish myself at this unused desk.  Good stuff.&lt;/p&gt;
+&lt;p&gt;In terms of work, the excitement(?) of this past month has been learning my way around the intricacies of Salesforce, the Customer Relationship Management (CRM) platform my organization uses to track everything and everyone they have contact with.&lt;/p&gt;
+&lt;p&gt;I&#039;m working on a system using outside PHP code with Salesforce code and internal pages to sync with MySQL database tables. The goal is to manage the database that will display event calendars on our new website, and also let volunteers interact with that database from the backend to create radio versions of those calendars. Oh yeah, and match up the event venues with our records for those venues and their underwriting / sponsorship history.  No problem.&lt;/p&gt;
+&lt;p&gt;We&#039;ve also finished strategic planning here for the next year, including a detailed action plan for my project, rebuilding the website.  That means that for the last few weeks we&#039;ve had two separate timelines to try to follow -- this action plan and my VAD. I just spent this afternoon coordinating those, which happened more smoothly than I expected. So this month, and here on out, I&#039;ll have just one timeline to follow.  That will be good, since trying to coordinate with both meant that I often wasn&#039;t totally satisfying either; the unexpected complications of some steps didn&#039;t help.&lt;/p&gt;
+&lt;p&gt;Our fall pledge drive starts in just a few days. Those next ten days will be something of a flashback to my first week here, which happened to also be the special one-week summer pledge drive that happened this year. It&#039;s nice to think that I&#039;m so well settled in here now, know my coworkers and my way around, and just generally the way things work. (It&#039;s also exciting because there&#039;s tons of great food in the office to tempt the &#039;round the clock phone volunteers; I may not have to buy food for two weeks!)&lt;/p&gt;
+&lt;p&gt;That&#039;s it for now... happy to be transitioning into a more active phase of my year, actually starting to make decisions and build working systems instead of always being in research mode.  And still thinking about next year... I know from experience that there will be plenty of questions about that when I visit family over the holidays!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1622#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1150">kdhx</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1183">salesforce</category>
+ <pubDate>Mon, 02 Nov 2009 23:25:12 +0000</pubDate>
+ <dc:creator>Robyn Haas</dc:creator>
+ <guid isPermaLink="false">1622 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Creating institutional memory</title>
+ <link>http://digitalartscorps.org/node/876</link>
+ <description>&lt;p&gt;Recently I&#039;ve been working on improving how the CTC VISTA Project stores its files, and thus, how we maintain a memory of what we&#039;ve done irrespective of who did it.  For VISTAs, that&#039;s crucial because we&#039;re, by definition, here today and gone tomorrow (or a year from today).&lt;/p&gt;
+&lt;p&gt;To begin, I&#039;m working on implementing a central file-server where we can house all of our documents, both archived and current.  We&#039;re using the University&#039;s Apple XServe and I&#039;m working to make sure that everyone at HQ has a login and just as important, &lt;em&gt;knows how to connect and use it&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In the past, all of our documents have been stored on our local machines and flung at eachother as email attachments.  Recently we&#039;ve been using Google Documents because its collaborative editing makes versioning a breeze (ever tried to merge changes from five different people), but since we&#039;re all using our personal Google accounts and sharing documents, I&#039;m scared at what happens when the document creator leaves the VISTA Project.  I&#039;ve played around with Google for Domains, but for most of us, editing with a desktop application, like Microsoft Office or Open Office, is easiest.  Workflow optimization is key, and if we&#039;re distributing these documents as files, importing and exporting from Google can become a major headache.&lt;/p&gt;
+&lt;p&gt;I originally got the idea for this from the &lt;a href=&quot;http://www.benton.org/?q=publibrary&quot;&gt;Benton Foundation&lt;/a&gt;&#039;s &lt;a href=&quot;http://www.benton.org/publibrary/stratcom/techlit.pdf&quot;&gt;Technology Literacy Benchmarks for Nonprofits&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/876#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/204">resources</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/699">storage</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/902">sustainability</category>
+ <pubDate>Sat, 02 Jun 2007 18:18:20 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">876 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Shortsightedness</title>
+ <link>http://digitalartscorps.org/node/739</link>
+ <description>&lt;p&gt;Have you ever done something quick and dirty even though doing things &amp;quot;the right way&amp;quot; would only take a little more time? Maybe you didn&amp;#39;t have a little more time? Of course. Haven&amp;#39;t we all?&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s an example. Recently, I was creating a conference registration form for a client on her Plone-based site. Ideally, the client would have created and maintained the registration form herself, since the tool we were using has a graphical form creation interface. However, the documentation for the tool we were using was out of date. I thought about updating the documentation at that time and then helping the client through it, but that would have required a lot more time than just setting up the form myself. Also, I was going to be out of town shortly (for the NTEN conference) and the client wanted to start accepting conference registrations as soon as possible. In the circumstances, it seemed a reasonable solution for me to create the form, so I did. Many form tweaks later, I think I have spent more time on updating the form than it would have taken to update the documentation, which could have helped others besides just this client.&lt;/p&gt;
+&lt;p&gt;I think many things in life are like &lt;a href=&quot;http://en.wikipedia.org/wiki/Sliding_puzzle&quot;&gt;sliding puzzles&lt;/a&gt; -- you may have to suffer temporary &amp;quot;setbacks&amp;quot; (moving blocks out of the correct positions) in order to get the optimal end result. Maybe the trick is not to think of them as setbacks but as steps toward a goal. I have started trying to be very conscious of how I do things. If it will make things better or more efficient in the future, I want to choose to spend more time up front for foundational work. It is challenging to try to work according to a long term vision rather than according to what seems most pressing at the moment. &lt;/p&gt;
+&lt;p&gt;One challenge is when your organization as a whole doesn&amp;#39;t really support it. (Do any?) Here&amp;#39;s what I have noticed often happens when employees want to work on improving their organization in big picture ways:&lt;br /&gt;
+&lt;table border=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Employee&lt;/em&gt; - Hey, I was thinking that we should have a system for organizing our files so everyone can access them easily instead of having them scattered in disarray on our server and our website and old emails. &lt;br /&gt;&lt;em&gt;Boss&lt;/em&gt; - That would be great. You should set that up.&lt;br /&gt;&lt;em&gt;Employee&lt;/em&gt; - Will I be able to spend a little time away from my current projects to do it?&lt;br /&gt;&lt;em&gt;Boss&lt;/em&gt; - You know how important our work is -- we just can&amp;#39;t afford to take time away from it.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/p&gt;&lt;p&gt;And the boss has to think about things like if grantmakers will be ok with his/her organization having less immediate results because the organization was focusing on long-term effectiveness. (Also, it may be particularly difficult for nonprofits to take &amp;quot;time out&amp;quot; to become more efficient because if they&amp;#39;re not spending all their effort heads-down on mission work children will starve or trees will get cut down or... But what about the children etc you aren&amp;#39;t getting to help because your organization is not efficient enough?)&lt;/p&gt;
+&lt;p&gt;Or perhaps acting with the big picture in mind doesn&amp;#39;t lead to greater productivity and less stress as I imagine it would, because of the increased effort/costs required. What do you think? Is your organization shortsighted (not that you need to have a simple yes/no answer)? How does this impact the work that you do?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/739#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/658">shortsightedness</category>
+ <pubDate>Tue, 24 Apr 2007 21:43:51 +0000</pubDate>
+ <dc:creator>cheryl jerozal</dc:creator>
+ <guid isPermaLink="false">739 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Nonprofit Competition &amp; Concept Map</title>
+ <link>http://digitalartscorps.org/node/235</link>
+ <description>&lt;p&gt;At this summer&#039;s CTCnet Conference the thing I most took away--or rather, repeated to the most number of people--was something said by the keynote speaker, Ami Dar, the creator of Idealist.org.&lt;/p&gt;
+&lt;p&gt;He was asked by someone in the crowd something along the lines of &quot;In what areas do you want to see nonprofits develop into the future?&quot;&lt;/p&gt;
+&lt;p&gt;Ami Dar responded that an area that he saw as important was &lt;strong&gt;acknowledgement of nonprofit competition&lt;/strong&gt;.  His brilliant reasoning was this:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;In for-profit companies, everyone accepts that competition takes place; it&#039;s a given.  Businesses identify the areas in which they compete, and from this, also gain an understanding of the areas in which they &lt;em&gt;don&#039;t&lt;/em&gt; compete. In the areas in which they don&#039;t compete, businesses can cooperate.  Nonprofits, in general, are not aware of, or acknowledge that they compete (and they do), and because of this, they cannot collabrate as efficiently or as effectively as possible.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;My own example of this is the Detroit automakers.  Ford and GM are incredibly competitive in car production, features, pricing, dealerships, etc.  But at the same time, they have an incredibly strong combined lobby for setting safety and emission standards, things that affect the entire industry.  They know where they compete and therefore know where they can work together.&lt;/p&gt;
+&lt;p&gt;So this has been rattling around in my head until I read two things:&lt;/p&gt;
+&lt;p&gt;This first was &lt;a href=&quot;http://www.amazon.com/Learning-How-Learn-Joseph-Novak/dp/0521319269/sr=8-1/qid=1161788036/ref=pd_bbs_1/104-3768589-3995934?ie=UTF8&amp;amp;s=books&quot;&gt;&quot;Learning How to Learn&quot; by Joseph D. Novak, D. Bob Gowin, and Jane Butler Kahle&lt;/a&gt;, which lays out some very interesting models and heuristics for visualizing information.&lt;/p&gt;
+&lt;p&gt;The second was &lt;a href=&quot;http://www.sauder.ubc.ca/faculty/research/docs/weinberg/ISM_2000.pdf&quot;&gt;A Typology of Nonprofit Competition: Insights for Social Marketers&lt;/a&gt; by Robin J. Ritchie and Charles B. Weinberg.&lt;/p&gt;
+&lt;p&gt;Putting them together, I made this using OmniGraffle:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ctcvista.org/files/Typology_of_Nonprofit_Competition-concept_map.pdf&quot;&gt;Download the PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/bensheldon/272577537/&quot; title=&quot;Photo Sharing&quot;&gt;&lt;img src=&quot;http://static.flickr.com/118/272577537_df531ea720.jpg&quot; width=&quot;393&quot; height=&quot;500&quot; alt=&quot; Typology of Nonprofit Competition&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/235#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/252">competition</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/253">management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/180">Nonprofit</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/254">operations</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/255">strategy</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Typology_of_Nonprofit_Competition-concept_map.pdf" length="247663" type="application/pdf" />
+ <pubDate>Wed, 25 Oct 2006 14:57:54 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">235 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

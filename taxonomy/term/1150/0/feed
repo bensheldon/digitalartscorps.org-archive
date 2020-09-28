@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - kdhx</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1150/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community + Media = an awesome new website</title>
+ <link>http://digitalartscorps.org/node/1693</link>
+ <description>&lt;p&gt;&quot;The mission of KDHX is to build community through media, with diverse and independent voices that enrich the perspectives of our audiences.&quot;&lt;/p&gt;
+&lt;p&gt;Here at KDHX we&#039;re finishing up a brand-new website. It&#039;s been a year-long project, starting from surveys, research, and whiteboard brainstorms and ending up with a website that will help KDHX fulfill its mission in new ways.&lt;/p&gt;
+&lt;p&gt;What makes this new website great is that it takes &quot;community through media&quot; to a new level. It provides a new, rich medium through which KDHX DJs, programmers, and producers can deliver and add to their content. At the same time, it creates a space for people to engage with that media and continue the conversation. This means a far richer experience than a website that&#039;s just about the social aspect, just about posting media, or just has information about an organization.&lt;/p&gt;
+&lt;p&gt;I was really quite intimidated by the scope of the project when we started a year ago. Having been in charge of quite a few areas in which I had no background or experience, I&#039;ve learned an incredible amount over the past year (probably more practical development skills than I gained in four years of college). Reading back over some email exchanges and some meeting notes from the beginning of the project reminds me of just how far we&#039;ve come.&lt;/p&gt;
+&lt;p&gt;One of the hardest and most rewarding things we had to do actually had nothing to do with technology. KDHX encompasses a quite diverse group of people; the staff members, volunteers, DJs, producers, interns, and community members I have worked with and consulted brought a wide range of ideas, needs, and passions to the project. This variety is a huge asset to the project and the organization, but coordinating and aligning such different opinions was a challenge. We&#039;ve had to make sure that everyone&#039;s opinion is heard and taken into account while keeping the resulting website from ending up as just the least common denominator of all of these inputs, and it&#039;s great to feel that we&#039;ve accomplished that.&lt;/p&gt;
+&lt;p&gt;I&#039;m thankful to have had the opportunity to work here with such fun people! My year as an AmeriCorps VISTA is up, but my experiences of both community and media at here at KDHX are an ongoing gift.&lt;/p&gt;
+&lt;p&gt;[This is actually a post I wrote for our organization&#039;s blog to sum up my year here. The new website is at next.kdhx.org!]&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1693#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1150">kdhx</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1258">new website</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1259">wrapup</category>
+ <pubDate>Fri, 23 Jul 2010 22:00:42 +0000</pubDate>
+ <dc:creator>Robyn Haas</dc:creator>
+ <guid isPermaLink="false">1693 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A desk of my own</title>
+ <link>http://digitalartscorps.org/node/1622</link>
+ <description>&lt;p&gt;Yay! I have a desk.  It&#039;s made a bigger difference than I expected in my productivity and excitement about coming in to work some mornings.  The feel of having even a little space that&#039;s more or less my own is great... maybe I&#039;ll even put a few things on the wall in the next few weeks!  In the end, it just took me realizing that it would make a difference to me, and then deciding to establish myself at this unused desk.  Good stuff.&lt;/p&gt;
+&lt;p&gt;In terms of work, the excitement(?) of this past month has been learning my way around the intricacies of Salesforce, the Customer Relationship Management (CRM) platform my organization uses to track everything and everyone they have contact with.&lt;/p&gt;
+&lt;p&gt;I&#039;m working on a system using outside PHP code with Salesforce code and internal pages to sync with MySQL database tables. The goal is to manage the database that will display event calendars on our new website, and also let volunteers interact with that database from the backend to create radio versions of those calendars. Oh yeah, and match up the event venues with our records for those venues and their underwriting / sponsorship history.  No problem.&lt;/p&gt;
+&lt;p&gt;We&#039;ve also finished strategic planning here for the next year, including a detailed action plan for my project, rebuilding the website.  That means that for the last few weeks we&#039;ve had two separate timelines to try to follow -- this action plan and my VAD. I just spent this afternoon coordinating those, which happened more smoothly than I expected. So this month, and here on out, I&#039;ll have just one timeline to follow.  That will be good, since trying to coordinate with both meant that I often wasn&#039;t totally satisfying either; the unexpected complications of some steps didn&#039;t help.&lt;/p&gt;
+&lt;p&gt;Our fall pledge drive starts in just a few days. Those next ten days will be something of a flashback to my first week here, which happened to also be the special one-week summer pledge drive that happened this year. It&#039;s nice to think that I&#039;m so well settled in here now, know my coworkers and my way around, and just generally the way things work. (It&#039;s also exciting because there&#039;s tons of great food in the office to tempt the &#039;round the clock phone volunteers; I may not have to buy food for two weeks!)&lt;/p&gt;
+&lt;p&gt;That&#039;s it for now... happy to be transitioning into a more active phase of my year, actually starting to make decisions and build working systems instead of always being in research mode.  And still thinking about next year... I know from experience that there will be plenty of questions about that when I visit family over the holidays!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1622#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1150">kdhx</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1183">salesforce</category>
+ <pubDate>Mon, 02 Nov 2009 23:25:12 +0000</pubDate>
+ <dc:creator>Robyn Haas</dc:creator>
+ <guid isPermaLink="false">1622 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - rss</title>
+ <link>http://digitalartscorps.org/taxonomy/term/267/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How To Create an RSS Feed from Any Webpage</title>
+ <link>http://digitalartscorps.org/node/976</link>
+ <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: I did NOT write this post.  I found it on Robin Good&#039;s post: &lt;em&gt;How To Create A RSS Feed From Any Web Page&lt;/em&gt; (you can scroll to the bottom of this post for the link if you like.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Sooner or later, and maybe without even knowing the technical terms required to communicate this to someone else, you will want to subscribe and monitor web sites, information pages, or online catalog sections on an ongoing basis. &lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;RSS_icon.gif&quot; src=&quot;http://www.masternewmedia.org/images/RSS_icon.gif&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You have heard about RSS, webfeeds, Atom and other apparently not too clear tech terms describing something that did sound like what you are really in need of now, but even with all of your best will you wouldn&#039;t how or where to start given that those pages you have identified do not sport any orange colored button or icon hinting to a proper RSS feed. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can do you generate an RSS feed for a web page&lt;/strong&gt; that doesn&#039;t have one?&lt;/p&gt;
+&lt;p&gt;Can anyone do this on her own?&lt;/p&gt;
+&lt;p&gt;The answer to both is a resounding YES!&lt;/p&gt;
+&lt;p&gt;Today, thanks to new &quot;&lt;strong&gt;html scraping&lt;/strong&gt;&quot; services available to everyone, &lt;a name=&quot;0764588486&quot; id=&quot;amzn_cl_link_0&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0764588486?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0764588486&amp;amp;adid=2eab9559-a971-4af0-8327-3553b422c568&quot;&gt;RSS feeds&lt;/a&gt; can be automatically generated for just about any web site, no matter what kind of layout, coding or language it is written in. In some situations, to create a standard RSS feed from any web page that does not have one may take less than a minute, while in other cases, where your needs for customization are higher, you may need to spend a little more time. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Morale of the story&lt;/strong&gt;: any web page today can be made to generate a RSS feed automatically. By the owner or, as it will increasingly happen, by someone else who wants to be informed in near-real-time of any news and content updates made on it.&lt;/p&gt;
+&lt;p&gt;Here the details:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;div id=&quot;gads&quot;&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;div id=&quot;text&quot; style=&quot;float: left; width: 580px;&quot;&amp;gt;&lt;br /&gt;
+&lt;a name=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;img alt=&quot;RSS_yahoo_my_rssaddress_350.gif&quot; src=&quot;http://www.masternewmedia.org/images/RSS_yahoo_my_rssaddress_350.gif&quot; height=&quot;231&quot; width=&quot;350&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HTML scraping&lt;/strong&gt; or the ability to automatically generate a standard RSS feed from a HTML document (a web page) that does not have one has been a new type service under increasing demand for over 2 years now.&lt;/p&gt;
+&lt;p&gt;Early services (e.g.: MyRSS) that offered HTML scraping later disappeared or were replaced by other more profitable ones. Creating an automatic RSS feed from a non-RSS enabled web page enables a number of truly useful potential applications and I am sure that such services will enjoy soon greater marketplace rewards. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FeedYes&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feed_yes.gif&quot; src=&quot;http://www.masternewmedia.org/images/feed_yes.gif&quot; height=&quot;25&quot; width=&quot;170&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+FeedYes is the latest entry in this small group of online services which allow anyone to create/ generate automatically a RSS feed for any web page. FeedYes, has really found a simple and truly effective route to simplify this task while providing good enough a solution to satisfy most needs. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;While it is not perfect&lt;/strong&gt;, it is damn good and fast at doing what it does. It is alos rather simple to use, and once you have gone through it once, creating a second feed for another site, may take literally only a few seconds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.FeedYes.com/&quot;&gt;FeedYes&lt;/a&gt; is a three-step process that involves a) providing the URL of the page out of which an automatic &lt;a name=&quot;0596008813&quot; id=&quot;amzn_cl_link_1&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0596008813?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0596008813&amp;amp;adid=270b00e1-a673-4f02-9a99-16627d632147&quot;&gt;RSS&lt;/a&gt; feed needs to be created, b) indicating among the dynamic links found by FeedYes on the specifiied URL, which one is the first that refers to the content section that you are interested in (all web pages have different content sections in the same page, and you probably do not want to create a feed for the comments section or for the most recent articles appearing on the same site), c) indicating in the updated list of links FeedYes will spit out the last relevant link pertaining to your selected content section.&lt;/p&gt;
+&lt;p&gt;In this way, FeedYes isolates with good precision (you are the one effectively guiding) the specific content section you are interested in (say the Latest News) and creates an RSS feed for it.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Feed43&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feed43_logo.gif&quot; src=&quot;http://www.masternewmedia.org/images/feed43_logo.gif&quot; height=&quot;45&quot; width=&quot;177&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.Feed43.com/&quot;&gt;Feed43&lt;/a&gt; is an online service that converts standard web pages or XML documents to RSS feeds. Feed43 does so by extracting snippets of text or HTML by applying specific search patterns to the document from which the feed needs to be extracted. The search patterns help Feed43 understand exactly which content to grab from a page and which not. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This allows for a much more precise control&lt;/strong&gt; of what will be contained in a feed at the expense of the ease of use and accessibility of the overall product itself. For technically savvy users this is in fact an excellent and very reliable approach to RSS feed generation but for non-technical users Feed43 may scare off lots of users in a matter of minutes. &lt;/p&gt;
+&lt;p&gt;In Feed43 the set of steps required to create a custom RSS feed for a web page that has none are as follows:&lt;br /&gt;&lt;br /&gt;
+a) &lt;strong&gt;Identify&lt;/strong&gt; the web page from which to generate a RSS feed.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;b) &lt;strong&gt;Create&lt;/strong&gt; a RSS feed on Feed43 pointing to that web page.&lt;br /&gt;&lt;br /&gt;
+c) &lt;strong&gt;Define&lt;/strong&gt; search patterns required.&lt;br /&gt;&lt;br /&gt;
+d) &lt;strong&gt;Specify&lt;/strong&gt; output templates required.&lt;br /&gt;&lt;br /&gt;
+e) &lt;strong&gt;Generate&lt;/strong&gt; the new RSS feed. &lt;/p&gt;
+&lt;p&gt;All feeds created with Feed43 are &quot;public&quot;, but optionally Feed43 also allows you to protect any newly created RSS feed with a password. The service is free.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a name=&quot;0470017198&quot; id=&quot;amzn_cl_link_3&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0470017198?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0470017198&amp;amp;adid=9fa3453c-7989-4a46-8ccd-7264ecf00037&quot;&gt;FeedFire&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feedfire_logo_170.gif&quot; src=&quot;http://www.masternewmedia.org/images/feedfire_logo_170.gif&quot; height=&quot;39&quot; width=&quot;170&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;FeedFire is the oldest&lt;/strong&gt; of these HTML-to-RSS services allowing anyone to automatically create a RSS news feed for any Web site that does not have one.&lt;/p&gt;
+&lt;p&gt;You simply register at FeedFire, input the URL of the page and FeedFire dos the rest for you in the fraction of a second. All that&#039;s needed is a FULL URL to the page you would like to have made into RSS. All bandwidth costs to host the new RSS feeds are absorbed by FeedFire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FeedFire also allows to sponsor&lt;/strong&gt; newly created RSS feeds. this can be done by anyone like me and you, who are not major corporations but people who are looking for a clever, considered and comprehensively featured service that allows them to add extra reach, exposure, visibility and unique content to others and/or to THEIR own web site. &lt;/p&gt;
+&lt;p&gt;RSS feeds created and sponsored with FeedFire can also be made private, and used for creating intelligence reports or RSS learning objects or RSS newsmastering channels containing information otherwise inaccessible to others.&lt;/p&gt;
+&lt;p&gt;Sponsored feeds can be further filtered by allowing the sponsor to select only news items that &quot;include&quot; or do not have specific keywords. It is also possible to customize the number of news items displayed in the sponsored feed, the number of words per news item and even the title and the description of the newly created RSS feed. The varying levels of sponsorship have increasingly higher levels of features and customisation.&lt;/p&gt;
+&lt;p&gt;&quot;&lt;/p&gt;
+&lt;p&gt;This was taken from: &lt;a href=&quot;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&quot; title=&quot;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&quot;&gt;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/789">API</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Thu, 12 Jul 2007 00:30:14 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">976 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Firefox 2.0 Add-ons</title>
+ <link>http://digitalartscorps.org/node/236</link>
+ <description>&lt;div&gt;Firefox is currently the most popular (&lt;a href=&quot;http://socialsourcecommons.org/tool/by_popularity&quot;&gt;http://socialsourcecommons.org/tool/by_popularity&lt;/a&gt;) tool in  SSC, so it&amp;#39;s pretty big news that Firefox 2.0 was released yesterday.  I updated  my version yesterday afternoon and so far it&amp;#39;s been working great for me.  More  importantly, I haven&amp;#39;t noticed any problems with SSC since I&amp;#39;ve been using it,  although I will still be doing more testing.&lt;/div&gt;
+&lt;p&gt; 
+&lt;div&gt;Along with the launch of Firefox 2.0, there has been an increase in  activity among blogs and bookmarking sites listing add-ons for Firefox, most of  which I&amp;#39;ve encorporated in Firefox&amp;#39;s Useful Links field (&lt;a href=&quot;http://socialsourcecommons.org/tool/show/51/support&quot;&gt;http://socialsourcecommons.org/tool/show/51/support&lt;/a&gt;).&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt; 
+&lt;div&gt;Most add-ons can be found through Firefox&amp;#39;s website (&lt;a href=&quot;https://addons.mozilla.org/firefox/&quot;&gt;https://addons.mozilla.org/firefox/&lt;/a&gt;).  In particular,  Firefox&amp;#39;s website has a list of recommended add-ons (&lt;a href=&quot;https://addons.mozilla.org/firefox/recommended/&quot;&gt;https://addons.mozilla.org/firefox/recommended/&lt;/a&gt;).  I&amp;#39;ll be  exploring a few of these for my personal use.  So far, I&amp;#39;ve been using Sage (&lt;a href=&quot;https://addons.mozilla.org/firefox/77/&quot;&gt;https://addons.mozilla.org/firefox/77/&lt;/a&gt;) as my RSS reader  and Google&amp;#39;s Browser Sync (&lt;a href=&quot;http://www.google.com/tools/firefox/browsersync/&quot;&gt;http://www.google.com/tools/firefox/browsersync/&lt;/a&gt;) so that I  can use the same bookmarks on both my home and work computers.&lt;/div&gt;
+&lt;/p&gt;</description>
+ <comments>http://digitalartscorps.org/node/236#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/264">add-ons</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/263">firefox</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/265">ssc</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/266">web-browser</category>
+ <pubDate>Wed, 25 Oct 2006 18:42:19 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">236 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>RSSin&#039; across the Universe...</title>
+ <link>http://digitalartscorps.org/node/225</link>
+ <description>&lt;p&gt;&amp;quot;There&amp;#39;s newsfeeds on the starboard bow!  Starboard bow!  Starboard bow!&amp;quot;  &amp;lt;ahem&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(If you don&amp;#39;t get the joke, click &lt;a href=&quot;http://www.youtube.com/watch?v=4GA1zCH0tvc&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Anyway, I&amp;#39;ve been spending much of my time recently having fun with RSS. Much of what I&amp;#39;m doing is searching for information around the web that I can aggregate onto Social Source Commons, and naturally blogs are very helpful to this task, as are the official websites for the tools.  I&amp;#39;ve also been signing up for Google Alerts, and getting e-mail whenever a new hit on Google results for my search terms. &lt;/p&gt;
+&lt;p&gt;Since I&amp;#39;ve been using Firefox primarily, I downloaded Sage and have been using that.   It seems to work fairly well, but I&amp;#39;d be interested in hearing what other RSS readers people are using.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/225#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/270">newsfeeds</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/268">newsreaders</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/269">sage</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <pubDate>Fri, 20 Oct 2006 21:52:00 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">225 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

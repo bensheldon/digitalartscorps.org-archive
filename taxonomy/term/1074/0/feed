@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - structure</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1074/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month 8: Internal Improvements &amp; Video Training Advice</title>
+ <link>http://digitalartscorps.org/node/1495</link>
+ <description>&lt;p&gt;Feb-Mar was a time of organizational self-assessment.  I was part of, or led, several discussions about needs for the IMC, including grants, involvement with social justice issues locally, more public-access computers, reliable building maintenance, and perhaps, most importantly, the consistent presence of volunteers to be available to staff the main space meeting areas to answer visitors&#039; questions.  This was the month when early winter conversations started to yield actual volunteer mobilization, in the form of a Community Connections group, to assess the relevance and accessibility of the organization to visitors and members, staffing of the building for increased hours, a functional library with more public computers (running &lt;a href=&quot;http://www.ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt;), and 1-day projects to inspire people to work together.&lt;/p&gt;
+&lt;p&gt;I planned and facilitated a volunteer workday with the University of Illinois Alternative Spring Break club, who came to the IMC to help a) catalog our library collection; b) catalog and organize our radio station&#039;s music collection; and c) move boxes of books for our twice-a-year Books to Prisoners book sale.  Trainings on video and audio editing continued, culminating in another set of productions for UPTV.  Even though the IMC hosts many concerts, a real highlight this month was &lt;a href=&quot;http://www.royzimmerman.com/&quot;&gt;Roy Zimmerman&lt;/a&gt;, a clever and entertaining singer-satirist who was kind and fun to work with.&lt;/p&gt;
+&lt;p&gt;In all, this was a month of vision, mobilizing others, and meetings.  The IMC is filled with people who have more ideas than they seem to be able to implement, and as a VISTA I am often the person they share every new inspiration and request with.  It is, in turns, distracting or informative.&lt;/p&gt;
+&lt;p&gt;Due to our members being so over-extended and busy, and due to the DIY ethic of the IMC itself, I have relied upon a very simple format for teaching video editing, which I would like to share.  This is crucial if you have people asking you for training who are also expecting to immediately begin working on their pet project.  I often receive these types of requests from activists and academics who have already filmed a bunch of events, or long lectures, and want to turn it into an informative video after the fact.  I just tell them that there are essentially only five elements to editing a digital video (outside of planning a video, which is different):&lt;/p&gt;
+&lt;p&gt;1) Cuts: Cut the scenes that you need to include to tell your story; nothing more, nothing less.&lt;br /&gt;
+2) Arrange: Re-order the scenes creatively to maximize your message, or merely arrange them chronologically for a simple educational video.&lt;br /&gt;
+3) Transitions: Decide the types and lengths of transitions between scenes (i.e. crossfades, dissolve, etc.)&lt;br /&gt;
+4) Captions or Titles: Add text and/or still images for clarity and information, or to break up scenes.&lt;br /&gt;
+5) Audio: Normalize, remove or gate unwanted noise, clean up hum/buzz; then add any necessary music, overdubs, or voice-overs - making sure to keep levels balanced.  Also, make sure audio is in sync with video!&lt;/p&gt;
+&lt;p&gt;This is a really simple approach that is ideal for quick learning and for basic, educational videos that are not aiming to be grand cinema - perfect for citizen journalism, YouTube, event documentation, and anything that prizes speed and accessibility over perfectionism and budget.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1495#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/564">assessment</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1074">structure</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/599">video production</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/851">volunteer coordination</category>
+ <pubDate>Sat, 09 May 2009 06:43:34 +0000</pubDate>
+ <dc:creator>Stephen Fonzo</dc:creator>
+ <guid isPermaLink="false">1495 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

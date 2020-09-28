@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - web</title>
+ <link>http://digitalartscorps.org/taxonomy/term/460/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Site Planning: Tips and Resources for Planning Your Site</title>
+ <link>http://digitalartscorps.org/node/1005</link>
+ <description>&lt;p&gt;I cannot emphasize enough, the importance of PLANNING OUT YOUR WEBSITE.  Before you can even start thinking about what the colors will be, you need to have a few things in place.  3 i can readily think of are:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Site Plan&lt;/li&gt;
+&lt;li&gt;A Site Map Diagram&lt;/li&gt;
+&lt;li&gt;A User Experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sustainability plays a large part in the success of the technology chosen and implemented.  In fact, it shouldn&#039;t even be &#039;a part&#039; of, it should be INTRINSIC to your site throughout it&#039;s development. &lt;/p&gt;
+&lt;p&gt;Web maintenance is a pretty big one - for instance, what happens if you&#039;ve coordinated a bright, fresh and dynamic team to help out on your site, but one of them gets hired off someplace else?  What if your graphic designer (for banners, buttons, etc.) is having more difficulty than originally anticipated or they simpy can&#039;t finish the work?  These instances are particularly taxing if your team is a group of VOLUNTEERS.  Volunteers can be notorious (through no fault of their own) at &#039;dropping off&#039; a project.   Will you, as the sole coordinator have the strategy, skills and time in place to &#039;fill in&#039;?  This can often happen (as I&#039;ve been taken to task to many a time).  Nothing is more taxing then if a website or listserv goes down RIGHT before a critical fundraising campaign (which will happen).  Have a plan for this.  Have back up documentation of what they were doing, and when?  How far a long were they?  What did the develop/what did they NOT develop?&lt;/p&gt;
+&lt;p&gt;A key thing that can help off set these things (and empower YOU as a web team coordinator) is to have a Site Plan - any designer should be able to have this on hand and have it transparent and viewable by ALL interested parties - executive board, support staff, consultants (if you&#039;re not fortunate enough to have in-house web staff), funder$...&lt;/p&gt;
+&lt;p&gt;I&#039;m currently developing the site for &lt;a href=&quot;http://www.namac.org&quot; title=&quot;NAMAC&quot;&gt;NAMAC&lt;/a&gt;, but it is a HUGE undertaking with A LOT of planning that&#039;s going into it - discussion, visioning, functionality, user roles, modules needed, interaction workflow, meeting with each staff member individually, pre-launch steps, live launch monitoring, sustainability and optimization  - and we haven&#039;t even gotten to the design aesthetics yet.&lt;/p&gt;
+&lt;p&gt;Without further ado and blathering, here&#039;s a few notes on some things that I think are pretty basic and key to web development.  This is by no mean exhaustive, but you can certainly search for other &lt;a href=&quot;http://ctcvista.org/search/node/%22web+development%22&quot; title=&quot;web development tips&quot;&gt;web development tips on our site&lt;/a&gt;...&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;A Site Plan&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&quot; title=&quot;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&quot;&gt;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is my General Plan for the current site.  I&#039;ve made sure to have it public so interested parties (org directors, staff, consultants) can see it and comment on it.  I asked each person what they&#039;d like to see, asked them how and if they would interact with a particular functionality and then composed a report with all of their input in it.  I am in CONSTANT communication with them about how the new site will function, how the planning is going, what purpose the site/functionality will serve, and IF a certain functionality they&#039;ll want is doable and/or &lt;em&gt;necessary&lt;/em&gt; - this part is huge - the more functionality, the more troubleshooting down the road.  &lt;/p&gt;
+&lt;p&gt;A general rule of thumb when developing is the 3 T&#039;s of Site Building (or any other tech project for that matter).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tell them what you are planning on doing (when you&#039;re planning it)&lt;/li&gt;
+&lt;li&gt;Tell them you are doing it (when you are doing it)&lt;/li&gt;
+&lt;li&gt;Tell them that you did (when you are done)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That way there&#039;s no &#039;What?  I didn&#039;t okay this!&#039; from a frustrated laissez-faire client/director or &#039;But we had &lt;em&gt;talked&lt;/em&gt; about it before&#039; from an equall frustrated and head-strong developer.  I&#039;d add that keeping up an online document that EVERYONE can see will also make sure that everyone is on the same page - as well as help YOU as a designer/planner be able to refer back to and track your work.&lt;/p&gt;
+&lt;p&gt;***NOTE: as a VISTA, an online accessible/public document gives your directors/supervisors a way to reference the great work that you, as a VISTA are doing - mine are sending the link above to funders to show them what we are up to***&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;A Site Map Diagram&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&quot; title=&quot;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&quot;&gt;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&lt;/a&gt;&lt;br /&gt;
+An example of a site map diagram.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.gliffy.com/&quot; title=&quot;http://www.gliffy.com/&quot;&gt;http://www.gliffy.com/&lt;/a&gt;&lt;br /&gt;
+You can draw out a diagram map of your site with this tool (NOT to be confused with an XML SITEMAP by the way).  This is GREAT for working with distributed teams.  &lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;br /&gt;
+A User Experience Workflow&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://www.jjg.net/elements/pdf/elements.pdf&quot; title=&quot;http://www.jjg.net/elements/pdf/elements.pdf&quot;&gt;http://www.jjg.net/elements/pdf/elements.pdf&lt;/a&gt;&lt;br /&gt;
+The above provides a great visual of the user design experience process.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&quot; title=&quot;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&quot;&gt;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&lt;/a&gt;&lt;br /&gt;
+This (i like this one even better) provides another view of the design process).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, I hope this helps some of you VISTAs out there.  Like i said, this is by no means an exhaustive resource of planning tips, but hopefully it&#039;s enough to get you started on your way to website planning nirvana.&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+peace,&lt;br /&gt;
+m&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/460">web</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Elements of User Experience.pdf" length="16945" type="application/pdf" />
+ <pubDate>Wed, 25 Jul 2007 23:44:05 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1005 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Happy New Year and All That Jazz!  Jingle,Jingle,Jingle!</title>
+ <link>http://digitalartscorps.org/node/374</link>
+ <description>&lt;p&gt;Happy New year everyone. I hope everyone had a happy New Year. My new year is as busy as my end of the year events were. First let me say that the Pink House kids are great. The staff I&amp;#39;m working with are great. My supervisor is great and as busy as I am. We just recently got 20 Dell computers from a group who wanted to give our kids computers for Christmas.  This is the second group that has donated computers to our kids. A local group in our area also gave our kids some great christmas gifts. We are offering a webcasting class to the children and parents in our community. We also had a group donate some dictionaries to our kids. &lt;/p&gt;
+&lt;p&gt;On the community level, we are working on our goals to intergrate the community into the center and we have more traffic everyday. We had a neighborhood breakfast that was a smash hit for the seniors it was sponsored for as well as the younger set of residents who attended. We had the usual southern breakfast but we  also had great speakers and singing by the local youth choir and gulla poetry by a local poet. &lt;/p&gt;
+&lt;p&gt;Our new service project will have a lot of techie things attached to it, webcasting, podcasting, possibly even radio broadcasting. We plan to make our own commercials and advertisements. Stay tune for the next phase. Fun, Fun Fun!&lt;/p&gt;
+&lt;p&gt;Renae Out..........&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/374#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/457">Community Networking</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/334">community organizing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/458">computer donation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/428">digital media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/459">intergenerational</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/460">web</category>
+ <pubDate>Wed, 10 Jan 2007 03:07:01 +0000</pubDate>
+ <dc:creator>Renae Smack</dc:creator>
+ <guid isPermaLink="false">374 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

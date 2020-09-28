@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - drupal</title>
+ <link>http://digitalartscorps.org/taxonomy/term/29/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Still Storming</title>
+ <link>http://digitalartscorps.org/node/1901</link>
+ <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve almost completed my first goal in developing a system to manage incoming/outgoing technology. I&#039;ve done some research with how other media centers, libraries, universities, and public access stations do this, and found a useful and free system.  Now I&#039;m learning how to become a savvy website administrator!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The system I found is a module within Drupal.  It&#039;s called MERCI, or Manage Equipment Reservations, Checkout and Inventory.  This was developed by the genius minds at OpenMediaProject.org who&#039;s core mission is to bring people more control of their public access channels.  In fact, many of you may be using Open Media&#039;s  tools.  (BAVC, Brookline, Access Humboldt?).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;What I need to make sure of is that I will not leave a burden of a system that no one understands how to change, update, or improve.   To set up anything besides the basic functions will require an IT position to be staffed at the organization.  Expect a screencast or other documentation to help beginner developers get this up and running as a simple, in-house resource for tracking inventory.  Any help or collaboration with this is encouraged!&lt;/p&gt;
+&lt;p&gt;Now that we have visiting instructors that are from outside our organization, the need for educational curriculum on a web-based structure is growing.  Google Apps have been a great way to ween off our internal server.  Google Docs is used to host reports, curriculum and handouts, and share PDFs onto our blog, macsddiy.posterous.com .  Our best program feedback is collected using Google Forms.  An email is sent after every workshop that asks  to identify what we need to to improve workshop and what the community wants to see more of.  I also began a workshop proposal form available on the blog so outside instructors can submit their ideas to us.&lt;/p&gt;
+&lt;p&gt;This week has been by far, the most intense because we host the San Diego Latino Film Festival March 10-20.  I realize that the media lab is a reality thanks to the festival, but right now it&#039;s a major thorn in my side.  I&#039;m constantly resolving annoying IT issues&lt;br /&gt;
+due to outdated equipment and our overuse of printers and bandwidth.  I cannot wait to rebuild some infrastructure when this festival is all done with and get back to why I&#039;m here!&lt;/p&gt;
+&lt;p&gt;I&#039;ll leave on this note:  Mozilla Drumbeat.   Amazing.  DrumbeatSD was an event organized by NewMediaRights.org and Mozilla a few blocks from here.  &quot;Some of the spaces included open data visualization and discussion, open source music and video experimentation, and using technology to enhance our community&#039;s connection with local farms and farmer&#039;s markets.&quot;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1901#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1378">DrumbeatSD</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1375">MERCI</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1377">Mozilla</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1376">open media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <pubDate>Fri, 18 Feb 2011 20:48:27 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1901 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>yeah 2011</title>
+ <link>http://digitalartscorps.org/node/1890</link>
+ <description>&lt;p&gt;Things got a little busier over November and December. Expectedly I had an increase in phone calls/e-mails during the &quot;Storming Phase&quot; but nothing too out of control. I&#039;ve been lucky that major issues with different VISTAs have not overlapped so I haven&#039;t had to juggle too many concerns at the same time. I&#039;ve also gotten into a basic routine of e-mailing people about a month after I&#039;ve last heard from them and that seems to be working alright. Everyone definitely has a different way they like to communicate and I construct my e-mails according to whatever standard thats evolved naturally with that person. I&#039;d like to read more field reports but there has been a lot of artifacts and tangibles sent over so I think we are doing alright.&lt;/p&gt;
+&lt;p&gt;Howie and I finished &lt;a href=&quot;http://transmissionproject.org/projectlist&quot;&gt;this huge database&lt;/a&gt; of all 400 and some odd Digital Arts Service core members over the past 10 years and I&#039;m now working on how to best display the database on the transmission project&#039;s website. I&#039;ve been toying around with different custom &lt;a href=&quot;http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=217849425808715466462.0004952da65f8cd04ef3a&amp;amp;ll=44.715514,-99.667969&amp;amp;spn=38.084312,74.179688&amp;amp;z=4&quot;&gt;google map icons&lt;/a&gt; but haven&#039;t yet settled on anything.&lt;/p&gt;
+&lt;p&gt;In November I attended &lt;a href=&quot;http://www.edwardtufte.com/tufte/courses&quot;&gt;Edward Tufte&#039;s class on information design&lt;/a&gt; and it had a very big effect on me and how I design things. I&#039;d highly recommend going to one of his classes if you can get someone else to pay for it.&lt;/p&gt;
+&lt;p&gt;Projects Completed: Some info-graphics and normal-graphics, database of past DASC members and host sites, some google map icons, transmission project website redesign but not implementation, secret DASC swag design, increased Drupal knowledge, some conflict management action and some dealing with sticky situations action.&lt;/p&gt;
+&lt;p&gt;Projects in the works: Implement Transmission project redesign, more swag, increase Drupal knowledge further, do all that I can to help people when they ask.&lt;/p&gt;
+&lt;p&gt;Resolution of the Year: No TV (sit-coms/dramas mainly)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1890#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1306">conflict management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1372">edward tufte</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1373">information design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1371">mapping</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/149">vista leader</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <pubDate>Tue, 04 Jan 2011 20:29:00 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1890 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Almost a month late...</title>
+ <link>http://digitalartscorps.org/node/1615</link>
+ <description>&lt;p&gt;Hellooo DASCorps!&lt;/p&gt;
+&lt;p&gt;Work at NAMAC has been busy, albeit running smoothly.  I had the opportunity to take a Web Design Intensive at BAVC, and am currently relaunching our site&#039;s new look (it&#039;ll be finished on Sunday.. &lt;a href=&quot;http://namac.org&quot; title=&quot;http://namac.org&quot;&gt;http://namac.org&lt;/a&gt;).  The intent is to make it a bit more friendly for navigation and usage.  I also attended a free Bay Area Drupal Camp in Berkeley...  &lt;/p&gt;
+&lt;p&gt;Both offered me a better understanding of web development workflow, helpful tools of the trade, and language... so I feel more confident knowing what/who/how/when to ask questions, as well as how to best address issues on my own.  &lt;/p&gt;
+&lt;p&gt;Now that I&#039;ve gotten the techie stuff out of the way... I&#039;ll be developing our site&#039;s blog so that its more interactive... well, hopefully making all of our online communications more interactive in general. Any tips people might have would be helpful :)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1615#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/994">social media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Fri, 23 Oct 2009 18:44:49 +0000</pubDate>
+ <dc:creator>Donna Choi</dc:creator>
+ <guid isPermaLink="false">1615 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Mopeds and web stuffs</title>
+ <link>http://digitalartscorps.org/node/1614</link>
+ <description>&lt;p&gt;Whoops, it&#039;s been a while since I&#039;ve done one of these things. So my car was unable to pass smog and I&#039;m currently trying to get the guy who sold it to me to give me my money back and he&#039;s dodging my calls. Thankfully my boss knows someone in Marin (where I got it) who used to do lemon law stuff and now does legal aid, so hopefully she can put the fear of God in him. But now I have a moped, which is exciting and insurance is only $9 a month, so you can&#039;t beat that.&lt;/p&gt;
+&lt;p&gt;Project-wise things are still in early stages yet. I&#039;m looking at applications to hire a programmer for one of our sites (californiavoices.org if you know anyone who&#039;s good at Ruby on Rails and wants a low paying job you can send them my way). And moving the rest of them around so that they all are on joomla instead of a mix of random CMSes.&lt;/p&gt;
+&lt;p&gt;It seems like up until this point there hasn&#039;t been much standardization in the way they do web things. Everything is in different languages, hosted by different people in different places. So it&#039;s a little crazy making, but I&#039;m slowly trying to pull everything together. &lt;/p&gt;
+&lt;p&gt;Thankfully I haven&#039;t had the food stamps issues a lot of people seem to be. Other than my mail seems to be super super slow so I got a letter the other day saying that because I hadn&#039;t turned something in they were going to cut me off, but when I called they said they&#039;d gotten the paper work.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1614#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/388">cars</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/70">food stamps</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1122">joomla</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1175">moped</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/909">ruby on rails</category>
+ <pubDate>Thu, 22 Oct 2009 19:48:18 +0000</pubDate>
+ <dc:creator>Colleen Beach</dc:creator>
+ <guid isPermaLink="false">1614 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>TV shows and Websites</title>
+ <link>http://digitalartscorps.org/node/1419</link>
+ <description>&lt;p&gt;I&#039;m more or less continuing work on some of the same projects described in my last report.  At Brighton High School we are finishing up post-production of the first episode of BHTV, which the TV production class has worked all semester to produce.  &lt;/p&gt;
+&lt;p&gt;On the web I&#039;m working on further developing our Drupal website that&#039;s being used at Somerville high school.  Some of the things I&#039;m adding are a grading feature which which allows the teacher to calculate grades and share them privately with each student, as well as an &quot;assignment board&quot; feature which will sort all projects with their associated content, due dates, groups and so on.  I&#039;m also creating a resource page on the organization website where al of our curriculum materials can be stored and downloaded.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1419#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1031">brighton</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1032">high</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/223">literacy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/76">school</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1030">TV</category>
+ <pubDate>Mon, 29 Dec 2008 17:18:40 +0000</pubDate>
+ <dc:creator>Stephen Loverme</dc:creator>
+ <guid isPermaLink="false">1419 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>﻿Seasons Greetings!</title>
+ <link>http://digitalartscorps.org/node/1412</link>
+ <description>&lt;p&gt;Just a couple of more weeks to the New Years! Ever since I got back from Italy, I have felt more positive about my work with CAPAY. I was glad that the outreach I did for CAPAY’s youth leadership symposium churned out 130 plus attendees. I heard the event was very successful, with students and teachers wanting more support and resources from our org throughout the school year. Next I’m working with the high school students to send out surveys, e-mail blasts and to work on compiling all the database info to engage more youth into community projects.&lt;/p&gt;
+&lt;p&gt;The other main focus is the redevelopment of the Website/Media Site. It seems that now I have to start from scratch because the org wanted a former alumni of the org to freelance the project. This is one of the worse things to do because that alumni has another full-time job. Though I am way past the professional development phase of my service, I feel like I have to learn to build this site from scratch. My supervisor has suggested that if I am going to learn a program or software from scratch, then I should consider Dreamweaver, but I have done research on Drupal. I just need to master a program to build a site and have it easily manageable for new staff. I have like a 7-8 month period to produce a site for my org. Any suggestions for my best options?&lt;/p&gt;
+&lt;p&gt;And with my Dorchester Youth Initiative program, I am finally closer to getting the space at the VIET-AID community development center approved. We will begin running a couple of workshops in January and February. In March, the 10 wk program will begin. I have supporting staff, 3  UMASS college students from the Dorchester neighborhood, who are helping me plan community youth and adult programs, and developing the workshop series. I’m really excited about this project because I get to work with the Vietnamese American community. One of the first things we will be doing is a youth and an adult forum to encourage discussion that will help us assess and create a relevant program for youth (with the support of parents.)&lt;/p&gt;
+&lt;p&gt;Okay, that’s all folks! Until 2009!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1412#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <pubDate>Tue, 16 Dec 2008 19:50:05 +0000</pubDate>
+ <dc:creator>Janet Vo</dc:creator>
+ <guid isPermaLink="false">1412 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>How To Apply A Patch to a Drupal Module</title>
+ <link>http://digitalartscorps.org/node/1252</link>
+ <description>&lt;p&gt;Sometimes, particularly when using a custom Drupal module, you may need to a apply what&#039;s called a &#039;patch&#039;.  A patch is simply a text file with a set of instructions saying which lines of code within a module need to be changed, added or deleted to get the module to function better or more accurately.&lt;/p&gt;
+&lt;p&gt;Oft times, patches are applied to make sure a module works correctly across Drupal distributions (versions).&lt;/p&gt;
+&lt;p&gt;Below are instructions for applying a patch.  Once you get the hang of it, the whole process can take less than 2 minutes.&lt;/p&gt;
+&lt;p&gt;Instructions For Applying a Patch to a Drupal Module:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download the whole folder for a module to your Desktop (off of the server where you have it running)&lt;/li&gt;
+&lt;li&gt;Create a text file (ending in &lt;em&gt;.patch&lt;/em&gt;) using a patch for the respective module (you might have been brought to a webpage with &lt;a href=&quot;http://drupal.org/files/issues/morelink.patch&quot;&gt;lines of code&lt;/a&gt; to be copied and pasted from the pageinto the text file)&lt;/li&gt;
+&lt;li&gt;Save it and place it in the module&#039;s folder&lt;/li&gt;
+&lt;li&gt;Open up *Terminal&lt;/li&gt;
+&lt;li&gt;Navigate to the folder (using &lt;em&gt;cd&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Run this command:&lt;em&gt; patch -b &amp;lt; file_name.patch&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Upload the whole folder BACK to it&#039;s respective location on the server (and overwrite the original folder there)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;*Note, this is a command line program for Mac used in conjunction with TextEdit (for editing the text file). Windows equivalents would be MS-DOS and NotePad.&lt;/em&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/932">module</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/933">patch</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Thu, 27 Mar 2008 18:54:31 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1252 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>technobabble &amp; foodstamps</title>
+ <link>http://digitalartscorps.org/node/1035</link>
+ <description>&lt;p&gt;It&#039;s been a long time since I wrote a field report (I&#039;m really going to try to be more attentive to this). There are a lot of projects that I&#039;m currently working on. I&#039;m trying to do a a complete redesign of my organization&#039;s website, in order to integrate a lot of project management and accounting stuff into a centralized location, since my organization&#039;s staff is a little far-flung. The current site is running Drupal 4.6.3. I spent a week trying to manually upgrade it in stages to Drupal 5.2, but ran into so many database errors that I eventually created a new test site in 5.2, with the intention of getting that stable and then porting the content. I highly recommend the module casetracker (&lt;a href=&quot;http://www.drupal.org/projects/casetracker&quot; title=&quot;http://www.drupal.org/projects/casetracker&quot;&gt;http://www.drupal.org/projects/casetracker&lt;/a&gt;). Most ticketing systems are designed for software development, but casetracker is much more generalized, so you can have general tasks that have support tickets submitted against them. I&#039;m trying to integrate that with Organic Groups and a wiki (wikitools+pearwiki+views), so that projects created in casetracker can have a group assigned to that project, and each task within the project can be associated with one or more pages in a documentation wiki. I&#039;m also trying to integrate the ERP module, which does complete business management, so that tasks can be assigned hours and values that are automatically entered into the timesheet in the accounting software. If I can get this all to work I&#039;ll post a complete tutorial on the CTC VISTA wiki, if people are interested.&lt;/p&gt;
+&lt;p&gt;Besides that, I&#039;m still trying to get the cool but somewhat buggy distributed monitoring software ZABBIX (&lt;a href=&quot;http://www.zabbix.com&quot; title=&quot;http://www.zabbix.com&quot;&gt;http://www.zabbix.com&lt;/a&gt;) working with our datacenter. Partly I think it&#039;s our firewall setup, but I think it&#039;ll help once we get our new colocated server in place (the current virtual server where I&#039;m setting it up is somewhat overloaded). Once that&#039;s setup, our servers will be able to alert us when there&#039;s a problem, rather than us having to go look for it.&lt;/p&gt;
+&lt;p&gt;I&#039;m going to be writing a whitepaper soon on the ideal open-source wireless mesh solution, and I&#039;ll be doing some hands-on research with some state-of-the-art equipment to do it. I&#039;m also going to be working on an application to ARIN for IPv6 address space allocated specifically for community networks (never too early).&lt;/p&gt;
+&lt;p&gt;There are three other especially big projects that I&#039;m working on, one of which is probably going to take up the majority of my time during the next month. I&#039;m not sure how much I&#039;m supposed to say about these projects yet, unfortunately, because of the groups involved, but they&#039;ll be exciting to talk about once they&#039;re a little further along.&lt;/p&gt;
+&lt;p&gt;Also, I finally managed to get foodstamps. Apparently in Illinois, Americorps income is exempt from considerations as far as how much you get for foodstamps, so I got the maximum amount ($155/month). This will be a huge help, because besides rent, food is my number one expense. Things are busy but going pretty well, I&#039;ll try and post these much more regularly from here on out.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1035#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <pubDate>Mon, 20 Aug 2007 17:05:01 +0000</pubDate>
+ <dc:creator>Josh King</dc:creator>
+ <guid isPermaLink="false">1035 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>my (fall, winter) spring project</title>
+ <link>http://digitalartscorps.org/node/888</link>
+ <description>&lt;p&gt;My big project of the spring went public today. It&#039;s called the &lt;a href=&quot;http://calruralhousing.org/housing-toolbox/inclusionary-housing-policy-search&quot;&gt;California Inclusionary Housing Policy Database&lt;/a&gt;, and we introduced it like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The California Coalition for Rural Housing (CCRH) is pleased to launch a free searchable database of more than 130 California Inclusionary Housing (IH) programs, the first of its kind in the U.S.&lt;/p&gt;
+&lt;p&gt;The California Inclusionary Housing Policy Database contains information on the key characteristics of California IH programs in existence in 2006. At that time there were an estimated 170 programs, of which CCRH was able to retrieve electronic and hard copy versions of approximately 80%.&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;The database provides summaries of characteristics for each policy. Users may search for these summaries by jurisdiction name or by more than 30 other variables. ... In addition, each summary provides a link to the jurisdiction&#039;s full policy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This project has been in progress since the beginning of my service last September. In the fall, I worked closely with two other CCRH staff members to design the database; by the spring, I was designing and implementing the search feature and the policy layouts. My coworker Brandi analyzed the policies and input the data. In the past few weeks I&#039;ve collaborated with CCRH&#039;s ED on the final interface and text; I&#039;ve recieved a ton of invaluable input from both him and my supervisor. I&#039;ve also communicated with other members of the nonprofit housing community as buzz built around this project, and during a two week beta test period. This project was interesting and challenging to work on, and has proved rewarding both in what I&#039;ve learned and in the resource I&#039;ve helped my organization provide to the community.&lt;/p&gt;
+&lt;p&gt;And for the techies: I built the CCRH website with Drupal 4.7. The inclusionary housing policies are a CCK content type, because it allowed us to get the design and data entry set up quickly. I used the ConTemplate module to the template for IH policy CCK type from within Drupal. The search feature is a custom module I wrote which can provide a search feature for any CCK content type. I hope to release this module after I clean up the code, flesh out some features, and port it to the latest Drupal version.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/888#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/712">housing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/713">project</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Wed, 13 Jun 2007 06:19:26 +0000</pubDate>
+ <dc:creator>Rebecca White</dc:creator>
+ <guid isPermaLink="false">888 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>StoriesForChange.net is Launched!</title>
+ <link>http://digitalartscorps.org/node/870</link>
+ <description>&lt;p&gt;Wondering what fellow VISTA Jessica McCoy and I have been collaborating on since September? Check out the launch of a new online project, &lt;a href=&quot;http://www.storiesforchange.net&quot;&gt;StoriesForChange.net&lt;/a&gt;, sponsored by both of our host organizations!
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.storiesforchange.net&quot; title=&quot;StoriesForChange.net&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/206/520054523_feb5cf510a.jpg&quot; width=&quot;279&quot; height=&quot;91&quot; alt=&quot;Stories For Change Logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&#039;re excited to announce the launch of the online social networking portal for community digital storytelling, &lt;a href=&quot;http://www.storiesforchange.net&quot;&gt;StoriesForChange.net&lt;/a&gt;.  This site is sponsored by &lt;a href=&quot;http://www.massimpact.org&quot;&gt;MassIMPACT&lt;/a&gt;, in collaboration with the &lt;a href=&quot;http://storycenter.org&quot;&gt;Center for Digital Storytelling&lt;/a&gt;, to provide a meeting and sharing space for those interested in using digital storytelling for community advocacy or grassroots social change.&lt;/p&gt;
+&lt;p&gt;Here are some of the most exciting reasons to check out &lt;a href=&quot;http://www.storiesforchange.net&quot;&gt;StoriesForChange.net&lt;/a&gt; (SFC):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;strong&gt;NETWORK with other facilitators online anytime: &lt;/strong&gt;SFC gives you a chance to meet others who are doing similar work in communities and post questions to the group in the Forums, without having to wait for a yearly conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DISTRIBUTE your stories online in a trusted place: &lt;/strong&gt;We&#039;ve put particular attention into the &amp;quot;meta data&amp;quot; or accompanying information that goes with digital stories shared on the site.   Your posted stories not only have context, but they can be Creative Commons licensed so you can control how stories are used.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tap into a new LIBRARY of stories: &lt;/strong&gt;Most facilitators show at least one or two digital stories at the beginning of every digital storytelling workshop. SFC intends to become a great library of user contributed stories to help share examples across communities, cultures, languages, and contexts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Add your RESOURCES, share your experience:&lt;/strong&gt; Check out the Share Your Resource option, which allows you to share experience around the creation of stories in various community settings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Post your EVENTS to reach a wider audience: &lt;/strong&gt;Post your upcoming workshops, screenings, and meetings, so others who are geographically close to you can attend.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The best way to get involved with &lt;a href=&quot;http://www.storiesforchange.net&quot;&gt;StoriesForChange.net&lt;/a&gt; is to signup for a membership on the site and start sharing stories and resources, as well as posting events. We&#039;re also hoping to start some great discussions in the Forums section &amp;lt; &lt;a href=&quot;http://storiesforchange.net/forums&quot;&gt;http://storiesforchange.net/forums&lt;/a&gt; &amp;gt;, especially in the topic &amp;quot;Get Involved with SFC Site Development&amp;quot; &amp;lt; &lt;a href=&quot;http://storiesforchange.net/forum/603&quot;&gt;http://storiesforchange.net/forum/603&lt;/a&gt; &amp;gt;.&lt;/p&gt;
+&lt;p&gt;Major funding for building the site was provided by MassIMPACT, which along with the Center for Digital Storytelling and Creative Narrations also supported the first annual Gathering of Community Digital Storytelling (see blog at &lt;a href=&quot;http://communitydigitalstorytellers.blogspot.com&quot;&gt;http://communitydigitalstorytellers.blogspot.com&lt;/a&gt;) at Massachusetts Institute of Technology in June 2006.  The site was ably built by developers at Float Left and Vernal.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/870#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/521">digital storytelling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/337">social networking</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/444">video sharing</category>
+ <pubDate>Tue, 29 May 2007 15:37:00 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">870 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

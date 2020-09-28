@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - GIMP</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1016/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Winter Update</title>
+ <link>http://digitalartscorps.org/node/1383</link>
+ <description>&lt;p&gt;Most of my day is spent working on projects to boost our numbers of students and mentors (i.e. recruitment.) Now that it’s getting near the holidays, this has slowed down. When I first started here, it felt like I had a least one or two events a week I attended in order to round up more students or volunteers. Thankfully, those days have ended. We actually have an organization in my town whose purpose is to coordinate after-school youth programs. They were a great help to me when I first started because they compiled a list of a number of different events where youth could be reached (community events, back-to-school, nights, etc.) Unfortunately, they don’t have enough funding to continue everything they have been doing this summer but hopefully they will be able to find it somewhere. &lt;/p&gt;
+&lt;p&gt;I’m glad that recruitment has slowed down because it gives me time to plan for next year. Also, as a side project, I’ve been working on a portion of our website. I wanted to create a list of all the different programs we have along with tutorials and example projects. Many of our mentors come in knowing Office but not much beyond that (myself included when I started as a mentor.) Therefore, we’re trying to beef up our training for them so that they feel more comfortable when kids ask “How do I make a game?” or “How can I create this in Fireworks?” Rather than looking like a deer in the headlights, we’d like them to feel comfortable saying “Well, let’s start here.” The site is certainly still a work in progress but if you want to check it out, you can find it &lt;a href=&quot;//www.computers4kids.net/mentors/project_examples.htm&quot;&gt;here&lt;/a&gt;.  I’d be glad to have any feedback, tutorials, or additional free programs you might suggest. Also, if you work with kids and are looking for anything (Nathan, you were asking me about this at one point), then you may want to check out some of the free programs available. My favorite is GIMP since it does much the same as Photoshop but has a much better price tag (free!) but Alice is also a pretty unusual program when it decides to work correctly. &lt;/p&gt;
+&lt;p&gt;P.S. Why is it so cold in Virginia? I wish it were April...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1383#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1016">GIMP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/140">recruitment</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <pubDate>Mon, 24 Nov 2008 16:53:35 +0000</pubDate>
+ <dc:creator>Davina Fournier</dc:creator>
+ <guid isPermaLink="false">1383 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - online community</title>
+ <link>http://digitalartscorps.org/taxonomy/term/890/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>A Handy Chart for Understanding Facebook&#039;s &#039;Page&#039; Features for Your Org</title>
+ <link>http://digitalartscorps.org/node/1576</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.facebook.com/pages/The-National-Alliance-for-Media-Arts-and-Culture/34546510802&quot; title=&quot;NAMAC Facebook Page&quot;&gt;&lt;img src=&quot;/sites/digitalartscorps.org/files/files/NAMAC-Facebook-Page.jpg&quot; alt=&quot;NAMAC Facebook Page&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+My organization, &lt;a href=&quot;http://www.namac.org&quot;&gt;NAMAC&lt;/a&gt;, recently started a Facebook Page.  Within a few days, we had about 100 &#039;Fans&#039;.  It was relatively simple to set up and with a little bit of outreach from fellow staff who were also on Facebook we brought that number up to 150.&lt;/p&gt;
+&lt;p&gt;In setting it up however, we had to make sure that we understood the newly available communication channels available to us as a presence on Facebook.  One-to-many and &lt;a href=&quot;http://en.wikipedia.org/wiki/Many-to-many&quot;&gt;many-to-many&lt;/a&gt; options now abound: Wall posts, Posted Item links, Notes... how could we make sense of it?&lt;/p&gt;
+&lt;p&gt;In light of this, I downloaded a &lt;a href=&quot;/sites/digitalartscorps.org/files/FB_Pages_Communities_NonProfits.pdf&quot;&gt;guide for communities and non-profits&lt;/a&gt; from Facebook.  I read through it and decided to remix it into a yummy &lt;a href=&quot;/sites/digitalartscorps.org/files/Generic Facebook Handbook for NPOs_0.xls&quot;&gt;4 page chart&lt;/a&gt; to map out the communication options made available to you and your org.&lt;/p&gt;
+&lt;p&gt;It covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Available &lt;em&gt;Channels&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What&lt;/em&gt; each channel does&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Who&lt;/em&gt; posts for &lt;em&gt;Who&lt;/em&gt; (Staff for Fans?  Fans for other Fans?)&lt;/li&gt;
+&lt;li&gt;Possible &lt;em&gt;Frequency of Posting&lt;/em&gt; for each channel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How&lt;/em&gt; to post to each kind of channel:)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I tailored it for internal use, but have released it here as a &#039;generic&#039; handbook (in the attached files below).  It&#039;s just a &#039;base&#039; to start from - please remix as needed! If you like, I also included the original Facebook guide.&lt;/p&gt;
+&lt;p&gt;Have any other cool resources you&#039;ve made or found for using Facebook at your org?  Got a link*?&lt;/p&gt;
+&lt;p&gt;*Note: only VISTAs can post comments/links here.  If you&#039;ve got some other resources, either share them with &lt;a href=&quot;http://www.twitter.com/memeshift&quot; title=&quot;find me on Twitter&quot;&gt;me on Twitter&lt;/a&gt; or tag it with &#039;&lt;a href=&quot;http://delicious.com/tag/ctcvista&quot; title=&quot;del.icio.us bookmarks tagged &amp;#039;ctcvista&amp;#039;&quot;&gt;ctcvista&lt;/a&gt;&#039; in your socialbookmarking service of choice.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/138">facebook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/955">online social networking</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/Generic Facebook Handbook for NPOs_0.xls" length="44032" type="application/vnd.ms-excel" />
+ <pubDate>Wed, 02 Sep 2009 23:43:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1576 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #12: Board Report = Field Report!</title>
+ <link>http://digitalartscorps.org/node/1261</link>
+ <description>&lt;p&gt;So... as I had to write this for a Board Report (tip: &lt;em&gt;writing Field Reports is a bit like writing Board Reports&lt;/em&gt;;), I thought I would include it here as a Field Report.  It details what I have done over the past 6 months as NAMAC&#039;s Online Community Manager.&lt;/p&gt;
+&lt;p&gt;Maybe someone might find some things in it that are helpful to them in planning, developing and implementing a website.  There were many challenges along the way - much of it was simply just me NOT KNOWING HOW TO DO SOMETHING - but of course, much of it was assuaged by leveraging the knowledge of my CTC VISTA/peer network (i.e. Hey Josh King - how do i access MySQL through Terminal?  Hey Ben,  so how do i do a mysqldump again? - cheers dudes!)&lt;/p&gt;
+&lt;p&gt;----------------------------&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;:&lt;br /&gt;
+While I was recruited as a VISTA to be NAMAC’s Online Community Manager, much of my work has revolved around comprehensive preparation and redevelopment of the site for the work this position entails. This work included heavy site analysis (how it works vs. how it could work) as well as the resolution of many high volume site migration and server issues.  The workload has required more time and technical skill than initially expected, but marked a necessary refinement in work responsibilities to prepare the groundwork for NAMAC’s online community management.  &lt;/p&gt;
+&lt;p&gt;Throughout the process I was able to get the support I needed, while developing innovative ideas to increase NAMAC’s future online capacities.  Much of the support came from engaging a national network of fellow VISTAs, online community developers and the Drupal open-source community.&lt;/p&gt;
+&lt;p&gt;Our initial site launch is set for late April with a concerted effort to engage and welcome members and other stakeholders to the new site.  There will still be various kinks to work out once launched, but the site will still be flexible enough to adapt and resolve these issues if need be.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site Migration&lt;/strong&gt;:&lt;br /&gt;
+Throughout this process, I have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acted as liaison between CAMT, the 9th Street IT department and NAMAC staff to troubleshoot web migration issues as they arose&lt;/li&gt;
+&lt;li&gt;Engaged with national and local developer communities to resolve data migration and other web development issues &lt;/li&gt;
+&lt;li&gt;Successfully imported all pages from the old site into a new custom-built development site &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Site Development&lt;/strong&gt;:&lt;br /&gt;
+The major brunt of my work has been on ensuring that new feature requests from staff are indeed doable in Drupal – the chosen content-management system for the new site.  In keeping with my work plan to ‘build for web 2.0 platforms’ I had to ensure utmost flexibility of the site to adapt to current and future online community and Internet trends.&lt;/p&gt;
+&lt;p&gt;With these requirements and goals in mind, I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Researched, implemented and tested best Drupal ‘modules’ to match with NAMAC feature requests&lt;/li&gt;
+&lt;li&gt;Consulted with national networks of online community developers, knowledge management consultants, and Drupal developers both online and offline&lt;/li&gt;
+&lt;li&gt;Lead weekly site development discussions with staff to resolve design issues and develop new areas for online community interactivity &lt;/li&gt;
+&lt;li&gt;Integrated feedback from staff into various site areas &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have also documented all site work done on an internal staff wiki and am compiling a list of resources and training materials for future staff to use.   I am also training and orienting staff to new administrative features while drafting an initial strategy for the site’s online growth, support and member engagement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Site Areas&lt;/strong&gt;&lt;br /&gt;
+With the collaborative efforts of Jack, Helen, Amanda and Dewey, I was able to design and implement new site areas to offer our Members.  &lt;/p&gt;
+&lt;p&gt;These include:&lt;em&gt;&lt;br /&gt;
+The Idea Exchange&lt;/em&gt;&lt;br /&gt;
+Keeping in mind our slogan to ‘energize independent voices in the media arts’ this new area is a hybrid of our current Hot Topics and Get Connected areas. &lt;/p&gt;
+&lt;p&gt;Key features of this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User submitted articles&lt;/li&gt;
+&lt;li&gt;Newly enabled commentary on all articles posted to the site&lt;/li&gt;
+&lt;li&gt;Social bookmarking functionality built in to all articles posted&lt;/li&gt;
+&lt;li&gt;Cross linking of articles to site users and Member Organization pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The Face of the Field&lt;/em&gt;&lt;br /&gt;
+This section of the site is a multimedia, editorial-like section curated by NAMAC Staff. It is meant to feature the work and diversity of NAMAC’s national membership.  &lt;/p&gt;
+&lt;p&gt;It accomplishes this by offering the following sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Featured Leaders: leaders in the field highlighted each month&lt;/li&gt;
+&lt;li&gt;Featured Organizations: a highlighted member organization and what they do &lt;/li&gt;
+&lt;li&gt;User-submitted articles (pulled from the Idea Exchange)&lt;/li&gt;
+&lt;li&gt;Current members events, announcements and job postings&lt;/li&gt;
+&lt;li&gt;Links to browse and search our new and improved Member Directory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Advocacy and Policy &lt;/em&gt;&lt;br /&gt;
+This area will feature policy issue briefs and analysis cultivated by NAMAC staff.  There will also be handpicked articles and RSS feeds from our media policy and advocacy partners featured here.&lt;br /&gt;
+Job Bank and Member Directory&lt;br /&gt;
+Both of these have been rewritten and there is now an interactive Google map that visually displays clickable locations of our member organizations across the country. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Features&lt;/strong&gt;&lt;br /&gt;
+There have also been a host of new web 2.0 features we developed in the past few months.&lt;/p&gt;
+&lt;p&gt;A brief list follows: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability for users to write their own categories for what they post and read on the site&lt;/li&gt;
+&lt;li&gt;RSS subscribable Telesalon podcasts with embedded, playable and downloadable audio &lt;/li&gt;
+&lt;li&gt;WYSIWYG formatting editor built in to content posting forms &lt;/li&gt;
+&lt;li&gt;New and improved Member Directory area with sortable columns for Member Organization, State and Year Founded &lt;/li&gt;
+&lt;li&gt;New and improved Job Bank with sortable columns for Organization Name, Job Location, Type and Deadline &lt;/li&gt;
+&lt;li&gt;Ability to cross-reference Member Organizations in Articles&lt;/li&gt;
+&lt;li&gt;Member Organization pages linking all articles and users associated with that organization on one ‘group’ page &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other Accomplishments&lt;/strong&gt;&lt;br /&gt;
+Other tasks I finished were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coordinating the collection of online NAMAC Conference media from members&lt;/li&gt;
+&lt;li&gt;Tracking and commenting on relevant blog posts from conference attendees (members and otherwise) &lt;/li&gt;
+&lt;li&gt;Creating a new section on the current site to host post-conference articles, images, and video&lt;/li&gt;
+&lt;li&gt;Coordinating and facilitating a panel discussion to represent the CTC VISTA Project at NAMAC’s conference&lt;/li&gt;
+&lt;li&gt;Signed up and created various web 2.0 service accounts for NAMAC (Flickr, del.icio.us, blip.tv)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In maximizing my status as an AmeriCorps VISTA, I am also seeking and acquiring sponsorship for continued professional development in the field of web development and online strategy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Future Directions&lt;/strong&gt;&lt;br /&gt;
+From my experiences over the course of my VISTA service, I envision NAMAC’s web and online community strategy evolving in to the future as such:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/files/Picture 2.png&quot;&gt;&lt;img src=&quot;http://ctcvista.org/files/Picture 2.png&quot; width=&quot;560&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+My hope is that the above plan might serve as an initial launching point for discussion between NAMAC Board, Staff and the Online Community Manager.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1261#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Picture 2.png" length="192284" type="image/png" />
+ <pubDate>Thu, 10 Apr 2008 01:33:55 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1261 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>10 Tactics for Growing Your Community Online</title>
+ <link>http://digitalartscorps.org/node/1167</link>
+ <description>&lt;p&gt;Last week I attended an NTEN Member Appreciation Webinar entitled: &lt;em&gt;10 Tactics for Growing Your Community Online&lt;/em&gt;.  As NAMAC&#039;s Online Community Manager, I found this webinar very helpful, engaging and well worth my time.&lt;/p&gt;
+&lt;p&gt;The webinar, provided by the awesome &lt;a href=&quot;http://nten.org/events/webinar/2007/11/08/nten-member-appreciation-webinar-10-tactics-for-growing-your-online-community&quot;&gt;N-TEN,&lt;/a&gt; can be found in context here:&lt;br /&gt;
+&lt;a href=&quot;http://tinyurl.com/2mtekz&quot; title=&quot;http://tinyurl.com/2mtekz&quot;&gt;http://tinyurl.com/2mtekz&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The following are the main bullet points that were discussed at the *session:&lt;/p&gt;
+&lt;p&gt;1) Let the potential members of the community know why you are providing an online community, and how being an active member of a community would benefit them.&lt;/p&gt;
+&lt;p&gt;2) Use every opportunity to showcase your online community.&lt;/p&gt;
+&lt;p&gt;3) Seed the community with groups, forum postings, blogs, etc., so that early adopters aren’t faced with an “empty” community.&lt;/p&gt;
+&lt;p&gt;4) Make it as easy as possible for people to sign up and to use the community tools.&lt;/p&gt;
+&lt;p&gt;5) Designate a staff person to be the facilitator or moderator of the community.&lt;/p&gt;
+&lt;p&gt;6) Acknowledge those members who use the community frequently.&lt;/p&gt;
+&lt;p&gt;7) Seek input from the members on your organization’s agenda and other organizational issues. Take what you learn from the community and put it into practice in the organization.&lt;/p&gt;
+&lt;p&gt;8) Use wiki and/or forum functionality to publish ongoing lists of group events.&lt;/p&gt;
+&lt;p&gt;9) Announce new initiatives and other important organizational news in the community first.&lt;/p&gt;
+&lt;p&gt;10) Keep the community content fresh.&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+Feel free to watch the powerpoint below (click on it to go to a download page):
+&lt;/p&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;div style=&quot;width:425px;text-align:left&quot; id=&quot;__ss_169334&quot;&amp;gt;&lt;embed src=&quot;http://static.slideshare.net/swf/ssplayer2.swf?doc=10-tactics-for-online-community-1195245790203857-1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;div&gt;&lt;a href=&quot;http://www.slideshare.net/?src=embed&quot;&gt;&lt;img src=&quot;http://static.slideshare.net/swf/logo_embd.png&quot; alt=&quot;SlideShare&quot; /&gt;&lt;/a&gt; | &lt;a href=&quot;http://www.slideshare.net/guestb97bef/10-tactics-for-online-community&quot; title=&quot;View &amp;#039;10  Tactics For  Online  Community&amp;#039; on SlideShare&quot;&gt;View&lt;/a&gt; | &lt;a href=&quot;http://www.slideshare.net/upload&quot;&gt;Upload your own&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+The powerpoint was provided on kind permission from Christopher Dworin, VP of Business Development at GoLightly - thanks Chris!  &lt;em&gt;GoLightly provides communication and collaboration solutions for community-minded organizations. [Their] social networking tools give your members the ability to interact with you and each other in powerful new ways.&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+To read more about GoLightly, see: &lt;a href=&quot;http://www.golightly.com/&quot; title=&quot;http://www.golightly.com/&quot;&gt;http://www.golightly.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/881">dangerousbook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/447">NTEN</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/533">resource</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/891">webinar</category>
+ <pubDate>Fri, 16 Nov 2007 20:56:22 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1167 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

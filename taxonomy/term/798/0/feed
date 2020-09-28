@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - CSL</title>
+ <link>http://digitalartscorps.org/taxonomy/term/798/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CSL update</title>
+ <link>http://digitalartscorps.org/node/984</link>
+ <description>&lt;p&gt;I have been learning about the system we have set up at the CSL and doing odd hardware/software related jobs. In the course of learning about the technology I  look to find resources to learn from, and have found good ones. I think it would be a good idea to set up a group or a forum so that we could more efficiently exchange ideas, which is especially important with regards to technical questions. There are free forum hosts that have a good interface, but I would like to see if we could set up a CTC Vista forum on CSL servers. Also, there is Google Groups, but I think a forum would be better. If there are any organisations that need computers , hardware, etc, there is &lt;a href=&quot;http://www.techsoup.org/stock/rci/&quot; title=&quot;http://www.techsoup.org/stock/rci/&quot;&gt;http://www.techsoup.org/stock/rci/&lt;/a&gt; which provides hardware to non profits at ~20% market value. The conference/PSO was an excellent idea! It exposed people who normally wouldn&#039;t go to those  sort of things to a new and rewarding activity.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/984#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/798">CSL</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/799">jack doherty</category>
+ <pubDate>Fri, 13 Jul 2007 20:21:00 +0000</pubDate>
+ <dc:creator>Jack Doherty</dc:creator>
+ <guid isPermaLink="false">984 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

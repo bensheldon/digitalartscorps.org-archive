@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - programming</title>
+ <link>http://digitalartscorps.org/taxonomy/term/242/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Still Storming</title>
+ <link>http://digitalartscorps.org/node/1901</link>
+ <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve almost completed my first goal in developing a system to manage incoming/outgoing technology. I&#039;ve done some research with how other media centers, libraries, universities, and public access stations do this, and found a useful and free system.  Now I&#039;m learning how to become a savvy website administrator!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The system I found is a module within Drupal.  It&#039;s called MERCI, or Manage Equipment Reservations, Checkout and Inventory.  This was developed by the genius minds at OpenMediaProject.org who&#039;s core mission is to bring people more control of their public access channels.  In fact, many of you may be using Open Media&#039;s  tools.  (BAVC, Brookline, Access Humboldt?).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;What I need to make sure of is that I will not leave a burden of a system that no one understands how to change, update, or improve.   To set up anything besides the basic functions will require an IT position to be staffed at the organization.  Expect a screencast or other documentation to help beginner developers get this up and running as a simple, in-house resource for tracking inventory.  Any help or collaboration with this is encouraged!&lt;/p&gt;
+&lt;p&gt;Now that we have visiting instructors that are from outside our organization, the need for educational curriculum on a web-based structure is growing.  Google Apps have been a great way to ween off our internal server.  Google Docs is used to host reports, curriculum and handouts, and share PDFs onto our blog, macsddiy.posterous.com .  Our best program feedback is collected using Google Forms.  An email is sent after every workshop that asks  to identify what we need to to improve workshop and what the community wants to see more of.  I also began a workshop proposal form available on the blog so outside instructors can submit their ideas to us.&lt;/p&gt;
+&lt;p&gt;This week has been by far, the most intense because we host the San Diego Latino Film Festival March 10-20.  I realize that the media lab is a reality thanks to the festival, but right now it&#039;s a major thorn in my side.  I&#039;m constantly resolving annoying IT issues&lt;br /&gt;
+due to outdated equipment and our overuse of printers and bandwidth.  I cannot wait to rebuild some infrastructure when this festival is all done with and get back to why I&#039;m here!&lt;/p&gt;
+&lt;p&gt;I&#039;ll leave on this note:  Mozilla Drumbeat.   Amazing.  DrumbeatSD was an event organized by NewMediaRights.org and Mozilla a few blocks from here.  &quot;Some of the spaces included open data visualization and discussion, open source music and video experimentation, and using technology to enhance our community&#039;s connection with local farms and farmer&#039;s markets.&quot;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1901#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1378">DrumbeatSD</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1375">MERCI</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1377">Mozilla</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1376">open media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <pubDate>Fri, 18 Feb 2011 20:48:27 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1901 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Getting it Done</title>
+ <link>http://digitalartscorps.org/node/1871</link>
+ <description>&lt;p&gt;Field report time!&lt;/p&gt;
+&lt;p&gt;I have been putting this report off in hopes to have some great media and artifacts to present, but this will have to wait until my next report.  I found some time to give a quick status update of what I&#039;ve been up to.  We really need more activity on here!&lt;/p&gt;
+&lt;p&gt;I have been working on two major goals right now:  developing programming for our evening workshops and establishing a system to track our technology that both stays in-house and are rented out to the community.&lt;/p&gt;
+&lt;p&gt;For our evening workshops at Media Arts Center, we&#039;ve slowly  been reaching our goal of having our calendar ready 3 months in advance.&lt;br /&gt;
+We have just reached having it all set one month- the workshop type, instructor, goals, marketing, scheduling, etc are currently ready one month in advance.  We have had great turnouts for Final Cut workshops and build-it-with-others workshops like the DIY Steadycam.  New volunteers are increasing, thanks to new volunteer recruiting/policies we have established.  The next step for our workshops is to redesign our brochures/marketing.  We need to be more appealing to younger audiences, cut costs, and create new job descriptions for volunteers/interns.  This begins mid-december.&lt;/p&gt;
+&lt;p&gt;As for tracking technology, I had to start from the very beginning.  The current inventory spreadsheet was missing crucial information including serial numbers and price values.  I was able to finally utilize the snazzy barcode scanner I purchased to make the task a lot easier. The information is almost 100% entered in and will benefit accounting, identifying outdated technology, and our equipment rental process.  Audits? Easy.  Grantwriting? Simple!  Equipment rental?  Sure, let&#039;s see what&#039;s available!  By the end of January, I hope to have finalized a working rental system that incorporates barcodes into our equipment inventory and member databases.  I&#039;m hoping by the end of my year here, we can have a reservation system available on our website, and maybe even a mobile app.&lt;/p&gt;
+&lt;p&gt;On Tuesdays, FabLab offers design workshops of all sorts.  They have vinyl cutter, laser engraving, 3D scanners...man!!!  I joined their fun last tuesday @ Intro to Interactivity.  We made IR pens to make DIY smartboards.  It really works!!&lt;/p&gt;
+&lt;p&gt;More to come,&lt;br /&gt;
+Chris&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1871#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1360">bar code</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1359">FabLab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1361">media lab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/312">technology</category>
+ <pubDate>Mon, 22 Nov 2010 20:58:25 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1871 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Websites</title>
+ <link>http://digitalartscorps.org/node/1571</link>
+ <description>&lt;p&gt;Resources for working with the web for your organization.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1325">coding</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/157">websites</category>
+ <pubDate>Wed, 02 Sep 2009 21:18:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1571 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A couple videos the kids made.</title>
+ <link>http://digitalartscorps.org/node/1049</link>
+ <description>&lt;div id=&quot;blip_movie_content_360672&quot;&gt;&lt;a rel=&quot;enclosure&quot; href=&quot;http://blip.tv/file/get/Orourkean-AfterschoolProgramVideo542.wmv&quot;&gt;&lt;img title=&quot;Click to play&quot; alt=&quot;Video thumbnail. Click to play&quot; src=&quot;http://blip.tv/file/get/Orourkean-AfterschoolProgramVideo542.wmv.jpg&quot; border=&quot;0&quot; title=&quot;Click To Play&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a rel=&quot;enclosure&quot; href=&quot;http://blip.tv/file/get/Orourkean-AfterschoolProgramVideo542.wmv&quot;&gt;Click To Play&lt;/a&gt;&lt;/div&gt;
+&lt;div id=&quot;blip_movie_content_360605&quot;&gt;&lt;a rel=&quot;enclosure&quot; href=&quot;http://blip.tv/file/get/Orourkean-ExpressYourself253.wmv&quot;&gt;&lt;img title=&quot;Click to play&quot; alt=&quot;Video thumbnail. Click to play&quot; src=&quot;http://blip.tv/file/get/Orourkean-ExpressYourself253.wmv.jpg&quot; border=&quot;0&quot; title=&quot;Click To Play&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a rel=&quot;enclosure&quot; href=&quot;http://blip.tv/file/get/Orourkean-ExpressYourself253.wmv&quot;&gt;Click To Play&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Hope you all are enjoying your last few weeks as Vistas!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1049#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/369">Movie making</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/775">teens</category>
+ <pubDate>Wed, 29 Aug 2007 00:39:26 +0000</pubDate>
+ <dc:creator>Tony ORourke</dc:creator>
+ <guid isPermaLink="false">1049 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>CUWiN-Ware Configuration Webapp</title>
+ <link>http://digitalartscorps.org/node/665</link>
+ <description>&lt;p&gt;I recently started on a new project to improve the ease of use of the CUWiN network system.  The project is a web application (PHP based) to allow communities and other collaborative entities to create and manage custom firmware images for their wireless nodes.  The first is finished but not live.  It addresses the issue of needed secure passwords node shell users (those with access to the actually OS prompt, i.e. root).  We have a password database we use internally on the network here in C-U, however we don&amp;#39;t distribute that for obvious reasons.  The precompiled images we provided have a very unsecure and published default password.  While it is possible to change this password from the console, this is inefficient in a large network and changes such as this do not generally persist across equipment reboots.  This application addresses this gap by allowing the user to securely manage a list of users and passwords through the web.  This information is stored in their own password database.  The next phase of the application will integrate with the firmware build system.  Partially compiled firmware will be available to the web application, which can then, at the users request, complete a build of the software, including their custom user/password database, and then provide then a secure link to download the file.  Features to be added are the ability to customize the main configuration file (which controls how all the network interfaces are configured, the wireless settings, etc), and the ability to select hardware type and disk geometry.  This application will go a long way to increase the ease of use of the technology.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/665#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/604">CUWiN</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/321">PHP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/605">webapp</category>
+ <pubDate>Fri, 23 Mar 2007 19:24:54 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">665 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Community Wireless Maps</title>
+ <link>http://digitalartscorps.org/node/495</link>
+ <description>&lt;p&gt;One of my more recent projects has been re-working the network map for the local community wireless network.  My efforts thus far can be found at &lt;a href=&quot;http://map2.cuwireless.net&quot; title=&quot;http://map2.cuwireless.net&quot;&gt;http://map2.cuwireless.net&lt;/a&gt;.  Credit for the CSS and the text accompanying the map goes to Ross.  This is just the first part.  The next stage is to add an admin/management interface.&lt;/p&gt;
+&lt;p&gt; The map is powered by PHP and the Google Maps API (which uses javascript).  The Google Maps API is incredibly easy to use and has lots of features.&lt;/p&gt;
+&lt;p&gt; For anyway who is interested, this little project will be distilled into an open-source package once it is complete (should be sometime this month).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/495#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/510">Google Maps API</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/509">maps</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/321">PHP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Tue, 06 Feb 2007 22:48:36 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">495 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>youth channel progress </title>
+ <link>http://digitalartscorps.org/node/227</link>
+ <description>&lt;p&gt;It&amp;#39;s been awhile since I&amp;#39;ve done the blog thing.... &lt;/p&gt;
+&lt;p&gt;My progress with starting a youth channel and youth media program at my access center:&lt;/p&gt;
+&lt;p&gt;slow.   slow.  and lacking direction.   Though on the bright side, i&amp;#39;ve got good resources, there are several kids interested, some organizations interested in partnering, and promised youth programming on the way.  &lt;/p&gt;
+&lt;p&gt;To start with, I made a list of most of the youth media programs/access centers with youth programs from around the country.  If anyone wants that list, let me know.   &lt;/p&gt;
+&lt;p&gt;I contacted individuals from several organizations and recieved some replys.  I contacted Appalshop - (super media program and art collective in Appalachia, I think Eastern Kentucky) - and had a phone meeting with the woman who runs their youth media program  (Appalachian Media Insititute).   She gave some great advice for starting a program -  you can&amp;#39;t be everything.   Geez oh peet that seems so obvious.  Here I am, being ideailistic about all the great things a youth media program can do and trying to encororate everything.   So I&amp;#39;m working on hashing out some goals, hopeful outcomes and trying to determine the purpose of this youth media channel venture.  &lt;/p&gt;
+&lt;p&gt;As for getting content - that&amp;#39;s been another challenge.  At media bridges we&amp;#39;ve got some cute things the summer media camp kids made.  And we&amp;#39;ve got some Media that Matters Film Fest films to play.   I&amp;#39;ve contacted a few organizations to ask for content and nothing too concrete yet.  &lt;/p&gt;
+&lt;p&gt;On the plus side - I went to &lt;a href=&quot;http://www.archive.org&quot; target=&quot;_blank&quot; title=&quot;archive.org&quot;&gt;archive.org&lt;/a&gt;  (super super super site) and they have a youth media section including BAVC and ListenUp!   I found a pleasant lil claymation bit called &amp;quot;Pizza Math.&amp;quot;  I contacted the organization who made it, and they&amp;#39;ll be sending me a free dvd of their work!  yay!   success!   &lt;/p&gt;
+&lt;p&gt;It&amp;#39;s going, it&amp;#39;s going.  Like pudding down a slide.   &lt;/p&gt;
+&lt;p&gt;I hope didin&amp;#39;t come off as sounding defeated and all that - I love it here.  Go community media!    &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;ps - for any talking heads fans out there, i just heard two great covers - the arcade fire doing home and built to spill covering dream operator from true stories.  find it !  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/227#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/243">progress</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/244">talking heads</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/85">youth media</category>
+ <pubDate>Mon, 23 Oct 2006 15:06:08 +0000</pubDate>
+ <dc:creator>lauren bratslavsky</dc:creator>
+ <guid isPermaLink="false">227 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

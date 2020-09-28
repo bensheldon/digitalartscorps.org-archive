@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - techplanning nptech</title>
+ <link>http://digitalartscorps.org/taxonomy/term/634/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Budgeting for Technology</title>
+ <link>http://digitalartscorps.org/node/1804</link>
+ <description>&lt;p&gt;&lt;strong&gt;Developing an IT Budget for your Nonprofit&lt;/strong&gt;&lt;br /&gt;
+Since technology began to find its way into nonprofits in the 1980’s, budgeting for IT has been a problem.  Many nonprofits still have no distinct IT budget or budgeting process, let alone separate capital, operations, and support budgets.  This presentation argues that preparation of an IT budget is a critical step both toward controlling IT costs and increasing the usefulness of IT systems.  Through the use of standards, templates, and industry experience, nonprofits can develop IT budgets with relative ease, and should.&lt;br /&gt;
+&lt;strong&gt;Check out the attached PowerPoint Presentation on IT Budgeting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selecting the Right Technology Vendor&lt;/strong&gt;&lt;br /&gt;
+1 ASSESS FEASIBILITY – Is this viable for my organization?&lt;br /&gt;
+2 GATHER REQUIREMENTS – What does my organization need?&lt;br /&gt;
+3 RESEARCH &amp;amp; REFINE OPTIONS – What solutions/vendors might fit my needs?&lt;br /&gt;
+4 EVALUATE VENDORS – What is the best fit for my organization’s needs?&lt;br /&gt;
+5 SELECT &amp;amp; ENGAGE VENDOR – Is this a reasonable price and contract?&lt;br /&gt;
+6 MANAGE IMPLEMENTATION – Has the vendor delivered on its promises?&lt;br /&gt;
+7 SUPPORT &amp;amp; MAINTENANCE – How will we maintain the solution and support it?&lt;br /&gt;
+(See attached presentation for more information on these steps...)&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/634">techplanning nptech</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/budget_sherwin_slides.ppt" length="503808" type="application/vnd.ms-powerpoint" />
+ <pubDate>Wed, 08 Sep 2010 15:30:45 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1804 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

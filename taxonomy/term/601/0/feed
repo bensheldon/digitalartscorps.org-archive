@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - bike ride</title>
+ <link>http://digitalartscorps.org/taxonomy/term/601/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The NTC, a Bike Ride, and a Discovered Website</title>
+ <link>http://digitalartscorps.org/node/655</link>
+ <description>&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;Everything’s going quite well here at NTEN as we’re of course very busy tying up all the loose ends before the NTC.&lt;span&gt;  &lt;/span&gt;As far as what&amp;#39;s new and exciting in my work, I finally managed to make a breakthrough in using our sometimes unwieldy CMS (netFORUM) to design a searchable member database for our website.&lt;span&gt;  &lt;/span&gt;That project had been on my plate since the beginning of January (and until yesterday I’d made very little progress), so it was nice to finally make some real headway there - and it should soon be up on our website and ready for use.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;Outside of work I’m loving the longer days and beautiful weather out here in the Bay Area.&lt;span&gt;  &lt;/span&gt;Last weekend I went on a really cool bike ride down in Santa Cruz.&lt;span&gt;  &lt;/span&gt;Looking at the map beforehand we had thought the route was maybe 7 miles with maybe 600 feet of elevation gain.&lt;span&gt;  &lt;/span&gt;After the ride though (which at points was quite exhausting), my friend pointed me towards a very cool website that lets you track the actual distance of any path, anywhere in the world, and also creates an elevation map of said path (using the wonderful google maps interface).&lt;span&gt;  &lt;/span&gt;So after playing around with this, it turned out that instead of our planned 7 mile ride, we actually had gone close to 13 miles with nearly 1,000 feet of elevation gain (here’s the link to see our actual route: &lt;/span&gt;&lt;a href=&quot;http://www.gmap-pedometer.com/?r=785895&quot; target=&quot;_blank&quot;&gt;http://www.gmap-pedometer.com/?r=785895&lt;/a&gt;&lt;span&gt;) ... so it was a much more difficult ride than we were planning on, especially after several months of winter inactivity.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;Well, that’s about it from here, so I hope everyone else&amp;#39;s work is going well and I’ll see many of you in a couple weeks at the NTC,&lt;/span&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/655#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/601">bike ride</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/600">ntc</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/447">NTEN</category>
+ <pubDate>Wed, 21 Mar 2007 17:48:27 +0000</pubDate>
+ <dc:creator>Karl Hedstrom</dc:creator>
+ <guid isPermaLink="false">655 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

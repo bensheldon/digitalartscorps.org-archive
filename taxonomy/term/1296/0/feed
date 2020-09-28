@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - rollplay</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1296/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>PSO Worksheets</title>
+ <link>http://digitalartscorps.org/node/1748</link>
+ <description>&lt;p&gt;Attached are three worksheets used during the 2010 PSO.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nonprofit Realities Budgeting Scenario&lt;/strong&gt;: Ben&#039;s roll play project where everyone acts as board members of a radio station/food pantry and has to make budget cuts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skills Inventory Worksheet&lt;/strong&gt;: A worksheet to help you determine what skills you have and what skills you need while looking at your VAD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consensus Workshop&lt;/strong&gt;: A sheet detailing the Open-Space facilitation process we went through on the last day of PSO.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1295">open space facilitation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1296">rollplay</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1294">skills assessment</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/11 - Nonprofit Realities Budgeting Scenario.pdf" length="83027" type="application/pdf" />
+ <pubDate>Mon, 23 Aug 2010 17:19:37 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1748 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

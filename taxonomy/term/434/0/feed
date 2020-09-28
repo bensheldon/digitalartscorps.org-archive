@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - nymap</title>
+ <link>http://digitalartscorps.org/taxonomy/term/434/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>NYMAP update</title>
+ <link>http://digitalartscorps.org/node/680</link>
+ <description>&lt;p&gt;I almost forgot! &lt;/p&gt;
+&lt;p&gt;Andrew Lynn, who is spearheading the NYMAP/YVXN thingamajig flew to Portland last week for a visit.  &lt;/p&gt;
+&lt;p&gt;For those of you who aren&amp;#39;t &amp;quot;in the know&amp;quot;, NYMAP stand for the National Youth Media Access Project.  I guess somebody didn&amp;#39;t like the acronym though, because now I think it is being changed to YVXN, which stands for Youth Video eXchange Network.  The idea is that cable access centers around the country will be able to digitally swap youth-produced videos.  So far, it is still in the testing stages, with only a handful of access centers being involved, but the hopes are to eventually include many more.  &lt;/p&gt;
+&lt;p&gt;Anyway, things are going really well for the &lt;a href=&quot;http://www.nymapexchange.net/&quot; title=&quot;YVXN&quot;&gt;YVXN&lt;/a&gt;.  In the few months that it&amp;#39;s been going on, YVXN has already amassed a bazillion hours of youth-produced video.  You can&amp;#39;t actually watch any of it at this point, but you can at least read &lt;a href=&quot;http://www.nymapexchange.net/allvideos&quot; title=&quot;all videos&quot;&gt;descriptions&lt;/a&gt; of all the cool content that is being shared.&lt;/p&gt;
+&lt;p&gt;There are still a few kinks to work out, especially relating to the many different playback systems that are being used across the country (VHS, D9, digital Mpeg-2, DVD, etc.), but we are getting there.  The end. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/680#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/129">digital distribution</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/607">mnn</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/434">nymap</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/608">yvxn</category>
+ <pubDate>Mon, 26 Mar 2007 22:05:19 +0000</pubDate>
+ <dc:creator>gariet cowin</dc:creator>
+ <guid isPermaLink="false">680 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>NYMAP computer is here!</title>
+ <link>http://digitalartscorps.org/node/354</link>
+ <description>&lt;p&gt;We finally got our super-sweet computer that we will be using for the NYMAP youth video exchange.  Unfortunately, I got it about 5 minutes before I left for vacation, so it has just been sitting around for the last week.  But now I am back, and ready to put it to good use.  Youth media swapping, here I come!&lt;/p&gt;
+&lt;p&gt;I&amp;#39;ll post another entry when I actually have a chance to try it out, and learn more about the whole exchange process.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/354#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/122">ctc vista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/41">ctcvista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/129">digital distribution</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/434">nymap</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/85">youth media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/435">youth video</category>
+ <pubDate>Tue, 02 Jan 2007 18:14:15 +0000</pubDate>
+ <dc:creator>gariet cowin</dc:creator>
+ <guid isPermaLink="false">354 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

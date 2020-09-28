@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - FOSS</title>
+ <link>http://digitalartscorps.org/taxonomy/term/164/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month 11: Final Workshops and Facility Recommendations</title>
+ <link>http://digitalartscorps.org/node/1513</link>
+ <description>&lt;p&gt;In May/June, I offered several training workshops, likely the last round of dedicated sessions as my year of VISTA service comes to a close.  The remainder of my year will be devoted to compiling the training materials I&#039;ve written, and writing the manuals I haven&#039;t had time to compose yet.&lt;/p&gt;
+&lt;p&gt;Of the three video production workshops I led, one was an interactive session with students from the READY School in Champaign, IL.  After an initial tour of our facilities and those of Urbana Public Television, the students checked out free camcorders and videotaped a day at their school, with interviews and shots of classrooms, art, bulletin boards, and the building itself.  Our training session covered the fundamentals of cutting, arranging, and editing scenes, using Adobe Premiere Pro.  The students, whose school year is finished, now have two local resources for continued learning where they can finish this and other films if they would like.&lt;/p&gt;
+&lt;p&gt;Many of the training sessions were about A/V data backup, transfer, and duplication, as members of the IMC get ready to work more independently after I have finished my service.  Beyond these and other basic recording and editing tips, two of the audio workshops addressed key issues for citizen journalists - 1) posting to the web and 2) understanding the principles of digital audio and their application.  Finally, I have been working with our community radio station WRFU, to ensure that members are knowledgeable about making PSAs, news stories, and updating their Drupal site.  In the last month, I will compile and share these resources; for now, I have been revising the manuals as I go, and sharing with smaller working groups.  &lt;/p&gt;
+&lt;p&gt;Though we often use commercial software like Premiere at the IMC, the only real expenses that any artists or journalists should ever have to face are time and hardware (cameras, mics, computers, a/v equipment, etc.).  I encourage everyone I train to use and tell others about free and open source software (FOSS), and this month I continued my research into these tools.  Specifically, FOSS operating systems can be installed (easily and for free) and used to keep older and slower computers running quickly and efficiently - especially important for organizations with small budgets.  Operating systems I recommend are Ubuntu (which has many variants, including one with media production applications called Ubuntu Studio), Puppy Linux, Dyne:bolic, and Pure:dyne.  There are others, but these systems have familiar desktop and window environments, can be expanded to include office productivity and media software, and some even run off of live CDs, so no installation is necessary.  We received a donated laptop that was quite slow, running Windows 98 - now with the most recent version of Xubuntu, it is much faster and is available for IMC members to use for on-location recording, broadcast, and web publishing.&lt;/p&gt;
+&lt;p&gt;A critical component of documentation is not just manuals or progress reports, but recommendations.  The final aspect of capacity building requires communicating to your organization what they can do to grow after the absence of VISTA staff.  At the IMC I am in the process of troubleshooting and listing improvements that could be made to the production facilities - via hardware that will need to be purchased, and software that is free.  Luckily for us, we just hired some summer youth employees through the Champaign Consortium, and each individual has his/her own project to use as a learning experience and as a service to the IMC - adding to the continuity and capacity built so far with VISTAs.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1513#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1029">audio</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/526">Computer lab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/110">radio</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/143">training</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/134">video</category>
+ <pubDate>Fri, 19 Jun 2009 22:12:05 +0000</pubDate>
+ <dc:creator>Stephen Fonzo</dc:creator>
+ <guid isPermaLink="false">1513 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>FLOSS Usability Sprint</title>
+ <link>http://digitalartscorps.org/node/268</link>
+ <description>&lt;p&gt;Last weekend Aspiration co-hosted a Usuability Sprint at Google in Silicon Valley.  The purpose of this sprint was to bring together designers of Free/Libre/Open Source Software (FLOSS) software with &amp;quot;usability experts&amp;quot;, with the hope that some good design work could be done to make the products more user-friendly.   Google provided most of the usability experts, and the open source projects represented were &lt;a href=&quot;http://drupal.org/&quot;&gt;Drupal&lt;/a&gt;, Sustainable Civil Society, &lt;a href=&quot;http://www.socialtext.com/&quot;&gt;SocialText&lt;/a&gt;, &lt;a href=&quot;http://hyperscope.org/&quot;&gt;HyperScope&lt;/a&gt;, and of course, &lt;a href=&quot;http://www.socialsourcecommons.org/&quot;&gt;Social Source Commons&lt;/a&gt; (represented by Gunner and me).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;First off, I need to say that Google is awesome.  They provided the meeting space and food for the weekend completely free of charge to anyone.  We had constant access to snacks and drinks, and even got a &amp;quot;shwag bag&amp;quot; of free stuff.  Aside from that, Google seems to really go out of their way to make their employees happy, from the free snacks and drinks to the kitchens on every floor, to the free laundry service there.  Needless to say, I was very impressed.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We also got a lot of work done for Social Source Commons.  We are in the process of adding &amp;quot;COmmunity Toolboxes&amp;quot; as a feature, and we spent the weekend designing the relevent pages for this new feature in order to ensure that we have all the functionality covered.  We did a lot of good work, and developed some nice wireframes that we sent to our developers to integrated into the website.  Hopefully we should have those up and running soon, because the value added by having &amp;quot;Community Toolboxes&amp;quot; will really help SSC to provide value to nonprofits and those providing them with technical assistance.  I&amp;#39;ll blog more about Community Toolboxes later, when we incorporate them into the website. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/268#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/332">software design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/331">usability</category>
+ <pubDate>Fri, 03 Nov 2006 18:49:57 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">268 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Firefox 2.0 Add-ons</title>
+ <link>http://digitalartscorps.org/node/236</link>
+ <description>&lt;div&gt;Firefox is currently the most popular (&lt;a href=&quot;http://socialsourcecommons.org/tool/by_popularity&quot;&gt;http://socialsourcecommons.org/tool/by_popularity&lt;/a&gt;) tool in  SSC, so it&amp;#39;s pretty big news that Firefox 2.0 was released yesterday.  I updated  my version yesterday afternoon and so far it&amp;#39;s been working great for me.  More  importantly, I haven&amp;#39;t noticed any problems with SSC since I&amp;#39;ve been using it,  although I will still be doing more testing.&lt;/div&gt;
+&lt;p&gt; 
+&lt;div&gt;Along with the launch of Firefox 2.0, there has been an increase in  activity among blogs and bookmarking sites listing add-ons for Firefox, most of  which I&amp;#39;ve encorporated in Firefox&amp;#39;s Useful Links field (&lt;a href=&quot;http://socialsourcecommons.org/tool/show/51/support&quot;&gt;http://socialsourcecommons.org/tool/show/51/support&lt;/a&gt;).&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt; 
+&lt;div&gt;Most add-ons can be found through Firefox&amp;#39;s website (&lt;a href=&quot;https://addons.mozilla.org/firefox/&quot;&gt;https://addons.mozilla.org/firefox/&lt;/a&gt;).  In particular,  Firefox&amp;#39;s website has a list of recommended add-ons (&lt;a href=&quot;https://addons.mozilla.org/firefox/recommended/&quot;&gt;https://addons.mozilla.org/firefox/recommended/&lt;/a&gt;).  I&amp;#39;ll be  exploring a few of these for my personal use.  So far, I&amp;#39;ve been using Sage (&lt;a href=&quot;https://addons.mozilla.org/firefox/77/&quot;&gt;https://addons.mozilla.org/firefox/77/&lt;/a&gt;) as my RSS reader  and Google&amp;#39;s Browser Sync (&lt;a href=&quot;http://www.google.com/tools/firefox/browsersync/&quot;&gt;http://www.google.com/tools/firefox/browsersync/&lt;/a&gt;) so that I  can use the same bookmarks on both my home and work computers.&lt;/div&gt;
+&lt;/p&gt;</description>
+ <comments>http://digitalartscorps.org/node/236#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/264">add-ons</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/263">firefox</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/265">ssc</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/266">web-browser</category>
+ <pubDate>Wed, 25 Oct 2006 18:42:19 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">236 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Information about Samba</title>
+ <link>http://digitalartscorps.org/node/179</link>
+ <description>&lt;p&gt;In our teleconference today, John mentioned that he was installing Samba on workstations for his position.  I offered to find documentation to help him out if he needed it.  This dovetails nicely with my responsibilities, as I was able to post the resources I found onto Samba&amp;#39;s page on the Social Source commons website.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://socialsourcecommons.org/tool/show/285/&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;BTW, if anyone else is looking for documentation for tools, let me know and I&amp;#39;ll see what I can find. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/179#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/172">Samba</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/173">Social Source Commons</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/81">tech</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/115">tech assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/20">tool</category>
+ <pubDate>Fri, 06 Oct 2006 22:55:02 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">179 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Free and or Open Source Software</title>
+ <link>http://digitalartscorps.org/node/155</link>
+ <description>&lt;p&gt;Free and or Open Source Software: definition, explanation, resources...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/155#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <pubDate>Wed, 04 Oct 2006 19:18:30 +0000</pubDate>
+ <dc:creator>Aliya Abbasi</dc:creator>
+ <guid isPermaLink="false">155 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

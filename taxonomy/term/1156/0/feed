@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - broadband over powerlines</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1156/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Six: Computer Adoption and Broadband Stimulus</title>
+ <link>http://digitalartscorps.org/node/1650</link>
+ <description>&lt;p&gt;Dear Broadband Stimulus,&lt;/p&gt;
+&lt;p&gt;Where are you?&lt;/p&gt;
+&lt;p&gt;Love,&lt;/p&gt;
+&lt;p&gt;Everyone but the peeps who already found out about their application.&lt;/p&gt;
+&lt;p&gt;This month, we had the Computer Adoption Program class a couple Saturdays ago.  The machines were pretty old, and there were a few hiccups, but I think it went okay.  The students were residents from two LTSC-managed affordable housing projects.  Most were adults, some of whom had never owned or used a computer before.  It was a 4-hour crash course in Ubuntu, and they were all browsing the internet and creating e-mail accounts by the end.  Once they all went home, their computers were wifi ready...which is great, because most of the residents live at Reno, where we recently installed the broadband over powerline network.  It&#039;s holding up, even with the increased usage, so yay!&lt;/p&gt;
+&lt;p&gt;I have been having some issues with our wifi hotspot management system, though.  We recently switched to the free version of Coova so that we could better track usage for grant reporting.  I was a noob and didn&#039;t test it out on Internet Explorer.  Older versions of IE seem not to accept redirection (this might also be a Windows-related security issue?).  Going to have to try to work around this.  We can&#039;t go to everyone and troubleshoot this problem...perhaps we could offer firefox cds...?  Coova support is not very good, either.  I wouldn&#039;t go with them again.&lt;/p&gt;
+&lt;p&gt;Next up...increasing signal in a huge apartment complex (using DIY parabolic dishes?), a plan to train a few ueber tech savvy residents in wifi maintenance, and hopefully more web design.  Hope everyone is having a happy new year so far!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1650#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1221">coova</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1222">hotspot</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 27 Jan 2010 18:25:41 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1650 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Five: Can Has Networks?</title>
+ <link>http://digitalartscorps.org/node/1642</link>
+ <description>&lt;p&gt;Projects are mostly slowing to a pausing point as the holidays and a little offtime approaches.  Am prepping donated computers for the upcoming computer literacy/computer adoption class and following up with the participants.&lt;/p&gt;
+&lt;p&gt;My supervisor is leaving sometime around the end of January, so things are a little tenuous.&lt;/p&gt;
+&lt;p&gt;The broadband over powerline (BPL)/open mesh network is up and running really well.  The problem was isolated to the cable modem/ISP.  I put a power timer on it, so that its power cycles late at night.  So far, so good.  The BPL network itself has not had any problems except for a little bit of interference.  Check it out:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot; title=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot;&gt;http://wiki.ltsc.org/index.php/Reno_Apartments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also redeployed a network.  We converted from Meraki brand to Open Mesh brand at Angelina Apartments, with the hope that usage tracking will be easier (not to mention that the new units should have fewer outages and better range).  It&#039;s working...so far.&lt;/p&gt;
+&lt;p&gt;My organization recently switched to gmail for their internal mail, so I&#039;ve been setting up some google sites as document repositories for wireless/community broadband docs and forms that didn&#039;t seem relevant to the more public wiki.&lt;/p&gt;
+&lt;p&gt;Hope everyone enjoys these last few days of 2009!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1642#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1209">computer classes</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Mon, 21 Dec 2009 19:13:00 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1642 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Four: BPL Network Deployed (Crash and Burn), Sustainability</title>
+ <link>http://digitalartscorps.org/node/1632</link>
+ <description>&lt;p&gt;This past Saturday, the wifi network that is a lovechild between the brutish broadband over powerline adapters and the delicate, flighty open mesh routers was deployed.  And like any unholy demonspawn, the birth was painful.  It seemed to be working for an hour, but it promptly went out right as we were leaving.&lt;/p&gt;
+&lt;p&gt;So, the BPL network so far is a no-go, but the good news (sort of) is that BPL is likely not to blame.  The router that we&#039;re using to run the network is your average household netgear.  Even the open mesh router directly connected to the netgear is not working; so likely, this is an issue related to the main router.  I&#039;ve had problems with netgears handling large amounts of bandwidth in the past, but it&#039;s more likely just not allowing the BPL adapters onto the network and will need to simply assign static IPs.  If it&#039;s a bandwidth problem that&#039;s freezing up the router...well, maybe we&#039;ll have to invest in a better router or a switch.  Hopefully we can get the network up before Thanksgiving.&lt;/p&gt;
+&lt;p&gt;The good thing about the deployment is that the residents at the Reno Building are AWESOME.  So cool, eager to help and to learn, really happy that they&#039;ll have free internet.  I&#039;ve got to say, open mesh/BPL is pretty neat to deploy.  We gave each resident their mesh unit, they placed it and came back downstairs, then we watched each unit come online.  :3&lt;/p&gt;
+&lt;p&gt;I&#039;m getting a little concerned, however, about the sustainability of some of the things I&#039;m working on.  I&#039;m starting to realize that things like arranging meetings and training tenants in wifi maintenance and network administration are not tasks that we can reasonably expect most of the tenants to do.  It&#039;s a lot of work to expect tenants to do.  I&#039;m hoping to come up with a more lasting solution (since when I&#039;m gone, they won&#039;t have someone to train residents).   Volunteer recruitment at local schools?  Unpaid internships?  I&#039;m hoping there isn&#039;t too much resistance to me seeking out &quot;trainers&quot; to train.  I&#039;ve been spending a lot of time doing direct service (training tenants, now being asked to help teach a computer literacy class, running tech support errands).  I&#039;m not sure where to draw the line, even though I know there&#039;s that magical percentage number.  And if I have to say, &quot;No, can&#039;t do that,&quot; is there a good way to approach it?   Will see how it goes.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1632#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1193">contractors</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1194">explosions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Mon, 23 Nov 2009 19:45:36 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1632 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Two: Wikwikwik</title>
+ <link>http://digitalartscorps.org/node/1595</link>
+ <description>&lt;p&gt;Since my last report,  a bunch of projects have progressed and a bunch more have begun.  The wiki has been moving along.  Almost all of the content is up, it&#039;s been reskinned, and I&#039;ve added a translator and some access restriction extensions so we can store some somewhat &quot;classified&quot; information to it.  Mediawiki has been a breeze to use after overcoming some permissions issues during the install; for a website that is primarily for disseminating information, I like it a lot more than Joomla/Drupal/modular type things.  It isn&#039;t flashy and requires some setup, but it will be great to let residents create accounts and add info to the database.&lt;/p&gt;
+&lt;p&gt;Onto the new things.  Drew up a proposal for deployment of a very small wifi deployment at an affordable housing project, and will be deploying that before the years&#039; end.  Wrote a request for proposals for wifi at a set of newly rehabbed housing developments for which we recently received a grant.  Found a really good resource for writing RFPs.  It&#039;ll be nice to both deploy a network firsthand and oversee deployment of a network by a contractor.&lt;/p&gt;
+&lt;p&gt;Am kind of excited about the wifi network I&#039;ll be installing.  It relies on Broadband over Powerlines (BPL), which sends wireless signals through existing powerlines and has been proposed as a way to bring internet connectivity to areas where it otherwise would be unfeasible or expensive to build out completely new infrastructure (rural areas, underdeveloped countries).  While BPL is yet to be totally proven/adopted for long-distance internet service (and interferes with HAM radios uh oh), it&#039;s widely available for household networks.  The plan is to just have one internet connection and then use BPL adapters to bounce the connection up to each floor of this apartment building, then build out an open mesh network around these BPL gateways.  The cost will be super low, less than a grand to bring free internet to the building, and the speed is gonna be acceptable, probably around 7Mbps down.  I&#039;m concerned about hardware security, though.  There is lots of vandalism and theft in the building... still looking into addressing that.&lt;/p&gt;
+&lt;p&gt;Cheers, have a happy Autumn.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1595#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/ModelRFPFormat.pdf" length="40298" type="application/pdf" />
+ <pubDate>Tue, 06 Oct 2009 16:54:37 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1595 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

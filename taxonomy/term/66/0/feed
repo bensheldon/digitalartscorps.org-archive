@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - first blogs</title>
+ <link>http://digitalartscorps.org/taxonomy/term/66/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>my first blog...a little late</title>
+ <link>http://digitalartscorps.org/node/85</link>
+ <description>&lt;p&gt;Hey all,It was really great to meet so many interesting, unique, and talented people these past few days at our PSO, and I&amp;#39;m anxious to continue working with all of you throughout this coming year.  Good luck with your first weeks and safe travels!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/85#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/66">first blogs</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Sat, 09 Sep 2006 02:25:19 +0000</pubDate>
+ <dc:creator>Erin Taylor</dc:creator>
+ <guid isPermaLink="false">85 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

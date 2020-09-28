@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - web development</title>
+ <link>http://digitalartscorps.org/taxonomy/term/714/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Community + Media = an awesome new website</title>
+ <link>http://digitalartscorps.org/node/1693</link>
+ <description>&lt;p&gt;&quot;The mission of KDHX is to build community through media, with diverse and independent voices that enrich the perspectives of our audiences.&quot;&lt;/p&gt;
+&lt;p&gt;Here at KDHX we&#039;re finishing up a brand-new website. It&#039;s been a year-long project, starting from surveys, research, and whiteboard brainstorms and ending up with a website that will help KDHX fulfill its mission in new ways.&lt;/p&gt;
+&lt;p&gt;What makes this new website great is that it takes &quot;community through media&quot; to a new level. It provides a new, rich medium through which KDHX DJs, programmers, and producers can deliver and add to their content. At the same time, it creates a space for people to engage with that media and continue the conversation. This means a far richer experience than a website that&#039;s just about the social aspect, just about posting media, or just has information about an organization.&lt;/p&gt;
+&lt;p&gt;I was really quite intimidated by the scope of the project when we started a year ago. Having been in charge of quite a few areas in which I had no background or experience, I&#039;ve learned an incredible amount over the past year (probably more practical development skills than I gained in four years of college). Reading back over some email exchanges and some meeting notes from the beginning of the project reminds me of just how far we&#039;ve come.&lt;/p&gt;
+&lt;p&gt;One of the hardest and most rewarding things we had to do actually had nothing to do with technology. KDHX encompasses a quite diverse group of people; the staff members, volunteers, DJs, producers, interns, and community members I have worked with and consulted brought a wide range of ideas, needs, and passions to the project. This variety is a huge asset to the project and the organization, but coordinating and aligning such different opinions was a challenge. We&#039;ve had to make sure that everyone&#039;s opinion is heard and taken into account while keeping the resulting website from ending up as just the least common denominator of all of these inputs, and it&#039;s great to feel that we&#039;ve accomplished that.&lt;/p&gt;
+&lt;p&gt;I&#039;m thankful to have had the opportunity to work here with such fun people! My year as an AmeriCorps VISTA is up, but my experiences of both community and media at here at KDHX are an ongoing gift.&lt;/p&gt;
+&lt;p&gt;[This is actually a post I wrote for our organization&#039;s blog to sum up my year here. The new website is at next.kdhx.org!]&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1693#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1150">kdhx</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1258">new website</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1259">wrapup</category>
+ <pubDate>Fri, 23 Jul 2010 22:00:42 +0000</pubDate>
+ <dc:creator>Robyn Haas</dc:creator>
+ <guid isPermaLink="false">1693 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Almost a month late...</title>
+ <link>http://digitalartscorps.org/node/1615</link>
+ <description>&lt;p&gt;Hellooo DASCorps!&lt;/p&gt;
+&lt;p&gt;Work at NAMAC has been busy, albeit running smoothly.  I had the opportunity to take a Web Design Intensive at BAVC, and am currently relaunching our site&#039;s new look (it&#039;ll be finished on Sunday.. &lt;a href=&quot;http://namac.org&quot; title=&quot;http://namac.org&quot;&gt;http://namac.org&lt;/a&gt;).  The intent is to make it a bit more friendly for navigation and usage.  I also attended a free Bay Area Drupal Camp in Berkeley...  &lt;/p&gt;
+&lt;p&gt;Both offered me a better understanding of web development workflow, helpful tools of the trade, and language... so I feel more confident knowing what/who/how/when to ask questions, as well as how to best address issues on my own.  &lt;/p&gt;
+&lt;p&gt;Now that I&#039;ve gotten the techie stuff out of the way... I&#039;ll be developing our site&#039;s blog so that its more interactive... well, hopefully making all of our online communications more interactive in general. Any tips people might have would be helpful :)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1615#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/994">social media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Fri, 23 Oct 2009 18:44:49 +0000</pubDate>
+ <dc:creator>Donna Choi</dc:creator>
+ <guid isPermaLink="false">1615 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>10 Tactics for Growing Your Community Online</title>
+ <link>http://digitalartscorps.org/node/1167</link>
+ <description>&lt;p&gt;Last week I attended an NTEN Member Appreciation Webinar entitled: &lt;em&gt;10 Tactics for Growing Your Community Online&lt;/em&gt;.  As NAMAC&#039;s Online Community Manager, I found this webinar very helpful, engaging and well worth my time.&lt;/p&gt;
+&lt;p&gt;The webinar, provided by the awesome &lt;a href=&quot;http://nten.org/events/webinar/2007/11/08/nten-member-appreciation-webinar-10-tactics-for-growing-your-online-community&quot;&gt;N-TEN,&lt;/a&gt; can be found in context here:&lt;br /&gt;
+&lt;a href=&quot;http://tinyurl.com/2mtekz&quot; title=&quot;http://tinyurl.com/2mtekz&quot;&gt;http://tinyurl.com/2mtekz&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The following are the main bullet points that were discussed at the *session:&lt;/p&gt;
+&lt;p&gt;1) Let the potential members of the community know why you are providing an online community, and how being an active member of a community would benefit them.&lt;/p&gt;
+&lt;p&gt;2) Use every opportunity to showcase your online community.&lt;/p&gt;
+&lt;p&gt;3) Seed the community with groups, forum postings, blogs, etc., so that early adopters aren’t faced with an “empty” community.&lt;/p&gt;
+&lt;p&gt;4) Make it as easy as possible for people to sign up and to use the community tools.&lt;/p&gt;
+&lt;p&gt;5) Designate a staff person to be the facilitator or moderator of the community.&lt;/p&gt;
+&lt;p&gt;6) Acknowledge those members who use the community frequently.&lt;/p&gt;
+&lt;p&gt;7) Seek input from the members on your organization’s agenda and other organizational issues. Take what you learn from the community and put it into practice in the organization.&lt;/p&gt;
+&lt;p&gt;8) Use wiki and/or forum functionality to publish ongoing lists of group events.&lt;/p&gt;
+&lt;p&gt;9) Announce new initiatives and other important organizational news in the community first.&lt;/p&gt;
+&lt;p&gt;10) Keep the community content fresh.&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+Feel free to watch the powerpoint below (click on it to go to a download page):
+&lt;/p&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;div style=&quot;width:425px;text-align:left&quot; id=&quot;__ss_169334&quot;&amp;gt;&lt;embed src=&quot;http://static.slideshare.net/swf/ssplayer2.swf?doc=10-tactics-for-online-community-1195245790203857-1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;div&gt;&lt;a href=&quot;http://www.slideshare.net/?src=embed&quot;&gt;&lt;img src=&quot;http://static.slideshare.net/swf/logo_embd.png&quot; alt=&quot;SlideShare&quot; /&gt;&lt;/a&gt; | &lt;a href=&quot;http://www.slideshare.net/guestb97bef/10-tactics-for-online-community&quot; title=&quot;View &amp;#039;10  Tactics For  Online  Community&amp;#039; on SlideShare&quot;&gt;View&lt;/a&gt; | &lt;a href=&quot;http://www.slideshare.net/upload&quot;&gt;Upload your own&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+The powerpoint was provided on kind permission from Christopher Dworin, VP of Business Development at GoLightly - thanks Chris!  &lt;em&gt;GoLightly provides communication and collaboration solutions for community-minded organizations. [Their] social networking tools give your members the ability to interact with you and each other in powerful new ways.&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+To read more about GoLightly, see: &lt;a href=&quot;http://www.golightly.com/&quot; title=&quot;http://www.golightly.com/&quot;&gt;http://www.golightly.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/881">dangerousbook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/447">NTEN</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/533">resource</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/891">webinar</category>
+ <pubDate>Fri, 16 Nov 2007 20:56:22 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1167 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Site Planning: Tips and Resources for Planning Your Site</title>
+ <link>http://digitalartscorps.org/node/1005</link>
+ <description>&lt;p&gt;I cannot emphasize enough, the importance of PLANNING OUT YOUR WEBSITE.  Before you can even start thinking about what the colors will be, you need to have a few things in place.  3 i can readily think of are:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Site Plan&lt;/li&gt;
+&lt;li&gt;A Site Map Diagram&lt;/li&gt;
+&lt;li&gt;A User Experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sustainability plays a large part in the success of the technology chosen and implemented.  In fact, it shouldn&#039;t even be &#039;a part&#039; of, it should be INTRINSIC to your site throughout it&#039;s development. &lt;/p&gt;
+&lt;p&gt;Web maintenance is a pretty big one - for instance, what happens if you&#039;ve coordinated a bright, fresh and dynamic team to help out on your site, but one of them gets hired off someplace else?  What if your graphic designer (for banners, buttons, etc.) is having more difficulty than originally anticipated or they simpy can&#039;t finish the work?  These instances are particularly taxing if your team is a group of VOLUNTEERS.  Volunteers can be notorious (through no fault of their own) at &#039;dropping off&#039; a project.   Will you, as the sole coordinator have the strategy, skills and time in place to &#039;fill in&#039;?  This can often happen (as I&#039;ve been taken to task to many a time).  Nothing is more taxing then if a website or listserv goes down RIGHT before a critical fundraising campaign (which will happen).  Have a plan for this.  Have back up documentation of what they were doing, and when?  How far a long were they?  What did the develop/what did they NOT develop?&lt;/p&gt;
+&lt;p&gt;A key thing that can help off set these things (and empower YOU as a web team coordinator) is to have a Site Plan - any designer should be able to have this on hand and have it transparent and viewable by ALL interested parties - executive board, support staff, consultants (if you&#039;re not fortunate enough to have in-house web staff), funder$...&lt;/p&gt;
+&lt;p&gt;I&#039;m currently developing the site for &lt;a href=&quot;http://www.namac.org&quot; title=&quot;NAMAC&quot;&gt;NAMAC&lt;/a&gt;, but it is a HUGE undertaking with A LOT of planning that&#039;s going into it - discussion, visioning, functionality, user roles, modules needed, interaction workflow, meeting with each staff member individually, pre-launch steps, live launch monitoring, sustainability and optimization  - and we haven&#039;t even gotten to the design aesthetics yet.&lt;/p&gt;
+&lt;p&gt;Without further ado and blathering, here&#039;s a few notes on some things that I think are pretty basic and key to web development.  This is by no mean exhaustive, but you can certainly search for other &lt;a href=&quot;http://ctcvista.org/search/node/%22web+development%22&quot; title=&quot;web development tips&quot;&gt;web development tips on our site&lt;/a&gt;...&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;A Site Plan&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&quot; title=&quot;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&quot;&gt;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is my General Plan for the current site.  I&#039;ve made sure to have it public so interested parties (org directors, staff, consultants) can see it and comment on it.  I asked each person what they&#039;d like to see, asked them how and if they would interact with a particular functionality and then composed a report with all of their input in it.  I am in CONSTANT communication with them about how the new site will function, how the planning is going, what purpose the site/functionality will serve, and IF a certain functionality they&#039;ll want is doable and/or &lt;em&gt;necessary&lt;/em&gt; - this part is huge - the more functionality, the more troubleshooting down the road.  &lt;/p&gt;
+&lt;p&gt;A general rule of thumb when developing is the 3 T&#039;s of Site Building (or any other tech project for that matter).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tell them what you are planning on doing (when you&#039;re planning it)&lt;/li&gt;
+&lt;li&gt;Tell them you are doing it (when you are doing it)&lt;/li&gt;
+&lt;li&gt;Tell them that you did (when you are done)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That way there&#039;s no &#039;What?  I didn&#039;t okay this!&#039; from a frustrated laissez-faire client/director or &#039;But we had &lt;em&gt;talked&lt;/em&gt; about it before&#039; from an equall frustrated and head-strong developer.  I&#039;d add that keeping up an online document that EVERYONE can see will also make sure that everyone is on the same page - as well as help YOU as a designer/planner be able to refer back to and track your work.&lt;/p&gt;
+&lt;p&gt;***NOTE: as a VISTA, an online accessible/public document gives your directors/supervisors a way to reference the great work that you, as a VISTA are doing - mine are sending the link above to funders to show them what we are up to***&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;A Site Map Diagram&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&quot; title=&quot;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&quot;&gt;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&lt;/a&gt;&lt;br /&gt;
+An example of a site map diagram.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.gliffy.com/&quot; title=&quot;http://www.gliffy.com/&quot;&gt;http://www.gliffy.com/&lt;/a&gt;&lt;br /&gt;
+You can draw out a diagram map of your site with this tool (NOT to be confused with an XML SITEMAP by the way).  This is GREAT for working with distributed teams.  &lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;br /&gt;
+A User Experience Workflow&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://www.jjg.net/elements/pdf/elements.pdf&quot; title=&quot;http://www.jjg.net/elements/pdf/elements.pdf&quot;&gt;http://www.jjg.net/elements/pdf/elements.pdf&lt;/a&gt;&lt;br /&gt;
+The above provides a great visual of the user design experience process.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&quot; title=&quot;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&quot;&gt;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&lt;/a&gt;&lt;br /&gt;
+This (i like this one even better) provides another view of the design process).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, I hope this helps some of you VISTAs out there.  Like i said, this is by no means an exhaustive resource of planning tips, but hopefully it&#039;s enough to get you started on your way to website planning nirvana.&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+peace,&lt;br /&gt;
+m&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/460">web</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Elements of User Experience.pdf" length="16945" type="application/pdf" />
+ <pubDate>Wed, 25 Jul 2007 23:44:05 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1005 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Leveraging the Facebook API</title>
+ <link>http://digitalartscorps.org/node/1003</link>
+ <description>&lt;h4&gt; Leveraging the FaceBook API &lt;/h4&gt;
+&lt;p&gt;HISTORY/BACKGROUND&lt;br /&gt;&lt;br /&gt;
+facebook was initially for college students&lt;br /&gt;&lt;br /&gt;
+very little activity for people outside of formal networks (work, geographic region, school/college)&lt;br /&gt;&lt;br /&gt;
+myspace is growing much faster than facebook&lt;br /&gt;&lt;br /&gt;
+an API was released to the public for people to start developing it&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;you can only see people from within your network&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+STAGES OF GROWTH TO CONSIDER WHEN BUILDING AN APP
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;can have people interact across networks with the apps
+&lt;/li&gt;
+&lt;li&gt;HUGE increase in adoption of apps
+&lt;/li&gt;
+&lt;li&gt;DO NOT however, rely on this happening (huge adoption) - there are MANY apps out there
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3 Causes for Increased Adoption of Facebook Apps
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;people tell other people about the apps
+&lt;/li&gt;
+&lt;li&gt;unlimited invites (for people to use the app you have created)
+&lt;/li&gt;
+&lt;li&gt;novelty
+&lt;/li&gt;
+&lt;li&gt;knowledge
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CAVEAT: hard to make apps adoptable/viral because there are SO many&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+APP FUNCTIONALITY&lt;br /&gt;
+apps utilize these three things:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NEWS FEED (publishes to it)
+&lt;/li&gt;
+&lt;li&gt;PROFILE (appears in it)
+&lt;/li&gt;
+&lt;li&gt;INVITES (you can invite your friends to use it)&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EXAMPLE
+&lt;/p&gt;
+&lt;p&gt;    Vampire vs. Ninja App: the virality of the app was BUILT IN to the app (key success indicator)&lt;br /&gt;
+    *when you &#039;bite&#039; someone, for the person to see what it is about they HAVE to install the app&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+CREATING GROUPS&lt;br /&gt;&lt;br /&gt;
+founding a group can be tricky because they are easy to create, but for people to return, there&#039;s not much to return to (as of now)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;information on FaceBook can be VERY rich - it tracks relationships between a user and all their friends&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;HERE ARE SOME KEY APPS&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;    CAUSES app:&lt;br /&gt;
+    *it allows you to start a cause&lt;br /&gt;
+    *you can search a db to support an org&lt;br /&gt;
+    *essentially a fundraising tool&lt;br /&gt;
+    *you can invite your friendS&lt;br /&gt;
+    *you can see who/how much people donated&lt;br /&gt;
+    CAVEATS&lt;br /&gt;
+    no way for the org itself to interact with who donated or know how much they donated&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;    CHANGE.ORG app&lt;br /&gt;
+    *recruit&lt;br /&gt;
+    *donate&lt;br /&gt;
+    *eActions&lt;br /&gt;
+    *create a forum&lt;br /&gt;
+    *capture email addresses&lt;br /&gt;
+    *important note: you can email all the people through the app you create (this is true for ALL apps)&lt;/p&gt;
+&lt;p&gt;DEVELOPING AN APP&lt;br /&gt;&lt;br /&gt;
+development timeline is not very long, though you should consider:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how will you distribute it?
+&lt;/li&gt;
+&lt;li&gt;can you make it as intrinsically viral as possible (make it easy for friends to tell friends about it)?
+&lt;/li&gt;
+&lt;li&gt;chances of your app getting published in the feed are dependent on:
+&lt;ul&gt;
+&lt;li&gt;how many people adding the app on your network
+&lt;/li&gt;
+&lt;li&gt;your friends already have the app
+&lt;/li&gt;
+&lt;li&gt;YOU have the app&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CRITICISMS
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;everyone is on social networking sites so someone (from your org) needs to be on the social app/site ALL the time (to keep the content fresh)
+&lt;/li&gt;
+&lt;li&gt;class distinctions are &lt;a href=&quot;http://www.danah.org/papers/essays/ClassDivisions.html&quot; class=&quot;external autonumber&quot; title=&quot;http://www.danah.org/papers/essays/ClassDivisions.html&quot; rel=&quot;nofollow&quot;&gt;[1]&lt;/a&gt; on facebook
+&lt;/li&gt;
+&lt;li&gt;datamining by corporations is also a large factor - particluarly with myspace
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+TIPS&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;build personal relationships with members to the org
+&lt;/li&gt;
+&lt;li&gt;build it into your current eadvocacy campaigns
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;p&amp;gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/138">facebook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 24 Jul 2007 00:31:54 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1003 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Web Design Tips for Usability, Site Design and Accessibility</title>
+ <link>http://digitalartscorps.org/node/977</link>
+ <description>&lt;p&gt;This is a resource I found for designing better websites.  I took this from:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.great-web-design-tips.com/&quot; title=&quot;http://www.great-web-design-tips.com/&quot;&gt;http://www.great-web-design-tips.com/&lt;/a&gt; - a pretty straightforward url:)&lt;/p&gt;
+&lt;p&gt;Design better web sites by improving your web design skills and knowledge with Great Web Design Tips. This web site offers a FREE online course on how to create more user-friendly web sites, by incorporating good web usability, web site design and web accessibility design elements. Study the course to avoid the mistakes that other web site designers make. Written by &lt;a href=&quot;http://www.mikes-marketing-tools.com/whos-mike.html&quot;&gt;Michael Wong&lt;/a&gt; and edited by Peter Cooper.&lt;/p&gt;
+&lt;h2&gt;Chapter One: &lt;a href=&quot;http://www.great-web-design-tips.com/web-usability&quot;&gt;Web Usability&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter you&#039;ll discover how to create a more user-friendly experience for your visitors by improving your Web site&#039;s usability.&lt;/p&gt;
+&lt;h2&gt;Chapter Two: &lt;a href=&quot;http://www.great-web-design-tips.com/web-site-design&quot;&gt;Web Site Design&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter you&#039;ll discover how to create a more accessible Web site for users with disabilities by improving your Web site&#039;s accessibility.&lt;/p&gt;
+&lt;h2&gt;Chapter Three: &lt;a href=&quot;http://www.great-web-design-tips.com/web-accessibility&quot;&gt;Web Accessibility&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter you&#039;ll discover how to create a more user-friendly experience by improving your Web site&#039;s design, layout, navigation, and much more.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/157">websites</category>
+ <pubDate>Thu, 12 Jul 2007 00:37:18 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">977 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>How To Create an RSS Feed from Any Webpage</title>
+ <link>http://digitalartscorps.org/node/976</link>
+ <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: I did NOT write this post.  I found it on Robin Good&#039;s post: &lt;em&gt;How To Create A RSS Feed From Any Web Page&lt;/em&gt; (you can scroll to the bottom of this post for the link if you like.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Sooner or later, and maybe without even knowing the technical terms required to communicate this to someone else, you will want to subscribe and monitor web sites, information pages, or online catalog sections on an ongoing basis. &lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;RSS_icon.gif&quot; src=&quot;http://www.masternewmedia.org/images/RSS_icon.gif&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You have heard about RSS, webfeeds, Atom and other apparently not too clear tech terms describing something that did sound like what you are really in need of now, but even with all of your best will you wouldn&#039;t how or where to start given that those pages you have identified do not sport any orange colored button or icon hinting to a proper RSS feed. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can do you generate an RSS feed for a web page&lt;/strong&gt; that doesn&#039;t have one?&lt;/p&gt;
+&lt;p&gt;Can anyone do this on her own?&lt;/p&gt;
+&lt;p&gt;The answer to both is a resounding YES!&lt;/p&gt;
+&lt;p&gt;Today, thanks to new &quot;&lt;strong&gt;html scraping&lt;/strong&gt;&quot; services available to everyone, &lt;a name=&quot;0764588486&quot; id=&quot;amzn_cl_link_0&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0764588486?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0764588486&amp;amp;adid=2eab9559-a971-4af0-8327-3553b422c568&quot;&gt;RSS feeds&lt;/a&gt; can be automatically generated for just about any web site, no matter what kind of layout, coding or language it is written in. In some situations, to create a standard RSS feed from any web page that does not have one may take less than a minute, while in other cases, where your needs for customization are higher, you may need to spend a little more time. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Morale of the story&lt;/strong&gt;: any web page today can be made to generate a RSS feed automatically. By the owner or, as it will increasingly happen, by someone else who wants to be informed in near-real-time of any news and content updates made on it.&lt;/p&gt;
+&lt;p&gt;Here the details:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;div id=&quot;gads&quot;&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;div id=&quot;text&quot; style=&quot;float: left; width: 580px;&quot;&amp;gt;&lt;br /&gt;
+&lt;a name=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;img alt=&quot;RSS_yahoo_my_rssaddress_350.gif&quot; src=&quot;http://www.masternewmedia.org/images/RSS_yahoo_my_rssaddress_350.gif&quot; height=&quot;231&quot; width=&quot;350&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HTML scraping&lt;/strong&gt; or the ability to automatically generate a standard RSS feed from a HTML document (a web page) that does not have one has been a new type service under increasing demand for over 2 years now.&lt;/p&gt;
+&lt;p&gt;Early services (e.g.: MyRSS) that offered HTML scraping later disappeared or were replaced by other more profitable ones. Creating an automatic RSS feed from a non-RSS enabled web page enables a number of truly useful potential applications and I am sure that such services will enjoy soon greater marketplace rewards. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FeedYes&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feed_yes.gif&quot; src=&quot;http://www.masternewmedia.org/images/feed_yes.gif&quot; height=&quot;25&quot; width=&quot;170&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+FeedYes is the latest entry in this small group of online services which allow anyone to create/ generate automatically a RSS feed for any web page. FeedYes, has really found a simple and truly effective route to simplify this task while providing good enough a solution to satisfy most needs. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;While it is not perfect&lt;/strong&gt;, it is damn good and fast at doing what it does. It is alos rather simple to use, and once you have gone through it once, creating a second feed for another site, may take literally only a few seconds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.FeedYes.com/&quot;&gt;FeedYes&lt;/a&gt; is a three-step process that involves a) providing the URL of the page out of which an automatic &lt;a name=&quot;0596008813&quot; id=&quot;amzn_cl_link_1&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0596008813?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0596008813&amp;amp;adid=270b00e1-a673-4f02-9a99-16627d632147&quot;&gt;RSS&lt;/a&gt; feed needs to be created, b) indicating among the dynamic links found by FeedYes on the specifiied URL, which one is the first that refers to the content section that you are interested in (all web pages have different content sections in the same page, and you probably do not want to create a feed for the comments section or for the most recent articles appearing on the same site), c) indicating in the updated list of links FeedYes will spit out the last relevant link pertaining to your selected content section.&lt;/p&gt;
+&lt;p&gt;In this way, FeedYes isolates with good precision (you are the one effectively guiding) the specific content section you are interested in (say the Latest News) and creates an RSS feed for it.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Feed43&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feed43_logo.gif&quot; src=&quot;http://www.masternewmedia.org/images/feed43_logo.gif&quot; height=&quot;45&quot; width=&quot;177&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.Feed43.com/&quot;&gt;Feed43&lt;/a&gt; is an online service that converts standard web pages or XML documents to RSS feeds. Feed43 does so by extracting snippets of text or HTML by applying specific search patterns to the document from which the feed needs to be extracted. The search patterns help Feed43 understand exactly which content to grab from a page and which not. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This allows for a much more precise control&lt;/strong&gt; of what will be contained in a feed at the expense of the ease of use and accessibility of the overall product itself. For technically savvy users this is in fact an excellent and very reliable approach to RSS feed generation but for non-technical users Feed43 may scare off lots of users in a matter of minutes. &lt;/p&gt;
+&lt;p&gt;In Feed43 the set of steps required to create a custom RSS feed for a web page that has none are as follows:&lt;br /&gt;&lt;br /&gt;
+a) &lt;strong&gt;Identify&lt;/strong&gt; the web page from which to generate a RSS feed.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;b) &lt;strong&gt;Create&lt;/strong&gt; a RSS feed on Feed43 pointing to that web page.&lt;br /&gt;&lt;br /&gt;
+c) &lt;strong&gt;Define&lt;/strong&gt; search patterns required.&lt;br /&gt;&lt;br /&gt;
+d) &lt;strong&gt;Specify&lt;/strong&gt; output templates required.&lt;br /&gt;&lt;br /&gt;
+e) &lt;strong&gt;Generate&lt;/strong&gt; the new RSS feed. &lt;/p&gt;
+&lt;p&gt;All feeds created with Feed43 are &quot;public&quot;, but optionally Feed43 also allows you to protect any newly created RSS feed with a password. The service is free.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a name=&quot;0470017198&quot; id=&quot;amzn_cl_link_3&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0470017198?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0470017198&amp;amp;adid=9fa3453c-7989-4a46-8ccd-7264ecf00037&quot;&gt;FeedFire&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feedfire_logo_170.gif&quot; src=&quot;http://www.masternewmedia.org/images/feedfire_logo_170.gif&quot; height=&quot;39&quot; width=&quot;170&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;FeedFire is the oldest&lt;/strong&gt; of these HTML-to-RSS services allowing anyone to automatically create a RSS news feed for any Web site that does not have one.&lt;/p&gt;
+&lt;p&gt;You simply register at FeedFire, input the URL of the page and FeedFire dos the rest for you in the fraction of a second. All that&#039;s needed is a FULL URL to the page you would like to have made into RSS. All bandwidth costs to host the new RSS feeds are absorbed by FeedFire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FeedFire also allows to sponsor&lt;/strong&gt; newly created RSS feeds. this can be done by anyone like me and you, who are not major corporations but people who are looking for a clever, considered and comprehensively featured service that allows them to add extra reach, exposure, visibility and unique content to others and/or to THEIR own web site. &lt;/p&gt;
+&lt;p&gt;RSS feeds created and sponsored with FeedFire can also be made private, and used for creating intelligence reports or RSS learning objects or RSS newsmastering channels containing information otherwise inaccessible to others.&lt;/p&gt;
+&lt;p&gt;Sponsored feeds can be further filtered by allowing the sponsor to select only news items that &quot;include&quot; or do not have specific keywords. It is also possible to customize the number of news items displayed in the sponsored feed, the number of words per news item and even the title and the description of the newly created RSS feed. The varying levels of sponsorship have increasingly higher levels of features and customisation.&lt;/p&gt;
+&lt;p&gt;&quot;&lt;/p&gt;
+&lt;p&gt;This was taken from: &lt;a href=&quot;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&quot; title=&quot;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&quot;&gt;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/789">API</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Thu, 12 Jul 2007 00:30:14 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">976 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>my (fall, winter) spring project</title>
+ <link>http://digitalartscorps.org/node/888</link>
+ <description>&lt;p&gt;My big project of the spring went public today. It&#039;s called the &lt;a href=&quot;http://calruralhousing.org/housing-toolbox/inclusionary-housing-policy-search&quot;&gt;California Inclusionary Housing Policy Database&lt;/a&gt;, and we introduced it like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The California Coalition for Rural Housing (CCRH) is pleased to launch a free searchable database of more than 130 California Inclusionary Housing (IH) programs, the first of its kind in the U.S.&lt;/p&gt;
+&lt;p&gt;The California Inclusionary Housing Policy Database contains information on the key characteristics of California IH programs in existence in 2006. At that time there were an estimated 170 programs, of which CCRH was able to retrieve electronic and hard copy versions of approximately 80%.&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;The database provides summaries of characteristics for each policy. Users may search for these summaries by jurisdiction name or by more than 30 other variables. ... In addition, each summary provides a link to the jurisdiction&#039;s full policy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This project has been in progress since the beginning of my service last September. In the fall, I worked closely with two other CCRH staff members to design the database; by the spring, I was designing and implementing the search feature and the policy layouts. My coworker Brandi analyzed the policies and input the data. In the past few weeks I&#039;ve collaborated with CCRH&#039;s ED on the final interface and text; I&#039;ve recieved a ton of invaluable input from both him and my supervisor. I&#039;ve also communicated with other members of the nonprofit housing community as buzz built around this project, and during a two week beta test period. This project was interesting and challenging to work on, and has proved rewarding both in what I&#039;ve learned and in the resource I&#039;ve helped my organization provide to the community.&lt;/p&gt;
+&lt;p&gt;And for the techies: I built the CCRH website with Drupal 4.7. The inclusionary housing policies are a CCK content type, because it allowed us to get the design and data entry set up quickly. I used the ConTemplate module to the template for IH policy CCK type from within Drupal. The search feature is a custom module I wrote which can provide a search feature for any CCK content type. I hope to release this module after I clean up the code, flesh out some features, and port it to the latest Drupal version.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/888#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/712">housing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/713">project</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Wed, 13 Jun 2007 06:19:26 +0000</pubDate>
+ <dc:creator>Rebecca White</dc:creator>
+ <guid isPermaLink="false">888 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

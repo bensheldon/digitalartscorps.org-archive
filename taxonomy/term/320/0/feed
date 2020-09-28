@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - template</title>
+ <link>http://digitalartscorps.org/taxonomy/term/320/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>A Citizen Journalism Class Template from CCTV</title>
+ <link>http://digitalartscorps.org/node/1084</link>
+ <description>&lt;p&gt;Here&#039;s a handy 6 page handout on citizen journalism class put on by &lt;a href=&quot;http://www.cctvcambridge.org/&quot;&gt;CCTV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cctvcambridge.org/files/orientationmaterials.pdf&quot; target=&quot;_blank&quot;&gt;NeighborMedia orientation materials&lt;/a&gt; - &lt;em&gt;Cambridge Community Television&lt;/em&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/296">citizen journalism</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/320">template</category>
+ <pubDate>Thu, 13 Sep 2007 02:01:42 +0000</pubDate>
+ <dc:creator>Julie Adler</dc:creator>
+ <guid isPermaLink="false">1084 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Tools of my trade</title>
+ <link>http://digitalartscorps.org/node/264</link>
+ <description>&lt;p class=&quot;MsoNormal&quot;&gt;At present my work is focused mainly on a small software development project for which I write code in php. &lt;span&gt; &lt;/span&gt;I have to write code to interact with a database and generate forms and reports.&lt;/p&gt;
+&lt;p&gt;  Among the tools I am using for this project, Pear::DB and Smarty are more significant. PEAR is allowing me to write code which is database neutral. That is I do not have to write database functions addressed to a specific database. I need to do it only once in a single statement when I connect to a database of my choice. This is a cool concept that allows portability. For example same code can be used to connect to MySQL or SQLite or PostgresSQL data bases with changes only to configuration parameters. &lt;br /&gt;
+&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Another tool that I am using is “Smarty templates” for report layout. With Smarty I can&lt;span&gt;  &lt;/span&gt;&lt;span&gt; &lt;/span&gt;write code separating presentation details from the processing logic. Additionally Smarty allows me to use conditional logic and looping within the template, thus allowing me to separate not only the template but also the logic, this ability to use some level of logic, instead  of just plugging in the variables, gives me more control over the display&lt;/p&gt;
+&lt;p&gt;  For example I have been able to code the display of a form containing a list box filled with the results of a data base query. I am also able to create a table, populated with records from database with a layout based on a condition. Using smarty has simplified and reduced my php code as well. I find, having HTML files (templates)separated from PHP files is convenient in terms of running through HTML validator, linking to style sheets, debugging and editing.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/264#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/322">MySQL</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/321">PHP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/323">Smarty</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/320">template</category>
+ <pubDate>Fri, 03 Nov 2006 16:53:43 +0000</pubDate>
+ <dc:creator>Kamala Kalluri</dc:creator>
+ <guid isPermaLink="false">264 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

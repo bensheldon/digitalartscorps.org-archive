@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - programming language</title>
+ <link>http://digitalartscorps.org/taxonomy/term/867/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Learning Ruby</title>
+ <link>http://digitalartscorps.org/node/1121</link>
+ <description>&lt;p&gt;I made some partial study of Ruby&#039;s metaprogramming capabilities.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1121#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/867">programming language</category>
+ <pubDate>Fri, 12 Oct 2007 18:51:49 +0000</pubDate>
+ <dc:creator>Jack Waugh</dc:creator>
+ <guid isPermaLink="false">1121 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

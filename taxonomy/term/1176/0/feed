@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - computer adoption program</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1176/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Six: Computer Adoption and Broadband Stimulus</title>
+ <link>http://digitalartscorps.org/node/1650</link>
+ <description>&lt;p&gt;Dear Broadband Stimulus,&lt;/p&gt;
+&lt;p&gt;Where are you?&lt;/p&gt;
+&lt;p&gt;Love,&lt;/p&gt;
+&lt;p&gt;Everyone but the peeps who already found out about their application.&lt;/p&gt;
+&lt;p&gt;This month, we had the Computer Adoption Program class a couple Saturdays ago.  The machines were pretty old, and there were a few hiccups, but I think it went okay.  The students were residents from two LTSC-managed affordable housing projects.  Most were adults, some of whom had never owned or used a computer before.  It was a 4-hour crash course in Ubuntu, and they were all browsing the internet and creating e-mail accounts by the end.  Once they all went home, their computers were wifi ready...which is great, because most of the residents live at Reno, where we recently installed the broadband over powerline network.  It&#039;s holding up, even with the increased usage, so yay!&lt;/p&gt;
+&lt;p&gt;I have been having some issues with our wifi hotspot management system, though.  We recently switched to the free version of Coova so that we could better track usage for grant reporting.  I was a noob and didn&#039;t test it out on Internet Explorer.  Older versions of IE seem not to accept redirection (this might also be a Windows-related security issue?).  Going to have to try to work around this.  We can&#039;t go to everyone and troubleshoot this problem...perhaps we could offer firefox cds...?  Coova support is not very good, either.  I wouldn&#039;t go with them again.&lt;/p&gt;
+&lt;p&gt;Next up...increasing signal in a huge apartment complex (using DIY parabolic dishes?), a plan to train a few ueber tech savvy residents in wifi maintenance, and hopefully more web design.  Hope everyone is having a happy new year so far!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1650#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1221">coova</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1222">hotspot</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 27 Jan 2010 18:25:41 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1650 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Three: Community Outreach and Wiki Goes Live</title>
+ <link>http://digitalartscorps.org/node/1617</link>
+ <description>&lt;p&gt;Right now, my major projects include...&lt;br /&gt;
+1. Obtaining a contractor to build out several wifi networks in Koreatown.  Attached is the request for proposals (RFP) I put together.  We anticipate having 4-5 bidders, and we&#039;re doing a site walkthrough with the contractors on Wednesday.  The bids are due on...the 11th I think?  Then we get to read through and select the one that best meets our needs...exciting.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Building a small wifi network at one of our apartments.  I think this will technically be our last in-house deployment.  Just waiting on budget approval.  I&#039;ll update with more about BPL as I deploy (and inevitably encounter problems!) but for now you can see the proposal.  BPL + open mesh will provide more than adequate coverage of this small building, I think it&#039;s a good way to deploy in buildings with simple layouts and small floor plans like the one we&#039;re doing.  The goal is to get it deployed before Thanksgiving.  Eek.  Physically deploying is the easy part, it&#039;s just getting the money.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepping donated computers to be given to families, to be given out after we launch the new wifi network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since last time, I finished the main sections of the Wireless Wiki, an online manual and community space to help residents maintain/troubleshoot their free wifi networks on their own:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot; title=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot;&gt;http://wiki.littletokyounplugged.org/LTSCWireless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alsot held the first resident wifi meeting at one of the housing projects, Angelina Apartments.  The wifi there is Meraki (a more expensive type of wireless mesh) and was set up about a year ago.  The peeps who showed up seemed really interested in making the wifi better (it has been arguably spotty and not as good as it could be).  So, will be working to install more gateways and access points, try to get coverage to all parts of the building.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1617#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/PHD_wifi_RFP.doc" length="768512" type="application/msword" />
+ <pubDate>Mon, 26 Oct 2009 16:48:11 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1617 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

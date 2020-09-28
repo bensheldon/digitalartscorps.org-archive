@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - help</title>
+ <link>http://digitalartscorps.org/taxonomy/term/89/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What is a good website design program for youth?</title>
+ <link>http://digitalartscorps.org/node/1264</link>
+ <description>&lt;p&gt;Hey guys,&lt;/p&gt;
+&lt;p&gt;I&#039;m trying to help a local CTC get a good curriculum to teach youth (kids in grades k-5) how to design websites. The CTC is actually a parks and recreational center and the websites will be used so the youth have some voice in the community. Any suggestions?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1264#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/945">need</category>
+ <pubDate>Wed, 16 Apr 2008 01:55:33 +0000</pubDate>
+ <dc:creator>Victoria Edwards</dc:creator>
+ <guid isPermaLink="false">1264 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Background Checks</title>
+ <link>http://digitalartscorps.org/node/208</link>
+ <description>&lt;p&gt;Does anyoneknow how one goes about doing a background check?&lt;/p&gt;
+&lt;p&gt;We had a guy come in to volunteer a while ago, and he seemed okay. but until that point we hadn&amp;#39;t had anyone come with us that the MoLLIE supervisor didn&amp;#39;t know. Everyone had already worked with MoLLIE before. And for some reason, Jeanne and I thought the same thing at the same time after he left, &amp;#39;what do we really now about this guy?&amp;#39;&lt;/p&gt;
+&lt;p&gt;It was surprising to me that in 5 years, the idea of doing background checks on people had not occured to those running a program that works regularly with children. That&amp;#39;s like a no brainer, right? There&amp;#39;s laws about this sort of thing, right? Well, from now on we are going to do checks on employees and volunteers, we just have to figure out how. &lt;/p&gt;
+&lt;p&gt;Unfortunately, no one here knows anything about how to do background checks. I did some looking online a few weeks ago. You get dozens of sites claiming to do background checks. On several of them I checked myself. And though I didn&amp;#39;t give my social security number, the sites could have still done better. most of the info was wrong, stating that I had lived in several cities that I have not, etc.&lt;/p&gt;
+&lt;p&gt;Jeanne is gone for most of the week helping her father in Florida. She asked me to try to figure the background check issue while she was gone. I&amp;#39;m not sure where to look. the proliferation of such sites online make it hard to determine which, if any, are on the level. So if anyone has suggestions, I&amp;#39;d love to hear from you. &lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;Rich &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/208#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/209">background check</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/208">children</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/41">ctcvista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/210">question</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <pubDate>Tue, 17 Oct 2006 20:00:10 +0000</pubDate>
+ <dc:creator>Richard T. Anderson</dc:creator>
+ <guid isPermaLink="false">208 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Questions about access control for community computer center</title>
+ <link>http://digitalartscorps.org/node/99</link>
+ <description>&lt;p&gt;Hi guys,&lt;/p&gt;
+&lt;p&gt;Hope everyone&amp;#39;s first week is going well! I was hoping to get some ideas and suggestions from those of you who have any knowledge about what I guess I am calling access control. This is an area that I am unfamiliar with and trying to utilize all of my resources to learn more about:) &lt;/p&gt;
+&lt;p&gt;We would like to find some software for our computer center that will allow us to:&lt;/p&gt;
+&lt;p&gt;-require users to login and logout&lt;/p&gt;
+&lt;p&gt;-track who logs in and when&lt;/p&gt;
+&lt;p&gt;-prevents users from accessing certain controls and settings &lt;/p&gt;
+&lt;p&gt;-and return the computer to its original settings (so that nothing is permanently saved) upon logout &lt;/p&gt;
+&lt;p&gt;I have found a few programs that might accomplish this (Public Access Desktop, WinU, and Clean Slate), but I wanted to see if anyone had any expertise in this area. I would appreciate any comments or suggestions that you may have.&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;Andrea&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/99#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/86">access control</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/90">community computer center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/88">questions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <pubDate>Thu, 14 Sep 2006 16:34:11 +0000</pubDate>
+ <dc:creator>Andrea Collopy</dc:creator>
+ <guid isPermaLink="false">99 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

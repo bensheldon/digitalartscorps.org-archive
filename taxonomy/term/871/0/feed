@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - community wireless</title>
+ <link>http://digitalartscorps.org/taxonomy/term/871/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Five: Can Has Networks?</title>
+ <link>http://digitalartscorps.org/node/1642</link>
+ <description>&lt;p&gt;Projects are mostly slowing to a pausing point as the holidays and a little offtime approaches.  Am prepping donated computers for the upcoming computer literacy/computer adoption class and following up with the participants.&lt;/p&gt;
+&lt;p&gt;My supervisor is leaving sometime around the end of January, so things are a little tenuous.&lt;/p&gt;
+&lt;p&gt;The broadband over powerline (BPL)/open mesh network is up and running really well.  The problem was isolated to the cable modem/ISP.  I put a power timer on it, so that its power cycles late at night.  So far, so good.  The BPL network itself has not had any problems except for a little bit of interference.  Check it out:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot; title=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot;&gt;http://wiki.ltsc.org/index.php/Reno_Apartments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also redeployed a network.  We converted from Meraki brand to Open Mesh brand at Angelina Apartments, with the hope that usage tracking will be easier (not to mention that the new units should have fewer outages and better range).  It&#039;s working...so far.&lt;/p&gt;
+&lt;p&gt;My organization recently switched to gmail for their internal mail, so I&#039;ve been setting up some google sites as document repositories for wireless/community broadband docs and forms that didn&#039;t seem relevant to the more public wiki.&lt;/p&gt;
+&lt;p&gt;Hope everyone enjoys these last few days of 2009!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1642#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1209">computer classes</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Mon, 21 Dec 2009 19:13:00 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1642 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Four: BPL Network Deployed (Crash and Burn), Sustainability</title>
+ <link>http://digitalartscorps.org/node/1632</link>
+ <description>&lt;p&gt;This past Saturday, the wifi network that is a lovechild between the brutish broadband over powerline adapters and the delicate, flighty open mesh routers was deployed.  And like any unholy demonspawn, the birth was painful.  It seemed to be working for an hour, but it promptly went out right as we were leaving.&lt;/p&gt;
+&lt;p&gt;So, the BPL network so far is a no-go, but the good news (sort of) is that BPL is likely not to blame.  The router that we&#039;re using to run the network is your average household netgear.  Even the open mesh router directly connected to the netgear is not working; so likely, this is an issue related to the main router.  I&#039;ve had problems with netgears handling large amounts of bandwidth in the past, but it&#039;s more likely just not allowing the BPL adapters onto the network and will need to simply assign static IPs.  If it&#039;s a bandwidth problem that&#039;s freezing up the router...well, maybe we&#039;ll have to invest in a better router or a switch.  Hopefully we can get the network up before Thanksgiving.&lt;/p&gt;
+&lt;p&gt;The good thing about the deployment is that the residents at the Reno Building are AWESOME.  So cool, eager to help and to learn, really happy that they&#039;ll have free internet.  I&#039;ve got to say, open mesh/BPL is pretty neat to deploy.  We gave each resident their mesh unit, they placed it and came back downstairs, then we watched each unit come online.  :3&lt;/p&gt;
+&lt;p&gt;I&#039;m getting a little concerned, however, about the sustainability of some of the things I&#039;m working on.  I&#039;m starting to realize that things like arranging meetings and training tenants in wifi maintenance and network administration are not tasks that we can reasonably expect most of the tenants to do.  It&#039;s a lot of work to expect tenants to do.  I&#039;m hoping to come up with a more lasting solution (since when I&#039;m gone, they won&#039;t have someone to train residents).   Volunteer recruitment at local schools?  Unpaid internships?  I&#039;m hoping there isn&#039;t too much resistance to me seeking out &quot;trainers&quot; to train.  I&#039;ve been spending a lot of time doing direct service (training tenants, now being asked to help teach a computer literacy class, running tech support errands).  I&#039;m not sure where to draw the line, even though I know there&#039;s that magical percentage number.  And if I have to say, &quot;No, can&#039;t do that,&quot; is there a good way to approach it?   Will see how it goes.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1632#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1193">contractors</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1194">explosions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Mon, 23 Nov 2009 19:45:36 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1632 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>MuniWireless and Community Wireless</title>
+ <link>http://digitalartscorps.org/node/1152</link>
+ <description>&lt;p&gt;In late October, I flew out to San Jose to attend the MuniWireless &#039;07 Silicon Valley conference. As a VISTA I run a project that provides free wireless Internet access to low-income residents of subsidized housing in Boston&#039;s South End neighborhood. Ours is not so much a municipal wireless project as a community wireless project, a distinction that the conference helped me understand, but nonetheless, those of us interested in building smaller-scale &quot;grassroots&quot; networks designed to serve smaller communities such as housing developments can learn a great deal from the MuniWireless experience.&lt;/p&gt;
+&lt;p&gt;1. What is the purpose of municipal wireless and how is it different than community wifi efforts?&lt;/p&gt;
+&lt;p&gt;High-speed Internet access is and will continue to have a transformative impact on our economy analogous to that of the Interstate Highway System after it was built in the &#039;50s. Eisenhower sold the expensive highway project to the American public as a military necessity, a solution to the military&#039;s difficulties transferring masses of troops and equipment across a vast country during wartime. However, although promoted as a military project, the highways were of course used to carry all sorts of traffic, from passenger cars to 18-wheeler trucks. By changing the way Americans traveled and moved goods, the highways also led to major changes in the way we lived and conducted business.&lt;/p&gt;
+&lt;p&gt;Ubiquitous access to broadband may have an analogous impact. Voice and video communications can be encoded into data and transmitted via the Internet. The days when we could purchase TV service from a cable company or a satellite company and telephone service from a phone company are over. One company can provide each family with a high-speed connection capable of carrying telephone calls, TV service, and Internet access all at once. &lt;/p&gt;
+&lt;p&gt;Yet many technologists worry that broadband penetration in the United States is lagging behind other industrialized countries. One cause for this is the relative lack of competition in the American broadband market. In America, consumers can choose between a cable company and a phone company when it comes to access, and this duopoly leads to higher prices and lower speeds relative to the rest of the world. According to a study published two years ago, a 100Mbps connection in Japan cost $22 a month, while a 26Mbps connection in France cost the equivalent of $36 monthly. Today, I pay about $25 a month for a 768Kbps connection at my home in Boston.&lt;/p&gt;
+&lt;p&gt;Municipal wireless can provide an alternative to the cable/DSL duopoly for a city or region. Installing wireless radios is much cheaper than laying down fiber. Both MuniWIreless and community wireless efforts take advantage of this fact, and both seek to alleviate the &quot;digital divide&quot;, which arises when low-income populations cannot afford the high price of broadband access. However, the primary distinctions between MuniWireless and community wireless is that municipal efforts seek to provide ubiquitous access for a large area (or at least for the outdoors areas as we&#039;ll discuss later) and to deploy infrastructure that will enable them to compete with existing Internet Service Providers. Community wireless projects serve much smaller communities, such as housing developments or individual buildings, rather than wide areas. Such small-scale efforts typically buy and redistribute inexpensive Internet connections from the same companies municipal networks seek to undercut. &lt;/p&gt;
+&lt;p&gt;One important characteristic of WiFi, the technology now in use for both MuniWireless and community wireless projects, is that it has a relatively weak signal. Unlike, say, shortwave radio, which can be transmitted across the globe, WiFi can be flaky. It doesn&#039;t travel through walls very well. As a result, municipal wireless projects have found that guaranteeing access inside buildings is prohibitively expensive, and many projects now aim to reach only up to the windows of a building, although users of the network can deploy repeaters to enhance the signal enough to provide indoor coverage. Community WiFi efforts, by contrast, typically aim to provide access throughout a building, so that resident&#039;s can connect to the network from their desktop or laptop computers.&lt;/p&gt;
+&lt;p&gt;2. What is the state of the municipal wireless market?&lt;/p&gt;
+&lt;p&gt;The conference I attended was titled &quot;industry at a crossroads&quot;, and this was probably putting it politely. One presenter noted that his mother doesn&#039;t understand what he does for a living, but she feels bad for him as a result of all of the recent bad press about municipal wireless projects falling apart. Over the summer, some of the largest projects in the country, including those in Chicago and San Francisco were cancelled, scaled back or otherwise reevaluated.&lt;/p&gt;
+&lt;p&gt;There are a number of reasons for the recent stumbles. A new technology called WiMax will provide far greater improvements in wireless power and range when it debuts to the public in the next few years, and nobody wants to spend millions building a network that might be obsolete soon. Additionally, there are legitimate questions about whether public-sector projects should be competing with private-sector telecommunications companies, concerns that are beyond the scope of this article. &lt;/p&gt;
+&lt;p&gt;The biggest stumbling block at this point, however, is that providing ubiquitous WiFi coverage, while still less expensive than deploying wired infrastructure, can cost $100,000 to $300,000 a square mile, and without strong a business case demonstrating how the investment will pay off, funders have been hesitant to commit millions of dollars. Politicians have been eager to promise free or cheap broadband access to the public, but with Internet Service Providers already notorious for their slim margins, it is difficult to see how municipal projects can recoup their initial costs while undercutting ISPs on price and living up to the lofty civic goals that accompany public projects, such as providing open access to all partners.&lt;/p&gt;
+&lt;p&gt;I firmly believe that digital inclusion projects will have positive economic benefits in the long term. By providing free WiFi in the South End, we are enabling an underserved community to become technology users for the first time, helping to create a market that did not exist before. Unfortunately, the exact economic and social impact of what we are doing is amorphous and difficult to quantify. It is very shaky ground on which to base the rationale for building a multimillion dollar public project.&lt;/p&gt;
+&lt;p&gt;That&#039;s why digital inclusion, when it was mentioned at all during the MuniWireless conference, always seemed to be the last item on everyone&#039;s agenda. The industry has very quickly shifted to a new sales pitch for municipal wireless networks. Now, the idea is to use this new infrastructure to improve public safety and to reduce the cost of delivering municipal services. Specifically, a wireless network can be a platform for video surveillance cameras to monitor high-crime neighborhoods. Auditory sensors, such as the SpotShotter technology currently being deployed in Dorchester, can be placed around a neighborhood and can alert police when a gun is fired. The sensors are advanced enough to distinguish between a firecracker, a pistol and a rifle, pinpoint the exact location of the shot, and swivel cameras towards the scene, so that police will already have reviewed live video of the location in their cars before they arrive. A second, less exciting application, involves enabling municipal employees such as cops and building inspectors to submit reports from wireless devices out in the field, so they never have to waste time traveling to and from the office. It has always been easier to fund anti-crime projects than anti-poverty projects, making the first scenario far more attractive to funders than using a wireless network to ease the digital divide. The second scenario, offers municipalities an easy means of calculating the potential financial windfall that a wireless network will provide, and, in contrast to digital inclusion ideas that promise to increase economic activity in the future, that windfall comes directly from the city&#039;s budget.&lt;/p&gt;
+&lt;p&gt;The ambitious wireless projects that are deployed over the next few years, will be funded principally by an &quot;anchor tenant&quot;, namely a government bureaucracy interested in using the network to achieve specific goals, such as improved public safety, or lower costs of providing civic services. But just as the Interstate Highway System was sold to the public as a defense project, but ended up carrying primarily civilian traffic, there is no reason to believe that municipal wireless networks, once deployed, cannot be useful for digital inclusion, increasing broadband penetration, and other purposes.&lt;/p&gt;
+&lt;p&gt;3. How should community groups interested in digital inclusion approach municipal wireless projects?&lt;/p&gt;
+&lt;p&gt;Non-profits and other community wireless projects should not see municipal wireless as a competitor, but as a platform for us to build on. When a municipal wireless network is built, the role of community wireless developers should be to deploy inexpensive technology that takes the municipal networks signal from the street and deliver it into the apartments of our constituents. A citywide effort of business leaders will quickly lose sight of the needs of underserved communities, which are inexpensive Internet access combined with inexpensive computer training and computer repair services provided by members of the community to their peers.&lt;/p&gt;
+&lt;p&gt;The HUD &quot;Community Technology Centers&quot; serve as an extraordinary resource for municipal networks. These institutions are already providing the necessary skills training, equipment donation and repair programs that will enable poor users to take advantage of municipal wireless networks. Because the infrastructure will already have been paid for by the anchor tenant, municipal network operators should be able to provide excess bandwidth at little or no cost to community groups, eliminating the need for those organizations to buy bandwidth from ISPs. The costs of providing access will then become so inexpensive (say $50 per family for a $100 router that can serve four families as well as other infrastructure, repair and training programs) that with a little grant money, community wireless groups should be able to achieve self-sufficiency with a combination of low access fees (say $5 a month) and advertising that is conducted in a tasteful and unobtrusive manner. These are of course back of the envelope calculations, but even if municipal networks refuse to provide free or cheap access to non-profits, their very existence will still help by forcing ISPs to lower broadband prices. &lt;/p&gt;
+&lt;p&gt;In the end, if municipalities and their partners can justify the cost of building municipal wireless networks, then non-profits, underserved communities and the public as a whole will be able to benefit from telecommunications infrastructure that is owned by the public and intended to be utilized for the public good.&lt;/p&gt;
+&lt;p&gt;(I intend on writing another blog post later to discuss the lessons that non-profits and community groups can take away from the muniwireless experience).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1152#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/873">castle square</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/372">municipal wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/870">muniwireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/872">roofnet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 07 Nov 2007 22:11:20 +0000</pubDate>
+ <dc:creator>Gabriel Fishman</dc:creator>
+ <guid isPermaLink="false">1152 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Best Practices in Innovation and Sustainability for Community Wireless Projects</title>
+ <link>http://digitalartscorps.org/node/514</link>
+ <description>&lt;p&gt;The attached presentation contains best practices on community wireless projects as well as some case studies on successful projects that have already launched.&lt;/p&gt;
+&lt;p&gt;Newer wireless technologies can replace phone lines with Voice Over Internet cost savings. The telcos are fighting these new technologies because their profits dwindle as new and better technologies become available while they have already invested in obsolete infrastructure and want to recover their investments. There&#039;s a technological and political revolution taking place that will set the stage for new forms of social empowerment, as well. (- Frank Odasz, &lt;a href=&quot;mailto:frank@lone-eagles.com&quot;&gt;frank@lone-eagles.com&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wireless (and Satellite) Internet Resources&lt;/strong&gt;&lt;br /&gt;
+        &lt;a href=&quot;http://lone-eagles.com/wireless.htm&quot; title=&quot;http://lone-eagles.com/wireless.htm&quot;&gt;http://lone-eagles.com/wireless.htm&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Municipal Community Wireless&lt;/strong&gt;&lt;br /&gt;
+Municipal Wireless&lt;br /&gt;
+&lt;a href=&quot;http://www.muniwireless.com&quot; title=&quot;http://www.muniwireless.com&quot;&gt;http://www.muniwireless.com&lt;/a&gt; Reports on municipal and wireless broadband projects &lt;/p&gt;
+&lt;p&gt;A New Municipal Community Wireless Site&lt;br /&gt;
+&lt;a href=&quot;http://www.unwiremycity.com&quot; title=&quot;http://www.unwiremycity.com&quot;&gt;http://www.unwiremycity.com&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Save Muni-Wireless&lt;br /&gt;
+&lt;a href=&quot;http://savemuniwireless.org&quot; title=&quot;http://savemuniwireless.org&quot;&gt;http://savemuniwireless.org&lt;/a&gt;&lt;br /&gt;
+Related to Texas legislation to outlaw municipal wireless even for communities where telcos refuse to provide access.&lt;/p&gt;
+&lt;p&gt;Wireless Philadelphia Executive Committee&lt;br /&gt;
+&lt;a href=&quot;http://www.phila.gov/wireless/index.html&quot; title=&quot;http://www.phila.gov/wireless/index.html&quot;&gt;http://www.phila.gov/wireless/index.html&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;State laws and lobbying related to wireless&lt;br /&gt;
+&lt;a href=&quot;http://www.muniwireless.com/archives/000513.html&quot; title=&quot;http://www.muniwireless.com/archives/000513.html&quot;&gt;http://www.muniwireless.com/archives/000513.html&lt;/a&gt;&lt;br /&gt;
+Information on state regulations on cities interested in&lt;br /&gt;
+broadband utility networks. &lt;/p&gt;
+&lt;p&gt;Civitium&lt;br /&gt;
+&lt;a href=&quot;http://www.civitium.com&quot; title=&quot;www.civitium.com&quot;&gt;www.civitium.com&lt;/a&gt;&lt;br /&gt;
+Powering the digital city. Municipal broadband and telecommunications. Civitium is routinely asked about how state laws affect the ability for municipal governments to provide telecommunications and/or information services. See their State by state statute listings regarding this issue. &lt;/p&gt;
+&lt;p&gt;Digital Watershed Community Wireless Services&lt;br /&gt;
+&lt;a href=&quot;http://www.digitalwatershed.org&quot; title=&quot;www.digitalwatershed.org&quot;&gt;www.digitalwatershed.org&lt;/a&gt;&lt;br /&gt;
+Digital Watershed is a non-profit Community Technology Center offering wireless collaborative community services. Our offering goes beyond standard municipal infrastructure and e-government services to include social networks, performance arts, neighborhood projects, and more.&lt;br /&gt;
+Greg Daigle&lt;br /&gt;
+Executive Director&lt;br /&gt;
+Digital Watershed&lt;br /&gt;
+m 612 636-7227&lt;br /&gt;
+&lt;a href=&quot;mailto:gdaigle@digitalwatershed.org&quot;&gt;gdaigle@digitalwatershed.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Wireless Broadband: The Foundation for Digital Cities,&quot;&lt;br /&gt;
+&lt;a href=&quot;http://www.muniwireless.com/reports/cookbook1form.html&quot; title=&quot;http://www.muniwireless.com/reports/cookbook1form.html&quot;&gt;http://www.muniwireless.com/reports/cookbook1form.html&lt;/a&gt;&lt;br /&gt;
+A cookbook for local leaders interested in deploying a community wireless broadband network. The cookbook can be downloaded for free.&lt;/p&gt;
+&lt;p&gt;FCC Wireless Resources and Article on Rural Community Wireless Vision Program&lt;br /&gt;
+&lt;a href=&quot;http://wireless.fcc.gov/outreach/ruralvision/index.html&quot; title=&quot;http://wireless.fcc.gov/outreach/ruralvision/index.html&quot;&gt;http://wireless.fcc.gov/outreach/ruralvision/index.html&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Main FCC Wireless Site&lt;br /&gt;
+&lt;a href=&quot;http://wireless.fcc.gov&quot; title=&quot;http://wireless.fcc.gov&quot;&gt;http://wireless.fcc.gov&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Mesh Community Wireless&lt;/strong&gt;&lt;br /&gt;
+Champaign-Urbana Community Wireless Network (CUWiN)&lt;br /&gt;
+ &lt;a href=&quot;http://www.cuwireless.net&quot; title=&quot;www.cuwireless.net&quot;&gt;www.cuwireless.net&lt;/a&gt;&lt;br /&gt;
+Founder Sascha Meinrath&#039;s site featuring perhaps the most advanced open-source dynamic mesh networking software available anywhere. See also his latest web site &lt;a href=&quot;http://www.communityinternet.us&quot; title=&quot;www.communityinternet.us&quot;&gt;www.communityinternet.us&lt;/a&gt;  and his personal archives of wireless resources at &lt;a href=&quot;http://www.saschameinrath.com&quot; title=&quot;http://www.saschameinrath.com&quot;&gt;http://www.saschameinrath.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&quot;Wirelessing the World Socio-Historical and Technological Factors&lt;br /&gt;
+Affecting the Battle over (Community) Wireless Networks&quot;&lt;br /&gt;
+ &lt;a href=&quot;http://www.saschameinrath.com&quot; title=&quot;http://www.saschameinrath.com&quot;&gt;http://www.saschameinrath.com&lt;/a&gt; (Select Writings and then the 11th article in listing)&lt;br /&gt;
+From: Sascha Meinrath&lt;br /&gt;
+A good introduction to the technologies and politics of community wireless networks.&lt;/p&gt;
+&lt;p&gt;Free Press Community Wireless &lt;a href=&quot;http://freepress.net/wifi/&quot; title=&quot;http://freepress.net/wifi/&quot;&gt;http://freepress.net/wifi/&lt;/a&gt;&lt;br /&gt;
+See also &lt;a href=&quot;http://freepress.net&quot; title=&quot;http://freepress.net&quot;&gt;http://freepress.net&lt;/a&gt; Dedicated to media reform.&lt;/p&gt;
+&lt;p&gt;Community Wireless Project Summary&lt;br /&gt;
+&lt;a href=&quot;http://sourceforge.net/projects/wireless/&quot; title=&quot;http://sourceforge.net/projects/wireless/&quot;&gt;http://sourceforge.net/projects/wireless/&lt;/a&gt;&lt;br /&gt;
+Sourceforge presents a summary of the CU Community Mesh Wireless project. &lt;/p&gt;
+&lt;p&gt;Wireless  in California&lt;br /&gt;
+&lt;a href=&quot;http://www.ca-wireless.org&quot; title=&quot;www.ca-wireless.org&quot;&gt;www.ca-wireless.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Directories of Wireless Communities&lt;/strong&gt;&lt;br /&gt;
+Personal Telco&#039;s International Listing of Wireless Communities&lt;br /&gt;
+&lt;a href=&quot;http://wiki.personaltelco.net/index.cgi/WirelessCommunities&quot; title=&quot;http://wiki.personaltelco.net/index.cgi/WirelessCommunities&quot;&gt;http://wiki.personaltelco.net/index.cgi/WirelessCommunities&lt;/a&gt;&lt;br /&gt;
+An excellent listing!&lt;/p&gt;
+&lt;p&gt;International Wireless Community Network Directory (802.11b)&lt;br /&gt;
+&lt;a href=&quot;http://www.toaster.net/wireless/community.html&quot; title=&quot;http://www.toaster.net/wireless/community.html&quot;&gt;http://www.toaster.net/wireless/community.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Unique Wireless Experts and Related Resources&lt;/strong&gt;&lt;br /&gt;
+Richard MacKinnon&lt;br /&gt;
+ &lt;a href=&quot;http://lessnetworks.com&quot; title=&quot;http://lessnetworks.com&quot;&gt;http://lessnetworks.com&lt;/a&gt; Free WiFi&lt;br /&gt;
+Richard has helped volunteers to establish over one hundred wireless hot-spots in Austin Texas.&lt;br /&gt;
+&lt;a href=&quot;http://www.austinwirelesscity.org&quot; title=&quot;www.austinwirelesscity.org&quot;&gt;www.austinwirelesscity.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dewayne Hendrick&lt;br /&gt;
+&lt;a href=&quot;http://www.firstmile.us/blogs/wireless&quot; title=&quot;http://www.firstmile.us/blogs/wireless&quot;&gt;http://www.firstmile.us/blogs/wireless&lt;/a&gt;&lt;br /&gt;
+Dewayne was one of the first wireless pioneers. A quality resource person.&lt;/p&gt;
+&lt;p&gt;Old Colorado City National Science Foundation Wireless Testbed Project&lt;br /&gt;
+&lt;a href=&quot;http://wireless.oldcolo.com&quot; title=&quot;http://wireless.oldcolo.com&quot;&gt;http://wireless.oldcolo.com&lt;/a&gt; David Hughes&#039; Wireless Innovations Web Site&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Other Unique Community Wireless Resources&lt;/strong&gt;&lt;br /&gt;
+Wireless Technology Radio&lt;br /&gt;
+&lt;a href=&quot;http://wirelesstechradio.com&quot; title=&quot;http://wirelesstechradio.com&quot;&gt;http://wirelesstechradio.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;National Summit for Community Wireless Networks&lt;br /&gt;
+&lt;a href=&quot;http://www.wirelesssummit.org&quot; title=&quot;http://www.wirelesssummit.org&quot;&gt;http://www.wirelesssummit.org&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Global Wireless Developers Conference and Technical Resources&lt;br /&gt;
+&lt;a href=&quot;http://www.freifunk.net/&quot; title=&quot;http://www.freifunk.net/&quot;&gt;http://www.freifunk.net/&lt;/a&gt;&lt;br /&gt;
+FreiFunk.net summit in Djursland, Denmark  where community wireless developers from over 30&lt;br /&gt;
+countries compared notes.  It was overwhelmingly agreed that the CUWiN&lt;br /&gt;
+project had arguably the most advanced (and most promising) software&lt;br /&gt;
+anyone knew about.  If you&#039;re tech-saavy, you may&lt;br /&gt;
+want to look through our CVS repositories, available from:&lt;br /&gt;
+Rice University Community Mesh Wireless TAPS Project&lt;br /&gt;
+&lt;a href=&quot;http://www.taps.rice.edu&quot; title=&quot;www.taps.rice.edu&quot;&gt;www.taps.rice.edu&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;O&#039;Reilly Publisher&#039;s Wireless Development Center&lt;br /&gt;
+&lt;a href=&quot;http://www.oreillynet.com/wireless/&quot; title=&quot;http://www.oreillynet.com/wireless/&quot;&gt;http://www.oreillynet.com/wireless/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Book: Building Wireless Community Networks, By Rob Flickenger&lt;br /&gt;
+ISBN 0-596-00204-1, 125 pages, $24.95 A second edition is now available&lt;br /&gt;
+O-Reilly Wireless Development Center&lt;br /&gt;
+&lt;a href=&quot;http://www.oreillynet.com/pub/a/wireless/2004/01/22/wirelessmesh.html&quot; title=&quot;http://www.oreillynet.com/pub/a/wireless/2004/01/22/wirelessmesh.html&quot;&gt;http://www.oreillynet.com/pub/a/wireless/2004/01/22/wirelessmesh.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New Book: O&#039;Reilly Releases &quot;Building Wireless Community Networks&quot;&lt;br /&gt;
+For more information, a review copy, cover art or an interview with&lt;br /&gt;
+the author, contact: Suzanne Axtell, (707) 827-7114 or &lt;a href=&quot;mailto:suzanne@oreilly.com&quot;&gt;suzanne@oreilly.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Article: Renegade WLANs: Parasitic or Free-Spirited Anarchistic?&lt;br /&gt;
+&lt;a href=&quot;http://www.80211-planet.com/columns/article/0,4000,1781_896641,00.html&quot; title=&quot;http://www.80211-planet.com/columns/article/0,4000,1781_896641,00.html&quot;&gt;http://www.80211-planet.com/columns/article/0,4000,1781_896641,00.html&lt;/a&gt;&lt;br /&gt;
+More on the new Freenet Wireless community model and related issues.&lt;/p&gt;
+&lt;p&gt;Personal Telco Project&lt;br /&gt;
+&lt;a href=&quot;http://www.personaltelco.net/&quot; title=&quot;http://www.personaltelco.net/&quot;&gt;http://www.personaltelco.net/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Wireless Anarchy&lt;br /&gt;
+&lt;a href=&quot;http://www.wirelessanarchy.com&quot; title=&quot;http://www.wirelessanarchy.com&quot;&gt;http://www.wirelessanarchy.com&lt;/a&gt;&lt;br /&gt;
+WirelessAnarchy is about creating your own long range&lt;br /&gt;
+infrastructure, without having to pay anyone or jump through&lt;br /&gt;
+government hoops. Cheaply and easily, using off the shelf&lt;br /&gt;
+equipment, and a little ingenuity, you too can create your own net.&lt;br /&gt;
+International listing of community wireless sites included.&lt;/p&gt;
+&lt;p&gt;MIT Roofnet Community Wireless Implementation&lt;br /&gt;
+ &lt;a href=&quot;http://www.pdos.lcs.mit.edu/roofnet/design/&quot; title=&quot;http://www.pdos.lcs.mit.edu/roofnet/design/&quot;&gt;http://www.pdos.lcs.mit.edu/roofnet/design/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Wireless Community Networks, a Guide for Library boards, educators and community leaders&lt;br /&gt;
+&lt;a href=&quot;http://www.tsl.state.tx.us/ld/pubs/wireless/contents.html&quot; title=&quot;http://www.tsl.state.tx.us/ld/pubs/wireless/contents.html&quot;&gt;http://www.tsl.state.tx.us/ld/pubs/wireless/contents.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Airshare.org&lt;br /&gt;
+ &lt;a href=&quot;http://airshare.org/&quot; title=&quot;http://airshare.org/&quot;&gt;http://airshare.org/&lt;/a&gt;.&lt;br /&gt;
+&quot;Kelly Abbott&quot;   is the founder of Aishare.org, which offers news and knowledge of community wireless networks. He is also a co-chair of the San Diego Telecom Council&#039;s Wi-Fi Special Interest Group&lt;br /&gt;
+Their collected resources: &lt;a href=&quot;http://www.airshare.org/share/links/index.cfm&quot; title=&quot;http://www.airshare.org/share/links/index.cfm&quot;&gt;http://www.airshare.org/share/links/index.cfm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;UK Wireless Community Model Project&lt;br /&gt;
+&lt;a href=&quot;http://www.wlan.org.uk&quot; title=&quot;http://www.wlan.org.uk&quot;&gt;http://www.wlan.org.uk&lt;/a&gt; Henry O&#039;Tani&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/457">Community Networking</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1136">community wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/wirelesslead_perry_handout.pdf" length="325535" type="application/pdf" />
+ <pubDate>Fri, 09 Feb 2007 16:15:00 +0000</pubDate>
+ <dc:creator>Ross Musselman</dc:creator>
+ <guid isPermaLink="false">514 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

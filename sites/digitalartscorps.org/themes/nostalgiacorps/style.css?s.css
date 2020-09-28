@@ -1,0 +1,794 @@
+
+
+/* General CSS */
+body {
+	background: #eee url(images/bg_2.png);
+	padding: 0px;
+	margin: 0px;
+	font: 16px "Helvetica Neue", Helvetica, sans-serif;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.5);
+	color: #111;
+	text-align: left;
+	}
+
+p {
+  font-size: 1em; /* 16px */
+  line-height: 1.4375em; /* 23px */
+  margin: 0 0 1.4375em 0;
+}
+
+a, a:visited {
+	color: #330066;
+	text-decoration: none;
+	font-weight: bold;
+	}
+	
+a:hover{
+	color: #000033;
+	text-decoration: underline;
+	font-weight: bold;
+	}	
+
+h1, h2, h3 {
+	text-shadow: 0px 1px 2px rgba(255, 255, 255, 0.7);
+	color: rgba(0, 0, 0, 0.9);
+	font-family:Baskerville,Times New Roman,Times,Serif;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+	
+h1{
+  font-size: 2.625em; /* 42px */
+  line-height: 1.0952em; /* 46px */
+  margin-top: 0.5476em;
+  margin-bottom: 0em;
+	}
+	
+h2{
+  font-size: 1.5em; /* 24px */
+  line-height: 1.9167em; /* 46px */
+  margin-top: 0.9583em;
+  margin-bottom: 0em;
+	}
+	
+h3{
+  font-size: 1.375em; /* 22px */
+  line-height: 1.0455em; /* 23px */
+  margin-top: 1.0455em;
+  margin-bottom: 0em;
+	}
+	
+h3 a{
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	padding: 20px 0 10px 0;
+	}
+	
+h3 a:hover{
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
+	color: #FF0000;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;font-size: 15px;
+	padding: 20px 0 10px 0;
+	text-decoration: underline;
+	}
+	
+	
+/* Table Stuff */	
+table.views-table {
+	font-size: 15px;
+	line-height: 20px;
+	border: 1px solid #888;
+	padding: 2px;
+}	
+
+table.views-table thead {
+	background: #fff;
+}
+
+table.views-view-grid td.col-1,
+table.views-view-grid td.col-2,
+table.views-view-grid td.col-3 {
+	width: 180px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+
+table.views-view-grid td.col-3 {
+	padding-right: 0;
+}
+
+
+/* Multi-Page Content */
+#middle {
+}
+
+#middleContent{
+	margin: 0px auto 0px;
+	padding-bottom: 50px;
+	text-align: left;
+}
+	
+#middleContent p{
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 17px;
+}
+	
+#paragraph {
+	padding-top: 10px;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+}
+	
+#paragraph p{
+	text-decoration: none;
+}
+
+#paragraph a{
+	color: #330066;
+	text-decoration: none;
+	font-weight: bold;
+}
+	
+#paragraph a:hover{
+	color: #000033;
+	text-decoration: underline;
+	font-weight: bold;
+}	
+
+.posts {
+	margin-bottom: 20px;
+}
+
+.posts p a{
+	color: #330066;
+	text-decoration: none;
+	font-weight: bold;
+	}
+	
+.posts p a:hover{
+	color: #000033;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+.bubble-right {
+	position:relative;
+	background: #ddd;
+	background: rgba(0, 0, 0, .2);
+	-webkit-border-radius: 15px;
+		 -moz-border-radius: 15px;
+					border-radius: 15px;
+
+	margin: 0px 0px 20px 0px;
+	padding: 10px 20px 10px;
+	margin-right:0px;
+	}
+	
+.bubble-right:after {
+	content:"\00a0";
+	display:block; /* reduce the damage in FF3.0 */
+	position:absolute;
+	z-index:-1;
+	width:0;
+	height:0;
+	border-width:15px 15px; /* vary these values to change the angle of the vertex */
+	border-style:solid;
+	top:1.1em; /* controls vertical position */
+	left:580px; /* value = - border-left-width - border-right-width */
+	bottom:auto;
+	border-color:transparent transparent transparent #ddd;
+	border-color:transparent transparent transparent rgba(0, 0, 0, .2);
+}
+
+.bubble-right > * {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.bubble {
+	position:relative;
+	background: #ddd;
+	background: rgba(0, 0, 0, .2);
+	-webkit-border-radius: 15px;
+		 -moz-border-radius: 15px;
+					border-radius: 15px;
+
+	margin: 10px 0px 20px 0px;
+	padding: 10px 20px 10px;
+	margin-right:0px;
+	}
+	
+.bubble:after {
+	content:"\00a0";
+	display:block; /* reduce the damage in FF3.0 */
+	position:absolute;
+	z-index:-1;
+	width:0;
+	height:0;
+	border-width:15px 15px; /* vary these values to change the angle of the vertex */
+	border-style:solid;
+
+}
+
+
+.bubble.bubble-bottom-left {
+
+}
+
+.bubble.bubble-bottom-left:after {
+	bottom: -30px; /* controls vertical position */
+	left: 35px; /* value = - border-left-width - border-right-width */
+	border-color:#ddd transparent transparent transparent;
+	border-color:rgba(0, 0, 0, .2) transparent transparent transparent ;
+}
+
+
+
+/* Billy's Design Experiments */
+
+
+#emboss {
+	height: 3px;
+	background: url(images/emboss.png) repeat-x;
+	margin: 0px 0px; 
+	padding: 0px;
+}
+
+	/*White shadow on an 'embossed' line */
+#embossingLight {
+	border-top: 2px solid rgba(255, 255, 255, .8);
+}
+	/*Black shadow on an 'embossed' line */
+#embossingDark {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+	margin: 10px 0px 0px 0px;
+}
+	/*Turns a link into a Button - via David Desandro (http://desandro.com/) */
+a.button {
+  padding: 5px 15px;
+	line-height: 30px;
+	margin: 0px 5px 0px 0px;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	text-decoration: none;
+	color: #fff;
+    background-color: #330066;
+    -webkit-border-radius: 15px;
+       -moz-border-radius: 15px;
+            border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 5px hsla(0,0%,0%,.15);
+       -moz-box-shadow: 0px 2px 5px hsla(0,0%,0%,.15);
+     	box-shadow: 0px 2px 5px hsla(0,0%,0%,.15);
+	}
+a.button:hover {
+    background-color: #000033;
+	}
+a.button, a.button:hover {
+    background-image: -moz-linear-gradient(-90deg, 
+        hsla(0,0%,100%,.2),  
+        hsla(0,0%,100%,.0) 50%, 
+        hsla(0,0%,0%,.0) 50%, 
+        hsla(0,0%,0%,.2) 100%  
+    );
+    background-image: -webkit-gradient(linear, 0 top, 0 bottom, 
+        from(hsla(0,0%,100%,.2)),
+        color-stop(50%, hsla(0,0%,100%,.0)), 
+        color-stop(50%, hsla(0,0%,0%,.0)), 
+        to(hsla(0,0%,0%,.2)) 
+    );
+	}
+a.button:active {
+    -webkit-box-shadow: inset 0px 2px 13px hsla(0,0%,0%,.6);
+       -moz-box-shadow: inset 0px 2px 13px hsla(0,0%,0%,.6);
+            box-shadow: inset 0px 2px 13px hsla(0,0%,0%,.6);
+	}
+
+
+
+
+/** Google Maps **/
+
+.gmap-gmap {
+  padding:5px;
+  background: #fff;
+  border: 5px solid #fff;
+  margin: 0 0 15px;
+
+  box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0px 2px 3px rgba(0,0,0,0.5);
+}
+
+
+/* Top Navigation */
+#top{
+	background: none;
+	padding: 0px;
+	margin: 0px;
+	}
+#gradientWrapper {
+	background: url(images/whiteGradient.png) 0 repeat-x;
+	}
+#topContent{
+	margin: 0px auto 0px;
+	height: 180px;
+	}
+#bigNav {
+	padding:10px 0px 0px 0px;
+	margin-left: -480px;	
+	position: absolute;	
+	left: 50%;
+	}
+#bigNav p {
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.9);
+	color:#111;
+	font: 1.375em Georgia; /* 22px */
+	font-style: normal;
+	font-weight: bold;
+	line-height: 1em;
+	text-align: center;
+	}
+	
+#bigNav a img, #topContent a img{
+	z-index:1; 
+	-webkit-transform: rotate(0deg);   
+	-webkit-transition:-webkit-transform 1s ease-in-out, margin 1s ease-in;
+	-moz-transform: rotate(0deg);  
+	-moz-transition:-webkit-transform 1s ease-in-out, margin 1s ease-in;
+	transform: rotate(0deg);  
+	transition:-webkit-transform 1s ease-in-out, margin 1s ease-in;
+
+}
+	
+#top #topContent #bigNav .navItem a:hover p, #topContent a:hover{
+	text-decoration: none;
+	color:  #330066;
+	font-weight: bold;
+	}
+	
+#bigNav a:hover img, #topContent a:hover img{
+	margin: -10px 0 10px 0;
+	-webkit-transform:rotate(360deg);
+		-moz-transform:rotate(360deg);
+			transform:rotate(360deg);
+}
+
+.navItem.siteLogo {
+	padding-top: 15px;
+}
+
+#topContent #bigNav .siteLogo a:hover img{
+	margin:  0 0 0 -5px;
+	-webkit-transform: none;
+		-moz-transform: none;
+			transform: none;
+}
+
+/* Images in Nav */
+.navItem img{
+	margin: 0px -5px 0px -5px;
+	cursor:pointer;
+	}
+
+#siteMission p{
+	margin: 80px 0px 0px 0px; 
+	line-height: 22px; 
+	font-style: italic; 
+	font-size: 17px; 
+	font-weight: normal; 
+	color: #330066;
+	text-shadow: none;
+	}
+
+/* Log-In Purple Star CSS */
+#topContentNav {
+	text-align: right;
+	}
+#topContentNav img {
+	margin: -3px 8px 0px 0px;
+	z-index: 5;
+	position: relative;
+	}	
+#topContentNav p {
+	margin: -50px 35px 0px 0px;
+	z-index: 6;
+	position: relative;
+	}
+* html #topContentNav img {
+	margin: -20px 8px 0px 0px;
+	}
+* html #topContentNav {
+	margin: -40px 35px 0px 0px;
+	}
+#topContentNav p a {
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
+	color: #FFF;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	}
+#topContent p a:hover {
+	text-shadow: none;
+	text-decoration: none;
+	}
+
+
+/* Bottom CSS */
+#bottom{
+	text-shadow: none;
+	background: #666699;
+	padding-bottom: 20px;
+	margin: 0px;
+	}
+	
+#bottomContent{
+	margin: 0px auto 0px;
+	padding: 10px 0px 0px 0px;
+	}
+	
+#bottomNav{
+	float: right;
+	margin: 0px;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 17px;
+	text-align:right;
+	color: #000;
+	}
+	
+#bottomNav a{
+	color: #330066;
+	text-decoration: none;
+	}
+	
+#bottomNav a:hover{
+	color: #fff;
+	}
+	
+#logos {
+	float: left;
+}
+
+/* Front Page */
+
+h1#pageTitle {
+	padding: 0;
+}
+
+
+/* Home Page */
+#tvLady img {
+	margin: 0px 0px 20px 50px;
+}
+#middleText{
+	margin-top: -660px;
+	}
+#middleText h2{
+	margin: 20px 0px 0px 0px;
+	}
+#tvLadyBubbleArrow {
+	float:left; 
+	margin: -110px 0px 0px -20px;
+	}
+	
+	
+.bubble-left {
+	position:relative;
+	background: #ddd;
+	background: rgba(0, 0, 0, .2);
+	-webkit-border-radius: 15px;
+		 -moz-border-radius: 15px;
+		   		border-radius: 15px;
+	margin: 80px 0px 20px 0px;
+	padding: 15px 15px 10px;
+	margin-right:0px;
+	}
+	
+.bubble-left:after {
+	content:"\00a0";
+	display:block; /* reduce the damage in FF3.0 */
+	position:absolute;
+	z-index:-1;
+	width:0;
+	height:0;
+	border-width:15px 15px; /* vary these values to change the angle of the vertex */
+	border-style:solid;
+	top:2em; /* controls vertical position */
+	left:-40px; /* value = - border-left-width - border-right-width */
+	bottom:auto;
+	border-width:20px 20px;
+	border-color:transparent #ddd transparent transparent;
+	border-color:transparent rgba(0, 0, 0, .2) transparent transparent;
+}	
+	
+.bubble-left > * {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+
+/** Front Page */
+
+#middle {
+	background: url(images/purpleBG.png);
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	}
+#middle p{
+	font-size: 14px;
+	line-height: 17px;
+	padding: 10px 0px 0px 0px;
+	}
+#middle p + p {
+	text-indent:20px; 
+}	
+#middle p a {
+	color: #330066;
+	text-decoration: none;
+	font-weight: bold;
+	}
+#middle p a:hover{
+	color: #000033;
+	text-decoration: underline;
+	}
+	
+#sliderNewsletter {
+	height: 400px;
+}
+
+#pictureFrame {
+	text-align: left;
+	}
+	
+#mailingList{
+	background: url(images/40white.png);
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 10px;
+	margin:10px 0px 0px 0px;
+	text-align: left;
+	width:320px;
+	}
+* html #mailingList {
+		width:340px;
+}
+
+#arrowDownWhite {
+	margin: 0px 0px 0px 140px;
+	}
+	
+#newsletterImage {
+	margin: -8px 0px 0px 0px;
+}
+
+#middleContent #fieldReport h3 {
+	padding: 10px 0px;
+}
+
+#fieldReportButton {
+	margin: 5px 0px 10px 150px;
+}
+
+#facebookBox {
+	margin: 10px 0px 0px 0px;
+}
+
+/* Field Reports Page */
+.post-metadata {
+	text-align: right;
+	margin-top: 15px;
+}
+
+.post-content {
+	background: url(images/purpleBG.png);
+	margin: 0px 0px 20px 0px;
+	
+	-webkit-border-radius: 15px;
+	 -moz-border-radius: 15px;
+				border-radius: 15px;
+}
+
+
+.comment {
+	margin: 0 0 15px;
+}
+
+.comment .comment-metadata {
+	margin-left: 20px
+}
+
+.comment .comment-content {
+	min-height: 70px;
+	position:relative;
+	background: #ddd;
+	background: rgba(255, 255, 255, .4);
+	-webkit-border-radius: 15px;
+		 -moz-border-radius: 15px;
+		   		border-radius: 15px;
+	margin: 0 0 20px 10px;
+}
+
+.comment .comment-content img, .comment .comment-content embed, .comment .comment-content object{
+	max-width: 360px;
+	}
+
+.comment .comment-content:after {
+	content:"\00a0";
+	display:block; /* reduce the damage in FF3.0 */
+	position:absolute;
+	z-index:1;
+	width:0;
+	height:0;
+	border-width:15px 15px; /* vary these values to change the angle of the vertex */
+	border-style:solid;
+	top:30px; /* controls vertical position */
+	left:-30px; /* value = - border-left-width - border-right-width */
+	bottom:auto;
+	border-width:15px 15px;
+	border-color:transparent #ddd transparent transparent;
+	border-color:transparent rgba(255, 255, 255, .4) transparent transparent;
+}	
+
+.comment .comment-content-inner {
+	margin: 15px 20px 10px;
+}
+
+/** For the speech bubble triangle **/
+
+.node-field_report .post-content {
+	position:relative;
+	margin-left: 10px;
+}
+.node-field_report .post-content:after {
+	content:"\00a0";
+	display:block; /* reduce the damage in FF3.0 */
+	position:absolute;
+	z-index:-1;
+	width:0;
+	height:0;
+	border-width:15px 15px; /* vary these values to change the angle of the vertex */
+	border-style:solid;
+	top: 45px; /* controls vertical position */
+	left:-30px; /* value = - border-left-width - border-right-width */
+	bottom:auto;
+	border-width:15px 15px;
+	border-color:transparent #ddd transparent transparent;
+	border-color:transparent rgba(102,102,153,.4) transparent transparent;
+
+}
+.post-content-inner {
+	padding: 0 20px 20px;
+}
+
+.metadata-date,
+.metadata-comments {
+	padding: 15px 15px 0;
+}
+
+.metadata-comments {
+	text-align: right;
+}
+
+.node {
+	margin: 0;
+	padding: 0;
+}
+
+.post h1{
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);color: rgba(0, 0, 0, 0.9);font-family: Georgia;
+	font-style: normal;
+	font-weight: bold;font-size: 25px;
+	margin: 10px 0px 10px 0px;
+	padding: 0px;
+	line-height: 25px;
+	}
+.post h1 a{
+	color: #330066;
+}
+.post h1 a:hover{
+	color: #000033;
+	text-decoration: underline;
+}
+.post h2{
+	margin: 0px 0px 10px 0;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 17px;
+	font-weight: bold;
+	text-shadow: 0px 0px 0px;
+}
+.post h2 a {
+	color: #330066;
+}
+.post h2 a:hover{
+	color: #000033;
+	text-decoration: underline;
+}
+
+.field-field-fieldreport-images img {
+	float: left;
+	clear: left;
+	background: #fff;
+	-webkit-box-shadow: 0 1px 10px rgba(0,0,0,.3);
+	   -moz-box-shadow: 0 1px 10px rgba(0,0,0,.3);
+	        box-shadow: 0 1px 10px rgba(0,0,0,.3);
+	padding: 5px;
+	margin: 5px 10px 5px 0px;
+	}
+
+/** Field Report jQuery Stuff **/
+
+.field-report-expandable .post-content-text {
+	height: 49px;
+    overflow: hidden;
+}	
+
+/* Wiki Page */
+#wiki {
+	padding-top: 10px;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+#wiki p{
+	text-decoration: none;
+	}
+#wiki a{
+	color: #330066;
+	text-decoration: none;
+	font-weight: bold;
+	}
+#wiki a:hover{
+	color: #000033;
+	text-decoration: underline;
+	font-weight: bold;
+	}	
+#rightColumn {
+	margin-bottom:20px;
+}
+
+
+#leftBars {
+	border-bottom: 1px solid #000;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	}
+
+
+/* Jquery image-slider */
+#slideshow {
+	margin:0 auto;
+	width:340px;
+	height:205px;
+	position:relative;
+}
+#slideshow #slidesContainer {
+  margin:0 auto;
+  width:340px;
+  height:195px;
+  overflow:auto; /* allow scrollbar */
+  position:relative;
+    border-top: 5px solid white;
+  border-bottom: 5px solid white;
+}
+#slideshow #slidesContainer .slide {
+  margin:0 auto;
+  width:320px; /* reduce by 20 pixels of #slidesContainer to avoid horizontal scroll */
+  height:205px;
+}
+.slide img {
+  margin:0;
+  max-width: 340px;
+  border-right: 5px solid white;
+  border-left: 5px solid white;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Work Order</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1228/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Januaries</title>
+ <link>http://digitalartscorps.org/node/1654</link>
+ <description>&lt;p&gt;This Month&#039;s Work&lt;br /&gt;
+Another full month of projects and programs.  We had our annual staff retreat where Colleen did a training on how to enter data into CiviCRM (which we used for our holiday mailing of 5700+ addresses between our two offices) among other marketing, communication and organization specific activities.  We laid the groundwork to begin two seminar series in Sacramento (an interactive youth centric one and another that&#039;s technology focused).  Furthermore, we are working on connecting our two youth run business initiatives (which we will be meeting with the other office in February to discuss and action plan) and making it a more prominent aspect of our organization&#039;s website.&lt;/p&gt;
+&lt;p&gt;Challenges&lt;br /&gt;
+Challenges up until now have been project related.  Knowing what expectations, goals and who my counterparts are as well as who has the ultimate say.  What I created was an internal Work Order Form so people can know who is in charge of what and the steps that need to happen to get a product finished as well as a way to focus projects into more manageable tasks.&lt;/p&gt;
+&lt;p&gt;Coming Months&lt;br /&gt;
+I am in charge of several projects in the coming months: creating a sponsorship packet and raising funds for our upcoming annual Premiere in May, designing an annual report and creating a video about our afterschool program California Voices to be used for marketing and enrollment purposes.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1654#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/750">civicrm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1160">cmc</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1229">Rich Beckermeyer</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1228">Work Order</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/work order sample.doc" length="13824" type="application/msword" />
+ <pubDate>Tue, 02 Feb 2010 19:43:45 +0000</pubDate>
+ <dc:creator>Rich Beckermeyer</dc:creator>
+ <guid isPermaLink="false">1654 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

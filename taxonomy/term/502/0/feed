@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - xen</title>
+ <link>http://digitalartscorps.org/taxonomy/term/502/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Xen: Instant Karma</title>
+ <link>http://digitalartscorps.org/node/471</link>
+ <description>&lt;p&gt;Imagine if you could run Windows XP, Mac OS X, and multiple versions of Linux on the same computer.  That&amp;#39;s already a reality--you just have to reboot to switch between them.  Now imagine that you could run all these operating systems at the same time on the same computer.  You could run MS Word 2003 at the same time you&amp;#39;re running Safari, all while programming in Eclipse.  It&amp;#39;s possible.  The technology that makes it possible: Xen.&lt;/p&gt;
+&lt;p&gt;Xen is a virtualization technology that&amp;#39;s based on Linux.  It lets you run multiple virtual computers (&amp;quot;guest&amp;quot; operating systems) on top of one master operating system (called the &amp;quot;host&amp;quot; OS).  In other words, you can run Windows and Linux on the same PC at the same time.&lt;/p&gt;
+&lt;p&gt;That&amp;#39;s the sexy use, anyhow.  Xen&amp;#39;s already in use by hosting companies to give customers their own computer.  Instead of having to give customers a physical PC, Xen allows the hosting companies to fit many virtual computers onto one PC.  If the customers don&amp;#39;t need much computing power, why not?&lt;/p&gt;
+&lt;p&gt;At the Community Software Lab, we&amp;#39;re in the process of putting together a Xen-based server so that we can emulate our current network of servers from within one machine.  Instead of having to prepare a new computer to become a server--install hard drives, memory, network cards, cd-rom drives, load the OS via cd-rom--we can type a few commands on the Xen server and have a working virtual computer in about five minutes.  What once took a day to do now takes minutes.&lt;/p&gt;
+&lt;p&gt;The kinks?  The Xen server has to share its memory among many virtual computers, and these days, people&amp;#39;s personal computers use 256 MiB, 512 MiB, 1 GiB, or more.  This puts a limit to the number of virtual computers that can fit onto one host machine.&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re working the kinks out of our test server (now running computation-friendly virtual machines), and as soon as we hear from our server supplier, we&amp;#39;ll be putting together the production server. &lt;/p&gt;
+&lt;p&gt;Computer virtualization is nothing new, however.  IBM&amp;#39;s been doing it in their mainframes for over 40 years.  VMWare is a widely-used virtualization product.  Various video-game emulators have been around for a while (I beat Rygar using good ol&amp;#39; Nesticle, all while surfing the web).  Xen just seems most promising for the moment.&lt;/p&gt;
+&lt;p&gt;I would be remiss in my duties if I didn&amp;#39;t mention KVM (Kernel-based Virtual Machine--not Keyboard, Video, Mouse!).  New in the 2.6.20 Linux kernel (the core of the operating system that handles memory management, task switching, networking, etc.), KVM might give Xen a run for its money.  I&amp;#39;ll try it out, but with time invested in Xen, that&amp;#39;s where we&amp;#39;re headed for the moment. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/471#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/46">fun</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/175">Linux</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/504">virtual servers</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/503">virtualization</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/502">xen</category>
+ <pubDate>Wed, 31 Jan 2007 23:06:26 +0000</pubDate>
+ <dc:creator>John Miller</dc:creator>
+ <guid isPermaLink="false">471 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

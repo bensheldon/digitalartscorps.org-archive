@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - digital arts</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1135/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>A Digital Arts Resource Handout</title>
+ <link>http://digitalartscorps.org/node/1031</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/user/959&quot;&gt;Lauren Bratslavsky&lt;/a&gt; developed this one-page handout (attached below) detailing resources for video editing, computer skills training, free media, digital photography and more.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1135">digital arts</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/533">resource</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/599">video production</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Digital Art RESOURCES- workshop.pdf" length="281079" type="application/pdf" />
+ <pubDate>Mon, 13 Aug 2007 18:13:53 +0000</pubDate>
+ <dc:creator>Kevin Palmer</dc:creator>
+ <guid isPermaLink="false">1031 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

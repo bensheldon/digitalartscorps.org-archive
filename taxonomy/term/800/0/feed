@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - humanities</title>
+ <link>http://digitalartscorps.org/taxonomy/term/800/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>All I see are grants </title>
+ <link>http://digitalartscorps.org/node/985</link>
+ <description>&lt;p&gt;So we&#039;ve been working on a grant from the National Endowment for the Humanities for a digitization project in cooperation with the Spokane library&#039;s Northwest Room (which houses local history). Its enough to make your head spin. Our deadline is tuesday so its crunch time.&lt;/p&gt;
+&lt;p&gt;In the mentime I&#039;ve been working on a current project to go to small museums in our area to help them digitize their collections which is funded by a grat from Humanities Washington.&lt;/p&gt;
+&lt;p&gt;I&#039;m getting a real crash course in the world of grant writing, and am just trying to hold my own.&lt;br /&gt;
+Next project another grant from NEH for a teacher&#039;s workshop. &lt;/p&gt;
+&lt;p&gt;Keep your fingers crossed for grants :-)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/985#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/636">grants</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/800">humanities</category>
+ <pubDate>Fri, 13 Jul 2007 21:03:23 +0000</pubDate>
+ <dc:creator>Elisha Durrant</dc:creator>
+ <guid isPermaLink="false">985 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

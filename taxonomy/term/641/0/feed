@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - google</title>
+ <link>http://digitalartscorps.org/taxonomy/term/641/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How To Set Up a Google &#039;Federated Search&#039; For Membership/Association-based NPOs</title>
+ <link>http://digitalartscorps.org/node/1370</link>
+ <description>&lt;p&gt;For fun, I created a &#039;&lt;a href=&quot;http://en.wikipedia.org/wiki/Federated_search&quot; title=&quot;definition on Wikipedia&quot;&gt;federated search&lt;/a&gt;&#039; for personal use at my org.&lt;/p&gt;
+&lt;p&gt;My Beta: &lt;a href=&quot;http://www.namac.org/federated-search-beta&quot; title=&quot;http://www.namac.org/federated-search-beta&quot;&gt;http://www.namac.org/federated-search-beta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was easy as pie to set up in under 5 minutes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get csv/xls spreadsheet of URLs you want to search (in my case a list of NAMAC&#039;s Member Orgs)&lt;/li&gt;
+&lt;li&gt;Set up Google Custom Search: &lt;a href=&quot;http://www.google.com/coop/cse/&quot; title=&quot;http://www.google.com/coop/cse/&quot;&gt;http://www.google.com/coop/cse/&lt;/a&gt; and login&lt;/li&gt;
+&lt;li&gt;Paste your orgs in the &#039;list of URLs to search&#039;&lt;/li&gt;
+&lt;li&gt;Save the URL to go to to perform the search or grab the generated code to paste anywhere you like.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Easy.  I use it to monitor/search what our Member Orgs are writing as well as as look for specific resources WITHIN the NAMAC network -&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Ways to Use It:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;funding partners&lt;/em&gt;&#039; to see where money is coming from/going from funders + what kinds of projected competitors/members and &#039;frenemies&#039; are getting funded&lt;/li&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;directory&lt;/em&gt;&#039; to see if more info can be aggregated/mashed up;)&lt;/li&gt;
+&lt;li&gt;Um...  I&#039;m not sure yet, but maybe you&#039;ve got an idea or two?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/641">google</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/979">information management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/311">search</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Fri, 24 Oct 2008 19:13:43 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1370 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Interesting new Google Tool</title>
+ <link>http://digitalartscorps.org/node/726</link>
+ <description>&lt;p&gt;I recently heard about this new tool that Google offers through its Maps page. Basically, the tool connects you via phone (for free!) to any business you search for on Google Maps. This works for long distance or local calls. It could be of great use to non-profits trying to save a little money, if you&amp;#39;re at a phone that does not allow calls outside a certain area, or even if you&amp;#39;re at a pay phone.&lt;/p&gt;
+&lt;p&gt; So, here&amp;#39;s how it works:&lt;/p&gt;
+&lt;p&gt;1) Navigate to &lt;a href=&quot;http://maps.google.com/&quot; target=&quot;_blank&quot; title=&quot;Google Maps&quot;&gt;Google Maps&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;2) Under the search text box, click on the link for &amp;quot;Find businesses.&amp;quot;&lt;/p&gt;
+&lt;p&gt;3) Type in the name of the business in the first box and an approximate location in the second box. Then search. You should get a result similar to below (I searched for my org., the Pangea Foundation, in San Diego):&lt;/p&gt;
+&lt;p&gt; &lt;img src=&quot;/files/user963/00.gif&quot; border=&quot;0&quot; alt=&quot;&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;448&quot; height=&quot;222&quot; align=&quot;top&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;4) Once here, there are two places you can select &amp;quot;Call&amp;quot; - in the left side listing or in the little pop-up on the map. The following screen appears when &amp;quot;Call&amp;quot; is selected:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/user963/01.gif&quot; border=&quot;0&quot; alt=&quot;&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;291&quot; height=&quot;211&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;5) Now, you enter whatever phone number you want to use to call the business (i.e., your cell phone, office phone, pay phone, etc.) and click &amp;quot;Connect for free.&amp;quot; Google will immediately call you (the number you just provided). As soon as you answer you will hear ringing as you are connected (for free!) to the business you wanted to call. (If you are using a cell phone, you will still be using your minutes, but otherwise there are no fees.)&lt;/p&gt;
+&lt;p&gt;6) In the picture, this is the link for the &lt;a href=&quot;http://maps.google.com/support/bin/answer.py?answer=52512&amp;amp;topic=1467&quot; target=&quot;_blank&quot; title=&quot;Learn More link&quot;&gt;Learn More&lt;/a&gt; option. &lt;/p&gt;
+&lt;p&gt;Hope that&amp;#39;s useful to someone! &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;///C:/DOCUME%7E1/Pangea/LOCALS%7E1/Temp/moz-screenshot-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;///C:/DOCUME%7E1/Pangea/LOCALS%7E1/Temp/moz-screenshot.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/726#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/641">google</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/643">internet tools</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/642">phone calls</category>
+ <pubDate>Tue, 17 Apr 2007 20:50:40 +0000</pubDate>
+ <dc:creator>Corey Funderburk</dc:creator>
+ <guid isPermaLink="false">726 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

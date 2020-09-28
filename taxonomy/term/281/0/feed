@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - wireless</title>
+ <link>http://digitalartscorps.org/taxonomy/term/281/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Four: BPL Network Deployed (Crash and Burn), Sustainability</title>
+ <link>http://digitalartscorps.org/node/1632</link>
+ <description>&lt;p&gt;This past Saturday, the wifi network that is a lovechild between the brutish broadband over powerline adapters and the delicate, flighty open mesh routers was deployed.  And like any unholy demonspawn, the birth was painful.  It seemed to be working for an hour, but it promptly went out right as we were leaving.&lt;/p&gt;
+&lt;p&gt;So, the BPL network so far is a no-go, but the good news (sort of) is that BPL is likely not to blame.  The router that we&#039;re using to run the network is your average household netgear.  Even the open mesh router directly connected to the netgear is not working; so likely, this is an issue related to the main router.  I&#039;ve had problems with netgears handling large amounts of bandwidth in the past, but it&#039;s more likely just not allowing the BPL adapters onto the network and will need to simply assign static IPs.  If it&#039;s a bandwidth problem that&#039;s freezing up the router...well, maybe we&#039;ll have to invest in a better router or a switch.  Hopefully we can get the network up before Thanksgiving.&lt;/p&gt;
+&lt;p&gt;The good thing about the deployment is that the residents at the Reno Building are AWESOME.  So cool, eager to help and to learn, really happy that they&#039;ll have free internet.  I&#039;ve got to say, open mesh/BPL is pretty neat to deploy.  We gave each resident their mesh unit, they placed it and came back downstairs, then we watched each unit come online.  :3&lt;/p&gt;
+&lt;p&gt;I&#039;m getting a little concerned, however, about the sustainability of some of the things I&#039;m working on.  I&#039;m starting to realize that things like arranging meetings and training tenants in wifi maintenance and network administration are not tasks that we can reasonably expect most of the tenants to do.  It&#039;s a lot of work to expect tenants to do.  I&#039;m hoping to come up with a more lasting solution (since when I&#039;m gone, they won&#039;t have someone to train residents).   Volunteer recruitment at local schools?  Unpaid internships?  I&#039;m hoping there isn&#039;t too much resistance to me seeking out &quot;trainers&quot; to train.  I&#039;ve been spending a lot of time doing direct service (training tenants, now being asked to help teach a computer literacy class, running tech support errands).  I&#039;m not sure where to draw the line, even though I know there&#039;s that magical percentage number.  And if I have to say, &quot;No, can&#039;t do that,&quot; is there a good way to approach it?   Will see how it goes.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1632#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1193">contractors</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1194">explosions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Mon, 23 Nov 2009 19:45:36 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1632 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Three: Community Outreach and Wiki Goes Live</title>
+ <link>http://digitalartscorps.org/node/1617</link>
+ <description>&lt;p&gt;Right now, my major projects include...&lt;br /&gt;
+1. Obtaining a contractor to build out several wifi networks in Koreatown.  Attached is the request for proposals (RFP) I put together.  We anticipate having 4-5 bidders, and we&#039;re doing a site walkthrough with the contractors on Wednesday.  The bids are due on...the 11th I think?  Then we get to read through and select the one that best meets our needs...exciting.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Building a small wifi network at one of our apartments.  I think this will technically be our last in-house deployment.  Just waiting on budget approval.  I&#039;ll update with more about BPL as I deploy (and inevitably encounter problems!) but for now you can see the proposal.  BPL + open mesh will provide more than adequate coverage of this small building, I think it&#039;s a good way to deploy in buildings with simple layouts and small floor plans like the one we&#039;re doing.  The goal is to get it deployed before Thanksgiving.  Eek.  Physically deploying is the easy part, it&#039;s just getting the money.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepping donated computers to be given to families, to be given out after we launch the new wifi network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since last time, I finished the main sections of the Wireless Wiki, an online manual and community space to help residents maintain/troubleshoot their free wifi networks on their own:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot; title=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot;&gt;http://wiki.littletokyounplugged.org/LTSCWireless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alsot held the first resident wifi meeting at one of the housing projects, Angelina Apartments.  The wifi there is Meraki (a more expensive type of wireless mesh) and was set up about a year ago.  The peeps who showed up seemed really interested in making the wifi better (it has been arguably spotty and not as good as it could be).  So, will be working to install more gateways and access points, try to get coverage to all parts of the building.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1617#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/PHD_wifi_RFP.doc" length="768512" type="application/msword" />
+ <pubDate>Mon, 26 Oct 2009 16:48:11 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1617 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Two: Wikwikwik</title>
+ <link>http://digitalartscorps.org/node/1595</link>
+ <description>&lt;p&gt;Since my last report,  a bunch of projects have progressed and a bunch more have begun.  The wiki has been moving along.  Almost all of the content is up, it&#039;s been reskinned, and I&#039;ve added a translator and some access restriction extensions so we can store some somewhat &quot;classified&quot; information to it.  Mediawiki has been a breeze to use after overcoming some permissions issues during the install; for a website that is primarily for disseminating information, I like it a lot more than Joomla/Drupal/modular type things.  It isn&#039;t flashy and requires some setup, but it will be great to let residents create accounts and add info to the database.&lt;/p&gt;
+&lt;p&gt;Onto the new things.  Drew up a proposal for deployment of a very small wifi deployment at an affordable housing project, and will be deploying that before the years&#039; end.  Wrote a request for proposals for wifi at a set of newly rehabbed housing developments for which we recently received a grant.  Found a really good resource for writing RFPs.  It&#039;ll be nice to both deploy a network firsthand and oversee deployment of a network by a contractor.&lt;/p&gt;
+&lt;p&gt;Am kind of excited about the wifi network I&#039;ll be installing.  It relies on Broadband over Powerlines (BPL), which sends wireless signals through existing powerlines and has been proposed as a way to bring internet connectivity to areas where it otherwise would be unfeasible or expensive to build out completely new infrastructure (rural areas, underdeveloped countries).  While BPL is yet to be totally proven/adopted for long-distance internet service (and interferes with HAM radios uh oh), it&#039;s widely available for household networks.  The plan is to just have one internet connection and then use BPL adapters to bounce the connection up to each floor of this apartment building, then build out an open mesh network around these BPL gateways.  The cost will be super low, less than a grand to bring free internet to the building, and the speed is gonna be acceptable, probably around 7Mbps down.  I&#039;m concerned about hardware security, though.  There is lots of vandalism and theft in the building... still looking into addressing that.&lt;/p&gt;
+&lt;p&gt;Cheers, have a happy Autumn.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1595#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/ModelRFPFormat.pdf" length="40298" type="application/pdf" />
+ <pubDate>Tue, 06 Oct 2009 16:54:37 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1595 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month One: Series of Tubes</title>
+ <link>http://digitalartscorps.org/node/1552</link>
+ <description>&lt;p&gt;It&#039;s like being in Hawaii with the extended family.  Being called &quot;hapa&quot; brings back the memories.&lt;/p&gt;
+&lt;p&gt;At the moment, I&#039;m writing a manual that will serve as a crash course in wireless networking, networking hardware, and monitoring/maintaining the networks that are at LTSC.  The goal is to recruit residents from LTSC affordable housing to take care of the wireless internet and have this manual as a resource for them.  It&#039;s been pretty interesting to learn about wireless mesh networks, and I think they&#039;re a pretty neat alternative to traditional wireless networks.  It is a little weird to be writing a manual for something I am only just learning myself, but the outgoing tech coordinator has been patient and there are tons of great resources online, so it&#039;s been a fairly speedy process.  I worry that not enough community members are interested in volunteering to become &quot;network caretakers,&quot; but hopefully there will be more interest in the upcoming meetings.&lt;/p&gt;
+&lt;p&gt;Meanwhile, have also been working on planning and deploying a new mesh network that will provide wireless coverage to a new section of Little Tokyo.  This network will for the public and for small businesses (as opposed to the free access LTSC provides for affordable housing).  The next month is going to involve planning the deployment and working with an intern to approach businesses and see if they will host a wireless node and help us build out the network.&lt;/p&gt;
+&lt;p&gt;The work load so far has been manageable, but am anticipating a lot more work in the next few months as our outreach meetings with tenants become more frequent.  I do feel like I&#039;m juggling a lot of disparate projects, between the deployment of the new public wifi, the affordable housing wifi stuff, and other little projects.&lt;/p&gt;
+&lt;p&gt;I&#039;m really looking forward to meeting with residents more often.  One of our older residents is a monk...she is awesome and is totally up on technology and using the wireless (and nagging us if anything goes wrong).  There have been sad moments though, like when one of the residents hung himself.  :(  Brings home how isolated and unhappy some of the people who live here are...  Still trying to process that, makes working on wireless feel a little silly you know?&lt;/p&gt;
+&lt;p&gt;Attached: a laser reading of the temp on top of the Japanese American National Museum.  At least the routers get heat shields.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1552#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1110">awkward</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1108">Little Tokyo Service Center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/janmroof.JPG" length="166756" type="image/jpeg" />
+ <pubDate>Mon, 31 Aug 2009 20:58:25 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1552 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Best Practices in Innovation and Sustainability for Community Wireless Projects</title>
+ <link>http://digitalartscorps.org/node/514</link>
+ <description>&lt;p&gt;The attached presentation contains best practices on community wireless projects as well as some case studies on successful projects that have already launched.&lt;/p&gt;
+&lt;p&gt;Newer wireless technologies can replace phone lines with Voice Over Internet cost savings. The telcos are fighting these new technologies because their profits dwindle as new and better technologies become available while they have already invested in obsolete infrastructure and want to recover their investments. There&#039;s a technological and political revolution taking place that will set the stage for new forms of social empowerment, as well. (- Frank Odasz, &lt;a href=&quot;mailto:frank@lone-eagles.com&quot;&gt;frank@lone-eagles.com&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wireless (and Satellite) Internet Resources&lt;/strong&gt;&lt;br /&gt;
+        &lt;a href=&quot;http://lone-eagles.com/wireless.htm&quot; title=&quot;http://lone-eagles.com/wireless.htm&quot;&gt;http://lone-eagles.com/wireless.htm&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Municipal Community Wireless&lt;/strong&gt;&lt;br /&gt;
+Municipal Wireless&lt;br /&gt;
+&lt;a href=&quot;http://www.muniwireless.com&quot; title=&quot;http://www.muniwireless.com&quot;&gt;http://www.muniwireless.com&lt;/a&gt; Reports on municipal and wireless broadband projects &lt;/p&gt;
+&lt;p&gt;A New Municipal Community Wireless Site&lt;br /&gt;
+&lt;a href=&quot;http://www.unwiremycity.com&quot; title=&quot;http://www.unwiremycity.com&quot;&gt;http://www.unwiremycity.com&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Save Muni-Wireless&lt;br /&gt;
+&lt;a href=&quot;http://savemuniwireless.org&quot; title=&quot;http://savemuniwireless.org&quot;&gt;http://savemuniwireless.org&lt;/a&gt;&lt;br /&gt;
+Related to Texas legislation to outlaw municipal wireless even for communities where telcos refuse to provide access.&lt;/p&gt;
+&lt;p&gt;Wireless Philadelphia Executive Committee&lt;br /&gt;
+&lt;a href=&quot;http://www.phila.gov/wireless/index.html&quot; title=&quot;http://www.phila.gov/wireless/index.html&quot;&gt;http://www.phila.gov/wireless/index.html&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;State laws and lobbying related to wireless&lt;br /&gt;
+&lt;a href=&quot;http://www.muniwireless.com/archives/000513.html&quot; title=&quot;http://www.muniwireless.com/archives/000513.html&quot;&gt;http://www.muniwireless.com/archives/000513.html&lt;/a&gt;&lt;br /&gt;
+Information on state regulations on cities interested in&lt;br /&gt;
+broadband utility networks. &lt;/p&gt;
+&lt;p&gt;Civitium&lt;br /&gt;
+&lt;a href=&quot;http://www.civitium.com&quot; title=&quot;www.civitium.com&quot;&gt;www.civitium.com&lt;/a&gt;&lt;br /&gt;
+Powering the digital city. Municipal broadband and telecommunications. Civitium is routinely asked about how state laws affect the ability for municipal governments to provide telecommunications and/or information services. See their State by state statute listings regarding this issue. &lt;/p&gt;
+&lt;p&gt;Digital Watershed Community Wireless Services&lt;br /&gt;
+&lt;a href=&quot;http://www.digitalwatershed.org&quot; title=&quot;www.digitalwatershed.org&quot;&gt;www.digitalwatershed.org&lt;/a&gt;&lt;br /&gt;
+Digital Watershed is a non-profit Community Technology Center offering wireless collaborative community services. Our offering goes beyond standard municipal infrastructure and e-government services to include social networks, performance arts, neighborhood projects, and more.&lt;br /&gt;
+Greg Daigle&lt;br /&gt;
+Executive Director&lt;br /&gt;
+Digital Watershed&lt;br /&gt;
+m 612 636-7227&lt;br /&gt;
+&lt;a href=&quot;mailto:gdaigle@digitalwatershed.org&quot;&gt;gdaigle@digitalwatershed.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Wireless Broadband: The Foundation for Digital Cities,&quot;&lt;br /&gt;
+&lt;a href=&quot;http://www.muniwireless.com/reports/cookbook1form.html&quot; title=&quot;http://www.muniwireless.com/reports/cookbook1form.html&quot;&gt;http://www.muniwireless.com/reports/cookbook1form.html&lt;/a&gt;&lt;br /&gt;
+A cookbook for local leaders interested in deploying a community wireless broadband network. The cookbook can be downloaded for free.&lt;/p&gt;
+&lt;p&gt;FCC Wireless Resources and Article on Rural Community Wireless Vision Program&lt;br /&gt;
+&lt;a href=&quot;http://wireless.fcc.gov/outreach/ruralvision/index.html&quot; title=&quot;http://wireless.fcc.gov/outreach/ruralvision/index.html&quot;&gt;http://wireless.fcc.gov/outreach/ruralvision/index.html&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Main FCC Wireless Site&lt;br /&gt;
+&lt;a href=&quot;http://wireless.fcc.gov&quot; title=&quot;http://wireless.fcc.gov&quot;&gt;http://wireless.fcc.gov&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Mesh Community Wireless&lt;/strong&gt;&lt;br /&gt;
+Champaign-Urbana Community Wireless Network (CUWiN)&lt;br /&gt;
+ &lt;a href=&quot;http://www.cuwireless.net&quot; title=&quot;www.cuwireless.net&quot;&gt;www.cuwireless.net&lt;/a&gt;&lt;br /&gt;
+Founder Sascha Meinrath&#039;s site featuring perhaps the most advanced open-source dynamic mesh networking software available anywhere. See also his latest web site &lt;a href=&quot;http://www.communityinternet.us&quot; title=&quot;www.communityinternet.us&quot;&gt;www.communityinternet.us&lt;/a&gt;  and his personal archives of wireless resources at &lt;a href=&quot;http://www.saschameinrath.com&quot; title=&quot;http://www.saschameinrath.com&quot;&gt;http://www.saschameinrath.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&quot;Wirelessing the World Socio-Historical and Technological Factors&lt;br /&gt;
+Affecting the Battle over (Community) Wireless Networks&quot;&lt;br /&gt;
+ &lt;a href=&quot;http://www.saschameinrath.com&quot; title=&quot;http://www.saschameinrath.com&quot;&gt;http://www.saschameinrath.com&lt;/a&gt; (Select Writings and then the 11th article in listing)&lt;br /&gt;
+From: Sascha Meinrath&lt;br /&gt;
+A good introduction to the technologies and politics of community wireless networks.&lt;/p&gt;
+&lt;p&gt;Free Press Community Wireless &lt;a href=&quot;http://freepress.net/wifi/&quot; title=&quot;http://freepress.net/wifi/&quot;&gt;http://freepress.net/wifi/&lt;/a&gt;&lt;br /&gt;
+See also &lt;a href=&quot;http://freepress.net&quot; title=&quot;http://freepress.net&quot;&gt;http://freepress.net&lt;/a&gt; Dedicated to media reform.&lt;/p&gt;
+&lt;p&gt;Community Wireless Project Summary&lt;br /&gt;
+&lt;a href=&quot;http://sourceforge.net/projects/wireless/&quot; title=&quot;http://sourceforge.net/projects/wireless/&quot;&gt;http://sourceforge.net/projects/wireless/&lt;/a&gt;&lt;br /&gt;
+Sourceforge presents a summary of the CU Community Mesh Wireless project. &lt;/p&gt;
+&lt;p&gt;Wireless  in California&lt;br /&gt;
+&lt;a href=&quot;http://www.ca-wireless.org&quot; title=&quot;www.ca-wireless.org&quot;&gt;www.ca-wireless.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Directories of Wireless Communities&lt;/strong&gt;&lt;br /&gt;
+Personal Telco&#039;s International Listing of Wireless Communities&lt;br /&gt;
+&lt;a href=&quot;http://wiki.personaltelco.net/index.cgi/WirelessCommunities&quot; title=&quot;http://wiki.personaltelco.net/index.cgi/WirelessCommunities&quot;&gt;http://wiki.personaltelco.net/index.cgi/WirelessCommunities&lt;/a&gt;&lt;br /&gt;
+An excellent listing!&lt;/p&gt;
+&lt;p&gt;International Wireless Community Network Directory (802.11b)&lt;br /&gt;
+&lt;a href=&quot;http://www.toaster.net/wireless/community.html&quot; title=&quot;http://www.toaster.net/wireless/community.html&quot;&gt;http://www.toaster.net/wireless/community.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Unique Wireless Experts and Related Resources&lt;/strong&gt;&lt;br /&gt;
+Richard MacKinnon&lt;br /&gt;
+ &lt;a href=&quot;http://lessnetworks.com&quot; title=&quot;http://lessnetworks.com&quot;&gt;http://lessnetworks.com&lt;/a&gt; Free WiFi&lt;br /&gt;
+Richard has helped volunteers to establish over one hundred wireless hot-spots in Austin Texas.&lt;br /&gt;
+&lt;a href=&quot;http://www.austinwirelesscity.org&quot; title=&quot;www.austinwirelesscity.org&quot;&gt;www.austinwirelesscity.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dewayne Hendrick&lt;br /&gt;
+&lt;a href=&quot;http://www.firstmile.us/blogs/wireless&quot; title=&quot;http://www.firstmile.us/blogs/wireless&quot;&gt;http://www.firstmile.us/blogs/wireless&lt;/a&gt;&lt;br /&gt;
+Dewayne was one of the first wireless pioneers. A quality resource person.&lt;/p&gt;
+&lt;p&gt;Old Colorado City National Science Foundation Wireless Testbed Project&lt;br /&gt;
+&lt;a href=&quot;http://wireless.oldcolo.com&quot; title=&quot;http://wireless.oldcolo.com&quot;&gt;http://wireless.oldcolo.com&lt;/a&gt; David Hughes&#039; Wireless Innovations Web Site&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Other Unique Community Wireless Resources&lt;/strong&gt;&lt;br /&gt;
+Wireless Technology Radio&lt;br /&gt;
+&lt;a href=&quot;http://wirelesstechradio.com&quot; title=&quot;http://wirelesstechradio.com&quot;&gt;http://wirelesstechradio.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;National Summit for Community Wireless Networks&lt;br /&gt;
+&lt;a href=&quot;http://www.wirelesssummit.org&quot; title=&quot;http://www.wirelesssummit.org&quot;&gt;http://www.wirelesssummit.org&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Global Wireless Developers Conference and Technical Resources&lt;br /&gt;
+&lt;a href=&quot;http://www.freifunk.net/&quot; title=&quot;http://www.freifunk.net/&quot;&gt;http://www.freifunk.net/&lt;/a&gt;&lt;br /&gt;
+FreiFunk.net summit in Djursland, Denmark  where community wireless developers from over 30&lt;br /&gt;
+countries compared notes.  It was overwhelmingly agreed that the CUWiN&lt;br /&gt;
+project had arguably the most advanced (and most promising) software&lt;br /&gt;
+anyone knew about.  If you&#039;re tech-saavy, you may&lt;br /&gt;
+want to look through our CVS repositories, available from:&lt;br /&gt;
+Rice University Community Mesh Wireless TAPS Project&lt;br /&gt;
+&lt;a href=&quot;http://www.taps.rice.edu&quot; title=&quot;www.taps.rice.edu&quot;&gt;www.taps.rice.edu&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;O&#039;Reilly Publisher&#039;s Wireless Development Center&lt;br /&gt;
+&lt;a href=&quot;http://www.oreillynet.com/wireless/&quot; title=&quot;http://www.oreillynet.com/wireless/&quot;&gt;http://www.oreillynet.com/wireless/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Book: Building Wireless Community Networks, By Rob Flickenger&lt;br /&gt;
+ISBN 0-596-00204-1, 125 pages, $24.95 A second edition is now available&lt;br /&gt;
+O-Reilly Wireless Development Center&lt;br /&gt;
+&lt;a href=&quot;http://www.oreillynet.com/pub/a/wireless/2004/01/22/wirelessmesh.html&quot; title=&quot;http://www.oreillynet.com/pub/a/wireless/2004/01/22/wirelessmesh.html&quot;&gt;http://www.oreillynet.com/pub/a/wireless/2004/01/22/wirelessmesh.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New Book: O&#039;Reilly Releases &quot;Building Wireless Community Networks&quot;&lt;br /&gt;
+For more information, a review copy, cover art or an interview with&lt;br /&gt;
+the author, contact: Suzanne Axtell, (707) 827-7114 or &lt;a href=&quot;mailto:suzanne@oreilly.com&quot;&gt;suzanne@oreilly.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Article: Renegade WLANs: Parasitic or Free-Spirited Anarchistic?&lt;br /&gt;
+&lt;a href=&quot;http://www.80211-planet.com/columns/article/0,4000,1781_896641,00.html&quot; title=&quot;http://www.80211-planet.com/columns/article/0,4000,1781_896641,00.html&quot;&gt;http://www.80211-planet.com/columns/article/0,4000,1781_896641,00.html&lt;/a&gt;&lt;br /&gt;
+More on the new Freenet Wireless community model and related issues.&lt;/p&gt;
+&lt;p&gt;Personal Telco Project&lt;br /&gt;
+&lt;a href=&quot;http://www.personaltelco.net/&quot; title=&quot;http://www.personaltelco.net/&quot;&gt;http://www.personaltelco.net/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Wireless Anarchy&lt;br /&gt;
+&lt;a href=&quot;http://www.wirelessanarchy.com&quot; title=&quot;http://www.wirelessanarchy.com&quot;&gt;http://www.wirelessanarchy.com&lt;/a&gt;&lt;br /&gt;
+WirelessAnarchy is about creating your own long range&lt;br /&gt;
+infrastructure, without having to pay anyone or jump through&lt;br /&gt;
+government hoops. Cheaply and easily, using off the shelf&lt;br /&gt;
+equipment, and a little ingenuity, you too can create your own net.&lt;br /&gt;
+International listing of community wireless sites included.&lt;/p&gt;
+&lt;p&gt;MIT Roofnet Community Wireless Implementation&lt;br /&gt;
+ &lt;a href=&quot;http://www.pdos.lcs.mit.edu/roofnet/design/&quot; title=&quot;http://www.pdos.lcs.mit.edu/roofnet/design/&quot;&gt;http://www.pdos.lcs.mit.edu/roofnet/design/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Wireless Community Networks, a Guide for Library boards, educators and community leaders&lt;br /&gt;
+&lt;a href=&quot;http://www.tsl.state.tx.us/ld/pubs/wireless/contents.html&quot; title=&quot;http://www.tsl.state.tx.us/ld/pubs/wireless/contents.html&quot;&gt;http://www.tsl.state.tx.us/ld/pubs/wireless/contents.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Airshare.org&lt;br /&gt;
+ &lt;a href=&quot;http://airshare.org/&quot; title=&quot;http://airshare.org/&quot;&gt;http://airshare.org/&lt;/a&gt;.&lt;br /&gt;
+&quot;Kelly Abbott&quot;   is the founder of Aishare.org, which offers news and knowledge of community wireless networks. He is also a co-chair of the San Diego Telecom Council&#039;s Wi-Fi Special Interest Group&lt;br /&gt;
+Their collected resources: &lt;a href=&quot;http://www.airshare.org/share/links/index.cfm&quot; title=&quot;http://www.airshare.org/share/links/index.cfm&quot;&gt;http://www.airshare.org/share/links/index.cfm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;UK Wireless Community Model Project&lt;br /&gt;
+&lt;a href=&quot;http://www.wlan.org.uk&quot; title=&quot;http://www.wlan.org.uk&quot;&gt;http://www.wlan.org.uk&lt;/a&gt; Henry O&#039;Tani&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/457">Community Networking</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1136">community wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/wirelesslead_perry_handout.pdf" length="325535" type="application/pdf" />
+ <pubDate>Fri, 09 Feb 2007 16:15:00 +0000</pubDate>
+ <dc:creator>Ross Musselman</dc:creator>
+ <guid isPermaLink="false">514 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Community Wireless Maps</title>
+ <link>http://digitalartscorps.org/node/495</link>
+ <description>&lt;p&gt;One of my more recent projects has been re-working the network map for the local community wireless network.  My efforts thus far can be found at &lt;a href=&quot;http://map2.cuwireless.net&quot; title=&quot;http://map2.cuwireless.net&quot;&gt;http://map2.cuwireless.net&lt;/a&gt;.  Credit for the CSS and the text accompanying the map goes to Ross.  This is just the first part.  The next stage is to add an admin/management interface.&lt;/p&gt;
+&lt;p&gt; The map is powered by PHP and the Google Maps API (which uses javascript).  The Google Maps API is incredibly easy to use and has lots of features.&lt;/p&gt;
+&lt;p&gt; For anyway who is interested, this little project will be distilled into an open-source package once it is complete (should be sometime this month).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/495#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/510">Google Maps API</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/509">maps</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/321">PHP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Tue, 06 Feb 2007 22:48:36 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">495 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Madison Park WiFi Presentation from PSO</title>
+ <link>http://digitalartscorps.org/node/422</link>
+ <description>&lt;p&gt;Here&amp;#39;s a &lt;a href=&quot;http://ctcvista.org/files/madison-park-wifi.pdf&quot;&gt;pdf of my presentation&lt;/a&gt; from the &lt;a href=&quot;/taxonomy/term/45&quot; target=&quot;_blank&quot;&gt;Pre-Service Orientation&lt;/a&gt; last week on my work at the CTC and wifi project. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.madison-park.org/%22&quot;&gt;&lt;img src=&quot;/files/user4/madisonpark.jpg&quot; alt=&quot;madison park, roxbury ma&quot; title=&quot;madison park, roxbury ma&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;250&quot; height=&quot;333&quot; align=&quot;right&quot; /&gt;Madison Park Development Corporation&lt;/a&gt; provides 986 affordable rental housing units overall, with 546 units in the Village, consisting of over 1000 residents. (See the old &lt;a href=&quot;http://www.cpcs.umb.edu/vista/organizations.php?org_id=210&quot;&gt;project description&lt;/a&gt;).  &lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s a bit of info from the presentation:  &lt;/p&gt;
+&lt;p&gt;In 2005, 292 residents (over 750 families in the last four years) took advantage of technology training and computer skills classes.  &lt;/p&gt;
+&lt;p&gt;In 2003, Madison received $70K Cisco grant to construct a pilot FREE wireless network Cisco Systems provided hardware for the WiFi system, including bridges, access points, antennas and client adapters Madison provides as a pilot free 802.11b wireless Internet access to the residents of Madison Park Village.  Madison provides free Cisco Aironet 350 series wireless cards for residents. With either the standard omnidirectional antenna or a higher-gain flat panel antenna is used with the client cards. &lt;/p&gt;
+&lt;p&gt;With this project residents of Madison Park Village now have access to enormous personal opportunities that would have otherwise remained out of reach.&lt;/p&gt;
+&lt;p&gt;More info from my co-presenter CTC VISTA &lt;a href=&quot;/blog/838&quot; target=&quot;_blank&quot;&gt;Emelio Flores&lt;/a&gt; from Castle Square coming soon!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/422#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/284">housing development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/372">municipal wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/98">presentation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Wed, 24 Jan 2007 16:39:04 +0000</pubDate>
+ <dc:creator>Patrick Otton</dc:creator>
+ <guid isPermaLink="false">422 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Worst VISTA Ever</title>
+ <link>http://digitalartscorps.org/node/318</link>
+ <description>&lt;p&gt;Well, it&amp;#39;s been several months, which is wrong in so many ways that I cannot even begin to count them. I&amp;#39;ve probably been labeled the &amp;quot;Worst VISTA Ever&amp;quot; by the Corporation, but since I don&amp;#39;t have very ambivalent feelings about them, I don&amp;#39;t really care. The fact is that I have been busy over the last 4+ months and if that means that I don&amp;#39;t have time to blog for CTC, well, then that is what it means. &lt;/p&gt;
+&lt;p&gt; August was spent getting a new VISTA (Matthew Isaacs is officially the schnizzel!) and applying for $1.5m in NSF money. Unfortunately, a week before the deadline, the RFP was postponed because money had not come through from the STPHTR Congress. (If you are wondering, that would be &amp;quot;Screw the Poor, Help the Rich&amp;quot;.) Putting this in my blog probably makes me an even stronger candidate for WVE. Bring it on, &amp;#39;cause I&amp;#39;m adding to my résumé. &lt;/p&gt;
+&lt;p&gt;To be perfectly honest, I don&amp;#39;t really know what happened to September. I know that there was a good amount of work. I know that I gave a presentation to the U of I Business Department about CUWiN, and that I presented CUWiN&amp;#39;s work in the aftermath of Hurricane Katrina to a Summit on Katrina. Actually, I should pause here to note a little something funny about the Summit. I was on a panel about social entrepreneurship in the contact of natural disaster relief. I didn&amp;#39;t  previously understand social entrepreneurship completely, but I do now. I also know now that half the panel ate up most of the panel&amp;#39;s time talking about traditional entrepreneurship, so we couldn&amp;#39;t get into questions about whether making money in a disaster is ethical. It was a convenient strategy for them, but was really annoying.&lt;/p&gt;
+&lt;p&gt;October was really about travel. I attended the Air Jaldi WSFII Conference in Dharamsala, India, and visited our partners in South Africa, who have put up a CUWiN network in Mamelodi Township. If you are interested in reading about the India portion of this trip, you can check out my actual blog (which is only slightly more used), at &lt;a href=&quot;http://nsneedle.blogspot.com&quot;&gt;http://nsneedle.blogspot.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I returned to the US on 11 November and stepped right back into the grant writing frenzy. We had the grants from August due on November 15, and, well, let&amp;#39;s just say that while I was away it didn&amp;#39;t get done. Afterwards, I took a week off for Thanksgiving, which entailed the arrival of my best friend and a trip to Kansas, where Mom and Dad live, and Sister (and fiancé) was visiting. It was a good time, but it was by no means the rest and relaxation I was hoping for.&lt;/p&gt;
+&lt;p&gt;That brings me to this week. I&amp;#39;m preparing to take part in a meeting in San Diego in December, as well as trying to wrap up the hundreds of loose ends that predominate our work at the moment. Oh, and did I mention that I have been leading the organization&amp;#39;s efforts to create internal structures? That&amp;#39;s been a hoot and a half, especially trying to balance various people&amp;#39;s hot buttons. But, so far so good, and I am actually the Secretary of the CUWiN Foundation. I&amp;#39;m also trying to develop a new part of the organization that would actually be responsible for doing network installations. It&amp;#39;s a good way to bring in some cash, but it needs a lot of work before I can push it out.&lt;/p&gt;
+&lt;p&gt;So, that&amp;#39;s it from here. I should note that this blog system is really unwieldy. I spent five minutes trying to recover from an attempt to add é. First it added &amp;amp;amp to the text, then it would not let me back into the editor, and when I finally made it into the editor, it only showed me the first four lines of this blog, although I had already written about twenty. I&amp;#39;m not angry. Nope. I&amp;#39;m just telling whoever is in charge that this happened and it would be nice if it didn&amp;#39;t. Then again, with my WVE status in the bank, I probably shouldn&amp;#39;t be taken seriously.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/318#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Wed, 29 Nov 2006 20:27:02 +0000</pubDate>
+ <dc:creator>Ross Musselman</dc:creator>
+ <guid isPermaLink="false">318 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Er...its been a while</title>
+ <link>http://digitalartscorps.org/node/245</link>
+ <description>&lt;p&gt;So, I have completely let this blog go by the wayside.  For shame.  But I&amp;#39;m back, baby, although I still refuse to like blogs.&lt;/p&gt;
+&lt;p&gt;So, whats been happening with your friendly neighborhood wireless guy? Well, its been so ridiculously busy lately, that I was able to completely ignore something like an online web log without a second thought. Woohoo!&lt;/p&gt;
+&lt;p&gt;Yes, we have a working wireless mesh network now. For the past month and a half we&amp;#39;ve been frantically trying to setup all of the residents who signed up initially, back in January of this year. So you can understand why they might be in a hurry to get their internet access. In the past couple months we&amp;#39;ve installed routers in about 70 or so homes, which is only half of our expected number of users, but believe me, the other 70 people have been banging down our door asking for internet. Except that when we try to call them and setup an appointment, they don&amp;#39;t pick up the phone. They do show up at the tech center, upset that we haven&amp;#39;t called them, though. Ah well. At least we&amp;#39;ve made a good amount of progress in a short time, and I can no longer claim that my job description is a liar. This is what I signed up for. Oh, by the way, its the best job ever.&lt;/p&gt;
+&lt;p&gt;And in the midst of all this wifi installation and subsequent tech support, which pretty much consumes all of my time, we&amp;#39;re trying to dole out money to other housing developments in the Boston area that are interested in Wifi - part of Castle Square&amp;#39;s grant was 15000 dollars to support other housing developments in their wifi implementation. We are holding an open house on the 8th of November to show interested groups around our site and explain the grant process to them. I&amp;#39;m also going to be the chair of the committee that decideds who gets the money, and how much money they should get - we&amp;#39;re hoping to have some pretty smart people on the committee though, so I won&amp;#39;t be the one who actually has to decide anything. What do I know?&lt;/p&gt;
+&lt;p&gt;One last thing - we&amp;#39;re starting our computer refurbishing program with big goals. At least, I have big goals, but we&amp;#39;ll have to see how it goes. We want to supply residents of Castle Square, and the South End, with computers, on a basis of need. Currently we only have some 30 computers that have been donated from Boston Latin Academy, but we&amp;#39;re always looking for more so if you know anything, get at me. I&amp;#39;m hoping that Castle Square can actually turn this into a business and become a low cost computer reseller for the neighborhood.&lt;/p&gt;
+&lt;p&gt;Thats whats been happening. Ok, I gotta run, I have a user who can&amp;#39;t access his email waiting for me at his apartment, and 3 other computers that are full to the brim with malware sitting behind me, sadly watching the shiny new lab computers with envy in their eyes.&lt;/p&gt;
+&lt;p&gt;Check2&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/245#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/285">computer refurbishing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/284">housing development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/283">router</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Fri, 20 Oct 2006 21:52:00 +0000</pubDate>
+ <dc:creator>Emilio Flores</dc:creator>
+ <guid isPermaLink="false">245 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Community Networking Hits Media Mainstream (Almost)!</title>
+ <link>http://digitalartscorps.org/digest/fall06/cn_media</link>
+ <description>&lt;p&gt;by &lt;a href=&quot;mailto:frank@lone-eagles.com&quot; target=&quot;_blank&quot; title=&quot;frank@lone-eagles.com&quot;&gt;Frank Odasz&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;float_right&quot;&gt;&lt;a href=&quot;http://www.pbs.org/moyers/citizensclass/2006/09/the_net_risk_net_neutrality_1.html&quot;&gt;&lt;img src=&quot;http://www.pbs.org/moyers/moyersonamerica/net/images/video_wires.jpg&quot; border=&quot;0&quot; alt=&quot;Watch the video on pbs.org&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; width=&quot;219&quot; height=&quot;125&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Watch the video on pbs.org&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Bill Moyer’s recent PBS special “&lt;a href=&quot;http://www.pbs.org/moyers/citizensclass/2006/09/the_net_risk_net_neutrality_1.html&quot;&gt;The Net @ Risk: Net Neutrality&lt;/a&gt;” relates media monopolies and their effects on local radio stations to the threat to free speech in America. At one point, a banner appeared on the screen: “For more on community networking go to &lt;a href=&quot;http://www.pbs.org/&quot;&gt;www.pbs.org&lt;/a&gt;.”&lt;/p&gt;
+&lt;p&gt;This is one of the few mentions of community networking we&amp;#39;ve seen in the major media. Stories included how Layfayette, Louisiana rallied to install their own municipal fiber despite attacks by the monopoly telcos. “If we don’t do it, we don’t get it!”&lt;/p&gt;
+&lt;p&gt;Perhaps future programs will focus on the lessons learned from thousands of community technology centers and &lt;a href=&quot;http://www.afcn.org/&quot;&gt;community networks&lt;/a&gt; struggling to educate citizens, generate local content, and provide fiber and wireless broadband access. Stories such as Technology for All’s &lt;a href=&quot;http://www.techforall.org/community_technology2.0.html&quot;&gt;Wireless CTC&lt;/a&gt; assisting Katrina refugees in the Houston Astrodome could have been highlighted as well as any of the open source municipal wireless efforts such as &lt;a href=&quot;mailto:sascha@ucimc.org&quot;&gt;Champagne-Urbana&lt;/a&gt;’s &lt;a href=&quot;http://cuwin.net/&quot;&gt;CUWiN&lt;/a&gt; project, among many &lt;a href=&quot;http://lone-eagles.com/wireless.htm&quot;&gt;others.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now that Mohammed Yunus and the Grameen Bank have been awarded the &lt;a href=&quot;http://nobelprize.org/nobel_prizes/peace/laureates/2006/&quot;&gt;Nobel prize&lt;/a&gt; for their third world micro-loans innovations, leveraging information and communication technologies (ICTs) for third world employment has become a hot topic. At issue for those of us involved with poverty reduction and job creation is how such wireless and micro-loan innovations can assist large scale economic development projects such as the &lt;a href=&quot;http://www.ntda.info/&quot;&gt;National Tribal Development Association&lt;/a&gt;’s Katrina Tribal Economic Development project which received a $30 million dollar allocation of New Market Tax Credits to attract needed capital for business development. The target population is low-income Native American communities in the Hurricane Katrina Gulf Opportunity Zone.&lt;/p&gt;
+&lt;p&gt;There is a proliferation of innovative &lt;a href=&quot;http://www.ctcnet.org&quot;&gt;CTC&lt;/a&gt; and &lt;a href=&quot;http://www.afcn.org&quot;&gt;CN&lt;/a&gt; projects with inspired lessons learned that are leading the way for capacity building community learning programs. How best practices can be gleaned and implemented to inform projects like the Katrina Tribal Initiative is the task at hand, and specifically how new youth media projects, with emphasis on citizen video journalism, are developing models and best practices. While traditional media and many adults resist the newer technologies, youth, as the first generation of “digital natives,” have embraced them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.edutopia.org/magazine/ed1article.php?id=art_1648&amp;amp;issue=oct_06&quot;&gt;&amp;quot;The New Face of Learning&amp;quot;&lt;/a&gt; from &lt;em&gt;&lt;a href=&quot;http://www.edutopia.org/&quot;&gt;Edutopia magazine&lt;/a&gt;&lt;/em&gt; is exceptional reading making the case for how blogging, podcasting, and video-authoring can impact education.&lt;/p&gt;
+&lt;p&gt;If you want to know how to publish news video on the Internet, the Participatory Culture Foundation (PCF) is creating a step-by-step tutorial with a grant from the Knight Foundation. The free tutorials will feature tools that are free and open to everyone, such as the Democracy Player, a comprehensive, open-source Internet TV system developed by the PCF and in use now.  According to their &lt;a href=&quot;http://www.getdemocracy.com/press/vlog/&quot;&gt;press release&lt;/a&gt;, &amp;quot;PCF&amp;#39;s Democracy Video Player builds on cutting-edge RSS feeds, the Firefox browser, and BitTorrent syndication technology to empower anyone to watch, share, broadcast and download video over the Internet. The Democracy Player enables higher digital resolution, full-screen video playback, continuous non-buffered play and an open standards environment free of adware or spyware—a much more TV-like experience than traditional web video. (Download Democracy Player free at &lt;a href=&quot;http://www.getdemocracy.com&quot;&gt;www.getdemocracy.com&lt;/a&gt;.)&amp;quot;&lt;/p&gt;
+&lt;p&gt;There are communities way out in front covering community events and contributing to the community&amp;#39;s sense of self.  &lt;a href=&quot;http://www.world-global.com/&quot;&gt;World-global.com&lt;/a&gt; has already established itself as a center for outsourcing, relocation and teleworking in the Outer Hebrides Islands of Scotland.  According to Donnie Morrison, its manager, “We are pretty much up to full employment here which is good news. We have developed a &lt;a href=&quot;http://www.birraproject.net&quot;&gt;TransNational Project&lt;/a&gt; with partners across Northern Europe and are nominated as a best practice model for strategy development, planning, deployment and evaluation of services across the domains of e-Government, e-Health, e-Learning, E-Business and e-Work (Teleworking) by the European Commission.&amp;quot;  Now, according to Donnie, they&amp;#39;ve also just launched a &lt;a href=&quot;http://www.hebrides.tv&quot;&gt;pilot IPTV station&lt;/a&gt; based in their local communities. They&amp;#39;ve also launched a &lt;a href=&quot;http://www.hebrideanconnections.com&quot;&gt;new culture and heritage site&lt;/a&gt; for expatriated Scots. See their own &lt;a href=&quot;http://www.lochslewis.org&quot;&gt;community website&lt;/a&gt;, too. &lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;
+&lt;div class=&quot;float_right&quot;&gt;&lt;img src=&quot;/files/user976/frankodaszhead.jpg&quot; alt=&quot;Frank Odasz at CTC VISTA PSO&quot; title=&quot;Frank Odasz at CTC VISTA PSO&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; width=&quot;114&quot; height=&quot;147&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Frank Odasz at PSO &amp;#39;06&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Frank Odasz served this past year as the Community Networking priority area coordinator for the CTC VISTA Project.   He wrote extensively for the &lt;a href=&quot;http://www.comtechreview.org&quot;&gt;ComTechReview&lt;/a&gt;, and is a prolific author whose work can be found at lone-eagles.com, including his summary of &amp;quot;Resources for VISTAS.&amp;quot;&lt;/p&gt;&lt;/div&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/116">community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/375">international</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/377">network neutrality</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Wed, 18 Oct 2006 17:31:51 +0000</pubDate>
+ <dc:creator>Frank Odasz</dc:creator>
+ <guid isPermaLink="false">284 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

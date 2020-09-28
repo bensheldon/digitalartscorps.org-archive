@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - community computer center</title>
+ <link>http://digitalartscorps.org/taxonomy/term/90/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month 9: Curriculum &amp; Program Development</title>
+ <link>http://digitalartscorps.org/node/1496</link>
+ <description>&lt;p&gt;Through March-April, a very intense month, I guided several initiatives to create new training programs for youth and adults, to build volunteer activities at the IMC, and to make general improvements to our facilities.  The most involved of these is the Champaign, IL &lt;a href=&quot;http://www.dmbgc-cu.org/&quot;&gt;Don Moyers Boys &amp;amp; Girls Club&lt;/a&gt; (DMBGC) Teen Computer Lab project, a partnership between the Boys &amp;amp; Girls Club, the &lt;a href=&quot;http://www.ucimc.org/&quot;&gt;Independent Media Center&lt;/a&gt;, the &lt;a href=&quot;http://illinois.edu/&quot;&gt;University of Illinois&lt;/a&gt;, and the local, private computer consulting firm &lt;a href=&quot;http://www.supportechcomputers.com/&quot;&gt;SupporTech&lt;/a&gt;.  During the first month of planning, the partnering organizations agreed to a vision and mission for the new computer lab and training program to be offered by the DMBGC, which will be an ongoing program available to youth ages 6-18, throughout the year.  The IMC has led the development of surveys, curriculum, and budget, informing the design and staffing being organized by the other partners.  Our Program Development Intern Jason Keist wrote the surveys to assess the children&#039;s experience and interests, and I have been composing the lab budget and compiling a variety of technology and media tutorials and activities, all of which will also be stored with the IMC as documentation.&lt;/p&gt;
+&lt;p&gt;Along with IMC member Danielle Chynoweth, I presented a workshop on producing radio news for &lt;a href=&quot;http://www.fsrn.org/&quot;&gt;Free Speech Radio News&lt;/a&gt; (FSRN), a grassroots independent half-hour newscast available online and syndicated to over 100 stations worldwide.  Please see the attachment for the training guide I wrote (geared towards Audacity, though any audio editor is appropriate).  Anyone can pitch a story, headline, or feature to FSRN, and once you produce the content, FSRN pays you and includes your piece in one of its daily newscasts.  I strongly recommend that other VISTAs encourage members, customers, and trainers in your organization(s) to learn and participate in FSRN as a resource for citizen journalism, media reform, smearing the digital divide, and earning income for a job well done.&lt;/p&gt;
+&lt;p&gt;I also participated in a roundtable discussion on social media presented at the University of Illinois by Chicago&#039;s &lt;a href=&quot;http://www.newstips.org/&quot;&gt;Community Media Workshop&lt;/a&gt; (CMW), a group devoted to training news producers and journalists, and strengthening ties between media and populations in Chicago and the midwest.  I recommend CMW as a useful resource to anyone working in these geographic areas.  They inspired me to create a &lt;a href=&quot;http://twitter.com/UCIMC&quot;&gt;Twitter account for the IMC&lt;/a&gt; - simple, but necessary.&lt;/p&gt;
+&lt;p&gt;Spring was productive in even more ways at the IMC, and I organized three volunteer workdays - one for the Shows/Booking group to troubleshoot, repair, and re-organize the PA, mixer, stage, and cables; one for WRFU 104.5FM to produce new station IDs and clean and paint the studio; and another for just plain spring cleaning of the building.  Along with volunteers in the Librarians and Tech working groups, Nicole and members of the Community Connections group, I setup a staffing desk with a computer workstation, IMC merchandise tables, and staff storage space in the entry to the main space of our building.&lt;/p&gt;
+&lt;p&gt;For the Production group, I offered three more workshops on video editing, wrote Terms of Use and Borrowing for our production room and public equipment, and upgraded one of our video workstations with funds we raised during the Film Festival.  Finally, following Nicole&#039;s hard work to obtain summer youth (ages 14-24) positions at the IMC through the Champaign Consortium, I defined one of the positions, a WRFU Audio Trainer and Archivist, who will join us soon to produce regular on-air content, update our public affairs automation, train members on live and studio broadcast, and archive our existing audio materials.&lt;/p&gt;
+&lt;p&gt;And then there was all the planning for another major fundraiser, the &lt;a href=&quot;http://www.imcfest.org/&quot;&gt;IMC Fest&lt;/a&gt;... (see next month)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1496#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/90">community computer center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/334">community organizing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/110">radio</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/143">training</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/134">video</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/226">workshop</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Producing Radio News for FSRN_IMCTrainingGuide.doc" length="217385" type="application/msword" />
+ <pubDate>Sat, 09 May 2009 20:40:53 +0000</pubDate>
+ <dc:creator>Stephen Fonzo</dc:creator>
+ <guid isPermaLink="false">1496 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Infastructure</title>
+ <link>http://digitalartscorps.org/node/961</link>
+ <description>&lt;p&gt;Today I will continue to determine on &lt;em&gt;campus infastucture&lt;/em&gt;. I will be joined by a previous associate that used to maintain Fiber, phones, cat5, and closed circuit and CATV on the campus.  Since this was formerly a county jail in the &quot;Jail to Jewel&quot; model, there is exciting pre-existing infastructure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yes,Yes&lt;/strong&gt;! We just did a walk through and verified the infastructure at large. I know where the MDF is now.&lt;/p&gt;
+&lt;p&gt;The phone MPOE  has several cat5&#039;s that go to fiber optic access largely to the rest of the campus. The fiber terminates in IDF closets adjacent to punch down blocks to critical areas and the future computer lab location which is air conditioned. It is well-powered with its own PC location breakers and punched down to a 48 port cat5e patch panel. &lt;strong&gt;&lt;em&gt;Cake&lt;/em&gt;&lt;/strong&gt;. This goes to the MPOE where there is (3) T1 end points. This is exciting! &lt;/p&gt;
+&lt;p&gt;At the highest point there is a empty telephone that has power to it and a CATV cable to the MDF... Wi Fi anyone?? :-)))&lt;/p&gt;
+&lt;p&gt;Jim Mora&lt;br /&gt;
+CTC Vista&lt;br /&gt;
+Help of Ojai, West Campus&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/961#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/90">community computer center</category>
+ <pubDate>Fri, 06 Jul 2007 19:26:11 +0000</pubDate>
+ <dc:creator>Jim Mora</dc:creator>
+ <guid isPermaLink="false">961 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Questions about access control for community computer center</title>
+ <link>http://digitalartscorps.org/node/99</link>
+ <description>&lt;p&gt;Hi guys,&lt;/p&gt;
+&lt;p&gt;Hope everyone&amp;#39;s first week is going well! I was hoping to get some ideas and suggestions from those of you who have any knowledge about what I guess I am calling access control. This is an area that I am unfamiliar with and trying to utilize all of my resources to learn more about:) &lt;/p&gt;
+&lt;p&gt;We would like to find some software for our computer center that will allow us to:&lt;/p&gt;
+&lt;p&gt;-require users to login and logout&lt;/p&gt;
+&lt;p&gt;-track who logs in and when&lt;/p&gt;
+&lt;p&gt;-prevents users from accessing certain controls and settings &lt;/p&gt;
+&lt;p&gt;-and return the computer to its original settings (so that nothing is permanently saved) upon logout &lt;/p&gt;
+&lt;p&gt;I have found a few programs that might accomplish this (Public Access Desktop, WinU, and Clean Slate), but I wanted to see if anyone had any expertise in this area. I would appreciate any comments or suggestions that you may have.&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;Andrea&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/99#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/86">access control</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/90">community computer center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/88">questions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <pubDate>Thu, 14 Sep 2006 16:34:11 +0000</pubDate>
+ <dc:creator>Andrea Collopy</dc:creator>
+ <guid isPermaLink="false">99 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

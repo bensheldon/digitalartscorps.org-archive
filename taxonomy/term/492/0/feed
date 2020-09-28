@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - wifi</title>
+ <link>http://digitalartscorps.org/taxonomy/term/492/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Six: Computer Adoption and Broadband Stimulus</title>
+ <link>http://digitalartscorps.org/node/1650</link>
+ <description>&lt;p&gt;Dear Broadband Stimulus,&lt;/p&gt;
+&lt;p&gt;Where are you?&lt;/p&gt;
+&lt;p&gt;Love,&lt;/p&gt;
+&lt;p&gt;Everyone but the peeps who already found out about their application.&lt;/p&gt;
+&lt;p&gt;This month, we had the Computer Adoption Program class a couple Saturdays ago.  The machines were pretty old, and there were a few hiccups, but I think it went okay.  The students were residents from two LTSC-managed affordable housing projects.  Most were adults, some of whom had never owned or used a computer before.  It was a 4-hour crash course in Ubuntu, and they were all browsing the internet and creating e-mail accounts by the end.  Once they all went home, their computers were wifi ready...which is great, because most of the residents live at Reno, where we recently installed the broadband over powerline network.  It&#039;s holding up, even with the increased usage, so yay!&lt;/p&gt;
+&lt;p&gt;I have been having some issues with our wifi hotspot management system, though.  We recently switched to the free version of Coova so that we could better track usage for grant reporting.  I was a noob and didn&#039;t test it out on Internet Explorer.  Older versions of IE seem not to accept redirection (this might also be a Windows-related security issue?).  Going to have to try to work around this.  We can&#039;t go to everyone and troubleshoot this problem...perhaps we could offer firefox cds...?  Coova support is not very good, either.  I wouldn&#039;t go with them again.&lt;/p&gt;
+&lt;p&gt;Next up...increasing signal in a huge apartment complex (using DIY parabolic dishes?), a plan to train a few ueber tech savvy residents in wifi maintenance, and hopefully more web design.  Hope everyone is having a happy new year so far!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1650#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1221">coova</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1222">hotspot</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 27 Jan 2010 18:25:41 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1650 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Five: Can Has Networks?</title>
+ <link>http://digitalartscorps.org/node/1642</link>
+ <description>&lt;p&gt;Projects are mostly slowing to a pausing point as the holidays and a little offtime approaches.  Am prepping donated computers for the upcoming computer literacy/computer adoption class and following up with the participants.&lt;/p&gt;
+&lt;p&gt;My supervisor is leaving sometime around the end of January, so things are a little tenuous.&lt;/p&gt;
+&lt;p&gt;The broadband over powerline (BPL)/open mesh network is up and running really well.  The problem was isolated to the cable modem/ISP.  I put a power timer on it, so that its power cycles late at night.  So far, so good.  The BPL network itself has not had any problems except for a little bit of interference.  Check it out:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot; title=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot;&gt;http://wiki.ltsc.org/index.php/Reno_Apartments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also redeployed a network.  We converted from Meraki brand to Open Mesh brand at Angelina Apartments, with the hope that usage tracking will be easier (not to mention that the new units should have fewer outages and better range).  It&#039;s working...so far.&lt;/p&gt;
+&lt;p&gt;My organization recently switched to gmail for their internal mail, so I&#039;ve been setting up some google sites as document repositories for wireless/community broadband docs and forms that didn&#039;t seem relevant to the more public wiki.&lt;/p&gt;
+&lt;p&gt;Hope everyone enjoys these last few days of 2009!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1642#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1209">computer classes</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Mon, 21 Dec 2009 19:13:00 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1642 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Two: Wikwikwik</title>
+ <link>http://digitalartscorps.org/node/1595</link>
+ <description>&lt;p&gt;Since my last report,  a bunch of projects have progressed and a bunch more have begun.  The wiki has been moving along.  Almost all of the content is up, it&#039;s been reskinned, and I&#039;ve added a translator and some access restriction extensions so we can store some somewhat &quot;classified&quot; information to it.  Mediawiki has been a breeze to use after overcoming some permissions issues during the install; for a website that is primarily for disseminating information, I like it a lot more than Joomla/Drupal/modular type things.  It isn&#039;t flashy and requires some setup, but it will be great to let residents create accounts and add info to the database.&lt;/p&gt;
+&lt;p&gt;Onto the new things.  Drew up a proposal for deployment of a very small wifi deployment at an affordable housing project, and will be deploying that before the years&#039; end.  Wrote a request for proposals for wifi at a set of newly rehabbed housing developments for which we recently received a grant.  Found a really good resource for writing RFPs.  It&#039;ll be nice to both deploy a network firsthand and oversee deployment of a network by a contractor.&lt;/p&gt;
+&lt;p&gt;Am kind of excited about the wifi network I&#039;ll be installing.  It relies on Broadband over Powerlines (BPL), which sends wireless signals through existing powerlines and has been proposed as a way to bring internet connectivity to areas where it otherwise would be unfeasible or expensive to build out completely new infrastructure (rural areas, underdeveloped countries).  While BPL is yet to be totally proven/adopted for long-distance internet service (and interferes with HAM radios uh oh), it&#039;s widely available for household networks.  The plan is to just have one internet connection and then use BPL adapters to bounce the connection up to each floor of this apartment building, then build out an open mesh network around these BPL gateways.  The cost will be super low, less than a grand to bring free internet to the building, and the speed is gonna be acceptable, probably around 7Mbps down.  I&#039;m concerned about hardware security, though.  There is lots of vandalism and theft in the building... still looking into addressing that.&lt;/p&gt;
+&lt;p&gt;Cheers, have a happy Autumn.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1595#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/ModelRFPFormat.pdf" length="40298" type="application/pdf" />
+ <pubDate>Tue, 06 Oct 2009 16:54:37 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1595 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>MuniWireless and Community Wireless</title>
+ <link>http://digitalartscorps.org/node/1152</link>
+ <description>&lt;p&gt;In late October, I flew out to San Jose to attend the MuniWireless &#039;07 Silicon Valley conference. As a VISTA I run a project that provides free wireless Internet access to low-income residents of subsidized housing in Boston&#039;s South End neighborhood. Ours is not so much a municipal wireless project as a community wireless project, a distinction that the conference helped me understand, but nonetheless, those of us interested in building smaller-scale &quot;grassroots&quot; networks designed to serve smaller communities such as housing developments can learn a great deal from the MuniWireless experience.&lt;/p&gt;
+&lt;p&gt;1. What is the purpose of municipal wireless and how is it different than community wifi efforts?&lt;/p&gt;
+&lt;p&gt;High-speed Internet access is and will continue to have a transformative impact on our economy analogous to that of the Interstate Highway System after it was built in the &#039;50s. Eisenhower sold the expensive highway project to the American public as a military necessity, a solution to the military&#039;s difficulties transferring masses of troops and equipment across a vast country during wartime. However, although promoted as a military project, the highways were of course used to carry all sorts of traffic, from passenger cars to 18-wheeler trucks. By changing the way Americans traveled and moved goods, the highways also led to major changes in the way we lived and conducted business.&lt;/p&gt;
+&lt;p&gt;Ubiquitous access to broadband may have an analogous impact. Voice and video communications can be encoded into data and transmitted via the Internet. The days when we could purchase TV service from a cable company or a satellite company and telephone service from a phone company are over. One company can provide each family with a high-speed connection capable of carrying telephone calls, TV service, and Internet access all at once. &lt;/p&gt;
+&lt;p&gt;Yet many technologists worry that broadband penetration in the United States is lagging behind other industrialized countries. One cause for this is the relative lack of competition in the American broadband market. In America, consumers can choose between a cable company and a phone company when it comes to access, and this duopoly leads to higher prices and lower speeds relative to the rest of the world. According to a study published two years ago, a 100Mbps connection in Japan cost $22 a month, while a 26Mbps connection in France cost the equivalent of $36 monthly. Today, I pay about $25 a month for a 768Kbps connection at my home in Boston.&lt;/p&gt;
+&lt;p&gt;Municipal wireless can provide an alternative to the cable/DSL duopoly for a city or region. Installing wireless radios is much cheaper than laying down fiber. Both MuniWIreless and community wireless efforts take advantage of this fact, and both seek to alleviate the &quot;digital divide&quot;, which arises when low-income populations cannot afford the high price of broadband access. However, the primary distinctions between MuniWireless and community wireless is that municipal efforts seek to provide ubiquitous access for a large area (or at least for the outdoors areas as we&#039;ll discuss later) and to deploy infrastructure that will enable them to compete with existing Internet Service Providers. Community wireless projects serve much smaller communities, such as housing developments or individual buildings, rather than wide areas. Such small-scale efforts typically buy and redistribute inexpensive Internet connections from the same companies municipal networks seek to undercut. &lt;/p&gt;
+&lt;p&gt;One important characteristic of WiFi, the technology now in use for both MuniWireless and community wireless projects, is that it has a relatively weak signal. Unlike, say, shortwave radio, which can be transmitted across the globe, WiFi can be flaky. It doesn&#039;t travel through walls very well. As a result, municipal wireless projects have found that guaranteeing access inside buildings is prohibitively expensive, and many projects now aim to reach only up to the windows of a building, although users of the network can deploy repeaters to enhance the signal enough to provide indoor coverage. Community WiFi efforts, by contrast, typically aim to provide access throughout a building, so that resident&#039;s can connect to the network from their desktop or laptop computers.&lt;/p&gt;
+&lt;p&gt;2. What is the state of the municipal wireless market?&lt;/p&gt;
+&lt;p&gt;The conference I attended was titled &quot;industry at a crossroads&quot;, and this was probably putting it politely. One presenter noted that his mother doesn&#039;t understand what he does for a living, but she feels bad for him as a result of all of the recent bad press about municipal wireless projects falling apart. Over the summer, some of the largest projects in the country, including those in Chicago and San Francisco were cancelled, scaled back or otherwise reevaluated.&lt;/p&gt;
+&lt;p&gt;There are a number of reasons for the recent stumbles. A new technology called WiMax will provide far greater improvements in wireless power and range when it debuts to the public in the next few years, and nobody wants to spend millions building a network that might be obsolete soon. Additionally, there are legitimate questions about whether public-sector projects should be competing with private-sector telecommunications companies, concerns that are beyond the scope of this article. &lt;/p&gt;
+&lt;p&gt;The biggest stumbling block at this point, however, is that providing ubiquitous WiFi coverage, while still less expensive than deploying wired infrastructure, can cost $100,000 to $300,000 a square mile, and without strong a business case demonstrating how the investment will pay off, funders have been hesitant to commit millions of dollars. Politicians have been eager to promise free or cheap broadband access to the public, but with Internet Service Providers already notorious for their slim margins, it is difficult to see how municipal projects can recoup their initial costs while undercutting ISPs on price and living up to the lofty civic goals that accompany public projects, such as providing open access to all partners.&lt;/p&gt;
+&lt;p&gt;I firmly believe that digital inclusion projects will have positive economic benefits in the long term. By providing free WiFi in the South End, we are enabling an underserved community to become technology users for the first time, helping to create a market that did not exist before. Unfortunately, the exact economic and social impact of what we are doing is amorphous and difficult to quantify. It is very shaky ground on which to base the rationale for building a multimillion dollar public project.&lt;/p&gt;
+&lt;p&gt;That&#039;s why digital inclusion, when it was mentioned at all during the MuniWireless conference, always seemed to be the last item on everyone&#039;s agenda. The industry has very quickly shifted to a new sales pitch for municipal wireless networks. Now, the idea is to use this new infrastructure to improve public safety and to reduce the cost of delivering municipal services. Specifically, a wireless network can be a platform for video surveillance cameras to monitor high-crime neighborhoods. Auditory sensors, such as the SpotShotter technology currently being deployed in Dorchester, can be placed around a neighborhood and can alert police when a gun is fired. The sensors are advanced enough to distinguish between a firecracker, a pistol and a rifle, pinpoint the exact location of the shot, and swivel cameras towards the scene, so that police will already have reviewed live video of the location in their cars before they arrive. A second, less exciting application, involves enabling municipal employees such as cops and building inspectors to submit reports from wireless devices out in the field, so they never have to waste time traveling to and from the office. It has always been easier to fund anti-crime projects than anti-poverty projects, making the first scenario far more attractive to funders than using a wireless network to ease the digital divide. The second scenario, offers municipalities an easy means of calculating the potential financial windfall that a wireless network will provide, and, in contrast to digital inclusion ideas that promise to increase economic activity in the future, that windfall comes directly from the city&#039;s budget.&lt;/p&gt;
+&lt;p&gt;The ambitious wireless projects that are deployed over the next few years, will be funded principally by an &quot;anchor tenant&quot;, namely a government bureaucracy interested in using the network to achieve specific goals, such as improved public safety, or lower costs of providing civic services. But just as the Interstate Highway System was sold to the public as a defense project, but ended up carrying primarily civilian traffic, there is no reason to believe that municipal wireless networks, once deployed, cannot be useful for digital inclusion, increasing broadband penetration, and other purposes.&lt;/p&gt;
+&lt;p&gt;3. How should community groups interested in digital inclusion approach municipal wireless projects?&lt;/p&gt;
+&lt;p&gt;Non-profits and other community wireless projects should not see municipal wireless as a competitor, but as a platform for us to build on. When a municipal wireless network is built, the role of community wireless developers should be to deploy inexpensive technology that takes the municipal networks signal from the street and deliver it into the apartments of our constituents. A citywide effort of business leaders will quickly lose sight of the needs of underserved communities, which are inexpensive Internet access combined with inexpensive computer training and computer repair services provided by members of the community to their peers.&lt;/p&gt;
+&lt;p&gt;The HUD &quot;Community Technology Centers&quot; serve as an extraordinary resource for municipal networks. These institutions are already providing the necessary skills training, equipment donation and repair programs that will enable poor users to take advantage of municipal wireless networks. Because the infrastructure will already have been paid for by the anchor tenant, municipal network operators should be able to provide excess bandwidth at little or no cost to community groups, eliminating the need for those organizations to buy bandwidth from ISPs. The costs of providing access will then become so inexpensive (say $50 per family for a $100 router that can serve four families as well as other infrastructure, repair and training programs) that with a little grant money, community wireless groups should be able to achieve self-sufficiency with a combination of low access fees (say $5 a month) and advertising that is conducted in a tasteful and unobtrusive manner. These are of course back of the envelope calculations, but even if municipal networks refuse to provide free or cheap access to non-profits, their very existence will still help by forcing ISPs to lower broadband prices. &lt;/p&gt;
+&lt;p&gt;In the end, if municipalities and their partners can justify the cost of building municipal wireless networks, then non-profits, underserved communities and the public as a whole will be able to benefit from telecommunications infrastructure that is owned by the public and intended to be utilized for the public good.&lt;/p&gt;
+&lt;p&gt;(I intend on writing another blog post later to discuss the lessons that non-profits and community groups can take away from the muniwireless experience).&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1152#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/873">castle square</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/372">municipal wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/870">muniwireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/872">roofnet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 07 Nov 2007 22:11:20 +0000</pubDate>
+ <dc:creator>Gabriel Fishman</dc:creator>
+ <guid isPermaLink="false">1152 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>OpenWRT, RAID Crashes, and a Truck</title>
+ <link>http://digitalartscorps.org/node/969</link>
+ <description>&lt;p&gt;My first day at my host org, I arrived minutes before the moving truck.  My organization got new digs and I was just in time to help set up.  On Weds of that week, we had the annual staff retreat out on Watauga Lake, and I got a good introduction to all the staff and various projects going on here.  As an environmental nonprofit, much of our work is the type of advocacy campaign that VISTA wants me to step carefully around.  My project is more of an education program -- teaching landowners about sustainable forestry techniques -- so that&#039;s my main focus.&lt;/p&gt;
+&lt;p&gt;Early in my second week, I sat down with several folks in the organization to get an in-depth feel for the sustainable forestry project and it&#039;s future.  We&#039;re planning a forum for landowners and forestry professionals, as both an online community and an information resource.  Much of the initial planning is done, but I get to carry the ball into the endzone.  This means working with the project partners, finding and arranging hosting, working with a professional web design company, developing initial content, and recruiting others to continue the content ....seems like most other aspects of the project (hopefully, with the exception of fundraising!).  Our in-house meeting went well and I&#039;m arranging a conference call to introduce myself to our project partners.  &lt;/p&gt;
+&lt;p&gt;I&#039;m also working on maintaining and extending their technical capacity, by assessing their needs and expanding their current capabilities.  I&#039;ve already extended their LAN and WirelessLAN capabilities with an older Linksys WiFi router (I *heart* OpenWRT!).  The WiFi router provided by our DSL supplier, it turns out, doesn&#039;t play nicely with newer MacBooks.  &lt;/p&gt;
+&lt;p&gt;I&#039;m working through an issue with their fileserver (minor things, ya know, like replacing a drive in the main RAID set that decided that Friday afternoon was the perfect time to die).  One drive dropped out of the RAID mirror, and I got the local volunteer who built the server to stop by and help me kick off a rebuild.  Most of the time this works fine and things are back to normal (the rebuild takes forever, but you can still access the existing drive).    Unfortunately, around 3pm last Friday I realized the network drive wasn&#039;t accessible, and sure enough the rebuild had encountered a serious problem with the offline drive (think &quot;click of death&quot;).  I consulted our volunteer, rebooted the server, and waited until everyone was done for the day before trying the rebuild again.  Sure enough, the problem drive started making its click of death again, and the server locked up.  Now we&#039;re up and running, but without a mirror, and waiting for a replacement drive to come in.&lt;/p&gt;
+&lt;p&gt;I&#039;m also rolling out an intranet webserver so I can evaluate and demo the CMS systems we&#039;re considering for my project.  The hard part in all of this is making it sustainable: documenting the setups and configurations that make all of this work, so that other techies can understand, duplicate, and extend the work I&#039;ve done while I&#039;m here.  Fighting tech fires is fun and all, but I won&#039;t be here forever, and those tech fires always flare up no matter how robustly the system is designed.  I&#039;m thinking an intranet CMS could play that role here.&lt;/p&gt;
+&lt;p&gt;Can anyone tell me if WDS is really helpful?  I&#039;m debating the right way to make sure our facility is adequately covered by WiFi, and right now I&#039;ve got two AP&#039;s that don&#039;t really cooperate.  (Well, only one answers DHCP, so it&#039;s cooperation, but our laptop users still see two different networks.)  I don&#039;t think I can get our DSL router to do much in the way of WDS, but I can probably get someone to donate another Linksys, then setup WDS between the two, one at the front of the facility and one in back, and just turn off the DSL router&#039;s WiFi altogether.  Any tips?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/969#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/782">fileserver</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/482">first day</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/781">lan</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/780">moving truck</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/783">raid</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Tue, 10 Jul 2007 16:03:53 +0000</pubDate>
+ <dc:creator>Sil Greene</dc:creator>
+ <guid isPermaLink="false">969 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Madison Park WiFi Presentation from PSO</title>
+ <link>http://digitalartscorps.org/node/422</link>
+ <description>&lt;p&gt;Here&amp;#39;s a &lt;a href=&quot;http://ctcvista.org/files/madison-park-wifi.pdf&quot;&gt;pdf of my presentation&lt;/a&gt; from the &lt;a href=&quot;/taxonomy/term/45&quot; target=&quot;_blank&quot;&gt;Pre-Service Orientation&lt;/a&gt; last week on my work at the CTC and wifi project. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.madison-park.org/%22&quot;&gt;&lt;img src=&quot;/files/user4/madisonpark.jpg&quot; alt=&quot;madison park, roxbury ma&quot; title=&quot;madison park, roxbury ma&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;250&quot; height=&quot;333&quot; align=&quot;right&quot; /&gt;Madison Park Development Corporation&lt;/a&gt; provides 986 affordable rental housing units overall, with 546 units in the Village, consisting of over 1000 residents. (See the old &lt;a href=&quot;http://www.cpcs.umb.edu/vista/organizations.php?org_id=210&quot;&gt;project description&lt;/a&gt;).  &lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s a bit of info from the presentation:  &lt;/p&gt;
+&lt;p&gt;In 2005, 292 residents (over 750 families in the last four years) took advantage of technology training and computer skills classes.  &lt;/p&gt;
+&lt;p&gt;In 2003, Madison received $70K Cisco grant to construct a pilot FREE wireless network Cisco Systems provided hardware for the WiFi system, including bridges, access points, antennas and client adapters Madison provides as a pilot free 802.11b wireless Internet access to the residents of Madison Park Village.  Madison provides free Cisco Aironet 350 series wireless cards for residents. With either the standard omnidirectional antenna or a higher-gain flat panel antenna is used with the client cards. &lt;/p&gt;
+&lt;p&gt;With this project residents of Madison Park Village now have access to enormous personal opportunities that would have otherwise remained out of reach.&lt;/p&gt;
+&lt;p&gt;More info from my co-presenter CTC VISTA &lt;a href=&quot;/blog/838&quot; target=&quot;_blank&quot;&gt;Emelio Flores&lt;/a&gt; from Castle Square coming soon!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/422#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/284">housing development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/372">municipal wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/98">presentation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Wed, 24 Jan 2007 16:39:04 +0000</pubDate>
+ <dc:creator>Patrick Otton</dc:creator>
+ <guid isPermaLink="false">422 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

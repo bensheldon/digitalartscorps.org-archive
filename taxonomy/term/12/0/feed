@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - webdesign</title>
+ <link>http://digitalartscorps.org/taxonomy/term/12/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How To Set Up a Google &#039;Federated Search&#039; For Membership/Association-based NPOs</title>
+ <link>http://digitalartscorps.org/node/1370</link>
+ <description>&lt;p&gt;For fun, I created a &#039;&lt;a href=&quot;http://en.wikipedia.org/wiki/Federated_search&quot; title=&quot;definition on Wikipedia&quot;&gt;federated search&lt;/a&gt;&#039; for personal use at my org.&lt;/p&gt;
+&lt;p&gt;My Beta: &lt;a href=&quot;http://www.namac.org/federated-search-beta&quot; title=&quot;http://www.namac.org/federated-search-beta&quot;&gt;http://www.namac.org/federated-search-beta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was easy as pie to set up in under 5 minutes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get csv/xls spreadsheet of URLs you want to search (in my case a list of NAMAC&#039;s Member Orgs)&lt;/li&gt;
+&lt;li&gt;Set up Google Custom Search: &lt;a href=&quot;http://www.google.com/coop/cse/&quot; title=&quot;http://www.google.com/coop/cse/&quot;&gt;http://www.google.com/coop/cse/&lt;/a&gt; and login&lt;/li&gt;
+&lt;li&gt;Paste your orgs in the &#039;list of URLs to search&#039;&lt;/li&gt;
+&lt;li&gt;Save the URL to go to to perform the search or grab the generated code to paste anywhere you like.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Easy.  I use it to monitor/search what our Member Orgs are writing as well as as look for specific resources WITHIN the NAMAC network -&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Ways to Use It:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;funding partners&lt;/em&gt;&#039; to see where money is coming from/going from funders + what kinds of projected competitors/members and &#039;frenemies&#039; are getting funded&lt;/li&gt;
+&lt;li&gt;Search for &#039;&lt;em&gt;directory&lt;/em&gt;&#039; to see if more info can be aggregated/mashed up;)&lt;/li&gt;
+&lt;li&gt;Um...  I&#039;m not sure yet, but maybe you&#039;ve got an idea or two?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/641">google</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/979">information management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/311">search</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Fri, 24 Oct 2008 19:13:43 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1370 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Resources for Good Site Aesthetics and Techniques</title>
+ <link>http://digitalartscorps.org/node/1014</link>
+ <description>&lt;p&gt;here are two link to fun web development stuff to look at, learn from and implement - updated daily (at least).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The most popular web development bookmarks on del.icio.us:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/popular/webdev&quot; title=&quot;http://del.icio.us/popular/webdev&quot;&gt;http://del.icio.us/popular/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;My favorite bookmarks on my del.icio.us account:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/memeshift/webdev&quot; title=&quot;http://del.icio.us/memeshift/webdev&quot;&gt;http://del.icio.us/memeshift/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; A website i go to DAILY to see what the latest trends in web design are:&lt;br /&gt;
+&lt;a href=&quot;http://www.designmeltdown.com&quot; title=&quot;http://www.designmeltdown.com&quot;&gt;http://www.designmeltdown.com&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 31 Jul 2007 21:51:29 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1014 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Drupal &quot;Hacks&quot;</title>
+ <link>http://digitalartscorps.org/node/757</link>
+ <description>&lt;p&gt;As part of the website redesign, we&amp;#39;re adding new sections for user generated content.  We needed to keep this content separate from the rest of the site, so that any user could edit the user sections, but not the rest of the site.  For basic content types, this is simply a matter of defining a new content type based on the standard drupal &amp;quot;node&amp;quot;, and then assigning the correct permissions to that new type.  But what if you want to do something similar to a more advanced content-type such as a book?  One could extend the book module to support a similar derived content feature (best solution).  But that can take a fair amount of time, and with no guarantee of changes being accepted upstream, you face the possibility of either running outdated module code, or having to reapply your edits for every update.  A quicker, and much simpler method, especially for those with little programming experience, is to make a few, essentially cosmetic changes to the book module.  These changes consist primarily of changed the names of the tables the module stores its data in, and the internal name that drupal uses to identify the module and its components.  And while your modifying, you can easily alter the human-readable names and descriptions.  And its all as easy as Find &amp;amp; Replace.   &lt;/p&gt;
+&lt;p&gt;The Easy Way: &lt;/p&gt;
+&lt;p&gt;One should make a backup copy of the books module.  I would suggest creating a new directory, name it after the short, drupal id form of the content type, and place the files from the book module in this directory.  Renaming them would be a good idea too.  Then do the following in all of those files. &lt;/p&gt;
+&lt;p&gt;One could easily do a &amp;quot;Replace all&amp;quot; on &amp;quot;book&amp;quot; and &amp;quot;Book&amp;quot; with the words/identifiers you desire.  Caveats:  the word replacing book cannot have spaces, and should not have other odd characters; not starting with a number would be advisable as well.  A short word or acronym or other identifier would be preferred here.  The reason for this is that in some places &amp;quot;book&amp;quot; is being used as an identifier by Drupal, and so we must make sure that what we use will not cause the PHP or SQL to break.  In our case, we replaced it with &amp;quot;cnrc&amp;quot;, since this new book will be used to provide books and book pages for the Community Networking Resource Center area of the new website.  &amp;quot;Book&amp;quot; is used only in description and such, and is not used internally by Drupal.  As such, we can replace it with whatever we want.  Just be careful of including quotation marks, either single or double, as they could be misinterpreted by PHP.  In our case we replaced it with the expanded acronym.  The plural of &amp;quot;book&amp;quot; and &amp;quot;Book&amp;quot; are sometimes used as well.  The process described above will replace the appropriate portions of these words, thus leaving the replacements with an &amp;quot;s&amp;quot; suffix.  If this is undesirable, use either a &amp;quot;match only whole word&amp;quot; feature, or replace the plural forms first. &lt;/p&gt;
+&lt;p&gt;Whats Really Going On:&lt;/p&gt;
+&lt;p&gt; The .info file included with module contains the data that is displayed in the &amp;quot;Modules&amp;quot; section of the admin screens.  Its not important to change it, but doing so will make your life (or however assumes job of maintaining the site&amp;#39;s life) a lot easier.   The fields here can contain pretty much any value.&lt;/p&gt;
+&lt;p&gt;The .install file contains the code responsible for installing and uninstalling the module.  Its what makes the correct tables in the database, for instance.  To truly keep the data from the various &amp;quot;book&amp;quot; modules separate, we need to make our module use a different table.  The requires editing the sql queries encapsulated in the PHP.  I also suggest renaming the function as well.  Not only does it improve clarity, it prevents naming collisions.  Drupal, at least as far as I&amp;#39;ve seen, runs in one big namespace.  Hence, all modules must provide unique function names.  The convention is to prefix the functions with the modules short (internal drupal) name.&lt;/p&gt;
+&lt;p&gt; The .module file contains all the internal workings of the module.  The same thing about function names applies here as in the .install file.  the *_node_info function contains the base parameters (drupal name,verbose name, and description).  The variables whose values are wrapped in t(&amp;#39; &amp;#39;) will accept Unicode characters.  the &amp;quot;module&amp;quot; variable will not.  In here the paths and such are defined as well.  The find &amp;amp; replace method will modify these as well, thus allowing one to customize the url locations.&lt;/p&gt;
+&lt;p&gt;Motivation and Alternatives:&lt;/p&gt;
+&lt;p&gt;The redesign of the site presented us with a case wherein we might have books that only staff should be able to edit, and other books that should be open to the general public.  With the current book module, that is not possible.  I suspect one may be able to achieve similar functionality with the CCk for Drupal 5, however, I haven&amp;#39;t had time to explore it yet.  Given my programming background, I found modifying the module much simpler than learning the quirks of a Drupal interface.  &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/757#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Wed, 09 May 2007 02:39:01 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">757 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Website Updates</title>
+ <link>http://digitalartscorps.org/node/741</link>
+ <description>&lt;p&gt;Working with Ross on a massive website redesign.  This redesign is brought on partially from complaints of website users about the disparate nature of the content, and the difficulty in finding relevant information on the site.  A recent hard drive failure on our web host&amp;#39;s server which resulted in some loss of content was also a contributing factor.  We hope to have something up next week.  The site will actually be broken into multiple sites to allow for better organization.  Drupal will power two of the sites--the CUWiN main site, and a second specifically for the local network.  Two additional sites will be created using wiki software.  One will be a private wiki to document the organizations infrastructure and to store other private documents.  The second will be a wiki for the developers.  It will focus on bug tracking, software documentation, etc.  I&amp;#39;m considering using Ikiwiki (&lt;a href=&quot;http://www.ikiwiki.info&quot; title=&quot;www.ikiwiki.info&quot;&gt;www.ikiwiki.info&lt;/a&gt;) for this, as it is simple, and integrates with the code repository.  Hopefully this will make it easier developers to incorporate the wiki (and documentation) into their work flow.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/741#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Fri, 27 Apr 2007 17:56:24 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">741 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Marketing Strategies For Your Website</title>
+ <link>http://digitalartscorps.org/node/643</link>
+ <description>&lt;p&gt;I have been given the task to increase the viewership and participation in &lt;a href=&quot;http://www.sflregionalequity.org/&quot;&gt;www.sflregionalequity.org&lt;/a&gt;  (a website dedicated to achieving greater equity in the Southeast Florida region through promoting and enabling affordable housing, transit-oriented development, stronger neighborhoods, and equal access to education and health). &lt;/p&gt;
+&lt;p&gt;I believe in the cause and I &lt;em&gt;think&lt;/em&gt; demand for the website is out there. However, I did not know how to best get the word out. At first I spent approximately 60 hours identifying 1800 possible organizations and local activists who would possibly be interested in the purpose of the site. I then went ahead and emailed and snail mailed invitations to the website with very little response. I believe that of the 1800 pieces of mailings I received 2 phone calls and 7 emails. So that tactic did not get the results I was hoping for.&lt;/p&gt;
+&lt;p&gt;Next, I decided to create an e-newsletter through Constant Contact. The Collins Center already has an account with them so there is no additional cost to the website. Otherwise, It would cost over $300 a year to run the newsletter. However, I can not use my current email list to send out newsletters because if a certain percentage unsubscribe from the newsletter the account will be cancelled, thereby ruining the service for the whole organization (Constant Contact has a strict NO-SPAM policy). So that tactic could possibly produce the desired results, but it could also get me in some hot water with the Collins Center if the service gets cancelled.&lt;/p&gt;
+&lt;p&gt;After I spent some time reviewing my ineffective attempts, it became clear that the website needs an informed and focused marketing plan. I scheduled a &amp;quot;Marketing for Nonprofits&amp;quot; seminar this week that the Collins Center was gracious enough to pay for, but one seminar can only do so much. The website is in serious need of tried-and-true marketing strategies that work, and I plain have no expertise in marketing. &lt;/p&gt;
+&lt;p&gt;Therefore my plan is to a) gain knowledge of basic marketing principles; b) identify best practices for marketing websites; and c) choose one or a combination of best practices to implement.&lt;/p&gt;
+&lt;p&gt;If anyone else has the assignment of increasing participation in a website or project and would like to share your experience let me know! I think working on similar projects and having others share their input really helps, and it makes the whole process more enjoyable.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/643#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/611">communications</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/59">marketing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/404">public relations</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/82">website</category>
+ <pubDate>Mon, 19 Mar 2007 16:17:36 +0000</pubDate>
+ <dc:creator>Kevin Bulger</dc:creator>
+ <guid isPermaLink="false">643 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Static Web Design: On Its Way Out?</title>
+ <link>http://digitalartscorps.org/digest/fall06/blog_john</link>
+ <description>&lt;p&gt;[From the blog of &lt;a href=&quot;/user/805&quot;&gt;John Miller&lt;/a&gt;, &lt;a href=&quot;http://www.cpcs.umb.edu/vista/blog/john_miller/archives/001400.html&quot;&gt;July 1, 2006&lt;/a&gt;.]&lt;br /&gt;
+&lt;div class=&quot;float_right&quot;&gt;&lt;img src=&quot;/files/user4/john.jpg&quot; alt=&quot;John Miller leads the Web Design track at ICCN Teen Summit&quot; title=&quot;John Miller leads the Web Design track at ICCN Teen Summit&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;John Miller (right) at Teen Summit&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt;In a few weeks, I&amp;#39;m heading up the web design workshop at the &lt;a href=&quot;http://www.computerclubhouse.org/news/TS06News/teen_summit_intro.html&quot;&gt;Intel Computer Clubhouse&amp;#39;s Teen Summit&lt;/a&gt;. My task: to help 15 or so teenagers create a journalistically-slanted website covering the Summit. How to do it? What will make this website good or bad?&lt;/p&gt;
+&lt;p&gt;A good website...allows people to easily add information. If there&amp;#39;s only one maintainer, this won&amp;#39;t be too bad. The site design depends largely on how the maintainer likes to do things: write code by hand, use a wysiwyg editor, or use a content-management system. Simple sites can get away with hand-coding; it&amp;#39;s not that much work to add a page or two, especially if you use templates. The hard work lies in creating templates. The same holds true for wysiwyg editors: they are perhaps less well-suited for creating new pages, but are quite nice for editing text or populating a template.&lt;/p&gt;
+&lt;p&gt;That leaves the content management system. Wouldn&amp;#39;t it be nice just to go out to your site, fill out a form, and have a new blog entry? Better still to be able to edit any page on the site simply by filling out a web form. If you use the Internet, you know how to use a web browser; it&amp;#39;s nearly a given. So CMSes are great for people with no prior web design knowledge.&lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;John Miller  is extending his VISTA service at the &lt;a href=&quot;http://thecsl.org/&quot;&gt;Computer Software Lab&lt;/a&gt;, in Lowell, MA, until next Spring  &amp;#39;07. He also  continues to blog about his web design work, including &lt;a href=&quot;/node/27&quot;&gt;CMS&lt;/a&gt;, &lt;a href=&quot;/taxonomy/term/156&quot;&gt;CSS&lt;/a&gt;, and more, in his new CTC VISTA &lt;a href=&quot;/blog/805&quot;&gt;blog&lt;/a&gt;.  &lt;/div&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <pubDate>Fri, 10 Nov 2006 16:49:12 +0000</pubDate>
+ <dc:creator>John Miller</dc:creator>
+ <guid isPermaLink="false">291 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Website Development (not CMS)</title>
+ <link>http://digitalartscorps.org/node/156</link>
+ <description>&lt;p&gt;Website development using conventional programming and tools (pre-CMS ): html, dreamweaver, CSS, NVU, etc...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/156#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Wed, 04 Oct 2006 19:35:17 +0000</pubDate>
+ <dc:creator>Aliya Abbasi</dc:creator>
+ <guid isPermaLink="false">156 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

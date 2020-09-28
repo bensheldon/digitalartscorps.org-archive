@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - technology access</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1143/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Assistive Technology Support</title>
+ <link>http://digitalartscorps.org/node/1578</link>
+ <description>&lt;p&gt;Accessibility or more specifically &lt;a href=&quot;http://www.w3.org/WAI/&quot;&gt;web accessibility&lt;/a&gt; encompasses all disabilities that affect access to the Web, including visual, auditory, physical, speech, cognitive, and neurological disabilities. Millions of people have disabilities that affect their use of the Web. Currently most web sites and web software have accessibility barriers that make it difficult or impossible for many people with disabilities to use the Web. As more accessible web sites and software become available, people with disabilities are able to use and contribute to the Web more effectively. Web accessibility also benefits people without disabilities. For example, a key principle of web accessibility is designing web sites and software that are flexible to meet different user needs, preferences, and situations. This flexibility also benefits people without disabilities in certain situations, such as people using a slow Internet connection, people with temporary disabilities such as a broken arm, and people with changing abilities due to aging.The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. An accessible Web can also help people with disabilities more actively participate in society. Being apart of the &lt;a href=&quot;http://www.cpcs.umb.edu/vista&quot;&gt;CTC VISTA Project&lt;/a&gt; you&amp;#39;re guaranteed to be working with all different types of people, including people with disabilities. Whether it updating your organizations website so it meets &lt;a href=&quot;http://www.section508.gov/&quot;&gt;Section 508&lt;/a&gt; standards, making an after-school programs curriculum accessible for students with learning or physical disabilities, or installing accessible computer applications, like &lt;a href=&quot;http://www.freedomscientific.com/fs_products/software_jaws45newfea.asp&quot;&gt;JAWS&lt;/a&gt; or &lt;a href=&quot;http://www.nuance.com/naturallyspeaking/&quot;&gt;Dragon Naturally Speaking&lt;/a&gt;, onto your computer technology centers computers. All of these things are important in maintaining equal access and opportunity for everyone in the community that you are serving.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/40">accessibility</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1143">technology access</category>
+ <pubDate>Thu, 03 Sep 2009 01:03:46 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1578 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - newsletter</title>
+ <link>http://digitalartscorps.org/taxonomy/term/869/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Preparing for Summer</title>
+ <link>http://digitalartscorps.org/node/1679</link>
+ <description>&lt;p&gt;Josefina Luna is one of the kindest, warmest, friendliest women I&#039;ve ever met.  We started talking one day when we were both waiting to be let into the office, before I was given my own key.  She speaks fragmented English, but it&#039;s a thousand times better than my broken Spanish.  Still, she&#039;s been nice enough to teach me Spanish words and speak slowly to me in longer sentences so that I can understand her.  &lt;/p&gt;
+&lt;p&gt;Yesterday, she told me the story of her life.  In the Dominican Republic (her native country), she was an accountant.  She said she focused mainly on auditing, which she loved.  She had her own car and her own apartment. &lt;/p&gt;
+&lt;p&gt;Then the IMF decided it was time for the Dominican Republic to pay back its debts.  The DR government didn&#039;t have the money, so it taxed middle and upper class people (Josefina was middle class).  She became impoverished, so she moved to the United States.  Here, she tried to get several accounting jobs, with no luck.  Then, she tried to work as a manager at a factory, but she was rejected as being &quot;overqualified.&quot;  She removed her accounting experience from her resume and tried again.  This time she was hired, but as a laborer.  She had to get up at 5 a.m. to take the bus to the factory for work.&lt;/p&gt;
+&lt;p&gt;Now, she works at SEDC as a meal site worker.  She prepares and serves food to elderly Meals on Wheels clients who are transported to SEDC three days a week during the lunch hour.  She works only part-time, and she can&#039;t afford a car.  She needs to take a test to be certified as a public accountant in the U.S., but her English is too limited for her to score well.&lt;/p&gt;
+&lt;p&gt;I feel like there must be a solution somewhere, but I can&#039;t think of it.&lt;/p&gt;
+&lt;p&gt;Anyways, right now I&#039;m trying to make the file of the SEDC logo larger.  It&#039;s a .jpg file now, and it has a low resolution, and I&#039;ve been told that what we need is the original vector file.  If we have that file, then we can blow up the logo as big as we want on a sign, poster, etc.  Unfortunately, there&#039;s been so much staff turnover here that we have no idea who originally designed the logo.  I called a local print company, and they said they can redraw the logo for us and put it into vector form, but the charge will be $100/hour.  They estimate the time at 2-3 hours.  We can&#039;t afford to pay that, and I certainly can&#039;t redraw it myself, so I don&#039;t know what we can do.&lt;/p&gt;
+&lt;p&gt;Also, I&#039;m updating the website with new events, and I wrote a new version of the newsletter describing the SEDC Cambodian and Lao New Year event in April.  I&#039;m working on putting together an informational movie about SEDC and the work it does in the community.&lt;/p&gt;
+&lt;p&gt;Fortunately, we have a new 15-member Board of Directors, and we should have a permanent Executive Director by the end of the month.  My supervisor is one of two candidates for the position, so I&#039;m rooting for him, but we&#039;ll see what the Board decides.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1679#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1248">board of directors</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1100">logo</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/82">website</category>
+ <pubDate>Fri, 14 May 2010 19:25:29 +0000</pubDate>
+ <dc:creator>Rachel Rose-Sandow</dc:creator>
+ <guid isPermaLink="false">1679 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #10: Reconciling &#039;Capacity Building&#039; with &#039;Fighting Poverty&#039;</title>
+ <link>http://digitalartscorps.org/node/1219</link>
+ <description>&lt;p align=&quot;justify&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/dikw.gif&quot; alt=&quot;KM&quot; width=&quot;560&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+So the past few weeks have seen some pretty exciting things happening around the website I&#039;m developing for NAMAC.  We&#039;ve had some good conversations around how we will build it out, what the different parts will look like and what benefit we will be able to offer our members.  Building out our website with the new technologies (previously unavailable through our current site or to NAMAC as a whole) will certainly be a bit &#039;disruptive&#039; at first and I&#039;m a little nervous.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Our website has a national readership from people across the field of media arts and technically, has had quite a bit of extensive customization.  It&#039;s development is coming along well, if a bit tedious at times.  LOTS of technical tweaks, multiple module/theme installs, TONS of learning about even more intricacies of Drupal throughout.  I&#039;ve also done a few custom PHP hacks in the code of certain modules and am looking forward to learning more about PHP (which my org has offered to support via paying for classes - sweet!).&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;In all of this technical service though, sitting behind the computer screen and making sure all the various bugs are worked out of the system, making sure things appear and function correctly - I can&#039;t help but think I&#039;m missing something important to my service as a VISTA - working to end poverty.  This is a HUGE part of what it means to be a VISTA.  This is part of our underlying mission in all of the work that we do and as VISTAs we are situated at the tail end of a long history of &lt;em&gt;national public service&lt;/em&gt; through AmeriCorps.   It is this idea, that I feel is at the core of being a VISTA. &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Yet here I am, sitting in an office, looking at lines and lines of code, PHP and Excel spreadsheets - far removed from the people/communities who VISTA supposedly helps.  I feel like I&#039;m having a bit of VISTA &#039;mid-year crisis&#039;.  Is the work I am doing really helping people?  Will it really help people?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;I imagine that this is a common issue for other VISTAs who do a lot of &#039;capacity building&#039; work - particularly the more &#039;technical&#039; work, like database management, IT systems planning, etc.  My work is certainly that, but the day to day interaction I&#039;ve previously had with people in the computer labs, youth centers and drop-in centers - direct-service - is amiss.  To see the immediate effect of things I did with people to help them along their way - whether helping a homeless kid write a resumé, taking a former speed addict to a college &#039;open house&#039;, or even showing someone how to register for an email address were so gratifying and I could take great pride in doing those things - it also kept me pretty humble to the things in life I was lucky to have or achieved.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/lighthouse.jpg&quot; width=&quot;560&quot; border=&quot;0&quot; alt=&quot;Photobucket&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Currently, the thing that keeps me going - and which guides most all decisions around the design and implementation of the new system - is an idea. The idea is to use the website as a &lt;em&gt;member knowledge management platform&lt;/em&gt; for the field - a resource that people in the field of media arts can trust as a guide to galvanize field-wide development and innovation, an idea that people can rally around in support of NAMAC&#039;s own mission to &quot;energize independent voices in the field of media arts&quot;.  Luckily, it&#039;s a vision that many of our member orgs share and it also happens to tie in with my own aspirations in life.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Being here at NAMAC as a VISTA has put me on a good career path for professional development in the field of &lt;a href=&quot;http://en.wikipedia.org/wiki/Knowledge_management&quot;&gt;knowledge management&lt;/a&gt; and my org is certainly supportive of it, but I still have my occasional difficult patches along this path opening up as I imagine other VISTAs do on their own paths.  And there&#039;s still the need to bring our communities out of poverty - our mission as VISTAs.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;It&#039;s been said that &quot;No one is free when others are oppressed&quot;.  Challenges mean growth, right?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;My question to anyone reading this, particularly CTC VISTAs is:&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;cite&gt;How do you reconcile not being able to see the immediate effects of what you do in your &#039;capacity building&#039; as a CTC VISTA with the AmeriCorps mandate of &#039;helping to alleviate illiteracy and poverty&#039;?  Isn&#039;t that what most of us became VISTAs for?  To serve our communities, fight the bad guys of poverty and illiteracy and perhaps, if we&#039;re lucky, get a good start to a sweet career path?&lt;/cite&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;What are your thoughts?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1219#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/911">knowledge management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Sat, 02 Feb 2008 03:24:45 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1219 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>December Newsletter</title>
+ <link>http://digitalartscorps.org/node/1192</link>
+ <description>&lt;p&gt;Holiday-ish greetings from the CTC VISTA Project.  This is always a busy season for us nonprofits, but we hope that you can take a moment to read the following news and announcements.  As always, we&#039;re here to help make your VISTA service and supervision the best possible.&lt;/p&gt;
+&lt;p&gt;=== Quick News ===&lt;/p&gt;
+&lt;p&gt;The Nonprofit Technology Conference is coming up SOON (more on this below)&lt;/p&gt;
+&lt;p&gt;SEE what the CTC VISTAs are up to: &lt;a href=&quot;http://ctcvista.org/vista-workspace&quot; title=&quot;http://ctcvista.org/vista-workspace&quot;&gt;http://ctcvista.org/vista-workspace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CONTACT Ben or your VISTA Leader (&lt;a href=&quot;http://ctcvista.org/contact_us&quot; title=&quot;http://ctcvista.org/contact_us&quot;&gt;http://ctcvista.org/contact_us&lt;/a&gt;) if with any issues or conerns about VISTA service.&lt;/p&gt;
+&lt;p&gt;
+=== Nonprofit Technology Conference ===&lt;/p&gt;
+&lt;p&gt;The Nonprofit Technology Network (NTEN) is having their annual conference (&lt;a href=&quot;http://nten.org/ntc&quot; title=&quot;http://nten.org/ntc&quot;&gt;http://nten.org/ntc&lt;/a&gt;) from March 19 - 21, 2008. We highly recommend VISTA members attend a national conference during they&#039;re service and this conference is also highly recommended.   We&#039;ll be sending out more info in the coming weeks!&lt;/p&gt;
+&lt;p&gt;If you think you&#039;ll be attending, please let us know by filling out this tiny form/survey which has more info on the conference:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.wufoo.com/forms/ctc-vista-nonprofit-technology-conference/&quot; title=&quot;http://ctcvista.wufoo.com/forms/ctc-vista-nonprofit-technology-conference/&quot;&gt;http://ctcvista.wufoo.com/forms/ctc-vista-nonprofit-technology-conference/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We really think this conference is worth it for you to attend.  So much so that we&#039;ve even written up a couple reasons why:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/node/1157&quot; title=&quot;http://ctcvista.org/node/1157&quot;&gt;http://ctcvista.org/node/1157&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;=== VISTA Spotlight ===&lt;/p&gt;
+&lt;p&gt;Sarah Pierantoni said she had a great time at the NAMAC conference (NTEN&#039;s should be just as good), so we have to give some recognition to the hard work (err, service) she&#039;s doing at the Grand Rapids Community Media Center in Grand Rapids, MI.  Among many things, she&#039;s running a youth media program and writing a manual on how to use the lighting board at the Wealthy Theatre (sounds like a good place to fundraise).  You can read more about Sarah&#039;s service on our website:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/reports/user/1039&quot; title=&quot;http://ctcvista.org/reports/user/1039&quot;&gt;http://ctcvista.org/reports/user/1039&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;=== Three more Spotlights ===&lt;/p&gt;
+&lt;p&gt;I wanted to also recognize the successful completion of three VISTA members service in November:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dana Sou at the Community Technology Organizing Consortium in Los Angeles, CA&lt;/li&gt;
+&lt;li&gt;Dan Chen at the Pui Tak Center in Chicago, IL&lt;/li&gt;
+&lt;li&gt;Karl Hedstrom at NTEN in Portland, OR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you so much for all your hard work (err, service) at your organizations.  The CTC VISTA Project greatly appreciates your committment and wishes you all the best in your post-VISTA life.&lt;/p&gt;
+&lt;p&gt;=== Great Resources ===&lt;/p&gt;
+&lt;p&gt;&quot;Becoming a Better Supervisor&quot;: Lots of great tips from Project Management to Conflict Management&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ctcvista.org/files/becoming-a-better-supervisor.pdf&quot; title=&quot;http://www.ctcvista.org/files/becoming-a-better-supervisor.pdf&quot;&gt;http://www.ctcvista.org/files/becoming-a-better-supervisor.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Comparing Open Source CMSs: Joomla, Drupal, and Plone&quot;: An Idealware.org webinar taking place on December 13th&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://salsa.democracyinaction.org/o/957/t/1079/event/checkOut.jsp?event_KEY=32259&quot; title=&quot;https://salsa.democracyinaction.org/o/957/t/1079/event/checkOut.jsp?event_KEY=32259&quot;&gt;https://salsa.democracyinaction.org/o/957/t/1079/event/checkOut.jsp?even...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Succession Planning Resources&quot;: NAMAC puts together a nice list of resources for knowing what to do when someone moves on (for example, a VISTA)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://namac.org/article.cfm?id=2&amp;amp;aid=1330&amp;amp;monly=0&quot; title=&quot;http://namac.org/article.cfm?id=2&amp;amp;aid=1330&amp;amp;monly=0&quot;&gt;http://namac.org/article.cfm?id=2&amp;amp;aid=1330&amp;amp;monly=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;=== Other News ===&lt;/p&gt;
+&lt;p&gt;Have a great December!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1192#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <pubDate>Fri, 07 Dec 2007 08:00:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1192 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>November Newsletter</title>
+ <link>http://digitalartscorps.org/node/1148</link>
+ <description>&lt;p&gt;November has brought with it a chill to the air, and considering we have 48 VISTAs currently serving in 15 different states, someone has got to have warmer weather than HQ here in Boston.  Here&#039;s some info about what&#039;s new or useful from the CTC VISTA Project:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;+++ Quick News &amp;amp; Announcements +++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;READ a little about the CTC VISTA Project in an article on TechSoup&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.techsoup.org/learningcenter/volunteers/page7636.cfm&quot; title=&quot;http://www.techsoup.org/learningcenter/volunteers/page7636.cfm&quot;&gt;http://www.techsoup.org/learningcenter/volunteers/page7636.cfm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SHARE all the great work you&#039;re doing by posting a Field Report:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/vista-workspace&quot; title=&quot;http://ctcvista.org/vista-workspace&quot;&gt;http://ctcvista.org/vista-workspace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CONTACT Ben or your VISTA Leader (&lt;a href=&quot;http://ctcvista.org/contact_us&quot; title=&quot;http://ctcvista.org/contact_us&quot;&gt;http://ctcvista.org/contact_us&lt;/a&gt; ) if with any issues or conerns about VISTA service.&lt;/p&gt;
+&lt;p&gt;THANK YOU all for your hard work and service! (not news but you deserve it)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;+++ VISTA Spotlight +++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anita Lie at the Little Tokyo Service Center in Los Angeles has been doing some great work around accessibility and training.  She&#039;s currently finishing up a manual for all of the assistive technology her center offers, and which Anita has been involved in identifying needs and purchasing.  Anita has just started working on a curriculum for teaching computer and internet skills to people with developmental disabilities.  I&#039;ve been really impressed by the progress Anita has made through her service as a CTC VISTA.&lt;/p&gt;
+&lt;p&gt;You can read more about what Anita is working on in her field reports at &lt;a href=&quot;http://ctcvista.org/reports/user/1020&quot; title=&quot;http://ctcvista.org/reports/user/1020&quot;&gt;http://ctcvista.org/reports/user/1020&lt;/a&gt; or what everyone is up to at &lt;a href=&quot;http://ctcvista.org/vista-workspace&quot; title=&quot;http://ctcvista.org/vista-workspace&quot;&gt;http://ctcvista.org/vista-workspace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;+++ Great Resources +++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Writing A Federal Grant: What to Expect&quot; from CTC VISTA Meegan Kelly&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/node/1085&quot; title=&quot;http://ctcvista.org/node/1085&quot;&gt;http://ctcvista.org/node/1085&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;YouthVision: Youth &amp;amp; Community Training Curriculum (contact me for a discount available to CTC VISTA host organizations)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ctcnet.org/youthvisions/&quot; title=&quot;http://www.ctcnet.org/youthvisions/&quot;&gt;http://www.ctcnet.org/youthvisions/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A Common Framework for Evaluating Nonprofit Performace&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.urban.org/publications/411404.html&quot; title=&quot;http://www.urban.org/publications/411404.html&quot;&gt;http://www.urban.org/publications/411404.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;+++ Other News +++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I thought we&#039;d try putting out a short monthly newsletter to highlight some of the accomplishments of our VISTAs, spread around some useful information and just remind you that we&#039;re here if you need any help.  I think the work we all do is amazing and it would be great to see that everyone who really makes this Project run--VISTAs and their Supervisors--can see a bit more of the birds-eye-view those of us at HQ get on a day to day basis.&lt;/p&gt;
+&lt;p&gt;And just to see if anyone is reading this, here&#039;s my new favorite, bad joke:&lt;/p&gt;
+&lt;p&gt;Q: Did you hear about the circus fire?&lt;br /&gt;
+A: It was In-tents.&lt;br /&gt;
+(You kind&#039;ve gotta vocalize it to get it)&lt;/p&gt;
+&lt;p&gt;Email me your favorite joke and have a great November!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1148#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/107">news</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <pubDate>Fri, 02 Nov 2007 18:10:22 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1148 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

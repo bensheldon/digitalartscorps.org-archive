@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - polling</title>
+ <link>http://digitalartscorps.org/taxonomy/term/896/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Trying out Survey Services</title>
+ <link>http://digitalartscorps.org/node/1175</link>
+ <description>&lt;p&gt;A lot of the work at the CTC VISTA Project is getting information back from our VISTAs and their supervisors.  I&#039;ve been trying out two different Survey Services and I thought I would post some of my opinions on them.&lt;/p&gt;
+&lt;p&gt;Basically, we have a lot of questions that can take the form of a survey/poll.  Recently I created one to ask what VISTAs are coming to the NTEN conference, and a regular one (well, I&#039;ve done it twice now) for supervisor&#039;s to complete as a brief monthly report.  It&#039;s basically a bunch of formatted questions with---the best part---a way to put in everyone&#039;s email address and then easily see who has filled it out and who I have to call and bug, err, check-in with.&lt;/p&gt;
+&lt;p&gt;*&lt;a href=&quot;http://surveymonkey.com&quot;&gt;Survey Monkey&lt;/a&gt; - This is the most common one that people say when you ask &quot;what should I use to make this online survey?&quot;.  It works, but it&#039;s kind&#039;ve ugly, clunky, and you don&#039;t have a lot of options for styling (no html!).  But it lets you make a pretty complicated survey with different pages and paths (eg. If you answered &quot;no&quot; to #1, skip #2 and go to #3).&lt;/p&gt;
+&lt;p&gt;*&lt;a href=&quot;http://wufoo.com&quot;&gt;Wufoo&lt;/a&gt; - Just by the name you know it&#039;s going to be colorful and shiny.  Which it is.  Everything is all clean and crisp and fancy feeling.  You can customize all the styles with html and CSS and they offer lovely reports.  But the surveys are kind&#039;ve limited in layout.  It&#039;s all on a single page.  Also, while all high-tech, it has some non-user centric features.  The most irritating of which is that help-text only shows up when hover over the form, making it easy to miss, or hard to scan the entire survey at a glance.&lt;/p&gt;
+&lt;p&gt;Both of them cost money if you&#039;re trying to do anything more than dead simple, which is to be expected.  I&#039;ve looked around for Free options, but haven&#039;t found anything that has that option to see who &#039;&#039;&#039;hasn&#039;t&#039;&#039;&#039; responded.  But they make collecting information very convenient---though you still have to act on it.  As always, technology is cheap, thinking is hard.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1175#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/168">forms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/896">polling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/897">polls</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/78">surveys</category>
+ <pubDate>Wed, 05 Dec 2007 22:25:25 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">1175 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

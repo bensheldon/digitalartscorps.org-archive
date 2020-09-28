@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - in design</title>
+ <link>http://digitalartscorps.org/taxonomy/term/195/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>New CTC VISTA Project Flyer</title>
+ <link>http://digitalartscorps.org/node/191</link>
+ <description>&lt;p&gt;&lt;img src=&quot;/files/user4/vistaclipart.jpg&quot; border=&quot;3&quot; alt=&quot;Bad Old Clipart Made New&quot; title=&quot;Bad Old Clipart Made New&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;200&quot; height=&quot;176&quot; align=&quot;right&quot; /&gt;Here&amp;#39;s an updated copy of our CTC VISTA Project &lt;a href=&quot;/files/CTCVISTA_flyer_fall_06.pdf&quot; target=&quot;_blank&quot; title=&quot;CTC VISTA Project flyer&quot;&gt;flyer&lt;/a&gt;.  It&amp;#39;s handy if people ask you how to get or become a CTC VISTA.  Paul made it but I&amp;#39;ve been updating it - It&amp;#39;s spurning me to want to learn more about Adobe InDesign.  I also enjoy Paul&amp;#39;s treatment of old VISTA organizing clipart...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/191#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/41">ctcvista</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/194">flyer</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/195">in design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/140">recruitment</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/CTCVISTA_flyer_fall_06.pdf" length="484240" type="application/pdf" />
+ <pubDate>Wed, 11 Oct 2006 19:20:35 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">191 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

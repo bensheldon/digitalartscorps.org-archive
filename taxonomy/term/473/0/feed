@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Candlepin Bowling</title>
+ <link>http://digitalartscorps.org/taxonomy/term/473/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>My First Blog!</title>
+ <link>http://digitalartscorps.org/node/401</link>
+ <description>&lt;p&gt;I&#039;m at PSO and we&#039;re leaning how to Blog!  It&#039;s very exciting.  However, it&#039;s not as excitting as the prospect of candlepin bowling ... which is apparently our outing tonight.  I&#039;m not sure what exaclty &lt;a href=&quot;http://en.wikipedia.org/wiki/Candlepin_bowling&quot;&gt;Candlepin Bowling&lt;/a&gt; is, but if you follow that link you can learn more ... that&#039;s where I&#039;m going right now!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/401#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/473">Candlepin Bowling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/474">Karl</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <pubDate>Thu, 18 Jan 2007 21:39:09 +0000</pubDate>
+ <dc:creator>Karl Hedstrom</dc:creator>
+ <guid isPermaLink="false">401 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

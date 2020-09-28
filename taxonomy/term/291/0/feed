@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - howto</title>
+ <link>http://digitalartscorps.org/taxonomy/term/291/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Still Working on CMS</title>
+ <link>http://digitalartscorps.org/node/1210</link>
+ <description>&lt;p&gt;I am still working on the CMS.&lt;/p&gt;
+&lt;p&gt;I am investigating how we can accept uploads of Microsoft Word documents and extract the content from them to convert to our format.&lt;/p&gt;
+&lt;p&gt;Most recently I contributed some test cases to the tests that get run repeatedly to defend against breaking the code.&lt;/p&gt;
+&lt;p&gt;In my last report, I didn&#039;t say what areas of the code I was contributing on.  Since the previous report to that one, I have worked on the editable pages.  I also added code that lets an administrator compose their own menu, and code that generates a menu automatically based on the context of a page within an hierarchy of pages.  I added the code that lets the administrator choose from among a few predefined layouts for a given page (this choice being inherited, by default, by the page&#039;s descendants in the hierarchy), and choose the menu and sidebar for a given layout to include.&lt;/p&gt;
+&lt;p&gt;I posted at &lt;a href=&quot;http://lambda-the-ultimate.org/node/2606&quot; title=&quot;http://lambda-the-ultimate.org/node/2606&quot;&gt;http://lambda-the-ultimate.org/node/2606&lt;/a&gt; a comparison of programming languages Smalltalk and Ruby.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1210#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/291">howto</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/910">ruby</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/909">ruby on rails</category>
+ <pubDate>Wed, 23 Jan 2008 18:46:26 +0000</pubDate>
+ <dc:creator>Jack Waugh</dc:creator>
+ <guid isPermaLink="false">1210 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Screencast on Tagging</title>
+ <link>http://digitalartscorps.org/node/247</link>
+ <description>&lt;p&gt;I just ran across a great &lt;a href=&quot;http://bethkanter.wordpress.com/?page_id=15&quot;&gt;screencast on tagging&lt;/a&gt; by Beth Kanter for &lt;a href=&quot;http://nten.org&quot;&gt;NTEN&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/291">howto</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/288">organizing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/289">screencast</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/32">tagging</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/286">tags</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/287">taxonomy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/290">tutorial</category>
+ <pubDate>Mon, 30 Oct 2006 16:50:07 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">247 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

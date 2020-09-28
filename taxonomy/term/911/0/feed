@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - knowledge management</title>
+ <link>http://digitalartscorps.org/taxonomy/term/911/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Field Report #10: Reconciling &#039;Capacity Building&#039; with &#039;Fighting Poverty&#039;</title>
+ <link>http://digitalartscorps.org/node/1219</link>
+ <description>&lt;p align=&quot;justify&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/dikw.gif&quot; alt=&quot;KM&quot; width=&quot;560&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+So the past few weeks have seen some pretty exciting things happening around the website I&#039;m developing for NAMAC.  We&#039;ve had some good conversations around how we will build it out, what the different parts will look like and what benefit we will be able to offer our members.  Building out our website with the new technologies (previously unavailable through our current site or to NAMAC as a whole) will certainly be a bit &#039;disruptive&#039; at first and I&#039;m a little nervous.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Our website has a national readership from people across the field of media arts and technically, has had quite a bit of extensive customization.  It&#039;s development is coming along well, if a bit tedious at times.  LOTS of technical tweaks, multiple module/theme installs, TONS of learning about even more intricacies of Drupal throughout.  I&#039;ve also done a few custom PHP hacks in the code of certain modules and am looking forward to learning more about PHP (which my org has offered to support via paying for classes - sweet!).&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;In all of this technical service though, sitting behind the computer screen and making sure all the various bugs are worked out of the system, making sure things appear and function correctly - I can&#039;t help but think I&#039;m missing something important to my service as a VISTA - working to end poverty.  This is a HUGE part of what it means to be a VISTA.  This is part of our underlying mission in all of the work that we do and as VISTAs we are situated at the tail end of a long history of &lt;em&gt;national public service&lt;/em&gt; through AmeriCorps.   It is this idea, that I feel is at the core of being a VISTA. &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Yet here I am, sitting in an office, looking at lines and lines of code, PHP and Excel spreadsheets - far removed from the people/communities who VISTA supposedly helps.  I feel like I&#039;m having a bit of VISTA &#039;mid-year crisis&#039;.  Is the work I am doing really helping people?  Will it really help people?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;I imagine that this is a common issue for other VISTAs who do a lot of &#039;capacity building&#039; work - particularly the more &#039;technical&#039; work, like database management, IT systems planning, etc.  My work is certainly that, but the day to day interaction I&#039;ve previously had with people in the computer labs, youth centers and drop-in centers - direct-service - is amiss.  To see the immediate effect of things I did with people to help them along their way - whether helping a homeless kid write a resumé, taking a former speed addict to a college &#039;open house&#039;, or even showing someone how to register for an email address were so gratifying and I could take great pride in doing those things - it also kept me pretty humble to the things in life I was lucky to have or achieved.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/lighthouse.jpg&quot; width=&quot;560&quot; border=&quot;0&quot; alt=&quot;Photobucket&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Currently, the thing that keeps me going - and which guides most all decisions around the design and implementation of the new system - is an idea. The idea is to use the website as a &lt;em&gt;member knowledge management platform&lt;/em&gt; for the field - a resource that people in the field of media arts can trust as a guide to galvanize field-wide development and innovation, an idea that people can rally around in support of NAMAC&#039;s own mission to &quot;energize independent voices in the field of media arts&quot;.  Luckily, it&#039;s a vision that many of our member orgs share and it also happens to tie in with my own aspirations in life.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Being here at NAMAC as a VISTA has put me on a good career path for professional development in the field of &lt;a href=&quot;http://en.wikipedia.org/wiki/Knowledge_management&quot;&gt;knowledge management&lt;/a&gt; and my org is certainly supportive of it, but I still have my occasional difficult patches along this path opening up as I imagine other VISTAs do on their own paths.  And there&#039;s still the need to bring our communities out of poverty - our mission as VISTAs.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;It&#039;s been said that &quot;No one is free when others are oppressed&quot;.  Challenges mean growth, right?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;My question to anyone reading this, particularly CTC VISTAs is:&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;cite&gt;How do you reconcile not being able to see the immediate effects of what you do in your &#039;capacity building&#039; as a CTC VISTA with the AmeriCorps mandate of &#039;helping to alleviate illiteracy and poverty&#039;?  Isn&#039;t that what most of us became VISTAs for?  To serve our communities, fight the bad guys of poverty and illiteracy and perhaps, if we&#039;re lucky, get a good start to a sweet career path?&lt;/cite&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;What are your thoughts?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1219#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/911">knowledge management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Sat, 02 Feb 2008 03:24:45 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1219 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - dreamweaver</title>
+ <link>http://digitalartscorps.org/taxonomy/term/315/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What I&#039;ve been up to</title>
+ <link>http://digitalartscorps.org/node/586</link>
+ <description>&lt;p&gt;I&amp;#39;ve been in California for a month and a half now and I love it! I found a place to live in Alameda which is just outside of Oakland where I work. Alameda is really nice and safe. I love my job and the people I work with are really cool! &lt;/p&gt;
+&lt;p&gt;I have been busy with a few projects at work. I developed an addition to their 3 hour Take Home Computer Class (THCP). This class provides Oakland students in grades 6-12 with basic computer training along with training on the Open Source software (OpenOffice, The Gimp, Audacity, typing tutors, anti-virus, anti-spyware, etc.) that we install on each computer. Once the students take the class,  then they receive a free refurbished computer with free life time tech support. &lt;/p&gt;
+&lt;p&gt;I made an OpenOffice Impress presentation (software similar and compatible to PowerPoint) that explains Dial-up, DSL, and Cable Internet service (Wireless discussion will be added soon). I developed this addition because I noticed that the instructors would always get a lot of questions about these types of Internet services. Students didn&amp;#39;t know the differences between them or how they worked, etc. I actually teach this portion of the class and explain in more detail about these technologies as I show them my presentation. My addition to the class is a success. The students and parents have a better understanding about how these technologies work. &lt;/p&gt;
+&lt;p&gt;I&amp;#39;ve also been working on the new OTX-West website  (&lt;a href=&quot;http://otxwest.org/&quot; target=&quot;_blank&quot; title=&quot;OTX-West&quot; class=&quot;links&quot;&gt;www.otxwest.org&lt;/a&gt;) using Dreamweaver. That&amp;#39;s a lot of fun. I&amp;#39;ve never used Dreamweaver before so I am getting some hands on experience. &lt;/p&gt;
+&lt;p&gt;Finally, I&amp;#39;ve been working with the director of curriculum on this summers digital storytelling workshop. We are in the process of revamping the curriculum and adding a web development part to it as well. I&amp;#39;m planing on going to &lt;a href=&quot;http://www.storycenter.org/index1.html&quot; target=&quot;_blank&quot; title=&quot;The Center for Digital Storytelling&quot; class=&quot;links&quot;&gt;The Center for Digital Story Telling &lt;/a&gt;in Berkeley, CA to see how they do their workshops and to get more information on how we can improve our workshop. There is a CTC VISTA working there already so I&amp;#39;ll be getting in touch with her soon.  I also have been learning the Open Source software that we use to create the digital stories (&lt;a href=&quot;http://www.gimp.org/&quot; target=&quot;_blank&quot; title=&quot;The Gimp&quot; class=&quot;links&quot;&gt;The Gimp&lt;/a&gt;,  &lt;a href=&quot;http://audacity.sourceforge.net/&quot; target=&quot;_blank&quot; title=&quot;Audacity&quot; class=&quot;links&quot;&gt;Audacity&lt;/a&gt;, &lt;a href=&quot;http://www.audiograbber.com-us.net/&quot; target=&quot;_blank&quot; title=&quot;Audiograbber&quot; class=&quot;links&quot;&gt;Audiograbber&lt;/a&gt;, &lt;a href=&quot;http://www.openoffice.org/index.html&quot; target=&quot;_blank&quot; title=&quot;OpenOffice&quot; class=&quot;links&quot;&gt;OpenOffice&lt;/a&gt;, &lt;a href=&quot;http://www.nvu.com/index.php&quot; target=&quot;_blank&quot; title=&quot;Nvu&quot;&gt;Nvu&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;Anyway, that&amp;#39;s it for now. I attached an OpenOffice Impress copy and PowerPoint compatible copy of my slide show. The PowerPoint copy may alter the formatting and animations that were used in the OpenOffice Impress version but you can get the jist of it. &lt;/p&gt;
+&lt;p&gt; Until next time....&lt;/p&gt;
+&lt;p&gt;Naomi &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/586#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/521">digital storytelling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/315">dreamweaver</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/479">otx-west</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Internet Options_PowerPoint compatible.ppt" length="371200" type="application/x-mspowerpoint" />
+ <pubDate>Fri, 09 Mar 2007 22:35:13 +0000</pubDate>
+ <dc:creator>Naomi Jimenez</dc:creator>
+ <guid isPermaLink="false">586 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Reworking old websites </title>
+ <link>http://digitalartscorps.org/node/262</link>
+ <description>&lt;p&gt;I am currently reworking an old website for HPP, &lt;a href=&quot;/www.helping-sf.org&quot; target=&quot;_blank&quot;&gt;Helping-SF&lt;/a&gt;.  This website is meant for low-income families and case managers.  In it&amp;#39;s current form, the website is very disorganized both in terms of content and also in terms of pages and locations.  There are numerous broken links, orphaned pages and older versions housed within numerous local locations.  Although I have some experience with dreamweaver, I have never moved an existing site to a new location.  I am not sure if it would be better to work with the existing local files and reorganize that way or whether I should migrate the site to a local folder and start fresh.  Any suggestions?  &lt;/p&gt;
+&lt;p&gt;ALSO, I cannot log into the CTC Vista Project site from my computer in the office, but I can from other computers in the office.  I was able to when I first started, but I have not been able to since.   Any suggestions on how I can change that?  This is the reason for my posting lack in the last couple of weeks.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/262#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/315">dreamweaver</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/317">organization</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/318">site layout</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/115">tech assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/316">website development</category>
+ <pubDate>Thu, 02 Nov 2006 21:53:27 +0000</pubDate>
+ <dc:creator>brittney fosbrook</dc:creator>
+ <guid isPermaLink="false">262 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - womens rights</title>
+ <link>http://digitalartscorps.org/taxonomy/term/951/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Breaking the Surface</title>
+ <link>http://digitalartscorps.org/node/1282</link>
+ <description>&lt;object type=&quot;application/x-shockwave-flash&quot; width=&quot;320&quot; height=&quot;263&quot; id=&quot;FlowPlayer&quot; data=&quot;http://www.archive.org/flv/FlowPlayerWhite.swf&quot;&gt;   &lt;param name=&quot;movie&quot; value=&quot;http://www.archive.org/flv/FlowPlayerWhite.swf&quot; /&gt;   &lt;param name=&quot;scale&quot; value=&quot;noScale&quot; /&gt;   &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;   &lt;param name=&quot;allowScriptAccess&quot; value=&quot;sameDomain&quot; /&gt;   &lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt;   &lt;param name=&quot;flashvars&quot; value=&quot;config={     loop: false,     autoPlay:false,     autoBuffering:false,     initialScale: &#039;fit&#039;,     videoFile: &#039;http://www.archive.org/download/BreakingTheSurface/G.E.T..flv&#039;,     splashImageFile: &#039;http://www.archive.org/download/BreakingTheSurface/BreakingTheSurface.thumbs/G.E.T._00000003.jpg&#039;,   }&quot; /&gt; &lt;/object&gt;&lt;p&gt;This is a &lt;a href=&quot;http://www.archive.org/details.php?identifier=BreakingTheSurface&quot;&gt;video&lt;/a&gt; entitled &quot;Breaking the Surface&quot;.  It&#039;s a documentary of the GET: Girls Empowering Together project. Working with 15 students from central high school, the young women were taught leadership skills and worked with community mentors this school year. Program was a partnership between Aquinas College, the GRCMC and GRPS.&lt;/p&gt;
+&lt;p&gt;Sarah worked with these young women to produce, shoot and edit this documentary.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Posted by Ben Sheldon&lt;/em&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1282#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/719">leadership</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/134">video</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/951">womens rights</category>
+ <pubDate>Wed, 04 Jun 2008 21:08:51 +0000</pubDate>
+ <dc:creator>Sarah Pierantoni</dc:creator>
+ <guid isPermaLink="false">1282 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

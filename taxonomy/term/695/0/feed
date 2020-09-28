@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - evaluation</title>
+ <link>http://digitalartscorps.org/taxonomy/term/695/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Building the Project&#039;s Capacity</title>
+ <link>http://digitalartscorps.org/node/993</link>
+ <description>&lt;p&gt;Recently, I’ve been doing a lot of research on capacity building:  What is it? How can we evaluate it? Is there a “best practice” approach to capacity building?  Is there a common conceptual framework for capacity building?  What are the benefits of doing it?  Who should do it? How do you promote capacity building in your organization? In what ways can CTC VISTA build its capacity?  How does CTC VISTA help individual VISTAs build the capacity in their organizations? &lt;/p&gt;
+&lt;p&gt;I’ve found some helpful resources that address some of these questions.  I’ve been using them, along with a book titled &lt;em&gt;Communication Planning: An Integrated Approach&lt;/em&gt;, to help with CTC VISTA’s ongoing strategic planning.  The Project is also working on developing internal communications, outreach, and fundraising plans that summarize the goals and implementation procedures for those areas.  &lt;/p&gt;
+&lt;p&gt;The capacity building work we’re doing so far doesn’t change what the Project does, rather it provides a useful framework that helps us stay focused, productive, and capable of evolving with the needs of those we serve.  It also helps clarify the Project and eliminate transitional issues in an organization with an inherently high turnover rate.  Eventually the Project might develop new ways in which to evaluate its own capacity building, and the capacity being built by individual VISTAs.   &lt;/p&gt;
+&lt;p&gt;I’d be very interested to hear anyone’s thoughts on or their experiences with these issues.  I’m attaching two of the resources I’ve found very helpful in this process.  Here, too, is a link to the &lt;a href=&quot;http://www.managementhelp.org/org_perf/capacity.htm&quot; title=&quot;Free Management Library&quot;&gt;Free Management Library&lt;/a&gt;, which has additional resources and links.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/993#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/573">capacity building</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/695">evaluation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/148">strategic planning</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/McKinsey Research.pdf" length="3111567" type="application/pdf" />
+ <pubDate>Tue, 17 Jul 2007 20:57:03 +0000</pubDate>
+ <dc:creator>Erin Taylor</dc:creator>
+ <guid isPermaLink="false">993 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Program Evaluation: Collecting Data for Performance Measurement</title>
+ <link>http://digitalartscorps.org/node/873</link>
+ <description>&lt;p&gt;Collecting data for performance measurement: general guidelines &lt;a href=&quot;http://nationalserviceresources.org/epicenter/practices/index.php?ep_action=view&amp;amp;ep_id=4825&quot; title=&quot;http://nationalserviceresources.org/epicenter/practices/index.php?ep_action=view&amp;amp;ep_id=4825&quot;&gt;http://nationalserviceresources.org/epicenter/practices/index.php?ep_act...&lt;/a&gt;&lt;br /&gt;
+Data serve as the raw materials for assessing program results. Data collection requires performance measures to be defined, and for methods and instruments to be identified. (Project STAR)&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/695">evaluation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/696">metrics</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/694">program design</category>
+ <pubDate>Wed, 30 May 2007 15:58:39 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">873 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

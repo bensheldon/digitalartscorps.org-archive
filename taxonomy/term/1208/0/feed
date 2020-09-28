@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - networks</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1208/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Seven: Rethinking</title>
+ <link>http://digitalartscorps.org/node/1658</link>
+ <description>&lt;p&gt;LTSC (and quite a few other CA orgs) lost out on a big time federal grant.  We&#039;re facing a pretty big budget shortfall, and a bunch of projects and plans are going to have to be slimmed down or eliminated in order to keep core programs afloat.&lt;/p&gt;
+&lt;p&gt;In the past few weeks, I&#039;ve been putting together a curriculum packet to train resident volunteers in networking.  The plan was to offer a small stipend, but now that we don&#039;t have that to give, I&#039;m gonna change the recruitment strategy a bit (beg beg beg, and/or possibly find a business who&#039;d be willing to donate something).&lt;/p&gt;
+&lt;p&gt;Was also planning to fix one of the residential networks.  Without any money for equipment, this will be difficult.  But rummaging around, I found a bunch of unused network equipment... hope to make this work.&lt;/p&gt;
+&lt;p&gt;My plan for the next few months will include time spent on trying to figure out how to make other tech programs and projects (ones that I previously wasn&#039;t directly involved in, such as our CTCs) stay aloft and be as sustainable as possible.  I feel like CTCs are often on a knife&#039;s edge when it comes to keeping open and functional, and I think we should start to explore partnerships outside of LTSC&#039;s usual realm (there&#039;s a lot of turning inward to Little Tokyo/JA organizations, I feel).&lt;/p&gt;
+&lt;p&gt;My supervisor&#039;s replacement has been hired and is going to start working sometime in March I think.  Hopefully the transition goes well.&lt;/p&gt;
+&lt;p&gt;Also, these are awesome and have been a little bit useful for residents with external wifi adapter antennas:&lt;br /&gt;
+&lt;a href=&quot;http://urbanwireless.info/index.php/antennas/parabolic-reflector&quot; title=&quot;http://urbanwireless.info/index.php/antennas/parabolic-reflector&quot;&gt;http://urbanwireless.info/index.php/antennas/parabolic-reflector&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1658#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/636">grants</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1107">volunteer recruitment</category>
+ <pubDate>Tue, 23 Feb 2010 17:39:53 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1658 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Five: Can Has Networks?</title>
+ <link>http://digitalartscorps.org/node/1642</link>
+ <description>&lt;p&gt;Projects are mostly slowing to a pausing point as the holidays and a little offtime approaches.  Am prepping donated computers for the upcoming computer literacy/computer adoption class and following up with the participants.&lt;/p&gt;
+&lt;p&gt;My supervisor is leaving sometime around the end of January, so things are a little tenuous.&lt;/p&gt;
+&lt;p&gt;The broadband over powerline (BPL)/open mesh network is up and running really well.  The problem was isolated to the cable modem/ISP.  I put a power timer on it, so that its power cycles late at night.  So far, so good.  The BPL network itself has not had any problems except for a little bit of interference.  Check it out:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot; title=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot;&gt;http://wiki.ltsc.org/index.php/Reno_Apartments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also redeployed a network.  We converted from Meraki brand to Open Mesh brand at Angelina Apartments, with the hope that usage tracking will be easier (not to mention that the new units should have fewer outages and better range).  It&#039;s working...so far.&lt;/p&gt;
+&lt;p&gt;My organization recently switched to gmail for their internal mail, so I&#039;ve been setting up some google sites as document repositories for wireless/community broadband docs and forms that didn&#039;t seem relevant to the more public wiki.&lt;/p&gt;
+&lt;p&gt;Hope everyone enjoys these last few days of 2009!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1642#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1209">computer classes</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Mon, 21 Dec 2009 19:13:00 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1642 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

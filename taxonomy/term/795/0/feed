@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - freebsd</title>
+ <link>http://digitalartscorps.org/taxonomy/term/795/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Working hard on things that are hardly working</title>
+ <link>http://digitalartscorps.org/node/983</link>
+ <description>&lt;p&gt;It&#039;s been an uphill battle this week with our internet service provider, who has been doing maintenance in this area resulting in major outages for Acorn&#039;s Chambana.net datacenter, along with all of the other network services in the building. Between me and my supervisor we&#039;ve probably spent about 4-5 hours on hold with tech support over the last couple days. There&#039;s been a lot of talk about switching to some other ISP instead of Insight, but most of our options are significantly more expensive for little more capacity than what we already have. We are still hoping to get a deal with the city of Urbana for a fiber connection into the building, but that seems to have stalled for the time being. On the bright side, we&#039;ve managed to find a couple of really nice 42u racks for only $100 a piece (these are worth more like $800) that belong to a friend of the project, and so we&#039;re going to be moving those into our server room soon, and it&#039;ll be a lot better than having our servers sitting on crappy wire shelves or on the floor. Still a lot of work to do getting Chambana.net up to spec, but I hope by the end of the year we&#039;ll have completely fast and redundant hosting services on real racks with gigabit ethernet, a fiber connection, battery backups, good electrical, physical security, HVAC, and good distributed management/monitoring capability. We hope to have our main website updated in the next couple of weeks, and I&#039;m going to try and integrate all of our services into that drupal installation, including a donations page and a ticketing system.&lt;/p&gt;
+&lt;p&gt;On the wireless side of things, soon we&#039;re hopefully going to be getting a research grant from the NSF. We&#039;ll be able to do a lot of development and even a little hardware deployment with the money we&#039;ll get. We&#039;ve also got a tentative deployment plan with the city of Urbana that will deploy three more nodes, after which we&#039;ll have all of the outdoor seating areas in the downtown provided with public wifi hotspots. We need to move fast on this because Urbana&#039;s adjoining city of Champaign just announced a deal with a company to deploy a proprietary wireless tech in their downtown, and we don&#039;t want them to beat us to the punch when we&#039;ve been working on our grassroots OSS solution for the last three years.&lt;/p&gt;
+&lt;p&gt;Finally, got my loan forbearance and am applying for foodstamps, so I should hopefully squeak by at the end of the month here.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/983#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/795">freebsd</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/175">Linux</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/797">network</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/796">server</category>
+ <pubDate>Fri, 13 Jul 2007 19:24:08 +0000</pubDate>
+ <dc:creator>Josh King</dc:creator>
+ <guid isPermaLink="false">983 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

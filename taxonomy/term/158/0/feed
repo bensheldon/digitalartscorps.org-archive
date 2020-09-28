@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - design</title>
+ <link>http://digitalartscorps.org/taxonomy/term/158/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Resources for Good Site Aesthetics and Techniques</title>
+ <link>http://digitalartscorps.org/node/1014</link>
+ <description>&lt;p&gt;here are two link to fun web development stuff to look at, learn from and implement - updated daily (at least).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The most popular web development bookmarks on del.icio.us:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/popular/webdev&quot; title=&quot;http://del.icio.us/popular/webdev&quot;&gt;http://del.icio.us/popular/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;My favorite bookmarks on my del.icio.us account:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/memeshift/webdev&quot; title=&quot;http://del.icio.us/memeshift/webdev&quot;&gt;http://del.icio.us/memeshift/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; A website i go to DAILY to see what the latest trends in web design are:&lt;br /&gt;
+&lt;a href=&quot;http://www.designmeltdown.com&quot; title=&quot;http://www.designmeltdown.com&quot;&gt;http://www.designmeltdown.com&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 31 Jul 2007 21:51:29 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1014 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Website Development (not CMS)</title>
+ <link>http://digitalartscorps.org/node/156</link>
+ <description>&lt;p&gt;Website development using conventional programming and tools (pre-CMS ): html, dreamweaver, CSS, NVU, etc...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/156#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <pubDate>Wed, 04 Oct 2006 19:35:17 +0000</pubDate>
+ <dc:creator>Aliya Abbasi</dc:creator>
+ <guid isPermaLink="false">156 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>CSS is amazing</title>
+ <link>http://digitalartscorps.org/node/150</link>
+ <description>&lt;p&gt;One of the things I am working on is creating websites for nonprofits. In the past, I used CSS a little for changing background colors, fonts, etc because I saw it somewhere but I had no idea what it was capable of. (For anyone who hasn&amp;#39;t heard of it, &lt;a href=&quot;http://en.wikipedia.org/wiki/Cascading_Style_Sheets&quot;&gt;CSS&lt;/a&gt; can be used to create designs for HTML pages. It allows one design file to be used for multiple pages in a website so that changing the font all across a site, for example, does not require changing each page in the site.)&lt;/p&gt;
+&lt;p&gt;  The &lt;a href=&quot;/www.csszengarden.com&quot;&gt;CSS Zen Garden&lt;/a&gt; project provides a webpage for designers to create CSS designs for, which are then posted online. Each of the designs use the same HTML code (so they have the same content) - the only difference is the CSS (including images) design. Of the hundreds of designs posted online, here are a few examples that I liked and think show a good variety of designs: &lt;a href=&quot;http://www.csszengarden.com/?cssfile=148/148.css&quot;&gt;Museum&lt;/a&gt;, &lt;a href=&quot;http://www.csszengarden.com/?cssfile=181/181.css&quot;&gt;Pretty in Pink&lt;/a&gt;, &lt;a href=&quot;http://www.csszengarden.com/?cssfile=166/166.css&quot;&gt;Obsequience&lt;/a&gt;, &lt;a href=&quot;http://www.csszengarden.com/?cssfile=135/135.css&quot;&gt;contemporary nouveau&lt;/a&gt;, and &lt;a href=&quot;http://www.csszengarden.com/?cssfile=071/071.css&quot;&gt;Garden Party&lt;/a&gt;. Isn&amp;#39;t this cool?&lt;/p&gt;
+&lt;p&gt;  PS The reason I am using HTML+CSS for a site vs. one of the CMSs is that some sites don&amp;#39;t need to have user logins and have rather static content. But I imagine the CMSs can be customized with CSS...how is that done? I will probably be using the Plone CMS in the future. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/150#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/156">CSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/157">websites</category>
+ <pubDate>Wed, 04 Oct 2006 14:18:51 +0000</pubDate>
+ <dc:creator>cheryl jerozal</dc:creator>
+ <guid isPermaLink="false">150 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - shortsightedness</title>
+ <link>http://digitalartscorps.org/taxonomy/term/658/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Shortsightedness</title>
+ <link>http://digitalartscorps.org/node/739</link>
+ <description>&lt;p&gt;Have you ever done something quick and dirty even though doing things &amp;quot;the right way&amp;quot; would only take a little more time? Maybe you didn&amp;#39;t have a little more time? Of course. Haven&amp;#39;t we all?&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s an example. Recently, I was creating a conference registration form for a client on her Plone-based site. Ideally, the client would have created and maintained the registration form herself, since the tool we were using has a graphical form creation interface. However, the documentation for the tool we were using was out of date. I thought about updating the documentation at that time and then helping the client through it, but that would have required a lot more time than just setting up the form myself. Also, I was going to be out of town shortly (for the NTEN conference) and the client wanted to start accepting conference registrations as soon as possible. In the circumstances, it seemed a reasonable solution for me to create the form, so I did. Many form tweaks later, I think I have spent more time on updating the form than it would have taken to update the documentation, which could have helped others besides just this client.&lt;/p&gt;
+&lt;p&gt;I think many things in life are like &lt;a href=&quot;http://en.wikipedia.org/wiki/Sliding_puzzle&quot;&gt;sliding puzzles&lt;/a&gt; -- you may have to suffer temporary &amp;quot;setbacks&amp;quot; (moving blocks out of the correct positions) in order to get the optimal end result. Maybe the trick is not to think of them as setbacks but as steps toward a goal. I have started trying to be very conscious of how I do things. If it will make things better or more efficient in the future, I want to choose to spend more time up front for foundational work. It is challenging to try to work according to a long term vision rather than according to what seems most pressing at the moment. &lt;/p&gt;
+&lt;p&gt;One challenge is when your organization as a whole doesn&amp;#39;t really support it. (Do any?) Here&amp;#39;s what I have noticed often happens when employees want to work on improving their organization in big picture ways:&lt;br /&gt;
+&lt;table border=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Employee&lt;/em&gt; - Hey, I was thinking that we should have a system for organizing our files so everyone can access them easily instead of having them scattered in disarray on our server and our website and old emails. &lt;br /&gt;&lt;em&gt;Boss&lt;/em&gt; - That would be great. You should set that up.&lt;br /&gt;&lt;em&gt;Employee&lt;/em&gt; - Will I be able to spend a little time away from my current projects to do it?&lt;br /&gt;&lt;em&gt;Boss&lt;/em&gt; - You know how important our work is -- we just can&amp;#39;t afford to take time away from it.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/p&gt;&lt;p&gt;And the boss has to think about things like if grantmakers will be ok with his/her organization having less immediate results because the organization was focusing on long-term effectiveness. (Also, it may be particularly difficult for nonprofits to take &amp;quot;time out&amp;quot; to become more efficient because if they&amp;#39;re not spending all their effort heads-down on mission work children will starve or trees will get cut down or... But what about the children etc you aren&amp;#39;t getting to help because your organization is not efficient enough?)&lt;/p&gt;
+&lt;p&gt;Or perhaps acting with the big picture in mind doesn&amp;#39;t lead to greater productivity and less stress as I imagine it would, because of the increased effort/costs required. What do you think? Is your organization shortsighted (not that you need to have a simple yes/no answer)? How does this impact the work that you do?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/739#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/658">shortsightedness</category>
+ <pubDate>Tue, 24 Apr 2007 21:43:51 +0000</pubDate>
+ <dc:creator>cheryl jerozal</dc:creator>
+ <guid isPermaLink="false">739 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

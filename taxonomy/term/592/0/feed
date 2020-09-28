@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - EPICS</title>
+ <link>http://digitalartscorps.org/taxonomy/term/592/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Documentation, documentation, documentation</title>
+ <link>http://digitalartscorps.org/node/654</link>
+ <description>&lt;p&gt;&lt;span&gt;Mornin&amp;#39; folks, &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;I actually made a connection between something I learned in school and my VISTA project!  This is exciting news because my degree is in audiology and speech-language pathology, so the only computer class I took was during my first semester of my freshman year, which was an intro level course that focused on how to use Microsoft Word, PowerPoint, and Excel.  I&amp;#39;m sure that there are some indirect connections between my project and schooling, but to discover a direct connection – enough so for me to realize and really think about it – is indeed exciting.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;I was fortunate enough to be a part of a project for two semesters during my time at Purdue.  Engineering Projects in Community Service (EPICS) is a program in which teams of students design, build, and deploy systems to solve engineering-based problems for local community service and education organizations (taken from the &lt;a href=&quot;http://epics.ecn.purdue.edu/&quot; target=&quot;_blank&quot;&gt;EPICS website&lt;/a&gt;). It is a neat, neat program because it exposes students to real-life situations and working on projects that will be used in the community.  I certainly am no engineer, but there was still a place for me in EPICS.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;One of the community partners for EPICS at Purdue is the speech-language and audiology clinic (SLAC) at Purdue; perfect for an audiology major!  However, since I was a part of it for just two semesters, I only got to work very briefly on two projects. DHA, or Directional Hearing Aid, was the most interesting one to me in which we were designing an affordable hearing aid that cancels out background noise so that a person with a hearing impairment can have a conversation in a noisy environment.  Sort of like reading glasses...the point isn&amp;#39;t to replace hearing aids, but to help out those who may not be able to afford a hearing aid, or just need a little help in amplifying speech.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Anyways, being a member EPICS taught me the importance of documentation.  Since I wasn&amp;#39;t one of the more technical members of the team, I focused on documentation and human subjects testing for the product.  The whole human subjects testing process, although interesting, is a very slow one, so I focused most of my time and attention towards documentation, documentation, documentation.  Documenting steps, tasks, processes, etc for future reference was my number one priority; most of my grade was based on how well I documented things.  Tedious and always put off until the last minute, it was not something I neither enjoyed nor understood the point of. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Since starting my VISTA position, however, I understand why it’s so important.&lt;span&gt;  &lt;/span&gt;Testing our software is one of my more usual tasks here at the Pangea Foundation.&lt;span&gt;  &lt;/span&gt;With testing comes discovering bugs and having to report those bugs. I write them up and report them to our technical director and track them on a spreadsheet we use for easy reference (rather than having to sort through lots of emails) to see what has been resolved and what&amp;#39;s still outstanding.&lt;span&gt;  &lt;/span&gt;In addition to the spreadsheet, all steps to recreate the bug are documented so that when re-testing past bugs, steps can be reproduced exactly to determine if the bug has in fact been resolved.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;I know it doesn’t really seem like a big deal, but it saves so much time and (I like to think) makes everyone’s job so much easier that it’s well worth it.&lt;span&gt;  &lt;/span&gt;I certainly hope that past, current, and future SLACers have found my documentation easy to understand and useful in continuing the project.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;P.S. – Want to know something that’s extra cool? (If not, you’re done and can leave at any time…) &lt;a href=&quot;http://www.learnandserve.org/&quot; target=&quot;_blank&quot;&gt;Learn &amp;amp; Serve&lt;/a&gt; (a different program of the Corporation for National and Community Service – that’s what AmeriCorps is also under) recently gave Purdue a grant to start EPICS programs for high school students! One of the partnering universities is San Diego and two high schools here were selected to be a part of the program.&lt;span&gt;  &lt;/span&gt;I think I’ll shoot an email to the contact person right now and see if there’s anyway I can get involved, being an EPICS alum an all. :)&lt;/span&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/654#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/591">documentation</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/592">EPICS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/593">Purdue</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/594">software testing</category>
+ <pubDate>Wed, 21 Mar 2007 17:17:48 +0000</pubDate>
+ <dc:creator>Laura Hanley</dc:creator>
+ <guid isPermaLink="false">654 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

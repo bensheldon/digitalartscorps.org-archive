@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - short range</title>
+ <link>http://digitalartscorps.org/taxonomy/term/838/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>6 Volunteer Management Presentations</title>
+ <link>http://digitalartscorps.org/node/1052</link>
+ <description>&lt;p&gt;These are some of the resources I present to donors and to agencies. They are rough and they require extra explanation in many places. But, since I haven&#039;t trademarked them, unfortunately, I am sharing them with you. Feel free to email me with any questions...I also have a list of websites and reading that supplement this. I&#039;ll get it on the wiki sometime soon hopfully.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/573">capacity building</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/837">long range</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/253">management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/839">online</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/838">short range</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/126">volunteer</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/109">volunteer management</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/3 Overlooked Areas of Volunteers.ppt" length="1582080" type="application/vnd.ms-powerpoint" />
+ <pubDate>Wed, 29 Aug 2007 16:03:59 +0000</pubDate>
+ <dc:creator>Kelli Williams</dc:creator>
+ <guid isPermaLink="false">1052 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

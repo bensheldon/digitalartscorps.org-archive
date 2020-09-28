@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - content management system</title>
+ <link>http://digitalartscorps.org/taxonomy/term/751/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What is A Content Management System?</title>
+ <link>http://digitalartscorps.org/node/731</link>
+ <description>&lt;p&gt;An OS content management system (CMS) allows you to manage website text and images through a database.  This typically means:&lt;br /&gt;
+Quicker website setup&lt;br /&gt;
+Completely flexible graphic design&lt;br /&gt;
+Tools to easily update pages and navigation&lt;br /&gt;
+Support for rule-based content (like events or news)&lt;br /&gt;
+Community support and plug-ins&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comparing Open Source Content Management Systems:&lt;/strong&gt;&lt;br /&gt;
+- Joomla&lt;br /&gt;
+- Drupal&lt;br /&gt;
+- Plone&lt;br /&gt;
+(see attached presentation)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Drupal&lt;/em&gt; is a content management system (CMS).  It seems to be pretty popular in this crowd.  It is implemented in PHP.  There are many useful plugins for it.  Is the present site based on Drupal?&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Joomla&lt;/em&gt; is another CMS implemented in PHP.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Plone&lt;/em&gt; is a CMS implemented in Python.&lt;/p&gt;
+&lt;p&gt;
+For someone&#039;s listing of CMS implemented in Ruby on Rails, see &lt;a href=&quot;http://www.ajaxlines.com/ajax/stuff/article/top_ruby_cms.php&quot;&gt;Top 20 Ruby CMS&lt;/a&gt;.  A &lt;a href=&quot;http://www.google.com/search?q=ruby+cms&quot;&gt;search&lt;/a&gt; on Google for mentions of &quot;Ruby&quot; and &quot;CMS&quot; in the same article produced about 2.8 million hits.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/751">content management system</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/TANP - osscms_quinn_slides.ppt" length="896000" type="application/vnd.ms-powerpoint" />
+ <pubDate>Thu, 19 Apr 2007 15:06:50 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">731 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>What is CiviCRM?</title>
+ <link>http://digitalartscorps.org/node/506</link>
+ <description>&lt;p&gt;CiviCRM is actually a suite of tools based on the &lt;a href=&quot;http://www.drupal.org&quot;&gt;Drupal&lt;/a&gt; content management system.  A bit tricky to set up (at first), but once configured and running it is VERY powerful. It allows NPOs to coordinate their efforts quite well and collects has good set of tools for this.  Some key things it attends to is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Volunteer coordination&lt;/li&gt;
+&lt;li&gt;Event coordination&lt;/li&gt;
+&lt;li&gt;Donor management&lt;/li&gt;
+&lt;li&gt;eNewsletter management&lt;/li&gt;
+&lt;li&gt;Constituent relationship management&lt;/li&gt;
+&lt;li&gt;Google/Yahoo mapping of various events and volunteers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It also includes blogs, forums and image galleries and there’s a good base of users out there.  The listservs are very friendly too.  Here&#039;s a link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.civicrm.org&quot; title=&quot;http://www.civicrm.org&quot;&gt;http://www.civicrm.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is a fantastic, FREE, and pretty comprehensive online manual for CiviCRM available at FLOSSmanuals: &lt;a href=&quot;http://en.flossmanuals.net/CiviCRM/&quot; title=&quot;http://en.flossmanuals.net/CiviCRM/&quot;&gt;http://en.flossmanuals.net/CiviCRM/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/750">civicrm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/752">constituent relationship management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/751">content management system</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/489">crm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <pubDate>Wed, 07 Feb 2007 17:11:11 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">506 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

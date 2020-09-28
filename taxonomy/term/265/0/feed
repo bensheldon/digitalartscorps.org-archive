@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - ssc</title>
+ <link>http://digitalartscorps.org/taxonomy/term/265/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Firefox 2.0 Add-ons</title>
+ <link>http://digitalartscorps.org/node/236</link>
+ <description>&lt;div&gt;Firefox is currently the most popular (&lt;a href=&quot;http://socialsourcecommons.org/tool/by_popularity&quot;&gt;http://socialsourcecommons.org/tool/by_popularity&lt;/a&gt;) tool in  SSC, so it&amp;#39;s pretty big news that Firefox 2.0 was released yesterday.  I updated  my version yesterday afternoon and so far it&amp;#39;s been working great for me.  More  importantly, I haven&amp;#39;t noticed any problems with SSC since I&amp;#39;ve been using it,  although I will still be doing more testing.&lt;/div&gt;
+&lt;p&gt; 
+&lt;div&gt;Along with the launch of Firefox 2.0, there has been an increase in  activity among blogs and bookmarking sites listing add-ons for Firefox, most of  which I&amp;#39;ve encorporated in Firefox&amp;#39;s Useful Links field (&lt;a href=&quot;http://socialsourcecommons.org/tool/show/51/support&quot;&gt;http://socialsourcecommons.org/tool/show/51/support&lt;/a&gt;).&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt; 
+&lt;div&gt;Most add-ons can be found through Firefox&amp;#39;s website (&lt;a href=&quot;https://addons.mozilla.org/firefox/&quot;&gt;https://addons.mozilla.org/firefox/&lt;/a&gt;).  In particular,  Firefox&amp;#39;s website has a list of recommended add-ons (&lt;a href=&quot;https://addons.mozilla.org/firefox/recommended/&quot;&gt;https://addons.mozilla.org/firefox/recommended/&lt;/a&gt;).  I&amp;#39;ll be  exploring a few of these for my personal use.  So far, I&amp;#39;ve been using Sage (&lt;a href=&quot;https://addons.mozilla.org/firefox/77/&quot;&gt;https://addons.mozilla.org/firefox/77/&lt;/a&gt;) as my RSS reader  and Google&amp;#39;s Browser Sync (&lt;a href=&quot;http://www.google.com/tools/firefox/browsersync/&quot;&gt;http://www.google.com/tools/firefox/browsersync/&lt;/a&gt;) so that I  can use the same bookmarks on both my home and work computers.&lt;/div&gt;
+&lt;/p&gt;</description>
+ <comments>http://digitalartscorps.org/node/236#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/264">add-ons</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/263">firefox</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/265">ssc</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/266">web-browser</category>
+ <pubDate>Wed, 25 Oct 2006 18:42:19 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">236 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

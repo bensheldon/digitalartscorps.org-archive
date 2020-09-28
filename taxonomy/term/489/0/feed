@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - crm</title>
+ <link>http://digitalartscorps.org/taxonomy/term/489/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What is CiviCRM?</title>
+ <link>http://digitalartscorps.org/node/506</link>
+ <description>&lt;p&gt;CiviCRM is actually a suite of tools based on the &lt;a href=&quot;http://www.drupal.org&quot;&gt;Drupal&lt;/a&gt; content management system.  A bit tricky to set up (at first), but once configured and running it is VERY powerful. It allows NPOs to coordinate their efforts quite well and collects has good set of tools for this.  Some key things it attends to is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Volunteer coordination&lt;/li&gt;
+&lt;li&gt;Event coordination&lt;/li&gt;
+&lt;li&gt;Donor management&lt;/li&gt;
+&lt;li&gt;eNewsletter management&lt;/li&gt;
+&lt;li&gt;Constituent relationship management&lt;/li&gt;
+&lt;li&gt;Google/Yahoo mapping of various events and volunteers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It also includes blogs, forums and image galleries and there’s a good base of users out there.  The listservs are very friendly too.  Here&#039;s a link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.civicrm.org&quot; title=&quot;http://www.civicrm.org&quot;&gt;http://www.civicrm.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is a fantastic, FREE, and pretty comprehensive online manual for CiviCRM available at FLOSSmanuals: &lt;a href=&quot;http://en.flossmanuals.net/CiviCRM/&quot; title=&quot;http://en.flossmanuals.net/CiviCRM/&quot;&gt;http://en.flossmanuals.net/CiviCRM/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/750">civicrm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/752">constituent relationship management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/751">content management system</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/489">crm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <pubDate>Wed, 07 Feb 2007 17:11:11 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">506 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Felicia Sullivan&#039;s &quot;The Three C&#039;s of NPTech: Contacts, Communication, Cash&quot;</title>
+ <link>http://digitalartscorps.org/node/419</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.feliciasullivan.net/index.php&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/187/366446916_a614d5cdcd_m.jpg&quot; alt=&quot;Felicia Sullivan at PSO&quot; title=&quot;Felicia Sullivan at PSO&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;Felicia Sullivan&lt;/a&gt; presented at last week&amp;#39;s Pre-Service Orientation (PSO) about &amp;quot;&lt;a href=&quot;http://organizerscollaborative.org/node/560&quot;&gt;The Three C&amp;#39;s of NPTech:  Contacts, Communication, Cash&lt;/a&gt;.&amp;quot;  The full powerpoint presentation (with loads of helpful links) is available at &lt;a href=&quot;http://organizerscollaborative.org/presentations&quot; target=&quot;_blank&quot;&gt;http://organizerscollaborative.org/presentations&lt;/a&gt;.  Felicia is the new Executive Director of the Organizer&amp;#39;s Collaborative, as well as an ongoing advocate for community media and technology projects in Boston and in Lowell, MA.  The CTC VISTA Project is partnering with the OC to hold then next PSO in Lowell in June during the Grassroots Radio / Grassroots Tech June 21-24 in Lowell (&lt;a href=&quot;http://www.grassrootsradioxii.org/&quot; target=&quot;_blank&quot;&gt;http://www.grassrootsradioxii.org &lt;/a&gt; and &lt;a href=&quot;http://www.organizerscollaborative.org/conference&quot; target=&quot;_blank&quot;&gt;http://www.organizerscollaborative.org/conference&lt;/a&gt;).  Stay tuned for more info! &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/419#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/489">crm</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/26">fundraising</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/491">nptech</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/490">ogranizers collaborative</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/109">volunteer management</category>
+ <pubDate>Wed, 24 Jan 2007 13:57:03 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">419 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

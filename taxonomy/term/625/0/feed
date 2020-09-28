@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - books</title>
+ <link>http://digitalartscorps.org/taxonomy/term/625/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>I love books.</title>
+ <link>http://digitalartscorps.org/node/1213</link>
+ <description>&lt;p&gt;This isn&#039;t really VISTA related, but I just wanted to give a shout-out to the Portland Public Library system, which is super-great.  Due to lack of funds, VISTA&#039;s often have to find free entertainment, and for me, that means the library.  The Portland library system allows me to check out 150 items at once.  They also let me place holds online, and then they ship my books (or DVDs or CDs or whatever else) to the library location of my choice (for free).   All items that I check out are mine for three weeks.&lt;/p&gt;
+&lt;p&gt;Recently (at the library), I discovered a book series called The Story of Science, by Joy Hakim.  Although it seems to be written for 5th graders, I found all three books to be fascinating (especially the second book, &quot;Newton At the Center&quot;, and the second half of the third book, &quot;Einstein Adds a New Dimension&quot;).  In fact, I am now considering going back to school after my VISTA term is up, and becoming a scientist.  Hooray!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1213#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/625">books</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/884">library</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/550">post-AmeriCorps</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/908">reading</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/907">science</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/42">vistalife</category>
+ <pubDate>Fri, 25 Jan 2008 22:07:25 +0000</pubDate>
+ <dc:creator>gariet cowin</dc:creator>
+ <guid isPermaLink="false">1213 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Education/Training</title>
+ <link>http://digitalartscorps.org/node/788</link>
+ <description>&lt;p&gt;Jamaica Plain Community Education Project&lt;br /&gt;
+PO Box 1053&lt;br /&gt;
+Jamaica Plain, MA 02130&lt;br /&gt;
+617-522-8277&lt;br /&gt;
+A project to organize and empower our communities to learn from and educate ourselves through the cost-free sharing of knowledge and skills. &lt;/p&gt;
+&lt;p&gt;Brattle Book Shop&lt;br /&gt;
+&lt;a href=&quot;http://www.brattlebookshop.com/&quot; title=&quot;http://www.brattlebookshop.com/&quot;&gt;http://www.brattlebookshop.com/&lt;/a&gt;&lt;br /&gt;
+Great place to buy any sort of used book *cheap* in Boston, near the common. Huge selection, atmosphere is warm. When the weather is good there will be an outdoor area selling books more cheaply than normal.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/625">books</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/749">bookstore</category>
+ <pubDate>Mon, 14 May 2007 20:57:32 +0000</pubDate>
+ <dc:creator>Jack Doherty</dc:creator>
+ <guid isPermaLink="false">788 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

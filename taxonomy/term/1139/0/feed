@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - handout</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1139/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>A Handy PC to Mac Translation Handout for Your Computer/Media Lab</title>
+ <link>http://digitalartscorps.org/node/1030</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/user/959&quot;&gt;Laruen Bratslavsky&lt;/a&gt; developed this useful single sheet hand-out as a way for community lab users to simply translate how to execute similar operations on a PC vs. a Mac.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1099">chart</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1139">handout</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1138">mac</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1137">pc</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1140">pdf</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/PC and MAC Translations.pdf" length="1693225" type="application/pdf" />
+ <pubDate>Mon, 13 Aug 2007 18:01:07 +0000</pubDate>
+ <dc:creator>Kevin Palmer</dc:creator>
+ <guid isPermaLink="false">1030 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

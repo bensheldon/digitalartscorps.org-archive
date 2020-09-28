@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - operations</title>
+ <link>http://digitalartscorps.org/taxonomy/term/254/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Nonprofit Competition &amp; Concept Map</title>
+ <link>http://digitalartscorps.org/node/235</link>
+ <description>&lt;p&gt;At this summer&#039;s CTCnet Conference the thing I most took away--or rather, repeated to the most number of people--was something said by the keynote speaker, Ami Dar, the creator of Idealist.org.&lt;/p&gt;
+&lt;p&gt;He was asked by someone in the crowd something along the lines of &quot;In what areas do you want to see nonprofits develop into the future?&quot;&lt;/p&gt;
+&lt;p&gt;Ami Dar responded that an area that he saw as important was &lt;strong&gt;acknowledgement of nonprofit competition&lt;/strong&gt;.  His brilliant reasoning was this:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;In for-profit companies, everyone accepts that competition takes place; it&#039;s a given.  Businesses identify the areas in which they compete, and from this, also gain an understanding of the areas in which they &lt;em&gt;don&#039;t&lt;/em&gt; compete. In the areas in which they don&#039;t compete, businesses can cooperate.  Nonprofits, in general, are not aware of, or acknowledge that they compete (and they do), and because of this, they cannot collabrate as efficiently or as effectively as possible.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;My own example of this is the Detroit automakers.  Ford and GM are incredibly competitive in car production, features, pricing, dealerships, etc.  But at the same time, they have an incredibly strong combined lobby for setting safety and emission standards, things that affect the entire industry.  They know where they compete and therefore know where they can work together.&lt;/p&gt;
+&lt;p&gt;So this has been rattling around in my head until I read two things:&lt;/p&gt;
+&lt;p&gt;This first was &lt;a href=&quot;http://www.amazon.com/Learning-How-Learn-Joseph-Novak/dp/0521319269/sr=8-1/qid=1161788036/ref=pd_bbs_1/104-3768589-3995934?ie=UTF8&amp;amp;s=books&quot;&gt;&quot;Learning How to Learn&quot; by Joseph D. Novak, D. Bob Gowin, and Jane Butler Kahle&lt;/a&gt;, which lays out some very interesting models and heuristics for visualizing information.&lt;/p&gt;
+&lt;p&gt;The second was &lt;a href=&quot;http://www.sauder.ubc.ca/faculty/research/docs/weinberg/ISM_2000.pdf&quot;&gt;A Typology of Nonprofit Competition: Insights for Social Marketers&lt;/a&gt; by Robin J. Ritchie and Charles B. Weinberg.&lt;/p&gt;
+&lt;p&gt;Putting them together, I made this using OmniGraffle:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ctcvista.org/files/Typology_of_Nonprofit_Competition-concept_map.pdf&quot;&gt;Download the PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/bensheldon/272577537/&quot; title=&quot;Photo Sharing&quot;&gt;&lt;img src=&quot;http://static.flickr.com/118/272577537_df531ea720.jpg&quot; width=&quot;393&quot; height=&quot;500&quot; alt=&quot; Typology of Nonprofit Competition&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/235#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/252">competition</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/253">management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/180">Nonprofit</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/254">operations</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/256">planning</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/255">strategy</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Typology_of_Nonprofit_Competition-concept_map.pdf" length="247663" type="application/pdf" />
+ <pubDate>Wed, 25 Oct 2006 14:57:54 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">235 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

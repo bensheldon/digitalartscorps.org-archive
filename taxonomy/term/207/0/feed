@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - drupal cms</title>
+ <link>http://digitalartscorps.org/taxonomy/term/207/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Comparing CMSsss</title>
+ <link>http://digitalartscorps.org/node/203</link>
+ <description>&lt;p&gt;Hey guys so for those of you interested in the differences between the different CMSs, NTEN has a &amp;#39;webinar&amp;#39; (i&amp;#39;m assuming a seminar on the web) on Nov. 15th entitled &lt;/p&gt;
+&lt;h1&gt;&amp;quot;NTEN and Idealware Software Review Series: Comparing Open Source CMS&amp;#39;s&amp;quot;&lt;/h1&gt;
+&lt;p&gt;More info &lt;a href=&quot;https://www.ntenonline.org/eweb/Dynamicpage.aspx?webcode=EventInfo&amp;amp;evt_key=061cce1d-2e2e-478b-b0bf-7307e3ab9d8a&quot; target=&quot;_blank&quot; class=&quot;links&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Of course the real catch here is that like most seminars...this one costs money, which we are all in short supply of. Maybe you could convince your supervisors that its a professional development expense and they&amp;#39;ll pay for it.&lt;/p&gt;
+&lt;p&gt;Just saw it and thought someone would be interested. &lt;/p&gt;
+&lt;p&gt;Hope all is well with people!&lt;br /&gt;Peace.&lt;br /&gt;Carls &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/203#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/207">drupal cms</category>
+ <pubDate>Mon, 16 Oct 2006 16:13:03 +0000</pubDate>
+ <dc:creator>Carl Seifert</dc:creator>
+ <guid isPermaLink="false">203 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

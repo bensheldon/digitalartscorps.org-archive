@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - content management</title>
+ <link>http://digitalartscorps.org/taxonomy/term/790/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Web Design Tips for Usability, Site Design and Accessibility</title>
+ <link>http://digitalartscorps.org/node/977</link>
+ <description>&lt;p&gt;This is a resource I found for designing better websites.  I took this from:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.great-web-design-tips.com/&quot; title=&quot;http://www.great-web-design-tips.com/&quot;&gt;http://www.great-web-design-tips.com/&lt;/a&gt; - a pretty straightforward url:)&lt;/p&gt;
+&lt;p&gt;Design better web sites by improving your web design skills and knowledge with Great Web Design Tips. This web site offers a FREE online course on how to create more user-friendly web sites, by incorporating good web usability, web site design and web accessibility design elements. Study the course to avoid the mistakes that other web site designers make. Written by &lt;a href=&quot;http://www.mikes-marketing-tools.com/whos-mike.html&quot;&gt;Michael Wong&lt;/a&gt; and edited by Peter Cooper.&lt;/p&gt;
+&lt;h2&gt;Chapter One: &lt;a href=&quot;http://www.great-web-design-tips.com/web-usability&quot;&gt;Web Usability&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter you&#039;ll discover how to create a more user-friendly experience for your visitors by improving your Web site&#039;s usability.&lt;/p&gt;
+&lt;h2&gt;Chapter Two: &lt;a href=&quot;http://www.great-web-design-tips.com/web-site-design&quot;&gt;Web Site Design&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter you&#039;ll discover how to create a more accessible Web site for users with disabilities by improving your Web site&#039;s accessibility.&lt;/p&gt;
+&lt;h2&gt;Chapter Three: &lt;a href=&quot;http://www.great-web-design-tips.com/web-accessibility&quot;&gt;Web Accessibility&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter you&#039;ll discover how to create a more user-friendly experience by improving your Web site&#039;s design, layout, navigation, and much more.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/157">websites</category>
+ <pubDate>Thu, 12 Jul 2007 00:37:18 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">977 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>How To Create an RSS Feed from Any Webpage</title>
+ <link>http://digitalartscorps.org/node/976</link>
+ <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: I did NOT write this post.  I found it on Robin Good&#039;s post: &lt;em&gt;How To Create A RSS Feed From Any Web Page&lt;/em&gt; (you can scroll to the bottom of this post for the link if you like.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&quot;Sooner or later, and maybe without even knowing the technical terms required to communicate this to someone else, you will want to subscribe and monitor web sites, information pages, or online catalog sections on an ongoing basis. &lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;RSS_icon.gif&quot; src=&quot;http://www.masternewmedia.org/images/RSS_icon.gif&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You have heard about RSS, webfeeds, Atom and other apparently not too clear tech terms describing something that did sound like what you are really in need of now, but even with all of your best will you wouldn&#039;t how or where to start given that those pages you have identified do not sport any orange colored button or icon hinting to a proper RSS feed. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can do you generate an RSS feed for a web page&lt;/strong&gt; that doesn&#039;t have one?&lt;/p&gt;
+&lt;p&gt;Can anyone do this on her own?&lt;/p&gt;
+&lt;p&gt;The answer to both is a resounding YES!&lt;/p&gt;
+&lt;p&gt;Today, thanks to new &quot;&lt;strong&gt;html scraping&lt;/strong&gt;&quot; services available to everyone, &lt;a name=&quot;0764588486&quot; id=&quot;amzn_cl_link_0&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0764588486?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0764588486&amp;amp;adid=2eab9559-a971-4af0-8327-3553b422c568&quot;&gt;RSS feeds&lt;/a&gt; can be automatically generated for just about any web site, no matter what kind of layout, coding or language it is written in. In some situations, to create a standard RSS feed from any web page that does not have one may take less than a minute, while in other cases, where your needs for customization are higher, you may need to spend a little more time. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Morale of the story&lt;/strong&gt;: any web page today can be made to generate a RSS feed automatically. By the owner or, as it will increasingly happen, by someone else who wants to be informed in near-real-time of any news and content updates made on it.&lt;/p&gt;
+&lt;p&gt;Here the details:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;div id=&quot;gads&quot;&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;div id=&quot;text&quot; style=&quot;float: left; width: 580px;&quot;&amp;gt;&lt;br /&gt;
+&lt;a name=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;    &lt;img alt=&quot;RSS_yahoo_my_rssaddress_350.gif&quot; src=&quot;http://www.masternewmedia.org/images/RSS_yahoo_my_rssaddress_350.gif&quot; height=&quot;231&quot; width=&quot;350&quot; /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HTML scraping&lt;/strong&gt; or the ability to automatically generate a standard RSS feed from a HTML document (a web page) that does not have one has been a new type service under increasing demand for over 2 years now.&lt;/p&gt;
+&lt;p&gt;Early services (e.g.: MyRSS) that offered HTML scraping later disappeared or were replaced by other more profitable ones. Creating an automatic RSS feed from a non-RSS enabled web page enables a number of truly useful potential applications and I am sure that such services will enjoy soon greater marketplace rewards. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FeedYes&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feed_yes.gif&quot; src=&quot;http://www.masternewmedia.org/images/feed_yes.gif&quot; height=&quot;25&quot; width=&quot;170&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+FeedYes is the latest entry in this small group of online services which allow anyone to create/ generate automatically a RSS feed for any web page. FeedYes, has really found a simple and truly effective route to simplify this task while providing good enough a solution to satisfy most needs. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;While it is not perfect&lt;/strong&gt;, it is damn good and fast at doing what it does. It is alos rather simple to use, and once you have gone through it once, creating a second feed for another site, may take literally only a few seconds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.FeedYes.com/&quot;&gt;FeedYes&lt;/a&gt; is a three-step process that involves a) providing the URL of the page out of which an automatic &lt;a name=&quot;0596008813&quot; id=&quot;amzn_cl_link_1&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0596008813?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0596008813&amp;amp;adid=270b00e1-a673-4f02-9a99-16627d632147&quot;&gt;RSS&lt;/a&gt; feed needs to be created, b) indicating among the dynamic links found by FeedYes on the specifiied URL, which one is the first that refers to the content section that you are interested in (all web pages have different content sections in the same page, and you probably do not want to create a feed for the comments section or for the most recent articles appearing on the same site), c) indicating in the updated list of links FeedYes will spit out the last relevant link pertaining to your selected content section.&lt;/p&gt;
+&lt;p&gt;In this way, FeedYes isolates with good precision (you are the one effectively guiding) the specific content section you are interested in (say the Latest News) and creates an RSS feed for it.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Feed43&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feed43_logo.gif&quot; src=&quot;http://www.masternewmedia.org/images/feed43_logo.gif&quot; height=&quot;45&quot; width=&quot;177&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.Feed43.com/&quot;&gt;Feed43&lt;/a&gt; is an online service that converts standard web pages or XML documents to RSS feeds. Feed43 does so by extracting snippets of text or HTML by applying specific search patterns to the document from which the feed needs to be extracted. The search patterns help Feed43 understand exactly which content to grab from a page and which not. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This allows for a much more precise control&lt;/strong&gt; of what will be contained in a feed at the expense of the ease of use and accessibility of the overall product itself. For technically savvy users this is in fact an excellent and very reliable approach to RSS feed generation but for non-technical users Feed43 may scare off lots of users in a matter of minutes. &lt;/p&gt;
+&lt;p&gt;In Feed43 the set of steps required to create a custom RSS feed for a web page that has none are as follows:&lt;br /&gt;&lt;br /&gt;
+a) &lt;strong&gt;Identify&lt;/strong&gt; the web page from which to generate a RSS feed.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;b) &lt;strong&gt;Create&lt;/strong&gt; a RSS feed on Feed43 pointing to that web page.&lt;br /&gt;&lt;br /&gt;
+c) &lt;strong&gt;Define&lt;/strong&gt; search patterns required.&lt;br /&gt;&lt;br /&gt;
+d) &lt;strong&gt;Specify&lt;/strong&gt; output templates required.&lt;br /&gt;&lt;br /&gt;
+e) &lt;strong&gt;Generate&lt;/strong&gt; the new RSS feed. &lt;/p&gt;
+&lt;p&gt;All feeds created with Feed43 are &quot;public&quot;, but optionally Feed43 also allows you to protect any newly created RSS feed with a password. The service is free.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a name=&quot;0470017198&quot; id=&quot;amzn_cl_link_3&quot; target=&quot;_blank&quot; href=&quot;http://www.amazon.com/gp/product/0470017198?ie=UTF8&amp;amp;tag=masternewmedi&amp;amp;link_code=em1&amp;amp;camp=212341&amp;amp;creative=380429&amp;amp;creativeASIN=0470017198&amp;amp;adid=9fa3453c-7989-4a46-8ccd-7264ecf00037&quot;&gt;FeedFire&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+  &lt;img alt=&quot;feedfire_logo_170.gif&quot; src=&quot;http://www.masternewmedia.org/images/feedfire_logo_170.gif&quot; height=&quot;39&quot; width=&quot;170&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;FeedFire is the oldest&lt;/strong&gt; of these HTML-to-RSS services allowing anyone to automatically create a RSS news feed for any Web site that does not have one.&lt;/p&gt;
+&lt;p&gt;You simply register at FeedFire, input the URL of the page and FeedFire dos the rest for you in the fraction of a second. All that&#039;s needed is a FULL URL to the page you would like to have made into RSS. All bandwidth costs to host the new RSS feeds are absorbed by FeedFire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FeedFire also allows to sponsor&lt;/strong&gt; newly created RSS feeds. this can be done by anyone like me and you, who are not major corporations but people who are looking for a clever, considered and comprehensively featured service that allows them to add extra reach, exposure, visibility and unique content to others and/or to THEIR own web site. &lt;/p&gt;
+&lt;p&gt;RSS feeds created and sponsored with FeedFire can also be made private, and used for creating intelligence reports or RSS learning objects or RSS newsmastering channels containing information otherwise inaccessible to others.&lt;/p&gt;
+&lt;p&gt;Sponsored feeds can be further filtered by allowing the sponsor to select only news items that &quot;include&quot; or do not have specific keywords. It is also possible to customize the number of news items displayed in the sponsored feed, the number of words per news item and even the title and the description of the newly created RSS feed. The varying levels of sponsorship have increasingly higher levels of features and customisation.&lt;/p&gt;
+&lt;p&gt;&quot;&lt;/p&gt;
+&lt;p&gt;This was taken from: &lt;a href=&quot;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&quot; title=&quot;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&quot;&gt;http://www.masternewmedia.org/news/2006/03/09/how_to_create_a_rss.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/789">API</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/267">rss</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <pubDate>Thu, 12 Jul 2007 00:30:14 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">976 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>What is A Content Management System?</title>
+ <link>http://digitalartscorps.org/node/731</link>
+ <description>&lt;p&gt;An OS content management system (CMS) allows you to manage website text and images through a database.  This typically means:&lt;br /&gt;
+Quicker website setup&lt;br /&gt;
+Completely flexible graphic design&lt;br /&gt;
+Tools to easily update pages and navigation&lt;br /&gt;
+Support for rule-based content (like events or news)&lt;br /&gt;
+Community support and plug-ins&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comparing Open Source Content Management Systems:&lt;/strong&gt;&lt;br /&gt;
+- Joomla&lt;br /&gt;
+- Drupal&lt;br /&gt;
+- Plone&lt;br /&gt;
+(see attached presentation)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Drupal&lt;/em&gt; is a content management system (CMS).  It seems to be pretty popular in this crowd.  It is implemented in PHP.  There are many useful plugins for it.  Is the present site based on Drupal?&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Joomla&lt;/em&gt; is another CMS implemented in PHP.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Plone&lt;/em&gt; is a CMS implemented in Python.&lt;/p&gt;
+&lt;p&gt;
+For someone&#039;s listing of CMS implemented in Ruby on Rails, see &lt;a href=&quot;http://www.ajaxlines.com/ajax/stuff/article/top_ruby_cms.php&quot;&gt;Top 20 Ruby CMS&lt;/a&gt;.  A &lt;a href=&quot;http://www.google.com/search?q=ruby+cms&quot;&gt;search&lt;/a&gt; on Google for mentions of &quot;Ruby&quot; and &quot;CMS&quot; in the same article produced about 2.8 million hits.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/790">content management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/751">content management system</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/TANP - osscms_quinn_slides.ppt" length="896000" type="application/vnd.ms-powerpoint" />
+ <pubDate>Thu, 19 Apr 2007 15:06:50 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">731 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

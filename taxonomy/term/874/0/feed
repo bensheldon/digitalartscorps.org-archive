@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - The challange</title>
+ <link>http://digitalartscorps.org/taxonomy/term/874/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal Website</title>
+ <link>http://digitalartscorps.org/node/1153</link>
+ <description>&lt;p&gt;Hello All,&lt;br /&gt;
+It&#039;s been awhile since I submitted a field report.&lt;/p&gt;
+&lt;p&gt;Frustration with funding has been a bit of an issue here. We are building out the organization in a very big way which has been challenging. I had our new computer lab up and running and then had to shut it down while we wait for an additional permit from the County (soon) to fully utilize our large, new site. This has caused a bit of a catch 22 as we need tenets to move in to generate revenue. &lt;/p&gt;
+&lt;p&gt;I am new to non profits and things run much different than in the corporate world! Anyway, I also have been tasked to refresh our very stale and inaccurate website. Our various programs have been very good about sending me fresh information and present names of program directors after and appeal email to all!&lt;/p&gt;
+&lt;p&gt;Drupal 5.3 is running on my local Windows machine with a theme called &quot;Beale Street&quot; (in green) which we like alot. It has suckerfisfish menus as well as rollovers. I spoke with our Network Administrator and he is getting it running on our LAMP server outside the DMZ so a test site can be reached from the Internet.&lt;/p&gt;
+&lt;p&gt;Drupal Masters, I could use your help! I can create accounts that can login and modify the site if I have any volunteers? I would like to see a Drupal Forum on the Vista Site. What do you think?&lt;/p&gt;
+&lt;p&gt;Thanks all, Happy Holidays!&lt;br /&gt;
+Jim&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1153#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/874">The challange</category>
+ <pubDate>Thu, 08 Nov 2007 20:06:12 +0000</pubDate>
+ <dc:creator>Jim Mora</dc:creator>
+ <guid isPermaLink="false">1153 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

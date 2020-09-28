@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - web20</title>
+ <link>http://digitalartscorps.org/taxonomy/term/44/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website Planning/Expansion</title>
+ <link>http://digitalartscorps.org/node/730</link>
+ <description>&lt;p&gt;&lt;strong&gt;Nonprofit Communications 2.0 – Seven Steps to Transform Your Organization&lt;/strong&gt;&lt;br /&gt;
+This presentation (attached) has a WEALTH of information on the following:&lt;br /&gt;
+I.	Network Centric Communities&lt;br /&gt;
+II.	Strategic Communications&lt;br /&gt;
+1.	Planning for Integration&lt;br /&gt;
+2.	Viral Marketing&lt;br /&gt;
+3.	Building Blocks of Nonprofit Communications&lt;br /&gt;
+ii. MEANS OF PRODUCTION&lt;br /&gt;
+a.	email&lt;br /&gt;
+b.	blogging&lt;br /&gt;
+c.	online media&lt;br /&gt;
+d.	wikis&lt;br /&gt;
+e.	mashups&lt;br /&gt;
+ii. MEANS OF DISTRIBUTION&lt;br /&gt;
+f. Syndication&lt;br /&gt;
+g.Tagging&lt;br /&gt;
+h.Content Management Systems&lt;br /&gt;
+III.	Web 2.0 Applied&lt;br /&gt;
+a.	E-Democracy: from Political &amp;amp; Activist Campaigns&lt;br /&gt;
+b.	Friend Raising to Fundraising: “Resource Development&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Ways to make your nonprofit more effective with RSS aggregation&lt;/strong&gt;&lt;br /&gt;
+(see attached presentation)&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/115">tech assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/585">tech assistance for non-profits</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/400">technology assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/44">web20</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/noncommunications_davitian_handout.doc" length="325632" type="application/msword" />
+ <pubDate>Thu, 19 Apr 2007 14:58:20 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">730 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

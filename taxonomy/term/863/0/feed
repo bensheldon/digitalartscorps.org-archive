@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - work product</title>
+ <link>http://digitalartscorps.org/taxonomy/term/863/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Works We Make Belong to Whom?</title>
+ <link>http://digitalartscorps.org/node/1120</link>
+ <description>&lt;p&gt;In the course of my service if my beneficiary organization asks me to produce some work, say for example some computer code, and I do so, who owns the artifact I have produced?  Who has legal rights to determine what happens to it, e. g., to publish it or keep it secret or license its use?  Is the organization obligated to share the artifact with all US government agencies that might be able to benefit from copying, using, and/or modifying it?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1120#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/163">CTC VISTA Listserv</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/862">intellectual property</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/864">legal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/866">license</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/865">right</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/863">work product</category>
+ <pubDate>Fri, 12 Oct 2007 18:42:15 +0000</pubDate>
+ <dc:creator>Jack Waugh</dc:creator>
+ <guid isPermaLink="false">1120 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

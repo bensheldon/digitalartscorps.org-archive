@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - random</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1319/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Totally Random</title>
+ <link>http://digitalartscorps.org/node/1793</link>
+ <description>&lt;p&gt;This area is for anything you think might be beneficial to DASCorps members.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1319">random</category>
+ <pubDate>Tue, 07 Sep 2010 15:51:08 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1793 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

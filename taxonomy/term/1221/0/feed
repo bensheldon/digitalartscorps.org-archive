@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - coova</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1221/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Six: Computer Adoption and Broadband Stimulus</title>
+ <link>http://digitalartscorps.org/node/1650</link>
+ <description>&lt;p&gt;Dear Broadband Stimulus,&lt;/p&gt;
+&lt;p&gt;Where are you?&lt;/p&gt;
+&lt;p&gt;Love,&lt;/p&gt;
+&lt;p&gt;Everyone but the peeps who already found out about their application.&lt;/p&gt;
+&lt;p&gt;This month, we had the Computer Adoption Program class a couple Saturdays ago.  The machines were pretty old, and there were a few hiccups, but I think it went okay.  The students were residents from two LTSC-managed affordable housing projects.  Most were adults, some of whom had never owned or used a computer before.  It was a 4-hour crash course in Ubuntu, and they were all browsing the internet and creating e-mail accounts by the end.  Once they all went home, their computers were wifi ready...which is great, because most of the residents live at Reno, where we recently installed the broadband over powerline network.  It&#039;s holding up, even with the increased usage, so yay!&lt;/p&gt;
+&lt;p&gt;I have been having some issues with our wifi hotspot management system, though.  We recently switched to the free version of Coova so that we could better track usage for grant reporting.  I was a noob and didn&#039;t test it out on Internet Explorer.  Older versions of IE seem not to accept redirection (this might also be a Windows-related security issue?).  Going to have to try to work around this.  We can&#039;t go to everyone and troubleshoot this problem...perhaps we could offer firefox cds...?  Coova support is not very good, either.  I wouldn&#039;t go with them again.&lt;/p&gt;
+&lt;p&gt;Next up...increasing signal in a huge apartment complex (using DIY parabolic dishes?), a plan to train a few ueber tech savvy residents in wifi maintenance, and hopefully more web design.  Hope everyone is having a happy new year so far!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1650#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1221">coova</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1222">hotspot</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 27 Jan 2010 18:25:41 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1650 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

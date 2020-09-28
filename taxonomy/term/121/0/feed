@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - links</title>
+ <link>http://digitalartscorps.org/taxonomy/term/121/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Some Examples of Digital Media Curricula Created by VISTAs</title>
+ <link>http://digitalartscorps.org/node/558</link>
+ <description>&lt;p&gt;Here&#039;s some curricula and/or handouts created by VISTAs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/files/Shot Composition Packet.pdf&lt;br /&gt;
+&quot;&gt;Shot Composition Packet (Media Bridges - Lauren)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MOSAIC, Digital video bootcamp (english high school)  (HOME Inc - Kevin/AJ)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/files/Digital Photography Class.pdf&quot;&gt;Digital Photography Course Packet (Media Bridges - Lauren Bratslavsky)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Media Literacy (Project Think Different - Colleen)&lt;/li&gt;
+&lt;li&gt;Basic Computer Skills (Shaneka)&lt;/li&gt;
+&lt;li&gt;PhotoBooth (Media Bridges - Lauren)&lt;/li&gt;
+&lt;li&gt;Digital Storytelling (Center for Digital Storytelling - Jessica)&lt;/li&gt;
+&lt;li&gt;?? (Computers 4 Kids - Ray)&lt;/li&gt;
+&lt;li&gt;Video (Reelworks - Will)&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;After school Curriculum with a Radio Station (Lashanda)&lt;/li&gt;
+&lt;li&gt;Creating a Youth Online Radio Station (Pink House - Renae)
+&lt;/li&gt;&lt;li&gt;tips/forms for student project management
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also, here&#039;s some curricula used/recommended by VISTAs from other sources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adobe website&lt;/li&gt;
+&lt;li&gt;Youth Learn (EDC)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ctcnet.org/resources/dir/index.php?sid=639985216&amp;amp;t=cat_expert_page&amp;amp;cat=198&quot;&gt;CTCNet Resource Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://del.icio.us/CTCVISTA/curriculum&quot;&gt;Danielle&#039;s Curriculum links on Delicious&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Need basic curricula templates/guides?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ctn-archive.informationsage.org/resources/toolkits/youthlearn/pdf/curriculum_worksheet.pdf&quot;&gt;YouthLearn  Curriculum Development Worksheet&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ctcvista.org/files/curriculum from school teacher - apple.doc&quot;&gt;From Apple website (by teacher)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/296">citizen journalism</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1131">community development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/133">community media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/121">links</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/curriculum from school teacher - apple.doc" length="81698" type="application/msword" />
+ <pubDate>Tue, 27 Feb 2007 19:08:25 +0000</pubDate>
+ <dc:creator>lauren bratslavsky</dc:creator>
+ <guid isPermaLink="false">558 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Bad Link</title>
+ <link>http://digitalartscorps.org/node/128</link>
+ <description>&lt;p&gt;Ooops.  My last blog had a bad link.  The website is &lt;a href=&quot;http://www.socialsourcecommons.org&quot; title=&quot;http://www.socialsourcecommons.org&quot;&gt;http://www.socialsourcecommons.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I had originally typed the link as just &amp;quot;socialsourcecommons.org&amp;quot; (which works in your browser, but not in this web software).   &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/128#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/94">blogging</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/121">links</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/82">website</category>
+ <pubDate>Mon, 25 Sep 2006 17:15:43 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">128 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - non profit</title>
+ <link>http://digitalartscorps.org/taxonomy/term/655/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The fundraising blues</title>
+ <link>http://digitalartscorps.org/node/737</link>
+ <description>&lt;p&gt;We held our first yard sale and it went ok.  I am not sure this is the way to raise money for our computer lab.  I have to figure out something quicker or at the very least more efficient.  I put in at least 10 hours of work for 70 dollars worth of profit.  I am open to any other ideas that you all might have. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/737#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/26">fundraising</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/655">non profit</category>
+ <pubDate>Tue, 24 Apr 2007 18:58:35 +0000</pubDate>
+ <dc:creator>Tony ORourke</dc:creator>
+ <guid isPermaLink="false">737 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

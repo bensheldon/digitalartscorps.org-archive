@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - curriculum</title>
+ <link>http://digitalartscorps.org/taxonomy/term/39/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Seven: Rethinking</title>
+ <link>http://digitalartscorps.org/node/1658</link>
+ <description>&lt;p&gt;LTSC (and quite a few other CA orgs) lost out on a big time federal grant.  We&#039;re facing a pretty big budget shortfall, and a bunch of projects and plans are going to have to be slimmed down or eliminated in order to keep core programs afloat.&lt;/p&gt;
+&lt;p&gt;In the past few weeks, I&#039;ve been putting together a curriculum packet to train resident volunteers in networking.  The plan was to offer a small stipend, but now that we don&#039;t have that to give, I&#039;m gonna change the recruitment strategy a bit (beg beg beg, and/or possibly find a business who&#039;d be willing to donate something).&lt;/p&gt;
+&lt;p&gt;Was also planning to fix one of the residential networks.  Without any money for equipment, this will be difficult.  But rummaging around, I found a bunch of unused network equipment... hope to make this work.&lt;/p&gt;
+&lt;p&gt;My plan for the next few months will include time spent on trying to figure out how to make other tech programs and projects (ones that I previously wasn&#039;t directly involved in, such as our CTCs) stay aloft and be as sustainable as possible.  I feel like CTCs are often on a knife&#039;s edge when it comes to keeping open and functional, and I think we should start to explore partnerships outside of LTSC&#039;s usual realm (there&#039;s a lot of turning inward to Little Tokyo/JA organizations, I feel).&lt;/p&gt;
+&lt;p&gt;My supervisor&#039;s replacement has been hired and is going to start working sometime in March I think.  Hopefully the transition goes well.&lt;/p&gt;
+&lt;p&gt;Also, these are awesome and have been a little bit useful for residents with external wifi adapter antennas:&lt;br /&gt;
+&lt;a href=&quot;http://urbanwireless.info/index.php/antennas/parabolic-reflector&quot; title=&quot;http://urbanwireless.info/index.php/antennas/parabolic-reflector&quot;&gt;http://urbanwireless.info/index.php/antennas/parabolic-reflector&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1658#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/636">grants</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1107">volunteer recruitment</category>
+ <pubDate>Tue, 23 Feb 2010 17:39:53 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1658 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month 10: IMC Fest &amp; A Return to Research</title>
+ <link>http://digitalartscorps.org/node/1497</link>
+ <description>&lt;p&gt;April-May started with the &lt;a href=&quot;http://www.imcfest.org/&quot;&gt;IMC Fest&lt;/a&gt;, three days of music featuring nearly 30 local performers and an art show in partnership with the Champaign-Urbana &lt;a href=&quot;http://www.40north.org/events/festival.html&quot;&gt;Boneyard Arts Festival&lt;/a&gt;.  I was stage manager and worked with volunteer stage and sound techs, as well as artists, to keep us on schedule and make sure everything was working.  The event, which was great fun and raised money for our organization, was largely planned and organized by Dan Blah, our VISTA Supervisor at the IMC.  The weekend gave us a chance to promote the IMC, attract new members, and support the thriving artistic community here in C-U.&lt;/p&gt;
+&lt;p&gt;On the training side, I offered three sessions - one on &lt;a href=&quot;http://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;; one on radio automation (using &lt;a href=&quot;http://zararadio.org&quot;&gt;ZaraRadio&lt;/a&gt;); and one on live sound.  For those curious about live sound, you will see by searching the Internet that most training guides or courses are not free.  Here are some links to free information to get you started: &lt;a href=&quot;http://www.tiem.utk.edu/~gross/sounden2.txt&quot;&gt;Basic Introduction&lt;/a&gt; by Lou Gross; &lt;a href=&quot;http://en.wikipedia.org/wiki/Sound_reinforcement_system&quot;&gt;sound reinforcement system&lt;/a&gt; article on Wikipedia; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Live_sound_mixing&quot;&gt;mixing article&lt;/a&gt; from Wikipedia.&lt;/p&gt;
+&lt;p&gt;Nearly everything else this month has been about preparing for the summer.  For the IMC as a whole, this has meant the recruiting of over a dozen summer youth positions, funded through the &lt;a href=&quot;http://www.illwa17.com/&quot;&gt;Champaign Consortium&lt;/a&gt; and organized by Nicole, while making internal space and institutional improvements for staff and guests.  For me, this has meant getting ready for my last two months as a CTC*VISTA and working towards leaving a useful legacy in media training documentation.  So far this year, I have offered dozens on hands-on workshops, helped to create and organize two large fundraisers, built partnerships with other local organizations, formalized working group procedures, and updated and suggested improvements to the IMC&#039;s production facilities, all of which have involved networking and collaborating and spending long hours at the IMC working with others.  Throughout the course of these last ten months, I have kept detailed notes and drafted some training materials, but seldom have had the time to sit down and compile it all.  So, from now until mid-July I will be working more independently on creating and archiving training documents, and have already begun doing more research to this end.&lt;/p&gt;
+&lt;p&gt;During April and May I did most of the substantive budget and curriculum development for the first session of the Don Moyers Boys &amp;amp; Girls Club&#039;s Teen Computer Lab program, which will begin in June.  This has included outlining computer workstation and media peripheral specifications (with guidance from VISTA Leader Josh King), compiling training materials and exercises, organizing meetings of team partners, and researching new and innovative technologies, especially Free and Open-Source Software (FOSS) for use in the lab.&lt;/p&gt;
+&lt;p&gt;Here are just a few links that I have found to be very helpful in my research and documentation:&lt;br /&gt;
+- &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_open_source_software_packages&quot;&gt;List of open source software packages&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&quot;http://en.flossmanuals.net/&quot;&gt;FLOSS Manuals&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&quot;http://osswin.sourceforge.net/&quot;&gt;The OSSWin Project: Open Source for Windows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is much more available, but those are decent places to start.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1497#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1075">concerts</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/894">event organizing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/610">free software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/238">music</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/952">Open Source software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/851">volunteer coordination</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/85">youth media</category>
+ <pubDate>Sat, 09 May 2009 23:18:53 +0000</pubDate>
+ <dc:creator>Stephen Fonzo</dc:creator>
+ <guid isPermaLink="false">1497 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>field reports?  never heard of &#039;em.</title>
+ <link>http://digitalartscorps.org/node/1368</link>
+ <description>&lt;p&gt;Well guys, I&#039;ve been working really hard (too hard to excuse not filing a field report….probably not) and I realized I haven&#039;t submitted one yet.  Either way, I have been busy and I&#039;d love to fill you in on what I&#039;ve been doing.  As you may or may not know, I’m working with the Puget Sound Center for Teaching, Learning, and Technology, located in Bothell, WA and I serve as the coordinator for the TechREACH Alliance Project ( &lt;a href=&quot;http://www.psctlt.org/tap&quot; title=&quot;www.psctlt.org/tap&quot;&gt;www.psctlt.org/tap&lt;/a&gt; ).  One of the main tasks I was charged with was updating our old (and not quite up to date) curriculum.  I spent pretty much all of September working on these new documents for the club leaders to use with their students.  I made some new, and snazzy if I say so myself, power points to help demonstrate the different parts that make up a computer, and how to take one apart.  I also helped to update the 70-or-so page document that will be distributed to each student and the accompanying club leader guide.  I was able to team up with Karen Meyer, basically the curriculum specialist at the Puget Sound center and she really took the information I had compiled and tried to make curriculum, into curriculum.  I’m really happy with the end result and if anyone wants to check it out, I’d be happy to share.  I attached a word document with the first couple chapters of the student materials.  Take a peek if you want.  &lt;/p&gt;
+&lt;p&gt;	So, we had a deadline to finish this curriculum because we had our first club leader training last Monday, October 13th.  We distributed all the new club leader materials and I presented the new activities and information we added.   It was a packed day and we covered a lot of important topics: computer refurbishment, club recruitment, student retention, holding a computer distribution, and last year’s evaluation results.  We just got back the surveys from the training and almost all the responses were positive and confirmed we had a very successful orientation.&lt;/p&gt;
+&lt;p&gt;	So now that the club leaders have been trained I’m really looking forward to my next duties as coordinator.  I’m going to travel to each of the clubs and sit in and see how what I wrote works in the classroom.  I’m really excited to meet some of the kids and evaluate what works and what doesn’t.  And as an added bonus, I’ll be able to travel all across the state of Washington on PSCTLT’s budget (YES!!).   In addition to stopping by the clubs, I’m also in the process of compiling some information and resources for the end of year computer distributions and what we at the PSCTLT (rolls off the tongue, doesn’t it?) have named “Technical Assistance Workshops” (TAWs), which are basically just what they sound like, classes for recipients to learn more about the computers they have.   We’re working closely with the Department of Social and Health Services of the state of Washington to make partnerships and provide trainings for the families that have received computers (this is TAP’s second year).  So basically I’m compiling information and making partnerships.  It’s kinda fun.   &lt;/p&gt;
+&lt;p&gt;	Now I’ll include a personal update because this is my first field report and I’m trying to make up for missing my first two.  So, let’s see.  Living situation is great.  I’m sharing a two bedroom apartment with my twin brother on First aka Pill Hill in Seattle.  Kinda a big deal for me considering Kenyon (where I went to college) didn’t have off campus housing, so it’s my first apartment!  Buying groceries still has some sort of novelty that hasn’t worn off yet.  Unfortunately, First Hill is known as Pill Hill because of the inordinately large number of hospitals located in that area.  This means ambulance sirens.  All. The. Time.  It’s actually not too terrible and I guess I’m getting used to it, but compared to the tranquil central Ohio birdsong it’s a change.  One of the bonuses of living in that area means I have a decent commute.  Bonus you ask?  How is a long commute a bonus?  Well let me explain, Seattle has this really sweet bike path (The Burke-Gilman bike path) and I can ride it home from work.  Door to door it takes about 1.5 hours and it’s about 22 miles or so and the majority of it is on the bike path.   I’m really glad to be biking almost daily (I work from home on Fridays (SWEET!!) and getting a pretty decent workout.  In addition, this means I don’t have to pay for gas / any car related expenses but at the same time, bike repairs can be costly.  In the past few months I’ve broken a spoke, my seat post, had 3 flat tires, been the target of some road rage (dude threatened me with some sort of object (Lead pipe? Hatchet?  Knife?)), and almost died or got into a serious accident.  Overall, I like riding the bike and I don’t foresee any reason to stop soon.  Seattle winters are fairly mild or so I’m told.  And the investment I just made in some rain pants and tights leaves me with no excuses.  &lt;/p&gt;
+&lt;p&gt;Well, that sums things up for me.  I’m looking forward to seeing some of you other VISTAs at the CTCNet conference in November.  Until next time….&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1368#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/988">bike</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/989">commute</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/987">computer refurbishment</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/990">PSCTLT</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/628">train-the-trainer</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Student Materials Sample.doc" length="2725376" type="application/msword" />
+ <pubDate>Tue, 21 Oct 2008 21:18:04 +0000</pubDate>
+ <dc:creator>Wilson Bull</dc:creator>
+ <guid isPermaLink="false">1368 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Digital Media Group Updates March</title>
+ <link>http://digitalartscorps.org/node/627</link>
+ <description>&lt;p&gt;The Digital Media group had a great call last Friday around finding, developing and sharing curricula for digital media programs.  We&amp;#39;re aiming to share as much as possible on the CTC VISTA wiki page &amp;lt;&lt;a href=&quot;/node/558&quot; target=&quot;_blank&quot;&gt;http://www.ctcvista.org/node/558&lt;/a&gt;&amp;gt; and shoot more proprietary stuff to each other by email.  Kevin and AJ also added a bunch of new pages so check out the Digital Media section for more content!&lt;/p&gt;
+&lt;p&gt; &lt;span&gt;The next conference call is scheduled for Friday April 13th at 2pm EST.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; Here&amp;#39;s the individual updates...&lt;/p&gt;
+&lt;p&gt; •    AJ (HOME Inc) -&lt;span&gt;big screening/presentation&lt;/span&gt; in front of whole school of youth work, congrats!; &lt;br /&gt; •    Colleen - &lt;span&gt;moved to CTC VISTA Project HQ&lt;/span&gt; to work on outreach, communications, and the CTC VISTA wiki&lt;br /&gt; •    Dan (Pui Tak Center) – created &lt;span&gt;templates&lt;/span&gt; for org newsletter, annual report, and website.&lt;br /&gt; •    Derek (Phillips Community Television) – &lt;span&gt;workshop on graphic design and logo development&lt;/span&gt; for high school youth (9 weeks long, 1 day week); created new website for PCTV in Drupal (interested in Drupal working group); working with Youth Media Network trying to step up more community outreach, so working on marketing and coordination for the fall screening; might work on manual for youth program on a starter manual for new youth&lt;br /&gt; •    Elisha (TINCAN) - first tasks included updating documentation from former VISTA; working on a new grant to extend the current program to &lt;span&gt;work with small town museums to digitize their collections&lt;/span&gt;, get it online, and create videos about themselves; working with community outreach to get more contributors for the History website; outreach to History teachers in the area&lt;br /&gt; •    Gariet (Portland Community Television/OLLIE) - still implementing OLLIE program with schools and working on Youth Video Exchange Network video sharing (with some technical difficulties with format)&lt;br /&gt; •    Jessica (CDS) - ongoing mentoring of a youth project; l&lt;span&gt;earning to communicate with community partners&lt;/span&gt; (listening skills);&lt;br /&gt; •    Julie (BNN) - teaching herself Audience software (for &lt;span&gt;community billboards&lt;/span&gt;) and working on Roxbury studio programs to train the youth to use the software.&lt;br /&gt; •    Kevin (HOME Inc.) - applying for C4All grant to hire a consultant to upgrade school&amp;#39;s technology centers for accessibility and do data research; &lt;span&gt;created organizational handbook&lt;/span&gt; for HOME Inc (lots of project management and strategic planning experience)&lt;br /&gt; •    Lashanda (Benton Harbor African Arts and Culture Council) - working with Helen Mitchell, the Executive Director, whose working with one of the local community newspapers, to add &lt;span&gt;newspaper and journalism to the after school program&lt;/span&gt;&lt;br /&gt; •    Leena (YMCA of Greater Boston) - getting oriented into afterschool program and working with current staff to &lt;span&gt;integrate more technology into current programs&lt;/span&gt;; implementing Kinetic City curriculum (science and engineering projects); looking for more formal curriculum structure formats&lt;br /&gt; •    Mike (The Media Aid Center) - working on Media Aid Center &lt;span&gt;community kiosks&lt;/span&gt; in the community and putting microphones for audio recording.&lt;br /&gt; •    Naomi (OTXWest) - helping out with updating the website; added stuff to curriculum for classes; getting &lt;span&gt;more digital media elements into existing programs;&lt;/span&gt; Project Soar summer program with schools doing digital storytelling&lt;br /&gt; •    Ramon (The Media Aid Center) - making phone calls to organizations for &lt;span&gt;outreach, field trips, potential volunteers, and new members&lt;/span&gt;; working on camera angles curriculum for summer program and how to set up a green screen&lt;br /&gt; •    Ray (Computers4Kids) - starting to think about life after vista (degree in engineering); set up new machines from Dell; attendance for workshops is getting better; plans to spend last couple months to sit down to crank out &lt;span&gt;instructor manuals&lt;/span&gt;;&lt;br /&gt; •    Renae (Pink House) - working on a &lt;span&gt;online radio show with youth&lt;/span&gt;, with volunteers/ local celebrities from the neighborhood (through BlogTalkRadio.com); will send me an update.&lt;br /&gt; •    Richard (Grand Rapids Community Media Center) - working on a United Way grant for the MOLLIE program; the GRMC as a whole is fundraising to support the whole center and also to recruit youth for summer program to do &lt;span&gt;video about community&lt;/span&gt;; looking for audio curriculum for a class&lt;br /&gt; •    Shaneka (Westside Youth Technical Entrepreneur Center) - was supposed to the ICCN Manager&amp;#39;s training this week but flights got canceled; still doing the video production/music; connecting with middle school; I&lt;span&gt;llinois Inst of Tech Women&amp;#39;s month program for girls with HD cameras &lt;/span&gt;to do interviews with different generations of women and the video that was produced was played at a cultural event;&lt;br /&gt; •    Tony (Boys &amp;amp; Girls Clubs of the East Valley, AZ) - going to a WTEA Wisconsin Tech Ed March 26th; a bunch of tech events like an awards banquet, tech field trip to CA (need to raise money); still writing &lt;span&gt;grants for new furniture from IKEA&lt;/span&gt; donation request from local store; &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/627#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/428">digital media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/455">digital media group</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <pubDate>Wed, 14 Mar 2007 20:23:51 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">627 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Youth Development</title>
+ <link>http://digitalartscorps.org/node/567</link>
+ <description>&lt;p&gt;&lt;strong&gt;Tips for Teaching&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are many methods and approaches but the ones that work best are youth-centered and hands-on. On subsequent pages are several methods and approaches for planning and getting started with your DAY program, including project-based learning, portfolios, after school and in-school activities. Also, creating the space (DAY studio) is important, as well as developing the actual activities for your program. Upon request are some great lessons for teaching digital art (on CD).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Digital Art   Youth Program (DAY) &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In 2000, three community-based technology centers across the country launched &amp;quot;ArtTech&amp;quot;, a five-week summer program that introduced youth to multimedia. Soon after the project was renamed the &lt;a href=&quot;http://dayprogram.net/&quot;&gt;Digital     Art Youth Program&lt;/a&gt; or DAY. &lt;a href=&quot;mailto:nettrice@gmail.com&quot;&gt;Nettrice Gaskins&lt;/a&gt; created a resource guide for practitioners that was made available upon request. She also ran a local DAY program at the Boston Neighborhood Network from 2001-2004, with the help of an AmeriCorps VISTA (Derek Hixon). The Boston program served nearly a hundred local youth between the ages of 13 and 18. Additionally, Nettrice worked with a public high school in Dorchester to create school-based curriculum for teachers and students. &lt;/p&gt;
+&lt;p&gt;Creating the DAY resource guide has been a labor of love for Nettrice (she did not profit from it). For more information about the guide visit the &lt;a href=&quot;http://dayprogram.net/&quot;&gt;DAY     web site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Computer Animation &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In 2005, Nettrice taught three computer animation classes at the Massachusetts College of Art. Two of the classes were for 12-18 year olds and the other was for high school students. For these classes Nettrice developed a &lt;a href=&quot;http://babel.massart.edu/%7Enettrice/&quot;&gt;web     site&lt;/a&gt; and &lt;a href=&quot;http://babel.massart.edu/%7Enettrice/stuff_page.html&quot;&gt;curriculum&lt;/a&gt;. The activities   culminated in a CD/DVD and screening of youth work.   The work can also be seen on the web here: &lt;a href=&quot;http://portal.nettrice.us/bm/&quot;&gt;Digital     Media Channel&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youth Entrepreneurship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Entrepreneurship&quot; target=&quot;_blank&quot;&gt;Wikipedia &lt;/a&gt;defines &lt;strong&gt;entrepreneurship&lt;/strong&gt; as &amp;quot;the practice of starting new &lt;a href=&quot;http://en.wikipedia.org/wiki/Organization&quot; title=&quot;Organization&quot;&gt;organizations&lt;/a&gt;, particularly new &lt;a href=&quot;http://en.wikipedia.org/wiki/Business&quot; title=&quot;Business&quot;&gt;businesses&lt;/a&gt; generally in response to identified opportunities.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Organizations such as &lt;a href=&quot;http://www.nfte.com/about/&quot; target=&quot;_blank&quot;&gt;National Foundation for Teaching Entrepreneurship&lt;/a&gt; have the mission &amp;quot;to teach entrepreneurship to young people from low-income communities to enhance their economic productivity by improving their business, academic and life skills.&amp;quot;&lt;/p&gt;
+&lt;p&gt;One of CTC VISTA Project&amp;#39;s participants, &lt;a href=&quot;http://yes-inc.org&quot; target=&quot;_blank&quot;&gt; The Young Entrepreneurs Society&lt;/a&gt; (YES), has a mission of &amp;quot;North Quabbin/Franklin County youth unlocking their potential through entrepreneurship, job readiness, financial and technology education and action&amp;quot; and does so with programs such as a buisness center, cyber cafe, and social service marketing projects.&lt;/p&gt;
+&lt;p&gt;What other projects or ideas are floating around about entrepreneurship?  Here&amp;#39;s a place to start! &lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/428">digital media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/135">media literacy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/391">youth development</category>
+ <pubDate>Mon, 05 Mar 2007 16:38:58 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">567 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Some Examples of Digital Media Curricula Created by VISTAs</title>
+ <link>http://digitalartscorps.org/node/558</link>
+ <description>&lt;p&gt;Here&#039;s some curricula and/or handouts created by VISTAs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/files/Shot Composition Packet.pdf&lt;br /&gt;
+&quot;&gt;Shot Composition Packet (Media Bridges - Lauren)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MOSAIC, Digital video bootcamp (english high school)  (HOME Inc - Kevin/AJ)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/files/Digital Photography Class.pdf&quot;&gt;Digital Photography Course Packet (Media Bridges - Lauren Bratslavsky)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Media Literacy (Project Think Different - Colleen)&lt;/li&gt;
+&lt;li&gt;Basic Computer Skills (Shaneka)&lt;/li&gt;
+&lt;li&gt;PhotoBooth (Media Bridges - Lauren)&lt;/li&gt;
+&lt;li&gt;Digital Storytelling (Center for Digital Storytelling - Jessica)&lt;/li&gt;
+&lt;li&gt;?? (Computers 4 Kids - Ray)&lt;/li&gt;
+&lt;li&gt;Video (Reelworks - Will)&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;&lt;li&gt;After school Curriculum with a Radio Station (Lashanda)&lt;/li&gt;
+&lt;li&gt;Creating a Youth Online Radio Station (Pink House - Renae)
+&lt;/li&gt;&lt;li&gt;tips/forms for student project management
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also, here&#039;s some curricula used/recommended by VISTAs from other sources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adobe website&lt;/li&gt;
+&lt;li&gt;Youth Learn (EDC)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ctcnet.org/resources/dir/index.php?sid=639985216&amp;amp;t=cat_expert_page&amp;amp;cat=198&quot;&gt;CTCNet Resource Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://del.icio.us/CTCVISTA/curriculum&quot;&gt;Danielle&#039;s Curriculum links on Delicious&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Need basic curricula templates/guides?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ctn-archive.informationsage.org/resources/toolkits/youthlearn/pdf/curriculum_worksheet.pdf&quot;&gt;YouthLearn  Curriculum Development Worksheet&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ctcvista.org/files/curriculum from school teacher - apple.doc&quot;&gt;From Apple website (by teacher)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/296">citizen journalism</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1131">community development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/133">community media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/121">links</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/curriculum from school teacher - apple.doc" length="81698" type="application/msword" />
+ <pubDate>Tue, 27 Feb 2007 19:08:25 +0000</pubDate>
+ <dc:creator>lauren bratslavsky</dc:creator>
+ <guid isPermaLink="false">558 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Moving right along</title>
+ <link>http://digitalartscorps.org/node/518</link>
+ <description>&lt;p&gt;Hi.  Just an intro for the new vistas, I&amp;#39;ve been working on developing and starting a youth media program at the public access center in Cincinnati.  It started off slow and bit discouraging but it&amp;#39;s starting to gain speed and so on. &lt;/p&gt;
+&lt;p&gt;Last Wed, I started teaching a video production/media literacy class for a group of high school students from a charter school.  This week would have been week number two, but Cincinnati had a snow emergency on Tues and Wed which also meant a snow day!  (the city shut down early, if that&amp;#39;s possible because of six inches of snow, people freak out with even the mention of snow around here....).  Anyways, I&amp;#39;m basing this class off the Youth Channel&amp;#39;s PSA/documentary curriculum, available on their website &lt;a href=&quot;/www.youthchannel.org&quot; target=&quot;_blank&quot; title=&quot;www.youthchannel.org &quot;&gt;www.youthchannel.org &lt;/a&gt;.  It&amp;#39;s my first real teaching experience.  And it&amp;#39;s not so bad so far, though I did accidentally say shit, which they thought was a riot.    &lt;/p&gt;
+&lt;p&gt;I&amp;#39;ve been getting calls from YMCA, afterschool programs, and youth-job training programs about doing some workshops.  I guess it&amp;#39;s just been a matter of talking to people about what I do here and accomodating to their needs, times, and desired outcomes.   &lt;/p&gt;
+&lt;p&gt; Also recently established is our &amp;#39;youth channel&amp;#39; called the Youth Media Block, shown on our educational access channel tuesdays and thursdays in three blocks of time - 4-6 (for the afterschool crowd), 8-10 (primetime for the university&amp;#39;s broadcast of their news and now we&amp;#39;re getting cinci schools to submit their highschool games) and an afterhours block midnight-2am for the &amp;#39;adultish&amp;#39; content.  I&amp;#39;ve signed up for the &lt;a href=&quot;http://www.nymapexchange.net/&quot; target=&quot;_blank&quot; title=&quot;http://www.nymapexchange.net/&quot;&gt;NYMAP- youth video exchange network&lt;/a&gt; that Danielle has mentioned so that I can get a stream of content from other access centers.  We&amp;#39;ll be making and sharing some productions out of the &amp;#39;nati soon. &lt;/p&gt;
+&lt;p&gt; Oh - here&amp;#39;s 2 tutorials I put together for my Saturday program - Youth Media Lab.   Ummm.  yah.    One tutorial is a brief intro to the mac, about the desktop, where to find applications and and different view modes.  It&amp;#39;s pretty basic.  I&amp;#39;ll be expanding it soon.  The other one is an activity using Photoshop Elements, or you can use Photoshop.  If you have the newest macs with photobooth, it encorporates that but is not necessary.   Feel free to alter as you see fit.  I&amp;#39;m working on an iMovie tutorial... .   It seems i can only upload the photoshop one right now.  the other one is too large because of the pictures.  if you&amp;#39;re interested in the other one, email me.    &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/518#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/129">digital distribution</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/85">youth media</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Photoshop activity - yml.doc" length="1008640" type="application/msword" />
+ <pubDate>Fri, 09 Feb 2007 21:04:46 +0000</pubDate>
+ <dc:creator>lauren bratslavsky</dc:creator>
+ <guid isPermaLink="false">518 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>On Being a Community Servant</title>
+ <link>http://digitalartscorps.org/node/309</link>
+ <description>&lt;p&gt;&lt;a href=&quot;mailto:/donnette82@yahoo.com&quot; target=&quot;_blank&quot; title=&quot;donnette82@yahoo.com&quot;&gt;by Nichole Payne &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was having a conversation with an intellectual recently. He was debating whether or not he should take time off to do community service or go straight to graduate school.   He noted dispassionately, “In two hundred years, we’ll all be dead anyway.” &lt;/p&gt;
+&lt;p&gt;His idea seems to be that we are in some kind of rat race to achieve our goals and make something of our lives.  This idea only makes sense, though, if those achievements will be completely permanent, and I don’t believe they can be.  Even if you produce a great work of literature that continues to be read hundreds of years from now, eventually the solar system will cool or the universe will wind down or collapse and all trace of your efforts will vanish.  And in any case, we can’t hope for even a fraction of this sort of immortality.  What my friend doesn’t understand is that change is personal, and if there is any point at all to what we do, we have to find it within our own lives. This is the reason I joined up, as did so many others, to serve as an AmeriCorps VISTA.&lt;/p&gt;
+&lt;p&gt;I grew up in a densely populated urban community beset with gang activity, disaffected leaders and failing schools.  I once heard a disgruntled teacher mutter, “There is no hope for people like them.” Even in the face of people like that teacher who believed our plight irrevocable, I fought for change.  I was the first in my family to go to college and pursue a life of education and middle class existence.  I never felt the burden or schizophrenia associated with straddling both these realities.  I always felt plugged in, privy to information neither side knew well enough to comment on.  Creating a program like Mind Over Media, at Technology For All in Houston, Texas, allowed me to capitalize on this position, with the chance to share my experiences with students who have similar backgrounds to mine.  I was able to share my experiences in a world outside the forced provinciality of the ghetto. I took students to campus tours, and they got an opportunity to speak with professors and college administrators about their dreams. It was amazing. Now Armando, a CEP student kicked out of numerous high schools for delinquency, wants to study abroad in Japan for computer engineering. I ‘m not taking credit for these students’ dreams, but I will take credit for the transformation of their dreams into tangible goals, maybe even attainable plans.&lt;/p&gt;
+&lt;p&gt;I believe that the true role of a community servant should be creating culturally relevant curricula, programs, and organizations. With the support and fellowship of CTC VISTAs and the guidance of VISTA Leaders and Project staff, I was able to make my work more than just relevant for others at Tech For All – I was proud to build my own self-efficacy. My friend’s true dilemma was that he had lost his sense of personal viability in his questions about service. The difference you try to make in life should be connected to &lt;em&gt;you&lt;/em&gt;; otherwise you run the risk of seeing your life embedded in too large a context.  Many human efforts, particularly those in the service of serious ambitions rather than comfort or survival, get some of their energy from a sense of importance. You have to be infused with the sense that what you’re doing is not just important to you, but important in some larger sense.  Sometimes it’s just knowing your efforts are important, period. If we have to give this up, it may threaten to take the wind out of our sails. If life is not real, life is not earnest. Then our only goal is the grave.&lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;Nichole Payne was formerly a CTC VISTA at Technology for All in Houston, TX and developed a digital video / media literacy after school program for teens called Mind Over Media (check out the video).  Nichole is currently a PhD student in the Anthropology program at Rice University.&lt;/div&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/14">digitalmedia</category>
+ <pubDate>Fri, 17 Nov 2006 18:20:32 +0000</pubDate>
+ <dc:creator>Nichole Payne</dc:creator>
+ <guid isPermaLink="false">309 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Lessons Learned: Summer Youth Tech Program at C4K</title>
+ <link>http://digitalartscorps.org/digest/fall06/blog_raymond</link>
+ <description>&lt;p&gt;[From the blog of &lt;a href=&quot;/user/836&quot;&gt;Raymond Varona&lt;/a&gt;, &lt;a href=&quot;http://www.cpcs.umb.edu/vista/blog/raymond_varona/archives/001447.html#comments&quot;&gt;August 23, 2006&lt;/a&gt;.]&lt;br /&gt;
+&lt;div class=&quot;float_right&quot;&gt;&lt;img src=&quot;/files/profile-images/picture-836.jpg&quot; alt=&quot;CTC VISTA Ray Varona&quot; title=&quot;CTC VISTA Ray Varona&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; width=&quot;85&quot; height=&quot;71&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Raymond Varona&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt;During the summer, most of our population was made up of kids whose primary language wasn&amp;#39;t English and who had never used a computer before. As a result, the workshops were more like guided activities instead of real skill-building sessions since I have to literally show them, step-by-step, how to do every action (including opening files and browsing through folders). So I started off with an intro to Photoshop and gradually worked my content down to the point where my last workshop was on how to change fonts in different programs...&lt;/p&gt;
+&lt;p&gt;This brings up a significant problem for &lt;a href=&quot;http://www.computers4kids.net/&quot;&gt;Computers 4 Kids&lt;/a&gt; in that we have some kids that are learning how to program and others that are learning how to use a mouse, and somehow our programs and curricula have to include both. Definitely something I&amp;#39;ll continue to address as the year presses on.&lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;Read more from Ray&amp;#39;s new CTC VISTA &lt;a href=&quot;/blog/836&quot;&gt;blog&lt;/a&gt;.&lt;/div&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/14">digitalmedia</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/346">summer</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <pubDate>Wed, 08 Nov 2006 18:48:39 +0000</pubDate>
+ <dc:creator>Raymond Varona</dc:creator>
+ <guid isPermaLink="false">283 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>TeachForward.org: Online Curriculum-Sharing</title>
+ <link>http://digitalartscorps.org/digest/fall06/teachforward</link>
+ <description>&lt;p&gt;by &lt;a href=&quot;mailto:robert.lucas@gmail.com&quot; target=&quot;_blank&quot; title=&quot;robert.lucas@gmail.com&quot;&gt;Rob Lucas&lt;/a&gt;&lt;br /&gt;
+&lt;div class=&quot;float_right&quot;&gt;&lt;img src=&quot;/files/user976/roblucas_at_pso.jpg&quot; alt=&quot;Rob Lucas at CTC VISTA Pre-Service Orientation&quot; title=&quot;Rob Lucas at CTC VISTA Pre-Service Orientation&quot; hspace=&quot;10&quot; vspace=&quot;5&quot; width=&quot;200&quot; height=&quot;150&quot; /&gt;&lt;br /&gt;
+&lt;div class=&quot;caption&quot;&gt;Rob Lucas at Sept PSO&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt;A great lesson can change a student&amp;#39;s life.  Perhaps the most famous life-changing lesson was the one first taught by Jane Elliot who, in the aftermath of Dr. Martin Luther King Jr.’s assassination, taught her Iowa schoolchildren about the profound effects of discrimination by grouping them by the color of their eyes.  While few teachers or lessons achieve this level of renown, nearly everyone I meet can cite some lesson that changed the way they saw the world—a science experiment, for example, a simulation of the UN, or a poetry reading.  I became a teacher because I wanted to have this kind of impact on students.&lt;/p&gt;
+&lt;p&gt;But 3 years ago, during my first year of teaching, I didn’t feel my lessons were changing many lives.  Sure, I had some hits, but I had many more misses.  For each lesson that missed, I knew that a teacher somewhere had come up with an incredible way to teach the same topic, but frustratingly, I had no way to benefit from their work.  After they’re taught, most great lessons find their way to dusty filing cabinets, never to be seen by another soul.&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;&lt;strong&gt;Technical Obstacles&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;The problem is certainly not new.  More than 75 years ago, John Dewey observed, &lt;/p&gt;
+&lt;p&gt;   The successes of [excellent teachers] tend to be born and die with them: beneficial consequences extend only to those pupils who have personal contact with the gifted teachers.  No one can measure the waste and loss that have come from the fact that the contributions of such men and women in the past have been thus confined.  (&lt;em&gt;The Sources of a Science of Education&lt;/em&gt;, 1929)&lt;/p&gt;
+&lt;p&gt;   We’ve made some progress since 1929.  Magazines and journals publicize best practices, and many school districts have mentoring programs.  But based on my experience and the conversations I’ve had with other teachers, our educational system provides far too little in the way of polished, detailed lesson plans and teaching materials.&lt;/p&gt;
+&lt;p&gt;   Fortunately, we have a tool at our disposal that previous generations lacked—the Internet.  A Google search for “lesson plans” yields nearly 19 million hits.  But most lesson plan sites lack the community features that have become standard on other sites, such as user ratings, topical tags, social networking, and wiki pages that can be edited and improved by other users.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class=&quot;float_center&quot;&gt;&lt;a href=&quot;http://teachforward.org/&quot;&gt;&lt;img src=&quot;http://www.teachforward.org/tf_toplogo.gif&quot; alt=&quot;TeachForward.org&quot; hspace=&quot;10&quot; vspace=&quot;5&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For the past two-and-a-half years, I’ve been working to fill that gap.  During my summer after my first year of teaching, I took the first step, creating a wiki-based lesson-sharing site called the &lt;a href=&quot;http://teacherslounge.editme.com/&quot;&gt;Teachers’ Lounge&lt;/a&gt;.  Inspired by the success of that site, I left my school in rural North Carolina to come to Boston, pursue a masters degree in educational technology, and start a fully-featured site and a nonprofit organization to run it.  Those efforts will bear fruit this fall at &lt;a href=&quot;http://teachforward.org/&quot;&gt;http://TeachForward.org&lt;/a&gt;, a community in which teachers will be able to share their favorite lessons and to benefit from the best work of their colleagues around the country.&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;&lt;strong&gt;Legal Obstacles&lt;/strong&gt; &lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;I’ve come to realize, however, the obstacles to curriculum-sharing are not only technical but also legal.  A great deal of teachers’ work consists of adapting materials from various sources—video clips taped from TV, images from the Web, lesson plans from the teacher down the hall, and practice problems from old textbooks stowed in the back of the classroom.  Most classroom use of these materials is legally protected under the doctrine of ‘fair use’, but as Harvard Law professor Bill Fisher and his colleagues &lt;a href=&quot;http://cyber.law.harvard.edu/media/files/copyrightandeducation.html&quot;&gt;have noted&lt;/a&gt;), sharing of the copyrighted resources online is often illegal.  &lt;/p&gt;
+&lt;p&gt;   Thus, teachers cannot benefit from a cycle of adaptation and refinement, and the teaching profession will not develop the systems of continuous curricular improvement that it so desperately needs.  Even most nonprofit online lesson sites fail to recognize the importance of republication, publishing their works under licenses that allow classroom use but not modification and republication.&lt;/p&gt;
+&lt;p&gt;   To overcome this obstacle, TeachForward uses an innovative licensing scheme developed by Creative Commons, a nonprofit organization founded in 2001 by Stanford Law Professor Lawrence Lessig.  All works on TeachForward.org will be published under a Creative Commons license, which explicitly allows users to modify and repost them, whether on our site or elsewhere.  The only requirements are that the new work must be published under the same license and that attribution must be provided to the original creator.  &lt;/p&gt;
+&lt;p&gt;   Working alongside public domain repositories like Project Gutenberg and other ‘open content’ projects such as Wikipedia, OpenClipArt.org, and Flickr’s Creative Commons photo search, TeachForward is helping to create a base of resources that teachers can use, modify and re-post without fear of copyright violation.  We invite other mission-driven nonprofits to investigate these issues for themselves and to join us in building this educators’ commons.&lt;/p&gt;
+&lt;div class=&quot;bio&quot;&gt;Rob Lucas, creator of teachforward.org, presented his Creative Commons based social networking project to VISTA members at the Pre-Service Orientation in September.  A former Teach for America participant, Rob went on to earn his Masters of Education in Technology, Innovation, and Education from Harvard Graduate School of Education.  While teaching, he organized a lesson-sharing wiki called the Teachers’Lounge, and is currently developing teachforward.org from the Boston area.&lt;/div&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <pubDate>Wed, 18 Oct 2006 22:48:50 +0000</pubDate>
+ <dc:creator>Erin Taylor</dc:creator>
+ <guid isPermaLink="false">217 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

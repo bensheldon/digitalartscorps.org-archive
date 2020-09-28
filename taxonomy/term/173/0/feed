@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Social Source Commons</title>
+ <link>http://digitalartscorps.org/taxonomy/term/173/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Information about Samba</title>
+ <link>http://digitalartscorps.org/node/179</link>
+ <description>&lt;p&gt;In our teleconference today, John mentioned that he was installing Samba on workstations for his position.  I offered to find documentation to help him out if he needed it.  This dovetails nicely with my responsibilities, as I was able to post the resources I found onto Samba&amp;#39;s page on the Social Source commons website.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://socialsourcecommons.org/tool/show/285/&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;BTW, if anyone else is looking for documentation for tools, let me know and I&amp;#39;ll see what I can find. &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/179#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/164">FOSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/172">Samba</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/173">Social Source Commons</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/81">tech</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/115">tech assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/20">tool</category>
+ <pubDate>Fri, 06 Oct 2006 22:55:02 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">179 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

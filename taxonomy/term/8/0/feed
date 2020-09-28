@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - internet</title>
+ <link>http://digitalartscorps.org/taxonomy/term/8/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Websites</title>
+ <link>http://digitalartscorps.org/node/1790</link>
+ <description>&lt;p&gt;This area is for any and all resources related to Websites.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/157">websites</category>
+ <pubDate>Tue, 07 Sep 2010 15:48:25 +0000</pubDate>
+ <dc:creator>Bill Brown</dc:creator>
+ <guid isPermaLink="false">1790 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month One: Series of Tubes</title>
+ <link>http://digitalartscorps.org/node/1552</link>
+ <description>&lt;p&gt;It&#039;s like being in Hawaii with the extended family.  Being called &quot;hapa&quot; brings back the memories.&lt;/p&gt;
+&lt;p&gt;At the moment, I&#039;m writing a manual that will serve as a crash course in wireless networking, networking hardware, and monitoring/maintaining the networks that are at LTSC.  The goal is to recruit residents from LTSC affordable housing to take care of the wireless internet and have this manual as a resource for them.  It&#039;s been pretty interesting to learn about wireless mesh networks, and I think they&#039;re a pretty neat alternative to traditional wireless networks.  It is a little weird to be writing a manual for something I am only just learning myself, but the outgoing tech coordinator has been patient and there are tons of great resources online, so it&#039;s been a fairly speedy process.  I worry that not enough community members are interested in volunteering to become &quot;network caretakers,&quot; but hopefully there will be more interest in the upcoming meetings.&lt;/p&gt;
+&lt;p&gt;Meanwhile, have also been working on planning and deploying a new mesh network that will provide wireless coverage to a new section of Little Tokyo.  This network will for the public and for small businesses (as opposed to the free access LTSC provides for affordable housing).  The next month is going to involve planning the deployment and working with an intern to approach businesses and see if they will host a wireless node and help us build out the network.&lt;/p&gt;
+&lt;p&gt;The work load so far has been manageable, but am anticipating a lot more work in the next few months as our outreach meetings with tenants become more frequent.  I do feel like I&#039;m juggling a lot of disparate projects, between the deployment of the new public wifi, the affordable housing wifi stuff, and other little projects.&lt;/p&gt;
+&lt;p&gt;I&#039;m really looking forward to meeting with residents more often.  One of our older residents is a monk...she is awesome and is totally up on technology and using the wireless (and nagging us if anything goes wrong).  There have been sad moments though, like when one of the residents hung himself.  :(  Brings home how isolated and unhappy some of the people who live here are...  Still trying to process that, makes working on wireless feel a little silly you know?&lt;/p&gt;
+&lt;p&gt;Attached: a laser reading of the temp on top of the Japanese American National Museum.  At least the routers get heat shields.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1552#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1110">awkward</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1108">Little Tokyo Service Center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1109">manual writing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/janmroof.JPG" length="166756" type="image/jpeg" />
+ <pubDate>Mon, 31 Aug 2009 20:58:25 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1552 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Working hard on things that are hardly working</title>
+ <link>http://digitalartscorps.org/node/983</link>
+ <description>&lt;p&gt;It&#039;s been an uphill battle this week with our internet service provider, who has been doing maintenance in this area resulting in major outages for Acorn&#039;s Chambana.net datacenter, along with all of the other network services in the building. Between me and my supervisor we&#039;ve probably spent about 4-5 hours on hold with tech support over the last couple days. There&#039;s been a lot of talk about switching to some other ISP instead of Insight, but most of our options are significantly more expensive for little more capacity than what we already have. We are still hoping to get a deal with the city of Urbana for a fiber connection into the building, but that seems to have stalled for the time being. On the bright side, we&#039;ve managed to find a couple of really nice 42u racks for only $100 a piece (these are worth more like $800) that belong to a friend of the project, and so we&#039;re going to be moving those into our server room soon, and it&#039;ll be a lot better than having our servers sitting on crappy wire shelves or on the floor. Still a lot of work to do getting Chambana.net up to spec, but I hope by the end of the year we&#039;ll have completely fast and redundant hosting services on real racks with gigabit ethernet, a fiber connection, battery backups, good electrical, physical security, HVAC, and good distributed management/monitoring capability. We hope to have our main website updated in the next couple of weeks, and I&#039;m going to try and integrate all of our services into that drupal installation, including a donations page and a ticketing system.&lt;/p&gt;
+&lt;p&gt;On the wireless side of things, soon we&#039;re hopefully going to be getting a research grant from the NSF. We&#039;ll be able to do a lot of development and even a little hardware deployment with the money we&#039;ll get. We&#039;ve also got a tentative deployment plan with the city of Urbana that will deploy three more nodes, after which we&#039;ll have all of the outdoor seating areas in the downtown provided with public wifi hotspots. We need to move fast on this because Urbana&#039;s adjoining city of Champaign just announced a deal with a company to deploy a proprietary wireless tech in their downtown, and we don&#039;t want them to beat us to the punch when we&#039;ve been working on our grassroots OSS solution for the last three years.&lt;/p&gt;
+&lt;p&gt;Finally, got my loan forbearance and am applying for foodstamps, so I should hopefully squeak by at the end of the month here.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/983#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/795">freebsd</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/175">Linux</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/797">network</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/796">server</category>
+ <pubDate>Fri, 13 Jul 2007 19:24:08 +0000</pubDate>
+ <dc:creator>Josh King</dc:creator>
+ <guid isPermaLink="false">983 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Librarian&#039;s Internet Index</title>
+ <link>http://digitalartscorps.org/node/258</link>
+ <description>&lt;p&gt;So I just ran across an interesting site, the &lt;a href=&quot;http://lii.org/&quot;&gt;Librarian&amp;#39;s Internet Index.&lt;/a&gt; As the name suggests, it is an index of websites organized into categories and then subtopics. Each area contains links and short descriptions of relevant, useful websites.  The sites listed have actually been reviewed by librarians and recommended as containing quality information. These aren&amp;#39;t just random Google search results. Seems like this could be a useful research tool, especially for folks working with young people in/outside of schools. &lt;/p&gt;
+&lt;p&gt;The site also offers a &amp;quot;New this Week&amp;quot; email newsletter. Opening of the Oct. 26 newsletter: &amp;quot;&lt;span class=&quot;text&quot;&gt;This week grow what you know with websites about elections, Halloween festivities, iron ore, invisibility cloaks, federal spending, spider bites, paper cranes, prisons in the UK, and more. &lt;/span&gt;&lt;span class=&quot;text&quot;&gt;Bon appetit from librarians Karen, Wendy, Jennifer, Maria, and Charlotte.&amp;quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; Hmmm...Maybe it&amp;#39;s a little old-school, but I like it. I like it because the hit-or-miss nature of search engines can be frustrating (especially when working with kids!).  And because I think librarians are cool people.   :o) &lt;/p&gt;
+&lt;p&gt;--Jessica &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/258#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/313">afterschool</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/310">index</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/308">librarians</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/309">reference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/314">research</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/311">search</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/312">technology</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/157">websites</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <pubDate>Wed, 01 Nov 2006 22:27:05 +0000</pubDate>
+ <dc:creator>Jessica McCoy</dc:creator>
+ <guid isPermaLink="false">258 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Net Neutrality on PBS</title>
+ <link>http://digitalartscorps.org/node/228</link>
+ <description>&lt;p&gt;Forgot to mention - &lt;/p&gt;
+&lt;p&gt;DId anyone catch Moyers on America last week on PBS?   It was called &amp;quot;The Net at Risk&amp;quot;, very informative.  Starts off with what the phone and cable companies promised to do in the 90s with the fiber optic networks.   Then proceeds into the net neutrality issue and a whole slew of metaphors to describe the internet and what the phone/cable companies / congress / fcc may do.  &lt;/p&gt;
+&lt;p&gt; Watch for free online!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.pbs.org/moyers/moyersonamerica/net/index.html&quot; target=&quot;_blank&quot; title=&quot;http://www.pbs.org/moyers/moyersonamerica/net/index.html &quot;&gt;http://www.pbs.org/moyers/moyersonamerica/net/index.html &lt;/a&gt; &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/228#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/246">bill moyers</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/247">how the phone companies have screwed us</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/5">Net Neutrality</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/245">pbs</category>
+ <pubDate>Mon, 23 Oct 2006 15:17:23 +0000</pubDate>
+ <dc:creator>lauren bratslavsky</dc:creator>
+ <guid isPermaLink="false">228 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>CUWiN -- One Web Day</title>
+ <link>http://digitalartscorps.org/node/117</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;CUWiN is participating in One Web Day (&lt;a href=&quot;http://www.onewebday.com&quot; title=&quot;http://www.onewebday.com&quot;&gt;http://www.onewebday.com&lt;/a&gt;), a celebration of the openness and freedom of the Internet and how it has become a major part of our lives.  On Friday, September 22, CUWiN will join other community network organizations around the world in celebration and education.  CUWiN will be hosting an open house were people can become familar us, what we do, and community wireless network.  We will also be designating part of our office space and allowing the use of our LAN for gaming (BYOG -- Bring Your Own Games).  The organizers of One Web Day are encouraging people to document their celebration by uploading photos from the day the Flickr, and tagging them with onewebday.&lt;/p&gt;
+&lt;p&gt;While not part of the day&amp;#39;s activities, CUWiN will be hosting its monthly &amp;quot;Hack Night&amp;quot; on Sunday.  This hack night&amp;#39;s focus will be a community wireless forum, and will serve as an oppurtunity to further educate the community on community wireless networks, as well as gain input from the community as to the direction they would like to see the project take. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/117#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/104">onewebday</category>
+ <pubDate>Tue, 19 Sep 2006 02:36:20 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">117 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A response for Net Neutrality</title>
+ <link>http://digitalartscorps.org/node/5</link>
+ <description>&lt;p&gt;This morning a co-worker placed an article from the July 2006 edition of Communications Engineering and Design Magazine entitled &lt;a href=&quot;http://www.cedmagazine.com/article/CA6348436.html&quot;&gt;&quot;Net neutrality legislation--my take on it&quot;&lt;/a&gt; by Jeffrey Krauss, President of Telecommunications and Technology Policy.&lt;/p&gt;
+&lt;p&gt;Net Neutrality is an important issue; pending legislation and changing business practices have the potential to dramatically change how we use the Internet. Below I have responded to some of the points Mr. Krauss brought up in the article.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;&quot;There&#039;s an enormous coalition supporting net neutrality, hundreds of individuals and organizations and companies that I have never heard of. But if you follow the money, you find that it&#039;s really Google, Amazon.com, eBay and Yahoo! that are behind this campaign.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yes, there is wide support for Net Neutrality and for good reason. I run several small websites (and am known to browse the web myself), and am happy that Google, Amazon.com, et al are behind the campaign and helping to pay for it. I don&#039;t have the money or resources to fight for Net Neutrality as well as they can, so I&#039;m really glad that&lt;br /&gt;
+they are.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;Never mind that was no evidence that any ISP was blocking access&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A Canadian Telco has &lt;a href=&quot;http://www.edmontonsun.com/News/Canada/2005/07/24/1145417-sun.html&quot;&gt;blocked access&lt;/a&gt;. AT&amp;amp;T&#039;s CEO is &lt;a href=&quot;http://www.ft.com/cms/s/3ced445e-91c5-11da-bab9-0000779e2340.html&quot;&gt;threatening to do so &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;What? You say that your voice telephone service, which uses the PacketCable specifications designed by CableLabs, gives better quality of service control than the versions offered by Skype or Vonage? That&#039;s prohibited. Too bad!&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Exactly. As a paying customer I should be able to use whatever service I want as long as it is not malicious to the network itself. There is a big difference between &quot;malicious&quot; and merely &quot;inefficient&quot;.&lt;/p&gt;
+&lt;p&gt;The main issue is the structural difference between content or services (Amazon, Google, Skype, P2P), and distribution (ISPs and bandwidth). This is not entirely cut and dry because Telcos are ISPs and offer services (Comcast VOIP), and Google may soon become an ISP, but the concept that the content or services themselves, and their distribution should be seperate is at the heart of the Net Neutrality debate.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;But they don&#039;t give you the right to use network intelligence to block spam, or to identify and control peer-to-peer traffic.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;What is wrong with peer-to-peer traffic? The issue should be the content itself, if it&#039;s copyrighted material, not the manner in which it&#039;s distributed (P2P as opposed to Server-Client), and there are many legal uses of P2P (such as noncommecial media and Open Source Software distribution). Like I said earlier, as a customer, I pay for bandwidth (as does Google, et al), and I believe I should have the right to use that bandwidth in any fashion I choose, as long as it is not malicious to the network. If the issue is that the ISP has oversold their bandwidth with the assumption that I *wouldn&#039;t* use it, then that is the ISP&#039;s failure--and one that proper market forces will take care of.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;There are already commercial mechanisms that allow Web vendors to achieve improved quality of service, but these bills would prohibit ISPs from offering such services.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are commercial mechanisms, like the Akamai example given in the text, that Amazon and other web vendors use to increase network speed and efficiency. But these occur upstream of ISPs; an ISP could then QoS out any benefit from using Akamai on the ISP&#039;s network. Without Net Neutrality legislation, in order for Amazon to offer a guaranteed user experience, they would have to contract with the ISP of every single customer Amazon wishes to do business with. This would actually drive services like Akamai out of business! And if I don&#039;t have the money or resources to negotiate with ISPs, then I&#039;m locked out; a little guy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;Nothing in these bills protects ISPs from powerful content owners imposing their priorities unilaterally.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Why would these bills include that? That isn&#039;t even technologically possible. Google itself has no power over me if I choose instead to use Yahoo (or any competing search engine, large or small) in my web browser. Unfortunately, my ISP *does* have the power to unilaterally affect what search engine I use, and Net Neutrality legislation hopes to make it illegal for my ISP to brandish that power. Google and Yahoo provide content, ISPs should distribute that content without regard to who it is coming from.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&quot;If new technology or new services were to be deployed that allow competitors to leapfrog their dominant market position, that&#039;s bad for them. The goal of this legislation is to make sure that doesn&#039;t happen.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Completely false. The concept of Net Neutrality is that any content or service can compete on equal footing without the express consent (or money changing hands) of the distributors. In fact, this statement is directly applicable to the ISPs desires, *not* the services. In the earlier example of the VOIP service, ISPs want to slow or block deployment of Skype or Vonage because they *do* in fact &quot;compete&quot; with services offered natively by ISPs.&lt;/p&gt;
+&lt;p&gt;Companies like Amazon, Google and Yahoo are owed their enormous growth and success because they have offered superior services that have competed fairly without ISPs meddling. These companies continue to innovate because they currently *do not* lock out (or slow down) competitors (both current and emerging) by contracting with ISPs for special status or enhanced benefits; Net Neutrality legislation seeks to codify this. Google was once a small business that succeeded through innovation; without Net Neutrality, other innovative small businesses will not have the chance to share in similar success.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/5#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/6">editorial</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/8">internet</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/10">ISP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/5">Net Neutrality</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/9">opinion</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/11">P2P</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/7">telecommunications</category>
+ <pubDate>Tue, 08 Aug 2006 20:04:15 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">5 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

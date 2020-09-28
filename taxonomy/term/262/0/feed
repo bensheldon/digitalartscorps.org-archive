@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - community outreach</title>
+ <link>http://digitalartscorps.org/taxonomy/term/262/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Five: Can Has Networks?</title>
+ <link>http://digitalartscorps.org/node/1642</link>
+ <description>&lt;p&gt;Projects are mostly slowing to a pausing point as the holidays and a little offtime approaches.  Am prepping donated computers for the upcoming computer literacy/computer adoption class and following up with the participants.&lt;/p&gt;
+&lt;p&gt;My supervisor is leaving sometime around the end of January, so things are a little tenuous.&lt;/p&gt;
+&lt;p&gt;The broadband over powerline (BPL)/open mesh network is up and running really well.  The problem was isolated to the cable modem/ISP.  I put a power timer on it, so that its power cycles late at night.  So far, so good.  The BPL network itself has not had any problems except for a little bit of interference.  Check it out:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot; title=&quot;http://wiki.ltsc.org/index.php/Reno_Apartments&quot;&gt;http://wiki.ltsc.org/index.php/Reno_Apartments&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also redeployed a network.  We converted from Meraki brand to Open Mesh brand at Angelina Apartments, with the hope that usage tracking will be easier (not to mention that the new units should have fewer outages and better range).  It&#039;s working...so far.&lt;/p&gt;
+&lt;p&gt;My organization recently switched to gmail for their internal mail, so I&#039;ve been setting up some google sites as document repositories for wireless/community broadband docs and forms that didn&#039;t seem relevant to the more public wiki.&lt;/p&gt;
+&lt;p&gt;Hope everyone enjoys these last few days of 2009!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1642#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1209">computer classes</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Mon, 21 Dec 2009 19:13:00 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1642 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Four: BPL Network Deployed (Crash and Burn), Sustainability</title>
+ <link>http://digitalartscorps.org/node/1632</link>
+ <description>&lt;p&gt;This past Saturday, the wifi network that is a lovechild between the brutish broadband over powerline adapters and the delicate, flighty open mesh routers was deployed.  And like any unholy demonspawn, the birth was painful.  It seemed to be working for an hour, but it promptly went out right as we were leaving.&lt;/p&gt;
+&lt;p&gt;So, the BPL network so far is a no-go, but the good news (sort of) is that BPL is likely not to blame.  The router that we&#039;re using to run the network is your average household netgear.  Even the open mesh router directly connected to the netgear is not working; so likely, this is an issue related to the main router.  I&#039;ve had problems with netgears handling large amounts of bandwidth in the past, but it&#039;s more likely just not allowing the BPL adapters onto the network and will need to simply assign static IPs.  If it&#039;s a bandwidth problem that&#039;s freezing up the router...well, maybe we&#039;ll have to invest in a better router or a switch.  Hopefully we can get the network up before Thanksgiving.&lt;/p&gt;
+&lt;p&gt;The good thing about the deployment is that the residents at the Reno Building are AWESOME.  So cool, eager to help and to learn, really happy that they&#039;ll have free internet.  I&#039;ve got to say, open mesh/BPL is pretty neat to deploy.  We gave each resident their mesh unit, they placed it and came back downstairs, then we watched each unit come online.  :3&lt;/p&gt;
+&lt;p&gt;I&#039;m getting a little concerned, however, about the sustainability of some of the things I&#039;m working on.  I&#039;m starting to realize that things like arranging meetings and training tenants in wifi maintenance and network administration are not tasks that we can reasonably expect most of the tenants to do.  It&#039;s a lot of work to expect tenants to do.  I&#039;m hoping to come up with a more lasting solution (since when I&#039;m gone, they won&#039;t have someone to train residents).   Volunteer recruitment at local schools?  Unpaid internships?  I&#039;m hoping there isn&#039;t too much resistance to me seeking out &quot;trainers&quot; to train.  I&#039;ve been spending a lot of time doing direct service (training tenants, now being asked to help teach a computer literacy class, running tech support errands).  I&#039;m not sure where to draw the line, even though I know there&#039;s that magical percentage number.  And if I have to say, &quot;No, can&#039;t do that,&quot; is there a good way to approach it?   Will see how it goes.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1632#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1193">contractors</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1194">explosions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Mon, 23 Nov 2009 19:45:36 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1632 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Three: Community Outreach and Wiki Goes Live</title>
+ <link>http://digitalartscorps.org/node/1617</link>
+ <description>&lt;p&gt;Right now, my major projects include...&lt;br /&gt;
+1. Obtaining a contractor to build out several wifi networks in Koreatown.  Attached is the request for proposals (RFP) I put together.  We anticipate having 4-5 bidders, and we&#039;re doing a site walkthrough with the contractors on Wednesday.  The bids are due on...the 11th I think?  Then we get to read through and select the one that best meets our needs...exciting.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Building a small wifi network at one of our apartments.  I think this will technically be our last in-house deployment.  Just waiting on budget approval.  I&#039;ll update with more about BPL as I deploy (and inevitably encounter problems!) but for now you can see the proposal.  BPL + open mesh will provide more than adequate coverage of this small building, I think it&#039;s a good way to deploy in buildings with simple layouts and small floor plans like the one we&#039;re doing.  The goal is to get it deployed before Thanksgiving.  Eek.  Physically deploying is the easy part, it&#039;s just getting the money.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepping donated computers to be given to families, to be given out after we launch the new wifi network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since last time, I finished the main sections of the Wireless Wiki, an online manual and community space to help residents maintain/troubleshoot their free wifi networks on their own:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot; title=&quot;http://wiki.littletokyounplugged.org/LTSCWireless/&quot;&gt;http://wiki.littletokyounplugged.org/LTSCWireless/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alsot held the first resident wifi meeting at one of the housing projects, Angelina Apartments.  The wifi there is Meraki (a more expensive type of wireless mesh) and was set up about a year ago.  The peeps who showed up seemed really interested in making the wifi better (it has been arguably spotty and not as good as it could be).  So, will be working to install more gateways and access points, try to get coverage to all parts of the building.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1617#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/417">wiki</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/PHD_wifi_RFP.doc" length="768512" type="application/msword" />
+ <pubDate>Mon, 26 Oct 2009 16:48:11 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1617 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Outreach and Collaborate!</title>
+ <link>http://digitalartscorps.org/node/1459</link>
+ <description>&lt;p&gt;What to do when you have a no show for an event? &lt;/p&gt;
+&lt;p&gt;You just have to accept and learn from your mistakes. This past Saturday, our organization planned for a youth forum and introductory workshop to get students acquainted with our upcoming Spring Media program (Dorchester Initiative for Youth). We waited for over an hour and no one showed up. I along with the college students who helped organized the project had a strong feeling that this might happen when it was 12 noon.&lt;/p&gt;
+&lt;p&gt;We spent over a month organizing a youth forum and introduction workshop and to see our efforts go to waste was disheartening. We had youth express interest in the program, however never committed to showing up for this event. &lt;/p&gt;
+&lt;p&gt;Lessons learned? Outreach more and utilize networks best as possible. We outreached through our community networks, but we may not have generated enough hype for the program. And my one weakness is that I, myself don&#039;t have too much credibility in the community when outreaching because a lot of people do not know me as well. I have to problem solve on my own networking strategies for outreach and event planning purposes. Some things though, are out of your hands- winter break, students with no interest and busy schedules. We will be working harder on encouraging them to apply to the program in March.&lt;/p&gt;
+&lt;p&gt;A massive workload is piling on for me, as I take on more projects. I am continually connecting to other organizations who express interest in utilizing media to educate youth on topics such as domestic violence and immigration. I am hesitant to collaborate because I don&#039;t know if I have the capacity. At the same time, I know I will have to go with my gut and just run with something that sounds good even if I will only be around for 6 more months. So I will pursue these opportunities. It&#039;s funny because I&#039;ve always seen other people take on more work than they can handle and ask why they would do that to themselves. Just have to go with my gut, these issues are important to me and the longterm needs of my org.&lt;/p&gt;
+&lt;p&gt;On a personal/career note, does anyone have suggestions as what to do post-service? I am thinking of maybe staying on with my organization part time, but would love to keep my options open.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1459#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/136">media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/24">youth</category>
+ <pubDate>Mon, 23 Feb 2009 21:59:48 +0000</pubDate>
+ <dc:creator>Janet Vo</dc:creator>
+ <guid isPermaLink="false">1459 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Volunteer for Beer</title>
+ <link>http://digitalartscorps.org/node/1020</link>
+ <description>&lt;p&gt;At least that was what we were going to entitle our volunteer alert. Thought better of it at second glance. The Director of Teaming for Technology and I attended the John Mayer concert on Tue. night at our area&#039;s big amphitheatre to work a concession/vendor stand as a fundraising project. There was quite a process to be invitied, to host a stand, get certified to sell alcohol, etc. etc.--it took the better part of a month. We showed up excited and left dejected. It was chaos and we ended up not only not making money but losing it. We will not be going back for round 2!  However, a very positive aspect of the adventure was the public recognition our project received. It was a great networking opportunity and we were right in front of our core market that we need/want to reach. And since we were holding beer they wanted we had their undivided attention. We had people come back all night long to buy from us because we had made a connection with them about where their money was going. So, from a marketing/community outreach project it was a slam dunk. Money, not so much.&lt;/p&gt;
+&lt;p&gt;On the home front, I am struggling to find the happy medium between two bosses. One, my immediate supervisor, understands that this is a &quot;people&quot; business and relationship building and face time are of the highest importance when you&#039;re getting ready to ask somebody for something. Her superior, while very nice and very understanding, does not seem to grasp this aspect of the non-profit sector. Having spent 30 years in the for-profit world might have something to do with the disconnect. We use Volunteer Solutions as a volunteer agency/opportunity management tool here. It is essentially a dead tool--is not being used and has not been used for close to 2 years. It is my assignment to revitalize the volunteer outreach that Triangle United Way does directed through Volunteer Solutions. I delivered my first synopsis of work last week at a staff meeting, on the day that marked my completed first month of service, and had quite a bit to report. My comments were that while I thought Volunteer Solutions was entirely capable of doing what was being asked of it, since it had not been used in so long I was going to have to be essentially doing its job for at least 6 months. I relayed the information and reactions I had received in my recent site visits to our member organizations in the last few weeks--all of which had been negative. The highlights from my meetings were that the TUW is &quot;big brother&quot; and has very little understanding of its agencies. I had to report that, from what I saw, those perceptions were true and it was going to take a lot of &#039;bridge building&#039; on my part to the program directors and volunteers to get them back in the habit/mindset of turning to TUW and Volunteer Solutions for their needs. It&#039;s an uphill march, but I stressed that it is one that I think is not only worthwile and capable of being reached--it is essential for the namesake of Triangle United Way. So, I have a big job but I am encouraged by the support of my superiors (my colleagues will get there eventually) and the people I&#039;ve met at our agencies. This is apparently an issue that has been tossed around for a few years without a solution, so, to quote one of my bosses &quot;we went and got you.&quot; It&#039;s ok to be both flattered and scared by that comment, right?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1020#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/26">fundraising</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/253">management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/126">volunteer</category>
+ <pubDate>Thu, 02 Aug 2007 14:28:26 +0000</pubDate>
+ <dc:creator>Kelli Williams</dc:creator>
+ <guid isPermaLink="false">1020 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Update from Arizona.</title>
+ <link>http://digitalartscorps.org/node/497</link>
+ <description>&lt;p&gt;Wow has it been awhile since I logged on here and talked about whats going on in Arizona.  We hit a heat wave out here and its in the 80&amp;#39;s for the rest of the week.  I have been really busy working on stuff at the club and really have become a member of the staff these last few months.  The members here have really warmed up to me and I am starting to remember names of kids better.  So I guess I better recap what has happened in the last 2 months.&lt;/p&gt;
+&lt;p&gt;December was pretty rough to start.  I was doing a lot more direct service then I really wanted to do.  I wanted to do things that I did not have a lot of time for due to the fact that I was so busy keeping an area open or something along those lines.  My comrade in the computer lab has totally different habits when it comes to cleanliness in our computer lab and that causes us some troubles and some strife but we worked out a list of clean up chores to do at night and we also got some of our middle school aged members as helpers to make sure that we are looking good in the computer lab at all times.  We were having a great deal of trouble trying to get the members interested in the programs we were running and it was starting to get to be a drag.  What we thought was a problem with our program is actually pretty common when it comes to after school activities.  You hope for the best and plan for the worst.  The kids are not as interested in doing &amp;quot;organized&amp;quot; activities after school.  Its a struggle for all BGCs. &lt;/p&gt;
+&lt;p&gt;I flew home for Christmas break and spent a week there.  When I came back I had a winter break were we had less then 20 kids in the computer lab all day.  This was a good opportunity for me to change the room around.  The room was 7 computers on one wall and 5 computers on the other wall.  I changed it to where the computers are set up in groups of three.  It makes the room look more spacious.  I think it is allows for more space for each member for their computer.  This took the better part of two days because each individual computer had a carpeted divider.   We also had alot of trouble with computers crashing after I changed everything around.  I am not sure what is causing the problems but if anyone has MAXTOR brand hard drives in their computers be sure to back everything on your computer up.  I have had nothing but trouble with this drives in particular.  I have had at least 4 computers with disk errors in the last month.  One computer had a power supply failure.  Lots of these computers are booting and saying that there it no operating system.  I do not know if this is do to shutting the computers off at night or if its due to changing everything around.  I am trying to test the theory of making sure that the computers stay on at night.  We are currently looking at making only 4 computers in the lab IE enabled.  This is so that we can constantly monitor those kids who are on the Internet without worrying about not being able to see what they are on.  This month we have been hitting the kids with new programs along with CAP and HACK.  We added Sony Acid Pro to the mix for the teens and they really seem to enjoy mixing beats.  For the younger ones we just started doing Movie Maker and we had a pretty good turnout for the first meeting of that.  The members are started to get the idea the the computer lab is not just a place to come and play games on the Internet but also a place to have fun with other programs. &lt;/p&gt;
+&lt;p&gt; Couple other things I am working on right now is trying to get some new furniture for our computer lab.  I would like to get the computer chairs with caster wheels.  It would be nice to get a oval table for the center of our room that can be painted a bright color.  I would also like to get our room painted something other then off-white.  I would do anything to get the dirty walls painted.  We also got some storage lockers and I am just waiting on our maintenance man to put the locks in them so we can have our valuable equipment locked up at the end of every night.  &lt;/p&gt;
+&lt;p&gt; Alot to throw at you and I have pictures of how the lab looks now.  I will post pictures later when I can log on to flickr.  Right now at work it is blocked...along with everything else.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/497#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/118">Boys and Girls Club</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/512">computer repair</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/511">furniture</category>
+ <pubDate>Wed, 07 Feb 2007 01:01:19 +0000</pubDate>
+ <dc:creator>Tony ORourke</dc:creator>
+ <guid isPermaLink="false">497 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Whew! I missed writing to ya!</title>
+ <link>http://digitalartscorps.org/node/242</link>
+ <description>&lt;p&gt;Hey Everyone,&lt;/p&gt;
+&lt;p&gt;I &amp;#39;ve really missed writing to you guys. First let me say the new changes look good. It is also informative.  At the Pink House we are working on a Electronic post card for the children at the Center. They are simply wonderful. The children are in touch with children from all over the world.&lt;/p&gt;
+&lt;p&gt;I don&amp;#39;t think there are enough hours in the day to do everything that is required to make things happen. The kids are totally great! The staff I&amp;#39;m working with totally open to the new changes we are putting in place. Oh yeah, we have a new Chief of Police and the community is totally excited about that. &lt;/p&gt;
+&lt;p&gt;The neighborhood awareness of what&amp;#39;s happening at the Pink House is making a name for us. The community comes to us with questions, comments, and participation in our projects. The electronic post cards are just one of the different techy things we have going on at the PINK HOUSE.&lt;/p&gt;
+&lt;p&gt;Well off I go to work!&lt;/p&gt;
+&lt;p&gt;Great Blogging with ya!&lt;/p&gt;
+&lt;p&gt;Renae out&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/242#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/261">postcard</category>
+ <pubDate>Fri, 27 Oct 2006 13:28:26 +0000</pubDate>
+ <dc:creator>Renae Smack</dc:creator>
+ <guid isPermaLink="false">242 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

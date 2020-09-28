@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - recommendations</title>
+ <link>http://digitalartscorps.org/taxonomy/term/249/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Selecting A Content Management System</title>
+ <link>http://digitalartscorps.org/node/231</link>
+ <description>&lt;p&gt;For a while now I&#039;ve really been wanting to write a primer and checklist for nonprofits who are thinking about implementing a CMS.  Fortunately, patience is always the best facilitator as someone (&lt;a href=&quot;http://commonknow.com&quot;&gt;Common Knowledge&lt;/a&gt;) has done it for me already:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.commonknow.com/reports/selecting_a_content_management_system.html&quot;&gt;Selecting a Content Managment System&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This report provides and overview of Content Management Systems (CMS) designed to support non-profit organizations. It offers insights on the definition of a content management system, outlines how they are valuable for a non-profit organization, and what criteria to consider when purchasing and implementing a Content Management System. Further, it details how to efficiently develop a Request for Proposal (RFP) and how to calculate a budget for your project. Lastly, it lists the vendors to consider when purchasing a CMS. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.commonknow.com/reports/Common_Knowledge_Selecting_a_CMS.pdf&quot;&gt;Selecting a Content Management System 450kb (PDF)&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/249">recommendations</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/248">report</category>
+ <pubDate>Mon, 23 Oct 2006 20:50:23 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">231 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

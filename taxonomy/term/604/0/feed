@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - CUWiN</title>
+ <link>http://digitalartscorps.org/taxonomy/term/604/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CUWiN-Ware Configuration Webapp</title>
+ <link>http://digitalartscorps.org/node/665</link>
+ <description>&lt;p&gt;I recently started on a new project to improve the ease of use of the CUWiN network system.  The project is a web application (PHP based) to allow communities and other collaborative entities to create and manage custom firmware images for their wireless nodes.  The first is finished but not live.  It addresses the issue of needed secure passwords node shell users (those with access to the actually OS prompt, i.e. root).  We have a password database we use internally on the network here in C-U, however we don&amp;#39;t distribute that for obvious reasons.  The precompiled images we provided have a very unsecure and published default password.  While it is possible to change this password from the console, this is inefficient in a large network and changes such as this do not generally persist across equipment reboots.  This application addresses this gap by allowing the user to securely manage a list of users and passwords through the web.  This information is stored in their own password database.  The next phase of the application will integrate with the firmware build system.  Partially compiled firmware will be available to the web application, which can then, at the users request, complete a build of the software, including their custom user/password database, and then provide then a secure link to download the file.  Features to be added are the ability to customize the main configuration file (which controls how all the network interfaces are configured, the wireless settings, etc), and the ability to select hardware type and disk geometry.  This application will go a long way to increase the ease of use of the technology.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/665#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/604">CUWiN</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/321">PHP</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/605">webapp</category>
+ <pubDate>Fri, 23 Mar 2007 19:24:54 +0000</pubDate>
+ <dc:creator>Matthew Isaacs</dc:creator>
+ <guid isPermaLink="false">665 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

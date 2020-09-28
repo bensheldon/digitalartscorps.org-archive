@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - beingabetterperson</title>
+ <link>http://digitalartscorps.org/taxonomy/term/887/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>&quot;Working from Home&quot;</title>
+ <link>http://digitalartscorps.org/node/1159</link>
+ <description>&lt;p&gt;Hi Everyone,&lt;/p&gt;
+&lt;p&gt;So I&#039;m going to continue being good and write a second update report.&lt;/p&gt;
+&lt;p&gt;When do you finally settle in to an organization?  This question is more rhetorical than anything else.  I think I&#039;ll still be settling until my last day there.  Either that or it will remain unsettled.  Who knows?&lt;/p&gt;
+&lt;p&gt;In the wake of my supervisor leaving, it has left everything more helter-skelter than usual.  (By the way, I &lt;em&gt;hate&lt;/em&gt; helter-skelter things with a burning passion.)  This has resulted in me being the bug-fixer for the new website which has given me victories such as modifying my first PHP doc to quandaries such as being expected to modify an RSS feed in that same doc.&lt;/p&gt;
+&lt;p&gt;I had a good talk with my boss last Monday about being 5 months into the program and what I expected out of the next 7 months.  I told her all of the tasks that I had been assigned (some of which she was unaware of) and how I could only put in 40 hours a week since I don&#039;t have an internet connection at my apartment yet.  (I know that we are only supposed to work 40 hours a week and I&#039;m behind that all of the way, but it&#039;s good to have some flexibility in that as well as the option to work extra &lt;em&gt;if&lt;/em&gt; you want to.)&lt;/p&gt;
+&lt;p&gt;One of my big contentions with the talk was that I wanted to make sure that I was making finished products and adding to my technical skillset.  The latter makes almost obvious sense professionally as well as personally.  The former element has those as well, but there is also a morale element at work, as well.  It takes away from your will to work if you don&#039;t have something that you can proudly say you did.  I&#039;m guessing this is a big issue in the nonprofit world, but I don&#039;t want that to prevent me from having the best possible experience with my organization that I can have.&lt;/p&gt;
+&lt;p&gt;When you&#039;re assigned to work with an organization, you can&#039;t expect them to take you by the hand, set you at a desk, and guide you along the way to work for a better tomorrow (or whatever).  You have to pull yourself along and take a more active role in it than you might have thought originally.  There is not only the work.  There is also the value of it and the negotiations of managing where you work, how you work, who you work with, what you work on, what you get out of your work, etc. etc.  (Let&#039;s not even mention the stuff that you have to deal with outside of your work.)  That&#039;s some serious multitasking and also one of the biggest challenges I&#039;ve faced being a VISTA.&lt;/p&gt;
+&lt;p&gt;So here I am, typing in my report at the Chicago Public Library by my house and thinking about what I need to do now and what I want to do later.  It can get a little daunting, but I&#039;m doing things little by little so it doesn&#039;t get overwhelming.  I&#039;m getting stuff done, tomorrow is another day, and all that jazz.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1159#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/887">beingabetterperson</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/673">chicago</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/881">dangerousbook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/884">library</category>
+ <pubDate>Mon, 12 Nov 2007 20:28:56 +0000</pubDate>
+ <dc:creator>Karl Otto</dc:creator>
+ <guid isPermaLink="false">1159 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

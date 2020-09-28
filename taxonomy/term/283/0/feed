@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - router</title>
+ <link>http://digitalartscorps.org/taxonomy/term/283/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Er...its been a while</title>
+ <link>http://digitalartscorps.org/node/245</link>
+ <description>&lt;p&gt;So, I have completely let this blog go by the wayside.  For shame.  But I&amp;#39;m back, baby, although I still refuse to like blogs.&lt;/p&gt;
+&lt;p&gt;So, whats been happening with your friendly neighborhood wireless guy? Well, its been so ridiculously busy lately, that I was able to completely ignore something like an online web log without a second thought. Woohoo!&lt;/p&gt;
+&lt;p&gt;Yes, we have a working wireless mesh network now. For the past month and a half we&amp;#39;ve been frantically trying to setup all of the residents who signed up initially, back in January of this year. So you can understand why they might be in a hurry to get their internet access. In the past couple months we&amp;#39;ve installed routers in about 70 or so homes, which is only half of our expected number of users, but believe me, the other 70 people have been banging down our door asking for internet. Except that when we try to call them and setup an appointment, they don&amp;#39;t pick up the phone. They do show up at the tech center, upset that we haven&amp;#39;t called them, though. Ah well. At least we&amp;#39;ve made a good amount of progress in a short time, and I can no longer claim that my job description is a liar. This is what I signed up for. Oh, by the way, its the best job ever.&lt;/p&gt;
+&lt;p&gt;And in the midst of all this wifi installation and subsequent tech support, which pretty much consumes all of my time, we&amp;#39;re trying to dole out money to other housing developments in the Boston area that are interested in Wifi - part of Castle Square&amp;#39;s grant was 15000 dollars to support other housing developments in their wifi implementation. We are holding an open house on the 8th of November to show interested groups around our site and explain the grant process to them. I&amp;#39;m also going to be the chair of the committee that decideds who gets the money, and how much money they should get - we&amp;#39;re hoping to have some pretty smart people on the committee though, so I won&amp;#39;t be the one who actually has to decide anything. What do I know?&lt;/p&gt;
+&lt;p&gt;One last thing - we&amp;#39;re starting our computer refurbishing program with big goals. At least, I have big goals, but we&amp;#39;ll have to see how it goes. We want to supply residents of Castle Square, and the South End, with computers, on a basis of need. Currently we only have some 30 computers that have been donated from Boston Latin Academy, but we&amp;#39;re always looking for more so if you know anything, get at me. I&amp;#39;m hoping that Castle Square can actually turn this into a business and become a low cost computer reseller for the neighborhood.&lt;/p&gt;
+&lt;p&gt;Thats whats been happening. Ok, I gotta run, I have a user who can&amp;#39;t access his email waiting for me at his apartment, and 3 other computers that are full to the brim with malware sitting behind me, sadly watching the shiny new lab computers with envy in their eyes.&lt;/p&gt;
+&lt;p&gt;Check2&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/245#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/285">computer refurbishing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/284">housing development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/283">router</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Fri, 20 Oct 2006 21:52:00 +0000</pubDate>
+ <dc:creator>Emilio Flores</dc:creator>
+ <guid isPermaLink="false">245 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

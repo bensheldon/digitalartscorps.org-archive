@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - broadband</title>
+ <link>http://digitalartscorps.org/taxonomy/term/493/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Eight: The BTOP Shuffle</title>
+ <link>http://digitalartscorps.org/node/1665</link>
+ <description>&lt;p&gt;March was crazy.  LTSC had applied as a partner with a bunch of other California organizations for funding on the first round of BTOP, a federal grant for developing broadband access.  First, we found out that we didn&#039;t get the first round grant; then, we learned we were being dropped from the partnership.  So, we decided to apply on our own for the next round, which meant the beginning of March was pretty much non-stop grant writing and cranking out a 50-page application in about a week and a half.  We probably won&#039;t get this second round, but it was worth a try.&lt;/p&gt;
+&lt;p&gt;Now that the application has been submitted, I&#039;ve gone back to the networking and training of residents.  I&#039;ve recruited a few residents to become &quot;Network Representatives.&quot;  Starting next week, they&#039;ll be learning about the free internet at their building, how to fix it, etc.  They&#039;ll also be learning how to teach their fellow residents how to log on, how to troubleshoot, etc.  Hoping to recruit more volunteers so every building has two representatives.&lt;/p&gt;
+&lt;p&gt;Have also been trying to stabilize the free wifi at this building.  So far, it has involved frankensteining some equipment, some soldering, and a lot of dragging ethernet cable through bird shit.  :)&lt;/p&gt;
+&lt;p&gt;Hope everyone is doing well as we approach the final few months...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1665#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1238">btop</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/848">federal grant</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/84">networking</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1107">volunteer recruitment</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1239">volunteer training</category>
+ <pubDate>Fri, 02 Apr 2010 17:07:18 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1665 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Seven: Rethinking</title>
+ <link>http://digitalartscorps.org/node/1658</link>
+ <description>&lt;p&gt;LTSC (and quite a few other CA orgs) lost out on a big time federal grant.  We&#039;re facing a pretty big budget shortfall, and a bunch of projects and plans are going to have to be slimmed down or eliminated in order to keep core programs afloat.&lt;/p&gt;
+&lt;p&gt;In the past few weeks, I&#039;ve been putting together a curriculum packet to train resident volunteers in networking.  The plan was to offer a small stipend, but now that we don&#039;t have that to give, I&#039;m gonna change the recruitment strategy a bit (beg beg beg, and/or possibly find a business who&#039;d be willing to donate something).&lt;/p&gt;
+&lt;p&gt;Was also planning to fix one of the residential networks.  Without any money for equipment, this will be difficult.  But rummaging around, I found a bunch of unused network equipment... hope to make this work.&lt;/p&gt;
+&lt;p&gt;My plan for the next few months will include time spent on trying to figure out how to make other tech programs and projects (ones that I previously wasn&#039;t directly involved in, such as our CTCs) stay aloft and be as sustainable as possible.  I feel like CTCs are often on a knife&#039;s edge when it comes to keeping open and functional, and I think we should start to explore partnerships outside of LTSC&#039;s usual realm (there&#039;s a lot of turning inward to Little Tokyo/JA organizations, I feel).&lt;/p&gt;
+&lt;p&gt;My supervisor&#039;s replacement has been hired and is going to start working sometime in March I think.  Hopefully the transition goes well.&lt;/p&gt;
+&lt;p&gt;Also, these are awesome and have been a little bit useful for residents with external wifi adapter antennas:&lt;br /&gt;
+&lt;a href=&quot;http://urbanwireless.info/index.php/antennas/parabolic-reflector&quot; title=&quot;http://urbanwireless.info/index.php/antennas/parabolic-reflector&quot;&gt;http://urbanwireless.info/index.php/antennas/parabolic-reflector&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1658#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/636">grants</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1208">networks</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1107">volunteer recruitment</category>
+ <pubDate>Tue, 23 Feb 2010 17:39:53 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1658 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Month Six: Computer Adoption and Broadband Stimulus</title>
+ <link>http://digitalartscorps.org/node/1650</link>
+ <description>&lt;p&gt;Dear Broadband Stimulus,&lt;/p&gt;
+&lt;p&gt;Where are you?&lt;/p&gt;
+&lt;p&gt;Love,&lt;/p&gt;
+&lt;p&gt;Everyone but the peeps who already found out about their application.&lt;/p&gt;
+&lt;p&gt;This month, we had the Computer Adoption Program class a couple Saturdays ago.  The machines were pretty old, and there were a few hiccups, but I think it went okay.  The students were residents from two LTSC-managed affordable housing projects.  Most were adults, some of whom had never owned or used a computer before.  It was a 4-hour crash course in Ubuntu, and they were all browsing the internet and creating e-mail accounts by the end.  Once they all went home, their computers were wifi ready...which is great, because most of the residents live at Reno, where we recently installed the broadband over powerline network.  It&#039;s holding up, even with the increased usage, so yay!&lt;/p&gt;
+&lt;p&gt;I have been having some issues with our wifi hotspot management system, though.  We recently switched to the free version of Coova so that we could better track usage for grant reporting.  I was a noob and didn&#039;t test it out on Internet Explorer.  Older versions of IE seem not to accept redirection (this might also be a Windows-related security issue?).  Going to have to try to work around this.  We can&#039;t go to everyone and troubleshoot this problem...perhaps we could offer firefox cds...?  Coova support is not very good, either.  I wouldn&#039;t go with them again.&lt;/p&gt;
+&lt;p&gt;Next up...increasing signal in a huge apartment complex (using DIY parabolic dishes?), a plan to train a few ueber tech savvy residents in wifi maintenance, and hopefully more web design.  Hope everyone is having a happy new year so far!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1650#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/120">blog</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1176">computer adoption program</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1221">coova</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1222">hotspot</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Wed, 27 Jan 2010 18:25:41 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1650 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Spring</title>
+ <link>http://digitalartscorps.org/node/1483</link>
+ <description>&lt;p&gt;Hello VISTAs,&lt;br /&gt;
+How goes?  Things are good here.  Our office is moving from Bothell, WA to Lynnwood, WA.  As you can see, it’s not terribly far away: &lt;a href=&quot;https://www.psctlt.org/About_PSCTLT/maps_directions.html&quot; title=&quot;https://www.psctlt.org/About_PSCTLT/maps_directions.html&quot;&gt;https://www.psctlt.org/About_PSCTLT/maps_directions.html&lt;/a&gt;.  It most certainly will affect my commute, although from what I’ve gathered it’ll still be fairly easy to get to the bike path from Lynnwood.  Work is going well.  There are TWO computer distributions scheduled for next week and I’m in the process of updating some slides in a powerpoint and gathering some information about ISPs and CTCs in the areas where we’re distributing.   After these two distributions it looks like there will only be 4 more to go!  Pretty exciting.&lt;br /&gt;
+I also had another chance to go to Olympia to talk about broadband and put my support behind a couple of bills in the legislature now: HB 1698 regarding broadband adoption and deployment, and SB 5916 authorizing the department of information services to engage in high-speed internet adoption, deployment, and digital inclusion activities.  It was just as cool the second time and it has definitely made me follow the news around the broadband stimulus much more closely.&lt;br /&gt;
+Expect more details about distributions and moving in the next field report.  Until then...&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1483#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/285">computer refurbishing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1067">legislature</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1066">spring</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1068">testimony</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/382">travel</category>
+ <pubDate>Tue, 14 Apr 2009 22:41:39 +0000</pubDate>
+ <dc:creator>Wilson Bull</dc:creator>
+ <guid isPermaLink="false">1483 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Kogi Korean BBQ Taco Trucks</title>
+ <link>http://digitalartscorps.org/node/1460</link>
+ <description>&lt;p&gt;The days of ArcGIS are over. I found out when I realized the computer labs at UC Irvine didn’t have the program, instead, they had Google Earth. Now, I have endlessly been working on updating our database of contacts the past couple of months, however, there really hasn’t been an end goal that has motivated to get that job done. But in the month of February, I have found that end goal: mapping out our constituents/network. &lt;/p&gt;
+&lt;p&gt;In a more serious note, some are still questioning how the U.S. should use $8 billion from the Stimulus Plan to expand broadband to low income and rural communities; listen to &lt;a href=&quot;http://www.npr.org/templates/story/story.php?storyId=100739283&quot;&gt;NPR Story&lt;/a&gt;. So in order to answer some of those queries, I will be working on a new podcast series titled &lt;em&gt;Why Broadband?&lt;/em&gt;  With this series I hope to cover how community based organizations or community technology centers use technology for the betterment of their community (i.e. economic development, community building, human development).  &lt;/p&gt;
+&lt;p&gt;I will start looking for housing after my lease ends. My lease ends in June and since the program ends in mid July, I have to find a place where I can stay for about two weeks. I am not too worried because my church is awesome! I actually stopped using my foodstamps, partly because my five church brothers/roommates have been sharing their food with me. &lt;/p&gt;
+&lt;p&gt;I will begin job searching this week. Reapplying to CTC VISTA at a different site in L.A./Orange County is still an option I am currently considering. &lt;/p&gt;
+&lt;p&gt;So I restarted using Twitter to try to accumulate California state tech news information. But in reality, I restarted after I read an article in the L.A. Time about a Twitter Cult that followed &lt;a href=&quot;http://www.latimes.com/features/printedition/food/la-fo-kogi11-2009feb11,0,3007869.story. &quot; title=&quot;Kogi Korean BBQ Taco Trucks&quot;&gt;Kogi Korean BBQ Taco Trucks&lt;/a&gt; all around L.A. &lt;/p&gt;
+&lt;p&gt;One last thing, I still haven’t registered for NTEN Conference, but I hope to do so soon.  I will keep you updated.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1460#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1057">GIS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1056">Google Earth</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1058">NTC Conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1055">stimulus plan</category>
+ <pubDate>Mon, 23 Feb 2009 22:02:48 +0000</pubDate>
+ <dc:creator>Edward Gonzales</dc:creator>
+ <guid isPermaLink="false">1460 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Work at CTOC</title>
+ <link>http://digitalartscorps.org/node/423</link>
+ <description>&lt;p&gt;So whats been going on at CTOC (community technology organizing consortium) since I started my Vista-ship back in November? Well, from November to the beginning of January I spent a lot of the time doing outreach for a Holiday event we held. That turned out to be a bit of a flop on attendance and I did feel like a bit of a failure to my organization but I got over it. I realized the causes of low attendannce were various...new event location, holiday season, etc. It was my first few weeks on the job so I wasn&amp;#39;t too hard on myself. As soon as that was over we got a call from CTCNet to help with outreach for the Los Angeles institutes, as they were lacking in registration.  So the week and a half long tasks of phone calls, e-mails, and e-vites began again. This turned out to be much much better. The CTCNet institute was quite interesting and informative. Unlike many of the CTCVista&amp;#39;s I lack in being &amp;quot;tech savvy&amp;quot; so I never realized the capabilities of various software components and its ability to provide access to the disabled.  &lt;/p&gt;
+&lt;p&gt; Amidst outreach calls and two events, I spent a lot of time reading up on broadband/technology  issues - policies, capacity, its effects on society as a whole - and wow have I learned a whole lot about the need to address the various issues surroundung this! My supervisor has been great in sharing her knowledge with the issues- she really knows her stuff and has helped me a lot. I also work alongside ex-vista Sheveeta once a week so I&amp;#39;d have to  say that I&amp;#39;ve got pretty good support going on here.  &lt;/p&gt;
+&lt;p&gt;This week I&amp;#39;ve started some research on the broadband debate. I think I am going to be doing a mini-analyses on where the issue lies now and the importance of CTOC&amp;#39;s position as a community and social advocate. Hopefully this will help us land some grants later on as we are lacking in funding as well. &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;If anyone has any leads as to where I can access reading material for my research i.e policies, debates, books, etc,&lt;/strong&gt;  that would be awesome. I seem to be only finding U.K websites that cover the issue in depth. &lt;/p&gt;
+&lt;p&gt; To summarize, I&amp;#39;ve done outreach for two events, familiarized myself with technology as a whole,  thinking of ways to fundraise, and starting a mini research project, as well as manning the admin side to our office from time to time. &lt;/p&gt;
+&lt;p&gt; I really hadn&amp;#39;t felt like I was doing a whole lot but now that I&amp;#39;ve written it all down I feel a little overwhelmed! : ) All good nontheless.  &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/423#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/493">broadband</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/26">fundraising</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/494">policy</category>
+ <pubDate>Wed, 24 Jan 2007 17:06:24 +0000</pubDate>
+ <dc:creator>dana sou</dc:creator>
+ <guid isPermaLink="false">423 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

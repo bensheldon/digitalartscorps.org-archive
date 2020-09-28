@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - week 1</title>
+ <link>http://digitalartscorps.org/taxonomy/term/762/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Week 1 (or my eyes are swimming)</title>
+ <link>http://digitalartscorps.org/node/946</link>
+ <description>&lt;p&gt;I&#039;ve completed my 1st week of work, all done by telecommuting.  The work has been tedious -- I&#039;ve been updating the county service listings and directories in the 4people database, &lt;a href=&quot;http://www.4People.org&quot; title=&quot;www.4People.org&quot;&gt;www.4People.org&lt;/a&gt; .  In the process I learned a little bit of HTML and more about MS Word.  Boy, are my eyes swimming!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/946#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/764">4People</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/144">computer</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/763">telecommuting</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/762">week 1</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/349">work</category>
+ <pubDate>Fri, 29 Jun 2007 18:51:56 +0000</pubDate>
+ <dc:creator>Marilyn Taylor</dc:creator>
+ <guid isPermaLink="false">946 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

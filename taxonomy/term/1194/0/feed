@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - explosions</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1194/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month Four: BPL Network Deployed (Crash and Burn), Sustainability</title>
+ <link>http://digitalartscorps.org/node/1632</link>
+ <description>&lt;p&gt;This past Saturday, the wifi network that is a lovechild between the brutish broadband over powerline adapters and the delicate, flighty open mesh routers was deployed.  And like any unholy demonspawn, the birth was painful.  It seemed to be working for an hour, but it promptly went out right as we were leaving.&lt;/p&gt;
+&lt;p&gt;So, the BPL network so far is a no-go, but the good news (sort of) is that BPL is likely not to blame.  The router that we&#039;re using to run the network is your average household netgear.  Even the open mesh router directly connected to the netgear is not working; so likely, this is an issue related to the main router.  I&#039;ve had problems with netgears handling large amounts of bandwidth in the past, but it&#039;s more likely just not allowing the BPL adapters onto the network and will need to simply assign static IPs.  If it&#039;s a bandwidth problem that&#039;s freezing up the router...well, maybe we&#039;ll have to invest in a better router or a switch.  Hopefully we can get the network up before Thanksgiving.&lt;/p&gt;
+&lt;p&gt;The good thing about the deployment is that the residents at the Reno Building are AWESOME.  So cool, eager to help and to learn, really happy that they&#039;ll have free internet.  I&#039;ve got to say, open mesh/BPL is pretty neat to deploy.  We gave each resident their mesh unit, they placed it and came back downstairs, then we watched each unit come online.  :3&lt;/p&gt;
+&lt;p&gt;I&#039;m getting a little concerned, however, about the sustainability of some of the things I&#039;m working on.  I&#039;m starting to realize that things like arranging meetings and training tenants in wifi maintenance and network administration are not tasks that we can reasonably expect most of the tenants to do.  It&#039;s a lot of work to expect tenants to do.  I&#039;m hoping to come up with a more lasting solution (since when I&#039;m gone, they won&#039;t have someone to train residents).   Volunteer recruitment at local schools?  Unpaid internships?  I&#039;m hoping there isn&#039;t too much resistance to me seeking out &quot;trainers&quot; to train.  I&#039;ve been spending a lot of time doing direct service (training tenants, now being asked to help teach a computer literacy class, running tech support errands).  I&#039;m not sure where to draw the line, even though I know there&#039;s that magical percentage number.  And if I have to say, &quot;No, can&#039;t do that,&quot; is there a good way to approach it?   Will see how it goes.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1632#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1156">broadband over powerlines</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/262">community outreach</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/871">community wireless</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1193">contractors</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1194">explosions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1177">LTSC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/282">mesh</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/281">wireless</category>
+ <pubDate>Mon, 23 Nov 2009 19:45:36 +0000</pubDate>
+ <dc:creator>Melissa Niiya</dc:creator>
+ <guid isPermaLink="false">1632 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

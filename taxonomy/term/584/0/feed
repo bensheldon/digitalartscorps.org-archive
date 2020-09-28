@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - M.A.C.</title>
+ <link>http://digitalartscorps.org/taxonomy/term/584/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>M.A.C. website on the way</title>
+ <link>http://digitalartscorps.org/node/640</link>
+ <description>&lt;p&gt;-Mike is told to create a company website&lt;/p&gt;
+&lt;p&gt;-Mike is no web designer&lt;/p&gt;
+&lt;p&gt;-Mike tries 2 teach himself&lt;/p&gt;
+&lt;p&gt;-Mike suks&lt;/p&gt;
+&lt;p&gt;-Mike contracts with an outside web designer&lt;/p&gt;
+&lt;p&gt;-All is well&lt;/p&gt;
+&lt;p&gt;-Computer breaks down&lt;/p&gt;
+&lt;p&gt;-Mike is sad&lt;/p&gt;
+&lt;p&gt;-Computer&amp;#39;s getting fixed&lt;/p&gt;
+&lt;p&gt;-All is well&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+&lt;p&gt;the mediaaidcenter.org&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/640#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/584">M.A.C.</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/82">website</category>
+ <pubDate>Fri, 16 Mar 2007 23:27:35 +0000</pubDate>
+ <dc:creator>Mike Matthews</dc:creator>
+ <guid isPermaLink="false">640 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - NAMAC</title>
+ <link>http://digitalartscorps.org/taxonomy/term/868/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Field Report #9: 3 Essential Drupal Modules</title>
+ <link>http://digitalartscorps.org/node/1197</link>
+ <description>&lt;p&gt;&lt;a title=&quot;current NAMAC site&quot; href=&quot;http://www.namac.org&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture2.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;new NAMAC site (in development)&quot; href=&quot;http://www.namac.org/drupal&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture3.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So this past month was pretty tedious and slow.  As some of you may or may not know, I am currently migrating my org&#039;s current website into a new, Drupal-based web 2.0 friendly site.  There were nearly 1500 pages from the old site to import,&lt;br /&gt;
+and much of the (great) content on the old site also remained buried beneath many, many pages - there were no RSS feeds on anything, no bookmarking services built in, and no browsable tag clouds - basic characteristics of web 2.0 sites.&lt;/p&gt;
+&lt;p&gt;Luckily, most of pages were were outdated and were able to be deleted.  However, there were still many tedious bits to the importing - where should they go?  How should the specific pieces of content be categorized?  Was there a space for them on the new site?  What would those new spaces looks like?  How can the content be easy to find?  Do all the links on this page still work???&lt;/p&gt;
+&lt;p&gt;My goal was to make the content as easy to browse and share as possible, increase it&#039;s &lt;a href=&quot;http://www.alistapart.com/articles/ambientfindability&quot;&gt;ambient findability&lt;/a&gt; .&lt;br /&gt;
+&lt;strong&gt;&lt;br /&gt;
+Overview of Modules Used&lt;/strong&gt;&lt;br /&gt;
+Central modules that I used on the site included Views, Panels and Taxonomy Node Operations - all three of these made for some fun and challenging work.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://drupal.org/project/taxonomy_node_operations&quot;&gt;Taxonomy Node Operations&lt;/a&gt;&lt;/em&gt;:&lt;br /&gt;
+This was a very helpful module.  When i imported all of the content from the old site (which took about a week of tweaking to get just right - i was getting all sorts of odd characters and HTML showing up in posts) none of it was categorized.  What this module does, is allow a &#039;mass categorization&#039; of content from the content administration page in Drupal.  I of course had to go in and create the categories first, but once done, categorizing the content was easy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://drupal.org/project/views&quot;&gt;Views&lt;/a&gt;&lt;/em&gt;:&lt;br /&gt;
+Views I used in order to create &#039;landing pages&#039; for particular areas of the site (which were defined by the kinds of content appearing in each).  For instance, there is a section of the site called &#039;&lt;a href=&quot;http://namac.org/drupal/capacity-building&quot;&gt;Capacity Building&lt;/a&gt;&#039;  Capacity Building is a service that we offer and on the page that had info about this service(s), i wanted to have all articles having to do with &#039;fundraising&#039; (synonymous with capacity building) appear there as well.  So, all articles on the site which had to do with &#039;fundraising&#039; I tagged/categorized as such and viola!  they now appear on the landing page of our &#039;Capacity Building&#039; section.  I used this technique throughout the site for various sections...&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://drupal.org/project/panels&quot;&gt;Panels&lt;/a&gt;&lt;/em&gt;:&lt;br /&gt;
+This is  great module for configuring how you want a page to display.  It&#039;s a bit like putting Drupal blocks and Views into specified sections (panels) of a page.  The front page and the &#039;&lt;a href=&quot;http://namac.org/drupal/policy-and-advocacy&quot;&gt;Policy and Advocacy Network&lt;/a&gt;&#039; pages are both Panels.&lt;/p&gt;
+&lt;p&gt;I also started playing around the general look and feel of the site through a hacked Drupal theme (&lt;a href=&quot;http://drupal.org/project/SEOposition&quot;&gt;SEO Position&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Click on the images below to see before and after screenshots of what I&#039;ve done so far:&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;current NAMAC site&quot; href=&quot;http://www.namac.org&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture2.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;new NAMAC site (in development)&quot; href=&quot;http://www.namac.org/drupal&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture3.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1197#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/82">website</category>
+ <pubDate>Mon, 22 Sep 2008 22:40:12 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1197 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #12: Board Report = Field Report!</title>
+ <link>http://digitalartscorps.org/node/1261</link>
+ <description>&lt;p&gt;So... as I had to write this for a Board Report (tip: &lt;em&gt;writing Field Reports is a bit like writing Board Reports&lt;/em&gt;;), I thought I would include it here as a Field Report.  It details what I have done over the past 6 months as NAMAC&#039;s Online Community Manager.&lt;/p&gt;
+&lt;p&gt;Maybe someone might find some things in it that are helpful to them in planning, developing and implementing a website.  There were many challenges along the way - much of it was simply just me NOT KNOWING HOW TO DO SOMETHING - but of course, much of it was assuaged by leveraging the knowledge of my CTC VISTA/peer network (i.e. Hey Josh King - how do i access MySQL through Terminal?  Hey Ben,  so how do i do a mysqldump again? - cheers dudes!)&lt;/p&gt;
+&lt;p&gt;----------------------------&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;:&lt;br /&gt;
+While I was recruited as a VISTA to be NAMAC’s Online Community Manager, much of my work has revolved around comprehensive preparation and redevelopment of the site for the work this position entails. This work included heavy site analysis (how it works vs. how it could work) as well as the resolution of many high volume site migration and server issues.  The workload has required more time and technical skill than initially expected, but marked a necessary refinement in work responsibilities to prepare the groundwork for NAMAC’s online community management.  &lt;/p&gt;
+&lt;p&gt;Throughout the process I was able to get the support I needed, while developing innovative ideas to increase NAMAC’s future online capacities.  Much of the support came from engaging a national network of fellow VISTAs, online community developers and the Drupal open-source community.&lt;/p&gt;
+&lt;p&gt;Our initial site launch is set for late April with a concerted effort to engage and welcome members and other stakeholders to the new site.  There will still be various kinks to work out once launched, but the site will still be flexible enough to adapt and resolve these issues if need be.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site Migration&lt;/strong&gt;:&lt;br /&gt;
+Throughout this process, I have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acted as liaison between CAMT, the 9th Street IT department and NAMAC staff to troubleshoot web migration issues as they arose&lt;/li&gt;
+&lt;li&gt;Engaged with national and local developer communities to resolve data migration and other web development issues &lt;/li&gt;
+&lt;li&gt;Successfully imported all pages from the old site into a new custom-built development site &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Site Development&lt;/strong&gt;:&lt;br /&gt;
+The major brunt of my work has been on ensuring that new feature requests from staff are indeed doable in Drupal – the chosen content-management system for the new site.  In keeping with my work plan to ‘build for web 2.0 platforms’ I had to ensure utmost flexibility of the site to adapt to current and future online community and Internet trends.&lt;/p&gt;
+&lt;p&gt;With these requirements and goals in mind, I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Researched, implemented and tested best Drupal ‘modules’ to match with NAMAC feature requests&lt;/li&gt;
+&lt;li&gt;Consulted with national networks of online community developers, knowledge management consultants, and Drupal developers both online and offline&lt;/li&gt;
+&lt;li&gt;Lead weekly site development discussions with staff to resolve design issues and develop new areas for online community interactivity &lt;/li&gt;
+&lt;li&gt;Integrated feedback from staff into various site areas &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have also documented all site work done on an internal staff wiki and am compiling a list of resources and training materials for future staff to use.   I am also training and orienting staff to new administrative features while drafting an initial strategy for the site’s online growth, support and member engagement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Site Areas&lt;/strong&gt;&lt;br /&gt;
+With the collaborative efforts of Jack, Helen, Amanda and Dewey, I was able to design and implement new site areas to offer our Members.  &lt;/p&gt;
+&lt;p&gt;These include:&lt;em&gt;&lt;br /&gt;
+The Idea Exchange&lt;/em&gt;&lt;br /&gt;
+Keeping in mind our slogan to ‘energize independent voices in the media arts’ this new area is a hybrid of our current Hot Topics and Get Connected areas. &lt;/p&gt;
+&lt;p&gt;Key features of this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User submitted articles&lt;/li&gt;
+&lt;li&gt;Newly enabled commentary on all articles posted to the site&lt;/li&gt;
+&lt;li&gt;Social bookmarking functionality built in to all articles posted&lt;/li&gt;
+&lt;li&gt;Cross linking of articles to site users and Member Organization pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The Face of the Field&lt;/em&gt;&lt;br /&gt;
+This section of the site is a multimedia, editorial-like section curated by NAMAC Staff. It is meant to feature the work and diversity of NAMAC’s national membership.  &lt;/p&gt;
+&lt;p&gt;It accomplishes this by offering the following sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Featured Leaders: leaders in the field highlighted each month&lt;/li&gt;
+&lt;li&gt;Featured Organizations: a highlighted member organization and what they do &lt;/li&gt;
+&lt;li&gt;User-submitted articles (pulled from the Idea Exchange)&lt;/li&gt;
+&lt;li&gt;Current members events, announcements and job postings&lt;/li&gt;
+&lt;li&gt;Links to browse and search our new and improved Member Directory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Advocacy and Policy &lt;/em&gt;&lt;br /&gt;
+This area will feature policy issue briefs and analysis cultivated by NAMAC staff.  There will also be handpicked articles and RSS feeds from our media policy and advocacy partners featured here.&lt;br /&gt;
+Job Bank and Member Directory&lt;br /&gt;
+Both of these have been rewritten and there is now an interactive Google map that visually displays clickable locations of our member organizations across the country. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Features&lt;/strong&gt;&lt;br /&gt;
+There have also been a host of new web 2.0 features we developed in the past few months.&lt;/p&gt;
+&lt;p&gt;A brief list follows: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability for users to write their own categories for what they post and read on the site&lt;/li&gt;
+&lt;li&gt;RSS subscribable Telesalon podcasts with embedded, playable and downloadable audio &lt;/li&gt;
+&lt;li&gt;WYSIWYG formatting editor built in to content posting forms &lt;/li&gt;
+&lt;li&gt;New and improved Member Directory area with sortable columns for Member Organization, State and Year Founded &lt;/li&gt;
+&lt;li&gt;New and improved Job Bank with sortable columns for Organization Name, Job Location, Type and Deadline &lt;/li&gt;
+&lt;li&gt;Ability to cross-reference Member Organizations in Articles&lt;/li&gt;
+&lt;li&gt;Member Organization pages linking all articles and users associated with that organization on one ‘group’ page &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other Accomplishments&lt;/strong&gt;&lt;br /&gt;
+Other tasks I finished were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coordinating the collection of online NAMAC Conference media from members&lt;/li&gt;
+&lt;li&gt;Tracking and commenting on relevant blog posts from conference attendees (members and otherwise) &lt;/li&gt;
+&lt;li&gt;Creating a new section on the current site to host post-conference articles, images, and video&lt;/li&gt;
+&lt;li&gt;Coordinating and facilitating a panel discussion to represent the CTC VISTA Project at NAMAC’s conference&lt;/li&gt;
+&lt;li&gt;Signed up and created various web 2.0 service accounts for NAMAC (Flickr, del.icio.us, blip.tv)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In maximizing my status as an AmeriCorps VISTA, I am also seeking and acquiring sponsorship for continued professional development in the field of web development and online strategy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Future Directions&lt;/strong&gt;&lt;br /&gt;
+From my experiences over the course of my VISTA service, I envision NAMAC’s web and online community strategy evolving in to the future as such:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/files/Picture 2.png&quot;&gt;&lt;img src=&quot;http://ctcvista.org/files/Picture 2.png&quot; width=&quot;560&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+My hope is that the above plan might serve as an initial launching point for discussion between NAMAC Board, Staff and the Online Community Manager.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1261#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Picture 2.png" length="192284" type="image/png" />
+ <pubDate>Thu, 10 Apr 2008 01:33:55 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1261 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #10: Reconciling &#039;Capacity Building&#039; with &#039;Fighting Poverty&#039;</title>
+ <link>http://digitalartscorps.org/node/1219</link>
+ <description>&lt;p align=&quot;justify&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/dikw.gif&quot; alt=&quot;KM&quot; width=&quot;560&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+So the past few weeks have seen some pretty exciting things happening around the website I&#039;m developing for NAMAC.  We&#039;ve had some good conversations around how we will build it out, what the different parts will look like and what benefit we will be able to offer our members.  Building out our website with the new technologies (previously unavailable through our current site or to NAMAC as a whole) will certainly be a bit &#039;disruptive&#039; at first and I&#039;m a little nervous.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Our website has a national readership from people across the field of media arts and technically, has had quite a bit of extensive customization.  It&#039;s development is coming along well, if a bit tedious at times.  LOTS of technical tweaks, multiple module/theme installs, TONS of learning about even more intricacies of Drupal throughout.  I&#039;ve also done a few custom PHP hacks in the code of certain modules and am looking forward to learning more about PHP (which my org has offered to support via paying for classes - sweet!).&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;In all of this technical service though, sitting behind the computer screen and making sure all the various bugs are worked out of the system, making sure things appear and function correctly - I can&#039;t help but think I&#039;m missing something important to my service as a VISTA - working to end poverty.  This is a HUGE part of what it means to be a VISTA.  This is part of our underlying mission in all of the work that we do and as VISTAs we are situated at the tail end of a long history of &lt;em&gt;national public service&lt;/em&gt; through AmeriCorps.   It is this idea, that I feel is at the core of being a VISTA. &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Yet here I am, sitting in an office, looking at lines and lines of code, PHP and Excel spreadsheets - far removed from the people/communities who VISTA supposedly helps.  I feel like I&#039;m having a bit of VISTA &#039;mid-year crisis&#039;.  Is the work I am doing really helping people?  Will it really help people?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;I imagine that this is a common issue for other VISTAs who do a lot of &#039;capacity building&#039; work - particularly the more &#039;technical&#039; work, like database management, IT systems planning, etc.  My work is certainly that, but the day to day interaction I&#039;ve previously had with people in the computer labs, youth centers and drop-in centers - direct-service - is amiss.  To see the immediate effect of things I did with people to help them along their way - whether helping a homeless kid write a resumé, taking a former speed addict to a college &#039;open house&#039;, or even showing someone how to register for an email address were so gratifying and I could take great pride in doing those things - it also kept me pretty humble to the things in life I was lucky to have or achieved.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/lighthouse.jpg&quot; width=&quot;560&quot; border=&quot;0&quot; alt=&quot;Photobucket&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Currently, the thing that keeps me going - and which guides most all decisions around the design and implementation of the new system - is an idea. The idea is to use the website as a &lt;em&gt;member knowledge management platform&lt;/em&gt; for the field - a resource that people in the field of media arts can trust as a guide to galvanize field-wide development and innovation, an idea that people can rally around in support of NAMAC&#039;s own mission to &quot;energize independent voices in the field of media arts&quot;.  Luckily, it&#039;s a vision that many of our member orgs share and it also happens to tie in with my own aspirations in life.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Being here at NAMAC as a VISTA has put me on a good career path for professional development in the field of &lt;a href=&quot;http://en.wikipedia.org/wiki/Knowledge_management&quot;&gt;knowledge management&lt;/a&gt; and my org is certainly supportive of it, but I still have my occasional difficult patches along this path opening up as I imagine other VISTAs do on their own paths.  And there&#039;s still the need to bring our communities out of poverty - our mission as VISTAs.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;It&#039;s been said that &quot;No one is free when others are oppressed&quot;.  Challenges mean growth, right?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;My question to anyone reading this, particularly CTC VISTAs is:&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;cite&gt;How do you reconcile not being able to see the immediate effects of what you do in your &#039;capacity building&#039; as a CTC VISTA with the AmeriCorps mandate of &#039;helping to alleviate illiteracy and poverty&#039;?  Isn&#039;t that what most of us became VISTAs for?  To serve our communities, fight the bad guys of poverty and illiteracy and perhaps, if we&#039;re lucky, get a good start to a sweet career path?&lt;/cite&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;What are your thoughts?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1219#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/911">knowledge management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Sat, 02 Feb 2008 03:24:45 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1219 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #7: A VISTA from the Frontier</title>
+ <link>http://digitalartscorps.org/node/1146</link>
+ <description>&lt;p&gt;Last week, I returned from NAMAC&#039;s 2007 conference in Austin: The Frontier is Here.  Being a dilettante professional relatively new to the field, this conference was a great view from the frontier.  From meeting other media makers and supporters from the ‘old school’ to hanging out with fellow VISTAs working at NAMAC’s member organizations, I was thoroughly ecstatic to have attended. In going forth with my work here at NAMAC, I feel better informed as their new Online Community Manager.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/jazminrjones/1685255240/&quot; title=&quot;NAMAC/BAVC Youth - photo courtesy of jazminrjones&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2016/1685255240_ce6ebc0756_o.jpg&quot; width=&quot;500&quot; height=&quot;332&quot; alt=&quot;namac youth&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+NAMAC Youth by jazminrjones&lt;br /&gt;
+One thing I was particularly sensitive to, was the intergenerational engagement between those from the ‘old school’ and those from the ‘new school’.  While there were many people throughout the conference who had been involved with media far longer than I (some nearly thirty years!) there was a good portion of young people there under twenty. Many of the panels and workshops that the youth presented on were attended mainly by other youth – not as many other, more seasoned professionals.  It would have been nice to have more intergenerational ambassadors to bridge dialogue between the two, perhaps provide some context and mentorship.  I myself am in my late 20s and did my best to connect some of the VISTAs (mostly in their mid-twenties) to other people at the conference as well as each other. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2204/1798810294_1566bb84cf.jpg?v=0&quot; alt=&quot;an excellent picture of Danielle in a pink cowboy hat&quot; /&gt;&lt;br /&gt;
+Only Morgan Loves Me in the Pink Kiddie Hat (thanks for the pic Danielle!)&lt;/p&gt;
+&lt;p&gt;Meeting up with the other VISTAs was excellent and our panel went well. We even had a personal endorsement at the end of our panel from Jack Walsh, co-director at NAMAC.   When I’ve met-up with VISTAs in the past regardless of what state, organization or project they’re from, there’s always been an uncanny feeling of camaraderie. The unique communal support that the CTC VISTA Project provides its members is priceless - both professionally and personally.  Ben Sheldon (now Acting Director of the CTC VISTA Project) in his characteristic salty style, was professionally spot on and attentive with his polished schpiel about the project throughout the conference.  Danielle (Martin) –the unofficial CTC VISTA queen mother – was as supportive as ever to organizations with questions as well as some of the other presenters on the panel.  Her being there on the panel reminded me a bit of when I was in grade school and forgot my lines during a play – I was fortunate enough in that my co-star had some of the lines memorized much better than me, whispering them to me as I stood in that bright, naked spotlight.   &lt;/p&gt;
+&lt;p&gt;One panel that I found particularly engaging was the panel on place-based media. For this panel, the presenters discussed the relationship and responsibility that media makers in rural and urban contexts have to their communities. Being a media maker myself and having lived in both contexts I felt excited to participate in the dialogue that the panel opened up.   In the discussions that followed, conversations about class, race and community stewardship as the context for mediating between these sites was nothing less than fascinating.  I really enjoyed talking with other media-making ‘in-betweeners’ afterwards. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2122/1659278215_ea21064b01.jpg?v=0&quot; alt=&quot;improv jam at the conference&quot; /&gt;&lt;br /&gt;
+Me jamming with Michelle Mayer (thanks again for this pic too Danielle!)&lt;/p&gt;
+&lt;p&gt;I must say that the highlight for me was an improvised performance with one of the installation artists at the conference.  At midnight in the conference ballroom, I met with Austin-based video artist &lt;a href=&quot;http://michellemayer.com/home.html&quot;&gt;Michelle Mayer&lt;/a&gt; for an impromptu audio/video jam. Michelle connected her laptop up to the ballroom projector, while I plugged mine in to the main PA.  Using nothing but the built-in mic for my laptop and the live, on-site recordings generated from this, I created rhythmic textures for Mayer to ‘dialogue’ with me using her own library of original and sampled video.  Mayer had an amazing fluency with her manipulations and was an utter joy to perform with. &lt;/p&gt;
+&lt;p&gt;I feel the collaboration succinctly captured what the conference was all about: creating, engaging and acting.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1146#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/206">conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <pubDate>Wed, 31 Oct 2007 20:35:14 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1146 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #6: NAMAC Conference Planning</title>
+ <link>http://digitalartscorps.org/node/1123</link>
+ <description>&lt;p&gt;Been a pretty hectic few days, I&#039;m actually in the middle of a move from San Francisco to Oakland while planning for a conference - stressful, but I&#039;m a bit excited about what&#039;s ahead in my life path...&lt;/p&gt;
+&lt;p&gt;Today, I have been contacting our VISTA Panel presenters, coordinating meeting up with them at the conference, answering any questions they may have about the panel and generally doing my best to make sure the presenters are good to go.&lt;/p&gt;
+&lt;p&gt;I&#039;ve also been prepping a small one sheet handout for the project geared towards our audience of media arts-heavy folks.&lt;/p&gt;
+&lt;p&gt;The web site  (which I was hired on to develop), has been on a bit of a hold lately with the conference and my RSI thrown in to complicate things, so not much to report on that - I forsee developing a cohesive taxonomy as a challenge.&lt;/p&gt;
+&lt;p&gt;Yesterday, I did my first task that actually made me feel like a volunteer - assembling a display board for our conference.  A nice arts &#039;n crafts affair with some new copy printed with some fancy fonts (themed with NAMAC&#039;s new style guide for all our marketing) for the various pieces of our display board.  I also made some great contact with other orgs on the phone to solicit them writing for our Media Arts Movement time line - mentioned in my last post:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.mediaartsmovement.org/&quot; title=&quot;http://www.mediaartsmovement.org/&quot;&gt;http://www.mediaartsmovement.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, off to pack n prepare....&lt;/p&gt;
+&lt;p&gt;m&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1123#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/206">conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <pubDate>Thu, 11 Oct 2007 19:45:42 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1123 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

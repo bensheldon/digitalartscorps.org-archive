@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - bookstore</title>
+ <link>http://digitalartscorps.org/taxonomy/term/749/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Education/Training</title>
+ <link>http://digitalartscorps.org/node/788</link>
+ <description>&lt;p&gt;Jamaica Plain Community Education Project&lt;br /&gt;
+PO Box 1053&lt;br /&gt;
+Jamaica Plain, MA 02130&lt;br /&gt;
+617-522-8277&lt;br /&gt;
+A project to organize and empower our communities to learn from and educate ourselves through the cost-free sharing of knowledge and skills. &lt;/p&gt;
+&lt;p&gt;Brattle Book Shop&lt;br /&gt;
+&lt;a href=&quot;http://www.brattlebookshop.com/&quot; title=&quot;http://www.brattlebookshop.com/&quot;&gt;http://www.brattlebookshop.com/&lt;/a&gt;&lt;br /&gt;
+Great place to buy any sort of used book *cheap* in Boston, near the common. Huge selection, atmosphere is warm. When the weather is good there will be an outdoor area selling books more cheaply than normal.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/625">books</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/749">bookstore</category>
+ <pubDate>Mon, 14 May 2007 20:57:32 +0000</pubDate>
+ <dc:creator>Jack Doherty</dc:creator>
+ <guid isPermaLink="false">788 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

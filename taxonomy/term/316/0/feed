@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - website development</title>
+ <link>http://digitalartscorps.org/taxonomy/term/316/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Online Form Resources</title>
+ <link>http://digitalartscorps.org/node/1238</link>
+ <description>&lt;p&gt;Recently I&#039;ve been tasked with coming up with better options for more&lt;br /&gt;
+functional online forms - on a budget.  Improved forms should be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy to setup&lt;/li&gt;
+&lt;li&gt;Easy to change&lt;/li&gt;
+&lt;li&gt;Easy to maintain&lt;/li&gt;
+&lt;li&gt;Be able to generate:  Excel, CSV (comma separated values) data files&lt;br /&gt;
+of selected information&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, with that criteria in mind, I set out, first, via code - commonly:&lt;/p&gt;
+&lt;p&gt;ASP or php (there may be others via which this can be done - these are&lt;br /&gt;
+the two I find most often used for this purpose):&lt;/p&gt;
+&lt;p&gt;Along those lines I found sites like these which generate code based on&lt;br /&gt;
+user input:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.freeformmaker.com/&quot; title=&quot;http://www.freeformmaker.com/&quot;&gt;http://www.freeformmaker.com/&lt;/a&gt; (php)&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tele-pro.co.uk/scripts/contact_form/&quot; title=&quot;http://www.tele-pro.co.uk/scripts/contact_form/&quot;&gt;http://www.tele-pro.co.uk/scripts/contact_form/&lt;/a&gt; (ASP or php)&lt;/p&gt;
+&lt;p&gt;just follow the prompts and poof - easy form&lt;/p&gt;
+&lt;p&gt;that works for sites designed to accomodate do it yourself forms.  Not&lt;br /&gt;
+all hosts are created equal.  In that case, my case, I then took to looking&lt;br /&gt;
+at online form hosts.  The form sits on your site (or theirs) but is processed&lt;br /&gt;
+through their system (free or for reasonable rates).  Two sites I found&lt;br /&gt;
+worth looking at are:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.jotform.com&quot; title=&quot;http://www.jotform.com&quot;&gt;http://www.jotform.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.wufoo.com&quot; title=&quot;http://www.wufoo.com&quot;&gt;http://www.wufoo.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I put together a form from jotform in about two hours.  Not because it&lt;br /&gt;
+was difficult but because it was somewhat complex.  Have a look:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.elcentrodelaraza.org/volreg/volreg.htm&quot; title=&quot;http://www.elcentrodelaraza.org/volreg/volreg.htm&quot;&gt;http://www.elcentrodelaraza.org/volreg/volreg.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mike Moore&lt;br /&gt;
+Vista Tech - El Centro de la Raza&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/918">online forms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/316">website development</category>
+ <pubDate>Thu, 06 Mar 2008 01:13:02 +0000</pubDate>
+ <dc:creator>Mike Moore</dc:creator>
+ <guid isPermaLink="false">1238 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Project: Web (part one)</title>
+ <link>http://digitalartscorps.org/node/573</link>
+ <description>&lt;p&gt;Back in January, the folks at the Community Software Lab were asked by a university-based non-profit if we could translate an artist&amp;#39;s Photoshop mock-up into HTML and CSS.  Eager to please (and needing some money to keep the budget balanced), we said &amp;quot;sure&amp;quot; and submitted our estimate for 20 hours of work.  It&amp;#39;s March, and we&amp;#39;re still working.  What&amp;#39;s the deal?&lt;/p&gt;
+&lt;p&gt;For my part, I gratefully ignored things until the last week of February, content to let Dan, my boss, manage the project.  He had subcontracted the work to Erich, our soon-to-be VISTA, and for the most part, let things be, receiving changes from Erich every few days.  It worked great--as long as changes didn&amp;#39;t need to be made immediately.  Erich put together some pretty good code and certainly earned his 20 hours&amp;#39; paycheck.  Then things began to pick up.&lt;/p&gt;
+&lt;p&gt;Dan and I met with our clients and their contractor, hired to handle eZ publish, the content management system (CMS) behind the existing website.  At this point, we were asked to clean up a few errors in our code, and Dan asked me to take over managing our end of the project.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Sounds fun!&amp;quot; I thought.  This initial enthusiasm has kept me at times from tearing my hair out.&lt;/p&gt;
+&lt;p&gt;First task: talk with Erich and find out how many hours he&amp;#39;s worked.  Seventeen.  Cool.  He can fix the styling errors and fill out his 20 hours.  I can stay detached from the actual coding and work on learning server virtualization, adding Gallery to another client&amp;#39;s website, debugging our Samba server, and installing SMTP authentication on our mail server.   It hasn&amp;#39;t turned out that way.&lt;/p&gt;
+&lt;p&gt;Behind every website is HTML.  Perhaps that&amp;#39;s a bit of a simplification, but it&amp;#39;s not too far off.  HTML is the end product of every website designed for a personal computer.  The web browser knows HTML, and the web browser is boss.  It then stands to reason that a large part of any website&amp;#39;s success is based on what sort of HTML it gives to the browser.  Wonderful HTML doesn&amp;#39;t guarantee a good site, but improperly written HTML throws a wrench in the works.   It causes some browsers to balk while others work fine.  Text turns into links; links turn into text.  Cats and dogs live together.  Well, it&amp;#39;s not quite Ghostbusters-bad.&lt;/p&gt;
+&lt;p&gt;A big chunk of the issue hinges on the very first line after the server tells the browser &amp;quot;Content-type: text/html&amp;lt;CR&amp;gt;&amp;lt;CR&amp;gt;&amp;quot; -- that pesky &amp;lt;!DOCTYPE&amp;gt; declaration (man, I hope Drupal escapes this sentence correctly!).  This guy tells the browser which version of HTML is being delivered.  There a few different versions these days, but the big ones are XHTML 1.0 and HTML 4.01.  XHTML is newer and more programmer-/machine-friendly; HTML requires fewer tags.  The crux of the issue, though, is how the browser handles each.  Most browsers these days display content differently depending on the &amp;lt;!DOCTYPE&amp;gt; declaration they receive with each page.  Give them an XHTML 1.0 declaration, they do one thing; give them an HTML 4.01 declaration, they do another.  Thanks to the trial and error of many web developers, this behavior is pretty well documented.  Give a browser one declaration, but give it code corresponding to a different declaration--then you have problems.&lt;/p&gt;
+&lt;p&gt;The old site used the HTML 4.01 declaration, but which declaration to use for the new site?  We chose XHTML.  It&amp;#39;s definitely easier to spot flaws in an XHTML page, and stylesheets work differently with XHTML than with HTML.  Mostly, though, it&amp;#39;s an aesthetic thing.  With XHTML there is no ambiguity.  Every tag has a beginning an and ending, and its content is determined by the beginning and the ending of the tag, not by the browser&amp;#39;s interpretation of the tag, as is sometimes the case with HTML 4.01.  Ask someone else, though, and you&amp;#39;d likely receive a different answer.   The point here is that there are pitfalls involved with converting a site from HTML 4.01 to XHTML 1.0.  Beware of this.  Don&amp;#39;t do it just because it&amp;#39;s trendy.   Even though we&amp;#39;re using a content management system, we&amp;#39;ll still be uncovering small bugs a month from now.&lt;/p&gt;
+&lt;p&gt;Back in January, I first received the artists&amp;#39; mock-up as an e-mail attachment.  I was cc&amp;#39;ed on the e-mail.  Trouble was, in addition to the mock-up, there were two other image attachments along for the ride--a pdf file of the entire mock-up and a gif file of five pictures, arranged in a row, artfully merged together.  What to do?&lt;/p&gt;
+&lt;p&gt;Well, as a bystander, I did nothing for a month.  Fortunately I kept the e-mail, though I must say I rarely delete e-mails.  When I finally started working on the project, we were asked to smooth out the site&amp;#39;s banner image.  It seemed a bit blurry, but I wasn&amp;#39;t sure why.  I asked Erich to take a look and send me an updated image.&lt;/p&gt;
+&lt;p&gt;Still in error-fixing mode, we needed to keep the left-hand navigation links from resizing if a word got too long.  We also needed to keep the main content from dropping below the left-hand navigation when the browser window got too small.  Where it existed, we also needed to update the right-hand column.&lt;/p&gt;
+&lt;p&gt;(End of Part One) &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/573#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/316">website development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/563">website projects</category>
+ <pubDate>Thu, 08 Mar 2007 05:46:44 +0000</pubDate>
+ <dc:creator>John Miller</dc:creator>
+ <guid isPermaLink="false">573 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Reworking old websites </title>
+ <link>http://digitalartscorps.org/node/262</link>
+ <description>&lt;p&gt;I am currently reworking an old website for HPP, &lt;a href=&quot;/www.helping-sf.org&quot; target=&quot;_blank&quot;&gt;Helping-SF&lt;/a&gt;.  This website is meant for low-income families and case managers.  In it&amp;#39;s current form, the website is very disorganized both in terms of content and also in terms of pages and locations.  There are numerous broken links, orphaned pages and older versions housed within numerous local locations.  Although I have some experience with dreamweaver, I have never moved an existing site to a new location.  I am not sure if it would be better to work with the existing local files and reorganize that way or whether I should migrate the site to a local folder and start fresh.  Any suggestions?  &lt;/p&gt;
+&lt;p&gt;ALSO, I cannot log into the CTC Vista Project site from my computer in the office, but I can from other computers in the office.  I was able to when I first started, but I have not been able to since.   Any suggestions on how I can change that?  This is the reason for my posting lack in the last couple of weeks.  &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/262#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/315">dreamweaver</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/317">organization</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/318">site layout</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/115">tech assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/316">website development</category>
+ <pubDate>Thu, 02 Nov 2006 21:53:27 +0000</pubDate>
+ <dc:creator>brittney fosbrook</dc:creator>
+ <guid isPermaLink="false">262 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

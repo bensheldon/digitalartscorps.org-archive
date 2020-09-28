@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - tracking</title>
+ <link>http://digitalartscorps.org/taxonomy/term/773/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Constituent Management Databases</title>
+ <link>http://digitalartscorps.org/node/951</link>
+ <description>&lt;p&gt;from the &lt;strong&gt;Tech Soup Newsletter&lt;/strong&gt;: Tracking Constituents in Small and Mid-Sized Organizations&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.techsoup.org/learningcenter/databases/page7129.cfm&quot; title=&quot;http://www.techsoup.org/learningcenter/databases/page7129.cfm&quot;&gt;http://www.techsoup.org/learningcenter/databases/page7129.cfm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Before you consider what actual database tool is right for you, it&#039;s important to think through what&#039;s important for your organization.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Understand who will use it&lt;/strong&gt;. Your organization&#039;s databases shouldn&#039;t be the domain of the technical. Many people will need to use it — for instance, a constituent database should be used by anyone looking up a constituent phone number or tracking a contact with someone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Think through the processes and data you need to track.&lt;/strong&gt; What do you currently do that should be supported in the new system? What isn&#039;t working well right now that could be improved with a new system? What do you think you might want to do down the road? Try to consider all the ways that you could interact with the data you&#039;re going to track.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Begin with your outputs in mind. &lt;/strong&gt;Make a list of the reports, lists, and other things that you will want to output from the system. What information will you need? In what ways will you need to filter the data?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prioritize your needs&lt;/strong&gt;. Define which of your needs are critical, and which are just nice to have. Trying to support everything at once can result in a system that&#039;s too complicated for your needs or not being able to find a system at all.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/774">constituents</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/319">database</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/772">donor management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/773">tracking</category>
+ <pubDate>Tue, 03 Jul 2007 00:27:49 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">951 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A Few Good Case Management Tools</title>
+ <link>http://digitalartscorps.org/node/616</link>
+ <description>&lt;p&gt;The &lt;a href=&quot;/files/vendor_idealware_handout.pdf&quot;&gt;attached pamphlet&lt;/a&gt; by &lt;a href=&quot;http://www.idealware.org&quot; title=&quot;www.idealware.org&quot;&gt;www.idealware.org&lt;/a&gt; provides a brief overview of case management system to keep track of volunteers and/or clients.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1132">case management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/773">tracking</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/109">volunteer management</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/vendor_idealware_handout.pdf" length="42665" type="application/pdf" />
+ <pubDate>Wed, 14 Mar 2007 01:50:26 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">616 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

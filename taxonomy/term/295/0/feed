@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - tableless design</title>
+ <link>http://digitalartscorps.org/taxonomy/term/295/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Web Design Holy War</title>
+ <link>http://digitalartscorps.org/node/250</link>
+ <description>&lt;p&gt;Everyone on the CTC VISTA listserv probably noticed some extra e-mail today.  Thanks for taking me into your inboxes, and thank you to Matt and Dina for some solid advice!&lt;/p&gt;
+&lt;p&gt;One of my ongoing projects is creating a website for the UMass Lowell Engineering Service-Learning Program, affectionately known as SLICE (Service-Learning Integrated throughout the College of Engineering).  I&amp;#39;ve been working on the site sporadically for about six months, having done most of the work in February and March.  Now that the school year has started, it&amp;#39;s time to bring the site online.  That means debugging.&lt;/p&gt;
+&lt;p&gt;It might have been easier if I had used a content-management system for the site, or at the least, used a pre-canned template for the site design.  I&amp;#39;m one of these people who likes to do things himself, however, and sometimes I take this to a fault.&lt;/p&gt;
+&lt;p&gt;I decided to go whole-hog and code the entire site from scratch.  Considering that the SLICE folks just wanted a new look for their existing site (which used frames rather poorly), all I had to do was create a template page and type in some text, right?  Indeed.&lt;/p&gt;
+&lt;p&gt;For me, coding a site from scratch means using Cascading Style Sheets (CSS) for as much of the styling and layout as possible.  I avoid using tables to position my pages.  Here&amp;#39;s why:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a single CSS file for layout makes changing pages go more quickly than using tables, inline attributes (e.g., &amp;lt;div align=&amp;quot;&amp;quot;&amp;gt;) and &amp;lt;font&amp;gt; tags.&lt;/li&gt;
+&lt;li&gt;CSS allows me to simply use a different stylesheet to create printer-friendly pages, screen-reader-friendly pages, and compact pages for handheld PCs and cell phones.&lt;/li&gt;
+&lt;li&gt;One 5k CSS file services an entire site, meaning that pages will load faster.  For people with broadband connections, this isn&amp;#39;t a big issue.  For dial-up users, size and speed are tightly correlated. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; The use of CSS instead of tables, &amp;lt;font&amp;gt; tags, and inline attributes, along with the use of descriptive &amp;quot;class&amp;quot; and &amp;quot;id&amp;quot; attributes, is commonly referred to as semantic markup, and is a hot-button issue with web designers.  The logical conclusion of this would be to design pages using XML, so that you could have a tag called, for example, &amp;quot;&amp;lt;linkmenu&amp;gt;.&amp;quot;  We&amp;#39;re not quite there yet. &lt;/p&gt;
+&lt;p&gt; The advantages of CSS-based design over traditional design are so persuasive that everyone would design pages this way, right?  Not so.  Every browser has its own way of interpreting both HTML and CSS, which makes for a trying experience sometimes.  Thus people choose to use the traditional methods of web design, involving tables, &amp;lt;font&amp;gt; tags, and inline attributes.  At the Grassroots Use of Technology Conference this past June, Ben DiMaggio referred to this difference in design philosophy as the &amp;quot;holy war&amp;quot; in web design.&lt;/p&gt;
+&lt;p&gt;Taking sides has its drawbacks.  For the SLICE site, I wanted to create a simple two-column layout, with a banner across the top and copyright info across the bottom.  The left column should be a fixed width so that people didn&amp;#39;t have the navigation links resize whenever they resized their browser windows.  The right column should allow for browser resizing, at least down to a reasonable amount (say 400-500 pixels) .  A fixed-width navigation column next to a variable-width main column?  Simple.  Just use CSS&amp;#39;s &amp;quot;float&amp;quot; attribute.  Except that this doesn&amp;#39;t work.&lt;/p&gt;
+&lt;p&gt;Internet Explorer 5 and 6 don&amp;#39;t float things very well.  If you decide to have a floating left column full of links, things get goofy if you specify any heights or widths in your right column.  Woe unto those who like using background images: borders and background images don&amp;#39;t play nicely when floated in Internet Explorer.  There&amp;#39;s a funny-looking &amp;quot;indent&amp;quot; if your right column is longer than your left column.&lt;/p&gt;
+&lt;p&gt;I tried and tried to solve this with the float attribute, but never with much luck.  Either I had to create &amp;lt;div&amp;gt; containers upon &amp;lt;div&amp;gt; containers, which is just as bad, markup-wise, as using tables for layout, or I had to change my CSS.  I chose the latter.&lt;/p&gt;
+&lt;p&gt;With the &amp;quot;position&amp;quot; attribute, CSS lets you position things exactly, down to the pixel.  Since my left column was of a fixed width, I just decided to place the main body of the web page next to the links column.  The strange indent bug was gone in Internet Explorer, but now Firefox was leaving a strange gap at the right of the page.  Since IE still holds the lion&amp;#39;s share of browser usage these days, I was happy.  Since Mozilla-based browsers have a good 15% share of browser usage, my solution wasn&amp;#39;t good enough.  In came the listserv.&lt;/p&gt;
+&lt;p&gt;Matt and Dina graciously offered their help: Matt suggesting that I look at my Document Type Definition (DTD), and Dina offering some tricks with the float attribute that I hadn&amp;#39;t thought of.  Not quite the right track.  Finally, after a few wrong turns, one extra attribute fixed things:&lt;/p&gt;
+&lt;p&gt;&amp;lt;code&amp;gt;right: 0;&amp;lt;/code&amp;gt;&lt;/p&gt;
+&lt;p&gt;Ten bytes!!!  All this work to change ten bytes!  And really a fairly intuitive answer: if I specify the leftmost edge of my main column, I might as well specify the rightmost edge also.  Most web designers know that a &amp;lt;div&amp;gt; tag expands to fill up the entire width of its containing element.  Do they know about this particular exception?  I hope so, but I sure didn&amp;#39;t.&lt;/p&gt;
+&lt;p&gt;In addition to the &amp;quot;right: 0;&amp;quot; fix, today I learned about the &amp;quot;Holly Hack,&amp;quot; a workaround for Internet Explorer to keep content from disappearing when a page is loaded.  Fortunately, learning about this was a 30-minute &amp;quot;read and imitate&amp;quot; fix.&lt;/p&gt;
+&lt;p&gt;And there&amp;#39;s still more to learn.  Evidently the CSS specifications changed slightly between CSS 2.0 and CSS 2.1.  And I&amp;#39;m still not up to date with Mac IE and Safari.  My position often forces me to be a &amp;quot;John of all trades,&amp;quot; so I sacrifice some depth of knowledge for breadth.  Guess that means that in the web design &amp;quot;holy wars,&amp;quot; I&amp;#39;d better not get too holy, because I don&amp;#39;t know everything.&lt;/p&gt;
+&lt;p&gt; --John &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/250#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/293">cross-browser</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/156">CSS</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/294">semantic markup</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/295">tableless design</category>
+ <pubDate>Wed, 01 Nov 2006 00:57:27 +0000</pubDate>
+ <dc:creator>John Miller</dc:creator>
+ <guid isPermaLink="false">250 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

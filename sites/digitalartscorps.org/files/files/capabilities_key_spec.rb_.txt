@@ -1,0 +1,30 @@
+require "lib/capabilities_key"
+describe CapabilitiesKey do
+	s = CapabilitiesKey.new		# "s" for "sample"
+	id = 33						# example of an id
+	tag = "apple sauce"			# example of a tag
+	cap = s.cap_from_id_and_tag(id, tag)	# a resulting capability
+	it "Should support instances being marshaled." do
+		Marshal.load(Marshal.dump(s)).should == s
+	end
+	it "Should supply a capability that is a string." do
+		cap.should is_a?(String)
+	end
+	it "Should recover the correct id and tag from a valid capability." do
+		s.id_and_tag_from_cap(cap).should == [id, tag]
+	end
+	it "Should detect invalid capabilities in the vast majority of cases." do
+		how_many_cases_to_try = 1000
+		how_many_cases_have_failed_so_far = 0
+		how_many_cases_to_try.times do
+			how_many_cases_have_failed_so_far += 1 unless \
+				CapabilitiesKey.new.id_and_tag_from_cap(cap).nil?
+		end
+		(how_many_cases_have_failed_so_far * 1000).should < how_many_cases_to_try
+	end
+	if false
+		it "Should cure cancer." do
+			1.should == 2
+		end
+	end
+end

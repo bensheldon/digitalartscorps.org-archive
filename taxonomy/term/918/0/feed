@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - online forms</title>
+ <link>http://digitalartscorps.org/taxonomy/term/918/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Online Form Resources</title>
+ <link>http://digitalartscorps.org/node/1238</link>
+ <description>&lt;p&gt;Recently I&#039;ve been tasked with coming up with better options for more&lt;br /&gt;
+functional online forms - on a budget.  Improved forms should be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy to setup&lt;/li&gt;
+&lt;li&gt;Easy to change&lt;/li&gt;
+&lt;li&gt;Easy to maintain&lt;/li&gt;
+&lt;li&gt;Be able to generate:  Excel, CSV (comma separated values) data files&lt;br /&gt;
+of selected information&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, with that criteria in mind, I set out, first, via code - commonly:&lt;/p&gt;
+&lt;p&gt;ASP or php (there may be others via which this can be done - these are&lt;br /&gt;
+the two I find most often used for this purpose):&lt;/p&gt;
+&lt;p&gt;Along those lines I found sites like these which generate code based on&lt;br /&gt;
+user input:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.freeformmaker.com/&quot; title=&quot;http://www.freeformmaker.com/&quot;&gt;http://www.freeformmaker.com/&lt;/a&gt; (php)&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tele-pro.co.uk/scripts/contact_form/&quot; title=&quot;http://www.tele-pro.co.uk/scripts/contact_form/&quot;&gt;http://www.tele-pro.co.uk/scripts/contact_form/&lt;/a&gt; (ASP or php)&lt;/p&gt;
+&lt;p&gt;just follow the prompts and poof - easy form&lt;/p&gt;
+&lt;p&gt;that works for sites designed to accomodate do it yourself forms.  Not&lt;br /&gt;
+all hosts are created equal.  In that case, my case, I then took to looking&lt;br /&gt;
+at online form hosts.  The form sits on your site (or theirs) but is processed&lt;br /&gt;
+through their system (free or for reasonable rates).  Two sites I found&lt;br /&gt;
+worth looking at are:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.jotform.com&quot; title=&quot;http://www.jotform.com&quot;&gt;http://www.jotform.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.wufoo.com&quot; title=&quot;http://www.wufoo.com&quot;&gt;http://www.wufoo.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I put together a form from jotform in about two hours.  Not because it&lt;br /&gt;
+was difficult but because it was somewhat complex.  Have a look:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.elcentrodelaraza.org/volreg/volreg.htm&quot; title=&quot;http://www.elcentrodelaraza.org/volreg/volreg.htm&quot;&gt;http://www.elcentrodelaraza.org/volreg/volreg.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mike Moore&lt;br /&gt;
+Vista Tech - El Centro de la Raza&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/918">online forms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/316">website development</category>
+ <pubDate>Thu, 06 Mar 2008 01:13:02 +0000</pubDate>
+ <dc:creator>Mike Moore</dc:creator>
+ <guid isPermaLink="false">1238 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

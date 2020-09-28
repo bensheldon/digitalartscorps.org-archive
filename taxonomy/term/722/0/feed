@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - example</title>
+ <link>http://digitalartscorps.org/taxonomy/term/722/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Reporting is Like Building With LEGOs</title>
+ <link>http://digitalartscorps.org/node/914</link>
+ <description>&lt;p&gt;This is a post from a class demonstration where I showed some of our new VISTAs how to navigate the field reporting interface.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accomplishments&lt;/strong&gt;: showing new VISTAs how to navigate the site&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenges&lt;/strong&gt;: it&#039;s really, really hot (but we had some nice air conditioning)&lt;/p&gt;
+&lt;p&gt;Here&#039;s a link to my &lt;a href=&quot;http://www.namac.org&quot; title=&quot;NAMAC&quot;&gt;project&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/914#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/722">example</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/143">training</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/65">VISTA PSO</category>
+ <pubDate>Wed, 20 Jun 2007 20:24:35 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">914 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

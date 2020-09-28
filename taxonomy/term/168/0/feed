@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - forms</title>
+ <link>http://digitalartscorps.org/taxonomy/term/168/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Trying out Survey Services</title>
+ <link>http://digitalartscorps.org/node/1175</link>
+ <description>&lt;p&gt;A lot of the work at the CTC VISTA Project is getting information back from our VISTAs and their supervisors.  I&#039;ve been trying out two different Survey Services and I thought I would post some of my opinions on them.&lt;/p&gt;
+&lt;p&gt;Basically, we have a lot of questions that can take the form of a survey/poll.  Recently I created one to ask what VISTAs are coming to the NTEN conference, and a regular one (well, I&#039;ve done it twice now) for supervisor&#039;s to complete as a brief monthly report.  It&#039;s basically a bunch of formatted questions with---the best part---a way to put in everyone&#039;s email address and then easily see who has filled it out and who I have to call and bug, err, check-in with.&lt;/p&gt;
+&lt;p&gt;*&lt;a href=&quot;http://surveymonkey.com&quot;&gt;Survey Monkey&lt;/a&gt; - This is the most common one that people say when you ask &quot;what should I use to make this online survey?&quot;.  It works, but it&#039;s kind&#039;ve ugly, clunky, and you don&#039;t have a lot of options for styling (no html!).  But it lets you make a pretty complicated survey with different pages and paths (eg. If you answered &quot;no&quot; to #1, skip #2 and go to #3).&lt;/p&gt;
+&lt;p&gt;*&lt;a href=&quot;http://wufoo.com&quot;&gt;Wufoo&lt;/a&gt; - Just by the name you know it&#039;s going to be colorful and shiny.  Which it is.  Everything is all clean and crisp and fancy feeling.  You can customize all the styles with html and CSS and they offer lovely reports.  But the surveys are kind&#039;ve limited in layout.  It&#039;s all on a single page.  Also, while all high-tech, it has some non-user centric features.  The most irritating of which is that help-text only shows up when hover over the form, making it easy to miss, or hard to scan the entire survey at a glance.&lt;/p&gt;
+&lt;p&gt;Both of them cost money if you&#039;re trying to do anything more than dead simple, which is to be expected.  I&#039;ve looked around for Free options, but haven&#039;t found anything that has that option to see who &#039;&#039;&#039;hasn&#039;t&#039;&#039;&#039; responded.  But they make collecting information very convenient---though you still have to act on it.  As always, technology is cheap, thinking is hard.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1175#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/168">forms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/896">polling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/897">polls</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/78">surveys</category>
+ <pubDate>Wed, 05 Dec 2007 22:25:25 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">1175 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>A quick note on usability</title>
+ <link>http://digitalartscorps.org/node/563</link>
+ <description>&lt;p&gt;Am I the only one who doesn&amp;#39;t necessarily always fill out online forms from top to bottom? The way some forms are designed makes it seem so.&lt;/p&gt;
+&lt;p&gt;For example, visit the &lt;a href=&quot;https://signup.projectpath.com/signup/Free&quot;&gt;free Basecamp account signup page&lt;/a&gt;. At the time of this blog post, if you fill in item 3 and then fill in item 2 with something different (and then click in a new field to have the change to item 2 &amp;quot;sink in&amp;quot;), what you have entered for item 3 is replaced.&lt;/p&gt;
+&lt;p&gt;There should be a check for this. I&amp;#39;ve seen this problem on other sites too. (Though it is kinda fun to pick on the, in my opinion, mostly well-designed Basecamp.)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/563#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/168">forms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/331">usability</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/557">web design</category>
+ <pubDate>Thu, 01 Mar 2007 23:59:07 +0000</pubDate>
+ <dc:creator>cheryl jerozal</dc:creator>
+ <guid isPermaLink="false">563 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>VISTA Life Forms</title>
+ <link>http://digitalartscorps.org/node/176</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.americorps.gov/for_individuals/current/index.asp&quot;&gt;AmeriCorps&amp;#39; Official Manuals, Handbooks, and Forms&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/files/travelform.doc&quot;&gt;Travel Form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/expectations&quot;&gt;Expectations of Project Participation (VISTAs &amp;amp; Supervisors)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/files/VISTA_terms_benefits_conditions.pdf&quot;&gt;Official VISTA terms, benefits, &amp;amp; conditions of service&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://americorps.gov/pdf/politicalactivities_2004.pdf&quot;&gt;Lobbying and Political Involvement Guidelines&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/futureplans.doc&quot;&gt;Future Plans or Early Termination&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/exitform.pdf&quot;&gt;Exit Form&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;CNCS Interest Accrual Form &lt;/p&gt;
+&lt;p&gt;CNCS Forebearance Request Form &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.americorps.gov/for_individuals/current/index.asp&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/168">forms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/92">VISTA Life</category>
+ <pubDate>Fri, 06 Oct 2006 19:15:00 +0000</pubDate>
+ <dc:creator>Erin Taylor</dc:creator>
+ <guid isPermaLink="false">176 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

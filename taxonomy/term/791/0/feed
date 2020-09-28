@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - webdev</title>
+ <link>http://digitalartscorps.org/taxonomy/term/791/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Field Report #9: 3 Essential Drupal Modules</title>
+ <link>http://digitalartscorps.org/node/1197</link>
+ <description>&lt;p&gt;&lt;a title=&quot;current NAMAC site&quot; href=&quot;http://www.namac.org&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture2.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;new NAMAC site (in development)&quot; href=&quot;http://www.namac.org/drupal&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture3.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So this past month was pretty tedious and slow.  As some of you may or may not know, I am currently migrating my org&#039;s current website into a new, Drupal-based web 2.0 friendly site.  There were nearly 1500 pages from the old site to import,&lt;br /&gt;
+and much of the (great) content on the old site also remained buried beneath many, many pages - there were no RSS feeds on anything, no bookmarking services built in, and no browsable tag clouds - basic characteristics of web 2.0 sites.&lt;/p&gt;
+&lt;p&gt;Luckily, most of pages were were outdated and were able to be deleted.  However, there were still many tedious bits to the importing - where should they go?  How should the specific pieces of content be categorized?  Was there a space for them on the new site?  What would those new spaces looks like?  How can the content be easy to find?  Do all the links on this page still work???&lt;/p&gt;
+&lt;p&gt;My goal was to make the content as easy to browse and share as possible, increase it&#039;s &lt;a href=&quot;http://www.alistapart.com/articles/ambientfindability&quot;&gt;ambient findability&lt;/a&gt; .&lt;br /&gt;
+&lt;strong&gt;&lt;br /&gt;
+Overview of Modules Used&lt;/strong&gt;&lt;br /&gt;
+Central modules that I used on the site included Views, Panels and Taxonomy Node Operations - all three of these made for some fun and challenging work.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://drupal.org/project/taxonomy_node_operations&quot;&gt;Taxonomy Node Operations&lt;/a&gt;&lt;/em&gt;:&lt;br /&gt;
+This was a very helpful module.  When i imported all of the content from the old site (which took about a week of tweaking to get just right - i was getting all sorts of odd characters and HTML showing up in posts) none of it was categorized.  What this module does, is allow a &#039;mass categorization&#039; of content from the content administration page in Drupal.  I of course had to go in and create the categories first, but once done, categorizing the content was easy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://drupal.org/project/views&quot;&gt;Views&lt;/a&gt;&lt;/em&gt;:&lt;br /&gt;
+Views I used in order to create &#039;landing pages&#039; for particular areas of the site (which were defined by the kinds of content appearing in each).  For instance, there is a section of the site called &#039;&lt;a href=&quot;http://namac.org/drupal/capacity-building&quot;&gt;Capacity Building&lt;/a&gt;&#039;  Capacity Building is a service that we offer and on the page that had info about this service(s), i wanted to have all articles having to do with &#039;fundraising&#039; (synonymous with capacity building) appear there as well.  So, all articles on the site which had to do with &#039;fundraising&#039; I tagged/categorized as such and viola!  they now appear on the landing page of our &#039;Capacity Building&#039; section.  I used this technique throughout the site for various sections...&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://drupal.org/project/panels&quot;&gt;Panels&lt;/a&gt;&lt;/em&gt;:&lt;br /&gt;
+This is  great module for configuring how you want a page to display.  It&#039;s a bit like putting Drupal blocks and Views into specified sections (panels) of a page.  The front page and the &#039;&lt;a href=&quot;http://namac.org/drupal/policy-and-advocacy&quot;&gt;Policy and Advocacy Network&lt;/a&gt;&#039; pages are both Panels.&lt;/p&gt;
+&lt;p&gt;I also started playing around the general look and feel of the site through a hacked Drupal theme (&lt;a href=&quot;http://drupal.org/project/SEOposition&quot;&gt;SEO Position&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Click on the images below to see before and after screenshots of what I&#039;ve done so far:&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;current NAMAC site&quot; href=&quot;http://www.namac.org&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture2.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;new NAMAC site (in development)&quot; href=&quot;http://www.namac.org/drupal&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/th_Picture3.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1197#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/82">website</category>
+ <pubDate>Mon, 22 Sep 2008 22:40:12 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1197 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report # 13: And Now, A Word From Our Sponsor...</title>
+ <link>http://digitalartscorps.org/node/1275</link>
+ <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;pr&gt;&lt;strong&gt;And now, a word from our sponsor...&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ctcvista.org/files/americorps_logo.gif&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&quot;During your VISTA year, you may sometimes come to challenges that you thought you might not be able to overcome.  You might think that that last bowl of ramen was pretty damn horrid, or you may even be questioning the integrity of choosing to serve your comunity for a year at poverty level when you&#039;ve STILL got that mortgage you&#039;re trying to pay off (or maybe you haven&#039;t even got on yet - doesn&#039;t everybody have one?).  &lt;/p&gt;
+&lt;p&gt;Well, we here at the CTC VISTA Project have only one thing to say...&quot;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Are YOU &#039;hangin tough&#039;?&lt;/strong&gt;&lt;br /&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/iJt3f6Lach4&amp;amp;hl=en&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;br /&gt;
+&lt;strong&gt;Hangin&#039; Tough&lt;/strong&gt;&lt;br /&gt;
+by the New Kids On the Block&lt;/p&gt;
+&lt;p&gt;Intro... Oh Oh Oh Oh Oh&lt;br /&gt;
+(Verse) Listen up everybody if you wanna take a chance&lt;br /&gt;
+Just get on the floor and do the New Kids dance&lt;br /&gt;
+Don&#039;t worry about nothing cause it won&#039;t take long&lt;br /&gt;
+We&#039;re gonna put you in a trance with the funky song&lt;br /&gt;
+Cause you gotta be...&lt;br /&gt;
+(Chorus) Hangin&#039; tough&lt;br /&gt;
+Singing tough&lt;br /&gt;
+Singing tough&lt;br /&gt;
+Are you tough enough?&lt;br /&gt;
+Hangin&#039; tough&lt;br /&gt;
+Singing tough&lt;br /&gt;
+Singing tough&lt;br /&gt;
+We&#039;re rough&lt;br /&gt;
+Oh Oh Oh Oh x2&lt;br /&gt;
+(Verse) Everybody&#039;s always talking about who&#039;s on top&lt;br /&gt;
+Don&#039;t cross our paths cause you&#039;re gonna get stopped&lt;br /&gt;
+We ain&#039;t gonna give anybody any slack&lt;br /&gt;
+And if you try to keep us up we&#039;re gonna come right back&lt;br /&gt;
+And you know it...&lt;br /&gt;
+(Chorus)&lt;br /&gt;
+Oh Oh Oh Oh Oh x4&lt;br /&gt;
+(Music Break)&lt;br /&gt;
+(Verse) Get loose everybody cause we&#039;re gonna do our thing&lt;br /&gt;
+Cause you know it ain&#039;t over till the fat ladyt sings&lt;br /&gt;
+Check it out...&lt;br /&gt;
+(Music Break)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(well, actually two more things)&lt;/strong&gt;&lt;br /&gt;
+|&lt;br /&gt;
+|&lt;br /&gt;
+|&lt;br /&gt;
+V&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Have YOU &#039;kept on truckin&#039;&#039;?&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ctcvista.org/files/keep_on_truckin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And lastly... &lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Do YOU have the Eye of the Tiger?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;embed src=&quot;http://www.youtube.com/v/HHWS0H2JqSU&amp;amp;hl=en&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eye of the Tiger&lt;/strong&gt;&lt;br /&gt;
+by Survivor&lt;/p&gt;
+&lt;p&gt;Risin&#039; up, back on the street&lt;br /&gt;
+Did my time, took my chances&lt;br /&gt;
+Went the distance, now I&#039;m back on my feet&lt;br /&gt;
+Just a man and his will to survive&lt;/p&gt;
+&lt;p&gt;So many times, it happens too fast&lt;br /&gt;
+You change your passion for glory&lt;br /&gt;
+Don&#039;t lose your grip on the dreams of the past&lt;br /&gt;
+You must fight just to keep them alive&lt;/p&gt;
+&lt;p&gt;Chorus:&lt;br /&gt;
+It&#039;s the eye of the tiger, it&#039;s the cream of the fight&lt;br /&gt;
+Risin&#039; up to the challenge of our rival&lt;br /&gt;
+And the last known survivor stalks his prey in the night&lt;br /&gt;
+And he&#039;s watchin&#039; us all in the eye of the tiger&lt;/p&gt;
+&lt;p&gt;Face to face, out in the heat&lt;br /&gt;
+Hangin&#039; tough, stayin&#039; hungry&lt;br /&gt;
+They stack the odds &#039;til we take to the street&lt;br /&gt;
+For we kill with the skill to survive&lt;/p&gt;
+&lt;p&gt;chorus&lt;/p&gt;
+&lt;p&gt;Risin&#039; up, straight to the top&lt;br /&gt;
+Have the guts, got the glory&lt;br /&gt;
+Went the distance, now I&#039;m not gonna stop&lt;br /&gt;
+Just a man and his will to survive&lt;/p&gt;
+&lt;p&gt;chorus&lt;/p&gt;
+&lt;p&gt;The eye of the tiger (repeats out)...&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can also print out the lyrics to either sing along OR simply post them in your place of work  for words of inspiration during times of none.&lt;/em&gt;&lt;/p&gt;
+&lt;/pr&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1275#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/948">hangin tough</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/947">nkotb</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 13 May 2008 21:13:42 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1275 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #12: Board Report = Field Report!</title>
+ <link>http://digitalartscorps.org/node/1261</link>
+ <description>&lt;p&gt;So... as I had to write this for a Board Report (tip: &lt;em&gt;writing Field Reports is a bit like writing Board Reports&lt;/em&gt;;), I thought I would include it here as a Field Report.  It details what I have done over the past 6 months as NAMAC&#039;s Online Community Manager.&lt;/p&gt;
+&lt;p&gt;Maybe someone might find some things in it that are helpful to them in planning, developing and implementing a website.  There were many challenges along the way - much of it was simply just me NOT KNOWING HOW TO DO SOMETHING - but of course, much of it was assuaged by leveraging the knowledge of my CTC VISTA/peer network (i.e. Hey Josh King - how do i access MySQL through Terminal?  Hey Ben,  so how do i do a mysqldump again? - cheers dudes!)&lt;/p&gt;
+&lt;p&gt;----------------------------&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;:&lt;br /&gt;
+While I was recruited as a VISTA to be NAMAC’s Online Community Manager, much of my work has revolved around comprehensive preparation and redevelopment of the site for the work this position entails. This work included heavy site analysis (how it works vs. how it could work) as well as the resolution of many high volume site migration and server issues.  The workload has required more time and technical skill than initially expected, but marked a necessary refinement in work responsibilities to prepare the groundwork for NAMAC’s online community management.  &lt;/p&gt;
+&lt;p&gt;Throughout the process I was able to get the support I needed, while developing innovative ideas to increase NAMAC’s future online capacities.  Much of the support came from engaging a national network of fellow VISTAs, online community developers and the Drupal open-source community.&lt;/p&gt;
+&lt;p&gt;Our initial site launch is set for late April with a concerted effort to engage and welcome members and other stakeholders to the new site.  There will still be various kinks to work out once launched, but the site will still be flexible enough to adapt and resolve these issues if need be.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site Migration&lt;/strong&gt;:&lt;br /&gt;
+Throughout this process, I have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acted as liaison between CAMT, the 9th Street IT department and NAMAC staff to troubleshoot web migration issues as they arose&lt;/li&gt;
+&lt;li&gt;Engaged with national and local developer communities to resolve data migration and other web development issues &lt;/li&gt;
+&lt;li&gt;Successfully imported all pages from the old site into a new custom-built development site &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Site Development&lt;/strong&gt;:&lt;br /&gt;
+The major brunt of my work has been on ensuring that new feature requests from staff are indeed doable in Drupal – the chosen content-management system for the new site.  In keeping with my work plan to ‘build for web 2.0 platforms’ I had to ensure utmost flexibility of the site to adapt to current and future online community and Internet trends.&lt;/p&gt;
+&lt;p&gt;With these requirements and goals in mind, I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Researched, implemented and tested best Drupal ‘modules’ to match with NAMAC feature requests&lt;/li&gt;
+&lt;li&gt;Consulted with national networks of online community developers, knowledge management consultants, and Drupal developers both online and offline&lt;/li&gt;
+&lt;li&gt;Lead weekly site development discussions with staff to resolve design issues and develop new areas for online community interactivity &lt;/li&gt;
+&lt;li&gt;Integrated feedback from staff into various site areas &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have also documented all site work done on an internal staff wiki and am compiling a list of resources and training materials for future staff to use.   I am also training and orienting staff to new administrative features while drafting an initial strategy for the site’s online growth, support and member engagement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Site Areas&lt;/strong&gt;&lt;br /&gt;
+With the collaborative efforts of Jack, Helen, Amanda and Dewey, I was able to design and implement new site areas to offer our Members.  &lt;/p&gt;
+&lt;p&gt;These include:&lt;em&gt;&lt;br /&gt;
+The Idea Exchange&lt;/em&gt;&lt;br /&gt;
+Keeping in mind our slogan to ‘energize independent voices in the media arts’ this new area is a hybrid of our current Hot Topics and Get Connected areas. &lt;/p&gt;
+&lt;p&gt;Key features of this area include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User submitted articles&lt;/li&gt;
+&lt;li&gt;Newly enabled commentary on all articles posted to the site&lt;/li&gt;
+&lt;li&gt;Social bookmarking functionality built in to all articles posted&lt;/li&gt;
+&lt;li&gt;Cross linking of articles to site users and Member Organization pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The Face of the Field&lt;/em&gt;&lt;br /&gt;
+This section of the site is a multimedia, editorial-like section curated by NAMAC Staff. It is meant to feature the work and diversity of NAMAC’s national membership.  &lt;/p&gt;
+&lt;p&gt;It accomplishes this by offering the following sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Featured Leaders: leaders in the field highlighted each month&lt;/li&gt;
+&lt;li&gt;Featured Organizations: a highlighted member organization and what they do &lt;/li&gt;
+&lt;li&gt;User-submitted articles (pulled from the Idea Exchange)&lt;/li&gt;
+&lt;li&gt;Current members events, announcements and job postings&lt;/li&gt;
+&lt;li&gt;Links to browse and search our new and improved Member Directory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Advocacy and Policy &lt;/em&gt;&lt;br /&gt;
+This area will feature policy issue briefs and analysis cultivated by NAMAC staff.  There will also be handpicked articles and RSS feeds from our media policy and advocacy partners featured here.&lt;br /&gt;
+Job Bank and Member Directory&lt;br /&gt;
+Both of these have been rewritten and there is now an interactive Google map that visually displays clickable locations of our member organizations across the country. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Features&lt;/strong&gt;&lt;br /&gt;
+There have also been a host of new web 2.0 features we developed in the past few months.&lt;/p&gt;
+&lt;p&gt;A brief list follows: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability for users to write their own categories for what they post and read on the site&lt;/li&gt;
+&lt;li&gt;RSS subscribable Telesalon podcasts with embedded, playable and downloadable audio &lt;/li&gt;
+&lt;li&gt;WYSIWYG formatting editor built in to content posting forms &lt;/li&gt;
+&lt;li&gt;New and improved Member Directory area with sortable columns for Member Organization, State and Year Founded &lt;/li&gt;
+&lt;li&gt;New and improved Job Bank with sortable columns for Organization Name, Job Location, Type and Deadline &lt;/li&gt;
+&lt;li&gt;Ability to cross-reference Member Organizations in Articles&lt;/li&gt;
+&lt;li&gt;Member Organization pages linking all articles and users associated with that organization on one ‘group’ page &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other Accomplishments&lt;/strong&gt;&lt;br /&gt;
+Other tasks I finished were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coordinating the collection of online NAMAC Conference media from members&lt;/li&gt;
+&lt;li&gt;Tracking and commenting on relevant blog posts from conference attendees (members and otherwise) &lt;/li&gt;
+&lt;li&gt;Creating a new section on the current site to host post-conference articles, images, and video&lt;/li&gt;
+&lt;li&gt;Coordinating and facilitating a panel discussion to represent the CTC VISTA Project at NAMAC’s conference&lt;/li&gt;
+&lt;li&gt;Signed up and created various web 2.0 service accounts for NAMAC (Flickr, del.icio.us, blip.tv)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In maximizing my status as an AmeriCorps VISTA, I am also seeking and acquiring sponsorship for continued professional development in the field of web development and online strategy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Future Directions&lt;/strong&gt;&lt;br /&gt;
+From my experiences over the course of my VISTA service, I envision NAMAC’s web and online community strategy evolving in to the future as such:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ctcvista.org/files/Picture 2.png&quot;&gt;&lt;img src=&quot;http://ctcvista.org/files/Picture 2.png&quot; width=&quot;560&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+My hope is that the above plan might serve as an initial launching point for discussion between NAMAC Board, Staff and the Online Community Manager.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1261#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Picture 2.png" length="192284" type="image/png" />
+ <pubDate>Thu, 10 Apr 2008 01:33:55 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1261 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Things to Look Out For When Migrating Data Between CMS&#039;s</title>
+ <link>http://digitalartscorps.org/node/1253</link>
+ <description>&lt;p&gt;While redeveloping the NAMAC site, I had some difficulty importing data from our ColdFusion CSM to a new Drupal CMS.  There were many odd glitches in migrating the data.  DON&quot;T UNDERESTIMATE THE TROUBLE OF THIS.&lt;/p&gt;
+&lt;p&gt;You will need to budget a sizeable amount of time to make this happen.&lt;/p&gt;
+&lt;p&gt;I was given an XLS file which needed to be translated into a CSV file.  I was also on a Mac and had to make sure the CSV was saved in a UTF-8 format for importing.&lt;/p&gt;
+&lt;p&gt;I used Drupal&#039;s Node Import module for this and had to break up the data across spreadsheets into a CSV with columns that Drupal could understand.  My question that I came too was:&lt;/p&gt;
+&lt;p&gt;&quot;How do I merge a multi-sheet ColdFusion database XLS file into a one sheet Drupal CSV database file?&quot;&lt;/p&gt;
+&lt;p&gt;I posted it on LinkedIn and this was one of the answers I got courtesy of Steve Boynes, Senior Programmer/Analyst at Dolby Laboratories:&lt;/p&gt;
+&lt;p&gt;&quot;Wow an XLS data source!  Current norms for Coldfusion development are to use a SQL based data source so it sounds like you might be working with a legacy site.  In any case, the task at hand is to map the data from your Coldfusion based web site into your new Drupal CMS based web site.&lt;/p&gt;
+&lt;p&gt;With an XLS datasource in Coldfusion each sheet is the equivalent of a Table in SQL.  The first row in each sheet defines the Column names of the &quot;table&quot;, and the subsequent rows represent the Row data.&lt;/p&gt;
+&lt;p&gt;You don&#039;t actually need to merge the multiple sheets of the XLS into a single CSV file, instead you need to create a individual CSV file for each sheet.  Unfortunately this isn&#039;t as easy as going into Excel and doing a File:Save As and setting the type to CSV because of the formatting requirements of the Drupal PHP based CSV parser.  So you&#039;ll want to write some Coldfusion code to create the CSV file for you.  The elegant solution would be to have a single Coldfusion page that would query all of your &quot;tables&quot; and write out the individual files to the filesystem.  But the quick and easy solution is to just query each table and output the fields as comma separated values directly to the screen, then just copy and paste this into Notepad and save it with a .CSV extension.  Just make sure you follow the appropriate convention for the CSV: first row containing the column names, double quotes around strings with commas, and date values in valid UNIX timestamp format.&lt;/p&gt;
+&lt;p&gt;On the Drupal side you&#039;ll want to use the node_import module to get the data in to your CMS.  You can use the wizard to map in the values from your CSV files.  Attached is a link to a pretty good readme on this process.&quot;&lt;/p&gt;
+&lt;p&gt;Links:&lt;br /&gt;
+&lt;a href=&quot;http://dir.rabhiomar.com/node/129&quot; title=&quot;http://dir.rabhiomar.com/node/129&quot;&gt;http://dir.rabhiomar.com/node/129&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is also an excellent article written on data exchange formats by Peter Campbell, IT Director at Earth Justice.  You can read it on the Idelaware Site here: &lt;a href=&quot;http://www.idealware.org/articles/data_exchange_alpha_soup.php&quot; title=&quot;http://www.idealware.org/articles/data_exchange_alpha_soup.php&quot;&gt;http://www.idealware.org/articles/data_exchange_alpha_soup.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hope someone finds this helpful!&lt;/p&gt;
+&lt;p&gt;_morgan&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/935">CSV</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/936">data</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/937">formats</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/934">XLS</category>
+ <pubDate>Thu, 27 Mar 2008 19:45:39 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1253 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>How To Apply A Patch to a Drupal Module</title>
+ <link>http://digitalartscorps.org/node/1252</link>
+ <description>&lt;p&gt;Sometimes, particularly when using a custom Drupal module, you may need to a apply what&#039;s called a &#039;patch&#039;.  A patch is simply a text file with a set of instructions saying which lines of code within a module need to be changed, added or deleted to get the module to function better or more accurately.&lt;/p&gt;
+&lt;p&gt;Oft times, patches are applied to make sure a module works correctly across Drupal distributions (versions).&lt;/p&gt;
+&lt;p&gt;Below are instructions for applying a patch.  Once you get the hang of it, the whole process can take less than 2 minutes.&lt;/p&gt;
+&lt;p&gt;Instructions For Applying a Patch to a Drupal Module:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download the whole folder for a module to your Desktop (off of the server where you have it running)&lt;/li&gt;
+&lt;li&gt;Create a text file (ending in &lt;em&gt;.patch&lt;/em&gt;) using a patch for the respective module (you might have been brought to a webpage with &lt;a href=&quot;http://drupal.org/files/issues/morelink.patch&quot;&gt;lines of code&lt;/a&gt; to be copied and pasted from the pageinto the text file)&lt;/li&gt;
+&lt;li&gt;Save it and place it in the module&#039;s folder&lt;/li&gt;
+&lt;li&gt;Open up *Terminal&lt;/li&gt;
+&lt;li&gt;Navigate to the folder (using &lt;em&gt;cd&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Run this command:&lt;em&gt; patch -b &amp;lt; file_name.patch&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Upload the whole folder BACK to it&#039;s respective location on the server (and overwrite the original folder there)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;*Note, this is a command line program for Mac used in conjunction with TextEdit (for editing the text file). Windows equivalents would be MS-DOS and NotePad.&lt;/em&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/932">module</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/933">patch</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Thu, 27 Mar 2008 18:54:31 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1252 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Field Report #10: Reconciling &#039;Capacity Building&#039; with &#039;Fighting Poverty&#039;</title>
+ <link>http://digitalartscorps.org/node/1219</link>
+ <description>&lt;p align=&quot;justify&quot;&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/dikw.gif&quot; alt=&quot;KM&quot; width=&quot;560&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+So the past few weeks have seen some pretty exciting things happening around the website I&#039;m developing for NAMAC.  We&#039;ve had some good conversations around how we will build it out, what the different parts will look like and what benefit we will be able to offer our members.  Building out our website with the new technologies (previously unavailable through our current site or to NAMAC as a whole) will certainly be a bit &#039;disruptive&#039; at first and I&#039;m a little nervous.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Our website has a national readership from people across the field of media arts and technically, has had quite a bit of extensive customization.  It&#039;s development is coming along well, if a bit tedious at times.  LOTS of technical tweaks, multiple module/theme installs, TONS of learning about even more intricacies of Drupal throughout.  I&#039;ve also done a few custom PHP hacks in the code of certain modules and am looking forward to learning more about PHP (which my org has offered to support via paying for classes - sweet!).&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;In all of this technical service though, sitting behind the computer screen and making sure all the various bugs are worked out of the system, making sure things appear and function correctly - I can&#039;t help but think I&#039;m missing something important to my service as a VISTA - working to end poverty.  This is a HUGE part of what it means to be a VISTA.  This is part of our underlying mission in all of the work that we do and as VISTAs we are situated at the tail end of a long history of &lt;em&gt;national public service&lt;/em&gt; through AmeriCorps.   It is this idea, that I feel is at the core of being a VISTA. &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Yet here I am, sitting in an office, looking at lines and lines of code, PHP and Excel spreadsheets - far removed from the people/communities who VISTA supposedly helps.  I feel like I&#039;m having a bit of VISTA &#039;mid-year crisis&#039;.  Is the work I am doing really helping people?  Will it really help people?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;I imagine that this is a common issue for other VISTAs who do a lot of &#039;capacity building&#039; work - particularly the more &#039;technical&#039; work, like database management, IT systems planning, etc.  My work is certainly that, but the day to day interaction I&#039;ve previously had with people in the computer labs, youth centers and drop-in centers - direct-service - is amiss.  To see the immediate effect of things I did with people to help them along their way - whether helping a homeless kid write a resumé, taking a former speed addict to a college &#039;open house&#039;, or even showing someone how to register for an email address were so gratifying and I could take great pride in doing those things - it also kept me pretty humble to the things in life I was lucky to have or achieved.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i29.photobucket.com/albums/c268/memeshift/scraps/lighthouse.jpg&quot; width=&quot;560&quot; border=&quot;0&quot; alt=&quot;Photobucket&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Currently, the thing that keeps me going - and which guides most all decisions around the design and implementation of the new system - is an idea. The idea is to use the website as a &lt;em&gt;member knowledge management platform&lt;/em&gt; for the field - a resource that people in the field of media arts can trust as a guide to galvanize field-wide development and innovation, an idea that people can rally around in support of NAMAC&#039;s own mission to &quot;energize independent voices in the field of media arts&quot;.  Luckily, it&#039;s a vision that many of our member orgs share and it also happens to tie in with my own aspirations in life.&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;Being here at NAMAC as a VISTA has put me on a good career path for professional development in the field of &lt;a href=&quot;http://en.wikipedia.org/wiki/Knowledge_management&quot;&gt;knowledge management&lt;/a&gt; and my org is certainly supportive of it, but I still have my occasional difficult patches along this path opening up as I imagine other VISTAs do on their own paths.  And there&#039;s still the need to bring our communities out of poverty - our mission as VISTAs.  &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;It&#039;s been said that &quot;No one is free when others are oppressed&quot;.  Challenges mean growth, right?&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;My question to anyone reading this, particularly CTC VISTAs is:&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;cite&gt;How do you reconcile not being able to see the immediate effects of what you do in your &#039;capacity building&#039; as a CTC VISTA with the AmeriCorps mandate of &#039;helping to alleviate illiteracy and poverty&#039;?  Isn&#039;t that what most of us became VISTAs for?  To serve our communities, fight the bad guys of poverty and illiteracy and perhaps, if we&#039;re lucky, get a good start to a sweet career path?&lt;/cite&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;What are your thoughts?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1219#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/911">knowledge management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/868">NAMAC</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/869">newsletter</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Sat, 02 Feb 2008 03:24:45 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1219 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>10 Tactics for Growing Your Community Online</title>
+ <link>http://digitalartscorps.org/node/1167</link>
+ <description>&lt;p&gt;Last week I attended an NTEN Member Appreciation Webinar entitled: &lt;em&gt;10 Tactics for Growing Your Community Online&lt;/em&gt;.  As NAMAC&#039;s Online Community Manager, I found this webinar very helpful, engaging and well worth my time.&lt;/p&gt;
+&lt;p&gt;The webinar, provided by the awesome &lt;a href=&quot;http://nten.org/events/webinar/2007/11/08/nten-member-appreciation-webinar-10-tactics-for-growing-your-online-community&quot;&gt;N-TEN,&lt;/a&gt; can be found in context here:&lt;br /&gt;
+&lt;a href=&quot;http://tinyurl.com/2mtekz&quot; title=&quot;http://tinyurl.com/2mtekz&quot;&gt;http://tinyurl.com/2mtekz&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The following are the main bullet points that were discussed at the *session:&lt;/p&gt;
+&lt;p&gt;1) Let the potential members of the community know why you are providing an online community, and how being an active member of a community would benefit them.&lt;/p&gt;
+&lt;p&gt;2) Use every opportunity to showcase your online community.&lt;/p&gt;
+&lt;p&gt;3) Seed the community with groups, forum postings, blogs, etc., so that early adopters aren’t faced with an “empty” community.&lt;/p&gt;
+&lt;p&gt;4) Make it as easy as possible for people to sign up and to use the community tools.&lt;/p&gt;
+&lt;p&gt;5) Designate a staff person to be the facilitator or moderator of the community.&lt;/p&gt;
+&lt;p&gt;6) Acknowledge those members who use the community frequently.&lt;/p&gt;
+&lt;p&gt;7) Seek input from the members on your organization’s agenda and other organizational issues. Take what you learn from the community and put it into practice in the organization.&lt;/p&gt;
+&lt;p&gt;8) Use wiki and/or forum functionality to publish ongoing lists of group events.&lt;/p&gt;
+&lt;p&gt;9) Announce new initiatives and other important organizational news in the community first.&lt;/p&gt;
+&lt;p&gt;10) Keep the community content fresh.&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+Feel free to watch the powerpoint below (click on it to go to a download page):
+&lt;/p&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;div style=&quot;width:425px;text-align:left&quot; id=&quot;__ss_169334&quot;&amp;gt;&lt;embed src=&quot;http://static.slideshare.net/swf/ssplayer2.swf?doc=10-tactics-for-online-community-1195245790203857-1&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;div&gt;&lt;a href=&quot;http://www.slideshare.net/?src=embed&quot;&gt;&lt;img src=&quot;http://static.slideshare.net/swf/logo_embd.png&quot; alt=&quot;SlideShare&quot; /&gt;&lt;/a&gt; | &lt;a href=&quot;http://www.slideshare.net/guestb97bef/10-tactics-for-online-community&quot; title=&quot;View &amp;#039;10  Tactics For  Online  Community&amp;#039; on SlideShare&quot;&gt;View&lt;/a&gt; | &lt;a href=&quot;http://www.slideshare.net/upload&quot;&gt;Upload your own&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+The powerpoint was provided on kind permission from Christopher Dworin, VP of Business Development at GoLightly - thanks Chris!  &lt;em&gt;GoLightly provides communication and collaboration solutions for community-minded organizations. [Their] social networking tools give your members the ability to interact with you and each other in powerful new ways.&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+To read more about GoLightly, see: &lt;a href=&quot;http://www.golightly.com/&quot; title=&quot;http://www.golightly.com/&quot;&gt;http://www.golightly.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/881">dangerousbook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/447">NTEN</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/890">online community</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/533">resource</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/891">webinar</category>
+ <pubDate>Fri, 16 Nov 2007 20:56:22 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1167 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Resources for Good Site Aesthetics and Techniques</title>
+ <link>http://digitalartscorps.org/node/1014</link>
+ <description>&lt;p&gt;here are two link to fun web development stuff to look at, learn from and implement - updated daily (at least).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The most popular web development bookmarks on del.icio.us:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/popular/webdev&quot; title=&quot;http://del.icio.us/popular/webdev&quot;&gt;http://del.icio.us/popular/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;My favorite bookmarks on my del.icio.us account:&lt;br /&gt;
+&lt;a href=&quot;http://del.icio.us/memeshift/webdev&quot; title=&quot;http://del.icio.us/memeshift/webdev&quot;&gt;http://del.icio.us/memeshift/webdev&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt; A website i go to DAILY to see what the latest trends in web design are:&lt;br /&gt;
+&lt;a href=&quot;http://www.designmeltdown.com&quot; title=&quot;http://www.designmeltdown.com&quot;&gt;http://www.designmeltdown.com&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/158">design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/822">graphic design</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/12">webdesign</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 31 Jul 2007 21:51:29 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1014 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Site Planning: Tips and Resources for Planning Your Site</title>
+ <link>http://digitalartscorps.org/node/1005</link>
+ <description>&lt;p&gt;I cannot emphasize enough, the importance of PLANNING OUT YOUR WEBSITE.  Before you can even start thinking about what the colors will be, you need to have a few things in place.  3 i can readily think of are:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Site Plan&lt;/li&gt;
+&lt;li&gt;A Site Map Diagram&lt;/li&gt;
+&lt;li&gt;A User Experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sustainability plays a large part in the success of the technology chosen and implemented.  In fact, it shouldn&#039;t even be &#039;a part&#039; of, it should be INTRINSIC to your site throughout it&#039;s development. &lt;/p&gt;
+&lt;p&gt;Web maintenance is a pretty big one - for instance, what happens if you&#039;ve coordinated a bright, fresh and dynamic team to help out on your site, but one of them gets hired off someplace else?  What if your graphic designer (for banners, buttons, etc.) is having more difficulty than originally anticipated or they simpy can&#039;t finish the work?  These instances are particularly taxing if your team is a group of VOLUNTEERS.  Volunteers can be notorious (through no fault of their own) at &#039;dropping off&#039; a project.   Will you, as the sole coordinator have the strategy, skills and time in place to &#039;fill in&#039;?  This can often happen (as I&#039;ve been taken to task to many a time).  Nothing is more taxing then if a website or listserv goes down RIGHT before a critical fundraising campaign (which will happen).  Have a plan for this.  Have back up documentation of what they were doing, and when?  How far a long were they?  What did the develop/what did they NOT develop?&lt;/p&gt;
+&lt;p&gt;A key thing that can help off set these things (and empower YOU as a web team coordinator) is to have a Site Plan - any designer should be able to have this on hand and have it transparent and viewable by ALL interested parties - executive board, support staff, consultants (if you&#039;re not fortunate enough to have in-house web staff), funder$...&lt;/p&gt;
+&lt;p&gt;I&#039;m currently developing the site for &lt;a href=&quot;http://www.namac.org&quot; title=&quot;NAMAC&quot;&gt;NAMAC&lt;/a&gt;, but it is a HUGE undertaking with A LOT of planning that&#039;s going into it - discussion, visioning, functionality, user roles, modules needed, interaction workflow, meeting with each staff member individually, pre-launch steps, live launch monitoring, sustainability and optimization  - and we haven&#039;t even gotten to the design aesthetics yet.&lt;/p&gt;
+&lt;p&gt;Without further ado and blathering, here&#039;s a few notes on some things that I think are pretty basic and key to web development.  This is by no mean exhaustive, but you can certainly search for other &lt;a href=&quot;http://ctcvista.org/search/node/%22web+development%22&quot; title=&quot;web development tips&quot;&gt;web development tips on our site&lt;/a&gt;...&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;A Site Plan&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&quot; title=&quot;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&quot;&gt;http://docs.google.com/View?docid=dw5pg78_5cmp6ts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is my General Plan for the current site.  I&#039;ve made sure to have it public so interested parties (org directors, staff, consultants) can see it and comment on it.  I asked each person what they&#039;d like to see, asked them how and if they would interact with a particular functionality and then composed a report with all of their input in it.  I am in CONSTANT communication with them about how the new site will function, how the planning is going, what purpose the site/functionality will serve, and IF a certain functionality they&#039;ll want is doable and/or &lt;em&gt;necessary&lt;/em&gt; - this part is huge - the more functionality, the more troubleshooting down the road.  &lt;/p&gt;
+&lt;p&gt;A general rule of thumb when developing is the 3 T&#039;s of Site Building (or any other tech project for that matter).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tell them what you are planning on doing (when you&#039;re planning it)&lt;/li&gt;
+&lt;li&gt;Tell them you are doing it (when you are doing it)&lt;/li&gt;
+&lt;li&gt;Tell them that you did (when you are done)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That way there&#039;s no &#039;What?  I didn&#039;t okay this!&#039; from a frustrated laissez-faire client/director or &#039;But we had &lt;em&gt;talked&lt;/em&gt; about it before&#039; from an equall frustrated and head-strong developer.  I&#039;d add that keeping up an online document that EVERYONE can see will also make sure that everyone is on the same page - as well as help YOU as a designer/planner be able to refer back to and track your work.&lt;/p&gt;
+&lt;p&gt;***NOTE: as a VISTA, an online accessible/public document gives your directors/supervisors a way to reference the great work that you, as a VISTA are doing - mine are sending the link above to funders to show them what we are up to***&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;A Site Map Diagram&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&quot; title=&quot;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&quot;&gt;http://www.michelinag.com/agx/en-US/images/sitemap/sitemap.gif&lt;/a&gt;&lt;br /&gt;
+An example of a site map diagram.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.gliffy.com/&quot; title=&quot;http://www.gliffy.com/&quot;&gt;http://www.gliffy.com/&lt;/a&gt;&lt;br /&gt;
+You can draw out a diagram map of your site with this tool (NOT to be confused with an XML SITEMAP by the way).  This is GREAT for working with distributed teams.  &lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;br /&gt;
+A User Experience Workflow&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&quot;http://www.jjg.net/elements/pdf/elements.pdf&quot; title=&quot;http://www.jjg.net/elements/pdf/elements.pdf&quot;&gt;http://www.jjg.net/elements/pdf/elements.pdf&lt;/a&gt;&lt;br /&gt;
+The above provides a great visual of the user design experience process.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&quot; title=&quot;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&quot;&gt;http://farm2.static.flickr.com/1254/899914294_ab6745ac73_o.jpg&lt;/a&gt;&lt;br /&gt;
+This (i like this one even better) provides another view of the design process).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, I hope this helps some of you VISTAs out there.  Like i said, this is by no means an exhaustive resource of planning tips, but hopefully it&#039;s enough to get you started on your way to website planning nirvana.&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+peace,&lt;br /&gt;
+m&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/30">cms</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/878">newsworthy</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/460">web</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/Elements of User Experience.pdf" length="16945" type="application/pdf" />
+ <pubDate>Wed, 25 Jul 2007 23:44:05 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1005 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Leveraging the Facebook API</title>
+ <link>http://digitalartscorps.org/node/1003</link>
+ <description>&lt;h4&gt; Leveraging the FaceBook API &lt;/h4&gt;
+&lt;p&gt;HISTORY/BACKGROUND&lt;br /&gt;&lt;br /&gt;
+facebook was initially for college students&lt;br /&gt;&lt;br /&gt;
+very little activity for people outside of formal networks (work, geographic region, school/college)&lt;br /&gt;&lt;br /&gt;
+myspace is growing much faster than facebook&lt;br /&gt;&lt;br /&gt;
+an API was released to the public for people to start developing it&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;you can only see people from within your network&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+STAGES OF GROWTH TO CONSIDER WHEN BUILDING AN APP
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;can have people interact across networks with the apps
+&lt;/li&gt;
+&lt;li&gt;HUGE increase in adoption of apps
+&lt;/li&gt;
+&lt;li&gt;DO NOT however, rely on this happening (huge adoption) - there are MANY apps out there
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3 Causes for Increased Adoption of Facebook Apps
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;people tell other people about the apps
+&lt;/li&gt;
+&lt;li&gt;unlimited invites (for people to use the app you have created)
+&lt;/li&gt;
+&lt;li&gt;novelty
+&lt;/li&gt;
+&lt;li&gt;knowledge
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CAVEAT: hard to make apps adoptable/viral because there are SO many&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+APP FUNCTIONALITY&lt;br /&gt;
+apps utilize these three things:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NEWS FEED (publishes to it)
+&lt;/li&gt;
+&lt;li&gt;PROFILE (appears in it)
+&lt;/li&gt;
+&lt;li&gt;INVITES (you can invite your friends to use it)&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EXAMPLE
+&lt;/p&gt;
+&lt;p&gt;    Vampire vs. Ninja App: the virality of the app was BUILT IN to the app (key success indicator)&lt;br /&gt;
+    *when you &#039;bite&#039; someone, for the person to see what it is about they HAVE to install the app&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+CREATING GROUPS&lt;br /&gt;&lt;br /&gt;
+founding a group can be tricky because they are easy to create, but for people to return, there&#039;s not much to return to (as of now)
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;information on FaceBook can be VERY rich - it tracks relationships between a user and all their friends&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;HERE ARE SOME KEY APPS&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;    CAUSES app:&lt;br /&gt;
+    *it allows you to start a cause&lt;br /&gt;
+    *you can search a db to support an org&lt;br /&gt;
+    *essentially a fundraising tool&lt;br /&gt;
+    *you can invite your friendS&lt;br /&gt;
+    *you can see who/how much people donated&lt;br /&gt;
+    CAVEATS&lt;br /&gt;
+    no way for the org itself to interact with who donated or know how much they donated&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;    CHANGE.ORG app&lt;br /&gt;
+    *recruit&lt;br /&gt;
+    *donate&lt;br /&gt;
+    *eActions&lt;br /&gt;
+    *create a forum&lt;br /&gt;
+    *capture email addresses&lt;br /&gt;
+    *important note: you can email all the people through the app you create (this is true for ALL apps)&lt;/p&gt;
+&lt;p&gt;DEVELOPING AN APP&lt;br /&gt;&lt;br /&gt;
+development timeline is not very long, though you should consider:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how will you distribute it?
+&lt;/li&gt;
+&lt;li&gt;can you make it as intrinsically viral as possible (make it easy for friends to tell friends about it)?
+&lt;/li&gt;
+&lt;li&gt;chances of your app getting published in the feed are dependent on:
+&lt;ul&gt;
+&lt;li&gt;how many people adding the app on your network
+&lt;/li&gt;
+&lt;li&gt;your friends already have the app
+&lt;/li&gt;
+&lt;li&gt;YOU have the app&lt;br /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CRITICISMS
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;everyone is on social networking sites so someone (from your org) needs to be on the social app/site ALL the time (to keep the content fresh)
+&lt;/li&gt;
+&lt;li&gt;class distinctions are &lt;a href=&quot;http://www.danah.org/papers/essays/ClassDivisions.html&quot; class=&quot;external autonumber&quot; title=&quot;http://www.danah.org/papers/essays/ClassDivisions.html&quot; rel=&quot;nofollow&quot;&gt;[1]&lt;/a&gt; on facebook
+&lt;/li&gt;
+&lt;li&gt;datamining by corporations is also a large factor - particluarly with myspace
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+TIPS&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;build personal relationships with members to the org
+&lt;/li&gt;
+&lt;li&gt;build it into your current eadvocacy campaigns
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;p&amp;gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/138">facebook</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/714">web development</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/791">webdev</category>
+ <pubDate>Tue, 24 Jul 2007 00:31:54 +0000</pubDate>
+ <dc:creator>Morgan Sully</dc:creator>
+ <guid isPermaLink="false">1003 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

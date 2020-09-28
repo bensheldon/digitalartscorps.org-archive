@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - kedit</title>
+ <link>http://digitalartscorps.org/taxonomy/term/805/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Week 3</title>
+ <link>http://digitalartscorps.org/node/999</link>
+ <description>&lt;p&gt;The 3rd week had more updating for the &lt;a href=&quot;http://www.4people.org&quot; title=&quot;www.4people.org&quot;&gt;www.4people.org&lt;/a&gt; website.  I completed updating the county listings for Eastern Washington and started on the county listings for Western Washington (Clark, Clallam, Grays Harbor got done -- started on Island county on Friday).&lt;/p&gt;
+&lt;p&gt;My eyes are swimming and I sure do wish I had Kedit.  It&#039;s so much more powerful than Notepad and doesn&#039;t screw up the href links to websites like other editors do.  I&#039;m still considering buying a license since the test version only allows me to edit files containing no more than 75 lines of text.&lt;/p&gt;
+&lt;p&gt;While the work has been tedious, it&#039;s been necessary.  Our I&amp;amp;R system is getting cleaned up in this process.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/999#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/804">4people.org</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/805">kedit</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/806">tedious</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/53">VISTA</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/349">work</category>
+ <pubDate>Fri, 20 Jul 2007 22:56:39 +0000</pubDate>
+ <dc:creator>Marilyn Taylor</dc:creator>
+ <guid isPermaLink="false">999 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - access control</title>
+ <link>http://digitalartscorps.org/taxonomy/term/86/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Questions about access control for community computer center</title>
+ <link>http://digitalartscorps.org/node/99</link>
+ <description>&lt;p&gt;Hi guys,&lt;/p&gt;
+&lt;p&gt;Hope everyone&amp;#39;s first week is going well! I was hoping to get some ideas and suggestions from those of you who have any knowledge about what I guess I am calling access control. This is an area that I am unfamiliar with and trying to utilize all of my resources to learn more about:) &lt;/p&gt;
+&lt;p&gt;We would like to find some software for our computer center that will allow us to:&lt;/p&gt;
+&lt;p&gt;-require users to login and logout&lt;/p&gt;
+&lt;p&gt;-track who logs in and when&lt;/p&gt;
+&lt;p&gt;-prevents users from accessing certain controls and settings &lt;/p&gt;
+&lt;p&gt;-and return the computer to its original settings (so that nothing is permanently saved) upon logout &lt;/p&gt;
+&lt;p&gt;I have found a few programs that might accomplish this (Public Access Desktop, WinU, and Clean Slate), but I wanted to see if anyone had any expertise in this area. I would appreciate any comments or suggestions that you may have.&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;Andrea&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/99#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/86">access control</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/90">community computer center</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/88">questions</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/87">software</category>
+ <pubDate>Thu, 14 Sep 2006 16:34:11 +0000</pubDate>
+ <dc:creator>Andrea Collopy</dc:creator>
+ <guid isPermaLink="false">99 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

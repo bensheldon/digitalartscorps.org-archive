@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Mentoring</title>
+ <link>http://digitalartscorps.org/taxonomy/term/302/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pangea Life</title>
+ <link>http://digitalartscorps.org/node/255</link>
+ <description>&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;I hope that everyone had a great Halloween! Laura and I followed through on the Chipotle Boo-rito idea and I believe she will have the pics posted in her blog, so check them out! Besides that, work has been picking up quite a bit. It&amp;#39;s nice to feel like I have a place in my organization now. I&amp;#39;m going to give a quick rundown of my most recent tasks:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Training Manual Updates: Basically, taking new screen shots and writing explanations as our systems are constantly evolving. I&amp;#39;m working on the version for the end-users (service coordinators in our case).&lt;/li&gt;
+&lt;li&gt;Laptop/Desktop Deployment: Setting up laptops for our co-workers to use at conferences for a computer lab they set up as well as for doing demos of the software we develop. &lt;/li&gt;
+&lt;li&gt;System Testing: We had to check that transfered data was moved correctly from one system to another by spot-checking different residents&amp;#39; info. Also checking that links, titles, content, etc are correct and working within the system.&lt;/li&gt;
+&lt;li&gt;Software Architecture: Continuing to develop the software for our Mentoring program including building forms, researching inputs and reports and working with the actual program functioning - watching the trainings. These trainings help us to see what kinds of activities go on and help us to make our forms more comprehensive and useful.&lt;/li&gt;
+&lt;li&gt;Researching for Education project - Our company received a grant to build software for tracking AP and Honors classes/tests in San Diego high schools. The idea is to see if classes like AP, Honors, AVID, etc are adding to students&amp;#39; abilities to succeed (i.e., go to college, get a job, etc).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So, that is basically it for me. I&amp;#39;m still working on my loan issues. No one seemed to be able to help. I wrote a scathing letter to my university with a referral from a past professor. Hopefully something will work out :-/. As far as the rest of life, things are going very well. I&amp;#39;ve been playing indoor soccer (highly recommended), going bike riding a ton, and doing some baking. Laura and I went to the Haunted Trail in Balboa Park (near our apartment in San Diego) and got chased by ghouls, goblins and creepsters running with chainsaws - good times. We even rode our bikes to visit this random, self-maintained topiary garden a few miles from our apartment. Some person turned their entire yard into a zoo full of topiary animals. Pretty nifty. Anyway, hope all is well!&lt;/p&gt;
+&lt;p&gt;AmeriCorey&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/255#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/278">burrito</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/277">Chipotle</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/274">halloween</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/302">Mentoring</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/56">pangea</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/54">san diego</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/304">System testing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/301">Training guide</category>
+ <pubDate>Wed, 01 Nov 2006 20:20:42 +0000</pubDate>
+ <dc:creator>Corey Funderburk</dc:creator>
+ <guid isPermaLink="false">255 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - need</title>
+ <link>http://digitalartscorps.org/taxonomy/term/945/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What is a good website design program for youth?</title>
+ <link>http://digitalartscorps.org/node/1264</link>
+ <description>&lt;p&gt;Hey guys,&lt;/p&gt;
+&lt;p&gt;I&#039;m trying to help a local CTC get a good curriculum to teach youth (kids in grades k-5) how to design websites. The CTC is actually a parks and recreational center and the websites will be used so the youth have some voice in the community. Any suggestions?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1264#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/89">help</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/945">need</category>
+ <pubDate>Wed, 16 Apr 2008 01:55:33 +0000</pubDate>
+ <dc:creator>Victoria Edwards</dc:creator>
+ <guid isPermaLink="false">1264 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

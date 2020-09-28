@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - inventory</title>
+ <link>http://digitalartscorps.org/taxonomy/term/481/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Still Storming</title>
+ <link>http://digitalartscorps.org/node/1901</link>
+ <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve almost completed my first goal in developing a system to manage incoming/outgoing technology. I&#039;ve done some research with how other media centers, libraries, universities, and public access stations do this, and found a useful and free system.  Now I&#039;m learning how to become a savvy website administrator!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The system I found is a module within Drupal.  It&#039;s called MERCI, or Manage Equipment Reservations, Checkout and Inventory.  This was developed by the genius minds at OpenMediaProject.org who&#039;s core mission is to bring people more control of their public access channels.  In fact, many of you may be using Open Media&#039;s  tools.  (BAVC, Brookline, Access Humboldt?).&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;What I need to make sure of is that I will not leave a burden of a system that no one understands how to change, update, or improve.   To set up anything besides the basic functions will require an IT position to be staffed at the organization.  Expect a screencast or other documentation to help beginner developers get this up and running as a simple, in-house resource for tracking inventory.  Any help or collaboration with this is encouraged!&lt;/p&gt;
+&lt;p&gt;Now that we have visiting instructors that are from outside our organization, the need for educational curriculum on a web-based structure is growing.  Google Apps have been a great way to ween off our internal server.  Google Docs is used to host reports, curriculum and handouts, and share PDFs onto our blog, macsddiy.posterous.com .  Our best program feedback is collected using Google Forms.  An email is sent after every workshop that asks  to identify what we need to to improve workshop and what the community wants to see more of.  I also began a workshop proposal form available on the blog so outside instructors can submit their ideas to us.&lt;/p&gt;
+&lt;p&gt;This week has been by far, the most intense because we host the San Diego Latino Film Festival March 10-20.  I realize that the media lab is a reality thanks to the festival, but right now it&#039;s a major thorn in my side.  I&#039;m constantly resolving annoying IT issues&lt;br /&gt;
+due to outdated equipment and our overuse of printers and bandwidth.  I cannot wait to rebuild some infrastructure when this festival is all done with and get back to why I&#039;m here!&lt;/p&gt;
+&lt;p&gt;I&#039;ll leave on this note:  Mozilla Drumbeat.   Amazing.  DrumbeatSD was an event organized by NewMediaRights.org and Mozilla a few blocks from here.  &quot;Some of the spaces included open data visualization and discussion, open source music and video experimentation, and using technology to enhance our community&#039;s connection with local farms and farmer&#039;s markets.&quot;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1901#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1378">DrumbeatSD</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/29">drupal</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1375">MERCI</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1377">Mozilla</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1376">open media</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <pubDate>Fri, 18 Feb 2011 20:48:27 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1901 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>More Workshops, Instructors, &amp; Blogs</title>
+ <link>http://digitalartscorps.org/node/1894</link>
+ <description>&lt;p&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Marketing&lt;/strong&gt;&lt;br /&gt;
+January 2011 is the first month of  my redesign of our workshop brochure.  The original lacked our image of who we are- a MEDIA ARTS center.  It looked more like a school lunch calendar, or a hospital manual.  I added images, descriptions, and tried to make it easy to look at.  Please!!  Any input is appreciate on what works and what doesn&#039;t with this design.&lt;br /&gt;
+  This is my first attempt with Adobe InDesign.  It&#039;s a great program for designing print material, and has plenty of add-on scripts users can share with one another.  I would like to have a template designed so that you can just &lt;strong&gt;drop in new images&lt;/strong&gt;, and &lt;strong&gt;paste new descriptions&lt;/strong&gt; for each workshop without knowing anything about graphic design.  The time and skills needed for the task will be cut tremendously.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/macsd/5328738103/&quot; title=&quot;IMG_0233.JPG by MACSD, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5121/5328738103_5565556e0b_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;IMG_0233.JPG&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;em&gt;Meetup.com helps incredibly with organizing events.&lt;br /&gt;
+Most of our ShareSD jammers have found us through meetup.com&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Volunteer Recruitment&lt;/strong&gt;&lt;br /&gt;
+Our members and visitors are growing. We&#039;ve had visits from high school and university classes, independent artists, and local residents attending events and workshops.  Thankfully, we are receiving more interns, donations, and volunteer instructors to help with all the new attention.&lt;br /&gt;
+One goal is to have a migration of our curriculum onto a web-based system.  Our server is slow, old, and has duplicates of everything running around all over the place.  Google docs is my current stomping grounds for keeping new curriculum and managing new and potential volunteers to teach workshops.&lt;br /&gt;
+  I just created a Google Form so potential instructors can submit their workshop proposals to us. It clearly defines their goals and outcomes, while creating a contact database of those interested in volunteering.  The form is a spreadsheet in disguise, so this information can be visualized, redirected, and published in several ways.  Here is a copy of the form I&#039;ve created: &lt;a href=&quot;http://spreadsheets.google.com/ccc?key=0AuhCYuw44ZFsdEllaWtYODZyVm5uMzAzMDVCaXZtTUE&amp;amp;hl=en&amp;amp;authkey=CLqk-McC&quot;&gt;Proposal Form&lt;/a&gt;  And here is how I want the information presented and archived (on its own): &lt;a href=&quot;https://docs.google.com/document/d/1iGl__HK1551hXMzmwfPnWSqHdIgDbuau5ZZf_tZC8B0/edit?hl=en&quot;&gt;Doc View.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tracking our Technology&lt;/strong&gt;&lt;br /&gt;
+As we approach closer to our annual 10 day film festival, the need for a reliable and organized system to track our equipment grows.  We have seven screenings that happen simultaneously, and it all happens outside our walls.  I discovered a Drupal program called MERCI(Manage Equipment Reservations, Checkout and Inventory), &lt;cite&gt;it can extend any content type into a list of unique reservable items (like studios) or buckets of interchangeable items (like DV cameras).&quot; Developed by Chad Phillips for Open Media Project.&lt;/cite&gt;  (Thanks to Gavin for directing me to MERCI contacts!)  This has everything I&#039;ve been looking for, &lt;strong&gt;BUT...&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;1. Do I have the time to learn Drupal and fix any bugs before I leave?&lt;/li&gt;
+&lt;li&gt;2.  Will anyone have the ability to maintain/update MERCI once I leave?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Before I step into uncharted territory, I&#039;m going to see if I can Excel my way through this assignment.  I recently  took advantage of my IST and had a six-hour excel training, which gave me a few tricks to try out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CMS&lt;/strong&gt;&lt;br /&gt;
+We have Kintera.  And I do not like it.  I had to call tech support.  Their solution to my problem was that I had to be on Internet Explorer, clear my cookies, and restart IE in order for my duplicate contacts to update.  Not exactly good workflow, especially when you are working in a Mac lab.  I&#039;d like to hear your thoughts on Kintera.  Email me if you have any!&lt;/p&gt;
+&lt;p&gt;A growing community:  &lt;a href=&quot;http://macsddiy.posterous.com&quot; title=&quot;http://macsddiy.posterous.com&quot;&gt;http://macsddiy.posterous.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/macsd/5325557222/&quot; title=&quot; Open House w/ Ilan Katin from Modul8 by MACSD, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5209/5325557222_d3b3504197_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot; Open House w/ Ilan Katin from Modul8&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;em&gt;Last month&#039;s Videographer&#039;s Lounge,a free gathering, was hosted by video artist Ilan Katin.  This is a video mapping demo.  Photo by Miguel Vega: portfolio.accent.tv/&lt;/em&gt;&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1894#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/59">marketing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/730">rental</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/480">workshops</category>
+ <pubDate>Thu, 13 Jan 2011 00:05:22 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1894 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Getting it Done</title>
+ <link>http://digitalartscorps.org/node/1871</link>
+ <description>&lt;p&gt;Field report time!&lt;/p&gt;
+&lt;p&gt;I have been putting this report off in hopes to have some great media and artifacts to present, but this will have to wait until my next report.  I found some time to give a quick status update of what I&#039;ve been up to.  We really need more activity on here!&lt;/p&gt;
+&lt;p&gt;I have been working on two major goals right now:  developing programming for our evening workshops and establishing a system to track our technology that both stays in-house and are rented out to the community.&lt;/p&gt;
+&lt;p&gt;For our evening workshops at Media Arts Center, we&#039;ve slowly  been reaching our goal of having our calendar ready 3 months in advance.&lt;br /&gt;
+We have just reached having it all set one month- the workshop type, instructor, goals, marketing, scheduling, etc are currently ready one month in advance.  We have had great turnouts for Final Cut workshops and build-it-with-others workshops like the DIY Steadycam.  New volunteers are increasing, thanks to new volunteer recruiting/policies we have established.  The next step for our workshops is to redesign our brochures/marketing.  We need to be more appealing to younger audiences, cut costs, and create new job descriptions for volunteers/interns.  This begins mid-december.&lt;/p&gt;
+&lt;p&gt;As for tracking technology, I had to start from the very beginning.  The current inventory spreadsheet was missing crucial information including serial numbers and price values.  I was able to finally utilize the snazzy barcode scanner I purchased to make the task a lot easier. The information is almost 100% entered in and will benefit accounting, identifying outdated technology, and our equipment rental process.  Audits? Easy.  Grantwriting? Simple!  Equipment rental?  Sure, let&#039;s see what&#039;s available!  By the end of January, I hope to have finalized a working rental system that incorporates barcodes into our equipment inventory and member databases.  I&#039;m hoping by the end of my year here, we can have a reservation system available on our website, and maybe even a mobile app.&lt;/p&gt;
+&lt;p&gt;On Tuesdays, FabLab offers design workshops of all sorts.  They have vinyl cutter, laser engraving, 3D scanners...man!!!  I joined their fun last tuesday @ Intro to Interactivity.  We made IR pens to make DIY smartboards.  It really works!!&lt;/p&gt;
+&lt;p&gt;More to come,&lt;br /&gt;
+Chris&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1871#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1360">bar code</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1359">FabLab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1361">media lab</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/242">programming</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/312">technology</category>
+ <pubDate>Mon, 22 Nov 2010 20:58:25 +0000</pubDate>
+ <dc:creator>Chris Anderson</dc:creator>
+ <guid isPermaLink="false">1871 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Snow!!!</title>
+ <link>http://digitalartscorps.org/node/414</link>
+ <description>&lt;p&gt;It&amp;#39;s painfully obvious that I grew up in the south when I get excited over 1/2&amp;quot; of snow (mind yer snickering, Boston-folk), but I should also add that our lab closes when schools close.  That means I have at least one day of peace and quiet.  Ahhhhh....   Well, apart from the racket caused by the construction next door anyway.&lt;/p&gt;
+&lt;p&gt; Life at C4K is chugging along nicely.  Our recruiting has been up and down (12 last month, but only 4 this month), but the ups seem to have been enough as the lab feels more full than when the year first started.  Workshop attendance is still relatively low (3-4 on average), but those that do go seem to enjoy it.  I&amp;#39;ve also started gravitating towards guided activities versus class settings.  The more successful workshops have been things like making popup cards, CD art, posters, etc.  I&amp;#39;ve been trying workshops that lead into the tougher topics like digital video and audio with things like dubbing and digital storytelling, but we&amp;#39;re still having a tough time getting kids to try them. &lt;/p&gt;
+&lt;p&gt;One of the neater programs thats starting up is a web development project led by a web design firm.  They&amp;#39;ve offered to volunteer their time and expertise to train a select group of kids to rebuild a &lt;a href=&quot;http://www.stayactive.org&quot; target=&quot;_blank&quot; title=&quot;website&quot;&gt;website&lt;/a&gt; by offering weekly workshops, but it&amp;#39;d be mostly up to the kids to design the site and figure out what they&amp;#39;d like to do.  I&amp;#39;m guessing it&amp;#39;ll take some gentle prodding to get them going, but we have some really good kids that are attending so I think this particular program has a good chance at doing well.&lt;/p&gt;
+&lt;p&gt;My random side project for this month is looking into revamping our inventory system.  What normally happens is that after all the information is logged into the database, we put a numbered yellow sticker on the components.  However, this tends not to work so well for tracking and logging, so I&amp;#39;m looking into rigging up a cheap barcoding system.  I picked up some of those cheapie &lt;a href=&quot;http://en.wikipedia.org/wiki/CueCat&quot; target=&quot;_blank&quot; title=&quot;CueCat&quot;&gt;Cue Cat&lt;/a&gt; barcode scanners (&amp;#39;fixed&amp;#39; with &lt;a href=&quot;http://www.cedmagic.com/cuecat/catnip.exe&quot; title=&quot;CatNip&quot;&gt;CatNip&lt;/a&gt;) for use as the input and a &lt;a href=&quot;http://www.barcodesinc.com/free-barcode-font/&quot; target=&quot;_blank&quot; title=&quot;free barcode&quot;&gt;free barcode&lt;/a&gt; font to create stickers for output.  Works pretty well so far, except now comes the hard part of coding an Access form in VBA to automate the procedures.  Blech.  Code.&lt;/p&gt;
+&lt;p&gt;Looks like we&amp;#39;ve got a bunch of cool new VISTAs, welcome everyone and best of luck to you in your year of service! &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/414#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/481">inventory</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/42">vistalife</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/480">workshops</category>
+ <pubDate>Mon, 22 Jan 2007 18:58:49 +0000</pubDate>
+ <dc:creator>Raymond Varona</dc:creator>
+ <guid isPermaLink="false">414 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

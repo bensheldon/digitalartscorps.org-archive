@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - airfare</title>
+ <link>http://digitalartscorps.org/taxonomy/term/508/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Travel Tip</title>
+ <link>http://digitalartscorps.org/node/490</link>
+ <description>&lt;p&gt;Our fellow VISTA, Carl, sent me a website for a great airfare finder: &lt;a href=&quot;http://www.farecast.com/&quot; target=&quot;_blank&quot; title=&quot;Farecast&quot;&gt;http://www.farecast.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;#39;s pretty cool because it not only tells you where to find the cheapest fare, but gives advice on whether to buy now or later based on trends in airfare prices. If you haven&amp;#39;t bought your airfare for the conference yet, I definitely suggest you check it out. &lt;/p&gt;
+&lt;p&gt;Thanks for the help Carl! (Especially since he lives in DC and doesn&amp;#39;t even have to travel. What a swell guy!) &lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/490#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/508">airfare</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/206">conference</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/447">NTEN</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/382">travel</category>
+ <pubDate>Tue, 06 Feb 2007 22:00:15 +0000</pubDate>
+ <dc:creator>Corey Funderburk</dc:creator>
+ <guid isPermaLink="false">490 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Printer Sharing</title>
+ <link>http://digitalartscorps.org/taxonomy/term/177/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Dancing with Samba</title>
+ <link>http://digitalartscorps.org/node/180</link>
+ <description>&lt;p&gt;Over the past two weeks, I&amp;#39;ve been putting together a server so that people across the street from us at UMass Lowell (we&amp;#39;re on-campus also) can mount their website files, hosted with us, as a network drive under Windows.  This can be done with FTP, but it&amp;#39;s still a bit messy.  Fortunately, there&amp;#39;s software out there, called Samba, that lets you make a Linux/Unix computer act as a Windows server.  Here&amp;#39;s how we&amp;#39;ve used it.&lt;/p&gt;
+&lt;p&gt;The first step is to set up a computer running Linux/Mac OSX/FreeBSD/NetBSD/Solaris... (any Unix flavor).  This is a whole blog entry unto itself, but these days, it&amp;#39;s not too hard, and it&amp;#39;s getting easier and easier every day.  Here at the CSL, we have a fairly well-established checklist for doing this, but there are always minor kinks in the process.  Since our income is fairly small at this point (getting larger, thanks to some new grants and kind donors), our equipment is mostly hand-me-down.  In this case, it meant learning about a new server we&amp;#39;d never spent much time on (memory on it must be installed in pairs!).&lt;/p&gt;
+&lt;p&gt;Once you have a computer running some form of Unix, you need to install the Samba software.  For us, that means going to the command-line (GUI on a server?  No Way!), typing:&lt;/p&gt;
+&lt;p&gt;apt-get install samba&lt;/p&gt;
+&lt;p&gt;and going through a few prompts.  We use &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian GNU/Linux&lt;/a&gt; here at the lab, so your install procedure may be different.&lt;/p&gt;
+&lt;p&gt;I found helpful resources for the install part at:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.aboutdebian.com/&quot;&gt;aboutdebian.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.linuxhomenetworking.com/&quot;&gt;linuxhomenetworking.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;So now Samba is installed, but it doesn&amp;#39;t work right!  Surprise, surprise.  How could it possibly come pre-configured for everyone?  To make things work properly, it means editing a file called smb.conf.  In our case, this file is located in the /etc/samba directory, but again, your mileage may vary.  You can either edit the smb.conf file directly, or you can edit it using a web-based tool called SWAT (Samba Web Administration Tool).  I mostly edited the smb.conf file directly, but getting SWAT running was kind of fun, too.&lt;/p&gt;
+&lt;p&gt;So how to edit smb.conf directly?  My preference is to use an editor called &lt;em&gt;vi&lt;/em&gt;, but again, you have all kinds of choices.  Some people may prefer to use &lt;em&gt;emacs&lt;/em&gt; or &lt;em&gt;Notepad&lt;/em&gt; (if they&amp;#39;re the Windows sort) or &lt;em&gt;TextEdit&lt;/em&gt; if they&amp;#39;re on a Mac.  Just has to be a text editor.&lt;/p&gt;
+&lt;p&gt;How to use SWAT?  It has to be running, first of all.  The easiest way to check is to open a browser and type in:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://your.server.name:901&quot; title=&quot;http://your.server.name:901&quot;&gt;http://your.server.name:901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That&amp;#39;s right: SWAT is a web server running on port 901.&lt;/p&gt;
+&lt;p&gt;If SWAT&amp;#39;s not running, don&amp;#39;t fear: it probably just means uncommenting a few lines or adding a few lines in your inetd.conf or xinetd.conf files.  In my case, I just uncommented a few lines in /etc/inetd.conf and restarted the &lt;em&gt;inetd&lt;/em&gt; process with:&lt;/p&gt;
+&lt;p&gt;/etc/init.d/inetd restart&lt;/p&gt;
+&lt;p&gt;But that&amp;#39;s all I know right now about SWAT!&lt;/p&gt;
+&lt;p&gt;I won&amp;#39;t go into much further detail about editing the smb.conf file, because I need to eat dinner, but there are some sections that govern the server&amp;#39;s operation, and then you have one section for each file share (thing that becomes a network drive under Windows).&lt;/p&gt;
+&lt;p&gt;If this sort of thing interests you, and it should if you&amp;#39;re wanting to avoid dishing out money for a Windows server license and want to learn more about Unix/Linux, here&amp;#39;s a full list of resources, with descriptions, that I&amp;#39;ve used:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&quot;http://samba.org/&quot;&gt;samba.org&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;The official site of the Samba project, &lt;a href=&quot;http://samba.org&quot;&gt;samba.org&lt;/a&gt; has plenty of documentation on every Samba option under the sun.  You can find the Samba manual as well as several e-books, including O&amp;#39;Reilly&amp;#39;s Using Samba, which I found to be readable and easy to follow.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&quot;http://aboutdebian.com/&quot;&gt;aboutdebian.com&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;This is a good website for people new to &lt;a href=&quot;http://debian.org/&quot;&gt;Debian GNU/Linux&lt;/a&gt; or for people who have never set up a particular type of server (like Samba!) using Debian.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&quot;http://linuxhomenetworking.com/&quot;&gt;linuxhomenetworking.com&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;This site is the much more complete version of aboutdebian.com.  The author goes into extensive detail about how to install and configure web servers, file servers, logging servers, DNS servers, and many more, using Fedora Core (Red Hat) Linux.  &lt;em&gt;Very&lt;/em&gt; applicable.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&quot;http://google.com/&quot;&gt;Google&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;Everyone knows about it, everyone uses it, but I&amp;#39;ve yet to find a better place than Google to search for error messages.&lt;/dd&gt;
+&lt;p&gt;  --John  &lt;/p&gt;&lt;/dl&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/180#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/176">File Sharing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/175">Linux</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/177">Printer Sharing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/172">Samba</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/174">Windows Server</category>
+ <pubDate>Fri, 06 Oct 2006 23:47:40 +0000</pubDate>
+ <dc:creator>John Miller</dc:creator>
+ <guid isPermaLink="false">180 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

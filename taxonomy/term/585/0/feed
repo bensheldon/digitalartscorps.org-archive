@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - tech assistance for non-profits</title>
+ <link>http://digitalartscorps.org/taxonomy/term/585/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Data Management / API</title>
+ <link>http://digitalartscorps.org/node/732</link>
+ <description>&lt;p&gt;&lt;strong&gt;How Open APIs Can Change How Nonprofits Manage Data&lt;/strong&gt;&lt;br /&gt;
+See attached presentation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using Open APIs for a Virtual March&lt;/strong&gt;&lt;br /&gt;
+See attached presentation.&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/645">applications</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/178">Open Source</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/585">tech assistance for non-profits</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/TANP - NTEN_OpenAPI.pdf" length="891228" type="application/pdf" />
+ <pubDate>Thu, 19 Apr 2007 15:15:43 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">732 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Website Planning/Expansion</title>
+ <link>http://digitalartscorps.org/node/730</link>
+ <description>&lt;p&gt;&lt;strong&gt;Nonprofit Communications 2.0 – Seven Steps to Transform Your Organization&lt;/strong&gt;&lt;br /&gt;
+This presentation (attached) has a WEALTH of information on the following:&lt;br /&gt;
+I.	Network Centric Communities&lt;br /&gt;
+II.	Strategic Communications&lt;br /&gt;
+1.	Planning for Integration&lt;br /&gt;
+2.	Viral Marketing&lt;br /&gt;
+3.	Building Blocks of Nonprofit Communications&lt;br /&gt;
+ii. MEANS OF PRODUCTION&lt;br /&gt;
+a.	email&lt;br /&gt;
+b.	blogging&lt;br /&gt;
+c.	online media&lt;br /&gt;
+d.	wikis&lt;br /&gt;
+e.	mashups&lt;br /&gt;
+ii. MEANS OF DISTRIBUTION&lt;br /&gt;
+f. Syndication&lt;br /&gt;
+g.Tagging&lt;br /&gt;
+h.Content Management Systems&lt;br /&gt;
+III.	Web 2.0 Applied&lt;br /&gt;
+a.	E-Democracy: from Political &amp;amp; Activist Campaigns&lt;br /&gt;
+b.	Friend Raising to Fundraising: “Resource Development&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 Ways to make your nonprofit more effective with RSS aggregation&lt;/strong&gt;&lt;br /&gt;
+(see attached presentation)&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/115">tech assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/585">tech assistance for non-profits</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/400">technology assistance</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/44">web20</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/noncommunications_davitian_handout.doc" length="325632" type="application/msword" />
+ <pubDate>Thu, 19 Apr 2007 14:58:20 +0000</pubDate>
+ <dc:creator>Colleen Kelly</dc:creator>
+ <guid isPermaLink="false">730 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>4 Steps to Assess Your Organizational Effectiveness</title>
+ <link>http://digitalartscorps.org/node/645</link>
+ <description>&lt;p&gt;In our work with nonprofits, we&amp;#39;ve noticed that one of their greatest challenges is lack of attendance or participation by the organization’s target audience.  This caused us to ask ourselves if the organization had conducted sufficient footwork before selecting and implementing their project.&lt;/p&gt;
+&lt;p&gt;When considering technology (or any other) projects to deliver to your community, it is critical to engage in a needs-and-resources assessment that allows your organization to identify gaps, prioritize needs, and carry out the project. Such an assessment usually consists of &lt;strong&gt;four steps&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.benton.org/publibrary/practice/ta/commkitpage3.html&quot;&gt;Define&lt;/a&gt; the target audience&lt;/strong&gt; and gather information about them that will help you make decisions about how best to serve them.  Assess their needs.&lt;br /&gt;   What is it that will make a difference for them in their lives right now that you are in a position to address?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.benton.org/publibrary/practice/ta/commkitpage5.html&quot;&gt;Map&lt;/a&gt; the existing resources&lt;/strong&gt; in the community that address these needs; where are the gaps?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify&lt;/strong&gt; &lt;strong&gt;potential solutions&lt;/strong&gt; based on the information collected. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assess &lt;/strong&gt;whether your organization is best suited to deliver this service. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Check out this free tool inspired by the work of the  &lt;a href=&quot;http://www.geofunders.org/&quot;&gt;Grantmakers for Effective Organizations&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;See attachment.&lt;/strong&gt;&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/565">project management</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/585">tech assistance for non-profits</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1134">technology planning</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/org_assess_tool_0.pdf" length="99861" type="application/pdf" />
+ <pubDate>Tue, 20 Mar 2007 15:41:56 +0000</pubDate>
+ <dc:creator>Ben Sheldon</dc:creator>
+ <guid isPermaLink="false">645 at http://digitalartscorps.org</guid>
+</item>
+<item>
+ <title>Non-profit Technology Resources</title>
+ <link>http://digitalartscorps.org/node/644</link>
+ <description>&lt;p&gt;&lt;em&gt;These might help when you are looking for answers to common non-profit and technology issues. Sign up for newsletters or just browse when you have a question:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://namac.org/&quot; title=&quot;http://namac.org/&quot;&gt;http://namac.org/&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nten.org/&quot; title=&quot;http://nten.org/&quot;&gt;http://nten.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.alliancecm.org/&quot; title=&quot;http://www.alliancecm.org/&quot;&gt;http://www.alliancecm.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.techsoup.org/&quot; title=&quot;http://www.techsoup.org/&quot;&gt;http://www.techsoup.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://idealware.org/&quot; title=&quot;http://idealware.org/&quot;&gt;http://idealware.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://npgoodpractice.org/&quot; title=&quot;http://npgoodpractice.org/&quot;&gt;http://npgoodpractice.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://managementhelp.org/&quot; title=&quot;http://managementhelp.org/&quot;&gt;http://managementhelp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://idealist.org/&quot; title=&quot;http://idealist.org/&quot;&gt;http://idealist.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://americorpsalumns.org/&quot; title=&quot;http://americorpsalumns.org/&quot;&gt;http://americorpsalumns.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Blogs&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://beth.typepad.com/beths_blog/&quot;&gt;Beth Kanter&lt;/a&gt;: One of the most prodigious nonprofit technologists around.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://entrylevelliving.wordpress.com/&quot; title=&quot; Entry Level Living&quot;&gt;Entry Level Living&lt;/a&gt;: The Personal and Professional Insights of a Struggling College Grad&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://many.corante.com/&quot;&gt;Many-to-Many&lt;/a&gt;: A group weblog on social software&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pbs.org/mediashift/rss2/redir/mediashift/&quot;&gt;Media Shift&lt;/a&gt;: tracks the way the Internet and technology are reshaping the mediasphere&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://web.mac.com/allisonfine1/iWeb/Allison%20Fine/A.%20Fine%20Blog/A.%20Fine%20Blog.html&quot;&gt;Allison Fine&lt;/a&gt;: the ways that digital tools, particularly social media, are enhancing our connectedness to one another and our ability and willingness to work for the collective social good&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zephoria.org/thoughts/&quot;&gt;Apophenia&lt;/a&gt;: how American youth engage in networked publics like MySpace, YouTube, Facebook, Xanga, etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.steinbock.org/blog&quot;&gt;Mind Mob&lt;/a&gt;: emerging trends in science, collaboration, the online world and elsewhere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills, tools, &amp;amp; direct resources&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.presentationzen.com/presentationzen/&quot;&gt;Presentation Zen&lt;/a&gt;: Information on creating effective presentations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.copyblogger.com&quot;&gt;Copyblogger&lt;/a&gt;: How to blog effectively&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.techsoup.org/learningcenter/software/page5683.cfm?cg=searchterms&amp;amp;&quot;&gt;Six Steps to Adopting Open-Source Software at Your Org&lt;/a&gt; (Aug 2006)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nten.org/blog/2008/06/06/how-to-put-technology-to-use-may-2008&quot;&gt;How To: Put Technology to Use (May 2008)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://whdb.com/2008/the-top-50-proprietary-programs-that-drive-you-crazy-an&quot;&gt;&quot;The Top 50 Proprietary Programs that Drive You Crazy -- and Their Open Source Alternatives&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Social Source Commons: &lt;a href=&quot;http://socialsourcecommons.org/&quot;&gt;http://socialsourcecommons.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Free Software Foundation: &lt;a href=&quot;http://directory.fsf.org/&quot; title=&quot;http://directory.fsf.org/&quot;&gt;http://directory.fsf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sourceforge: &lt;a href=&quot;http://sourceforge.net/&quot; title=&quot;http://sourceforge.net/&quot;&gt;http://sourceforge.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lifehacker: &lt;a href=&quot;http://lifehacker.com&quot; title=&quot;http://lifehacker.com&quot;&gt;http://lifehacker.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/160">blogs</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/204">resources</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/585">tech assistance for non-profits</category>
+ <pubDate>Tue, 20 Mar 2007 15:36:28 +0000</pubDate>
+ <dc:creator>Mike Moore</dc:creator>
+ <guid isPermaLink="false">644 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

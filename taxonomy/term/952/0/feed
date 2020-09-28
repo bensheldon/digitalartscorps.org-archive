@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - Open Source software</title>
+ <link>http://digitalartscorps.org/taxonomy/term/952/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Month 10: IMC Fest &amp; A Return to Research</title>
+ <link>http://digitalartscorps.org/node/1497</link>
+ <description>&lt;p&gt;April-May started with the &lt;a href=&quot;http://www.imcfest.org/&quot;&gt;IMC Fest&lt;/a&gt;, three days of music featuring nearly 30 local performers and an art show in partnership with the Champaign-Urbana &lt;a href=&quot;http://www.40north.org/events/festival.html&quot;&gt;Boneyard Arts Festival&lt;/a&gt;.  I was stage manager and worked with volunteer stage and sound techs, as well as artists, to keep us on schedule and make sure everything was working.  The event, which was great fun and raised money for our organization, was largely planned and organized by Dan Blah, our VISTA Supervisor at the IMC.  The weekend gave us a chance to promote the IMC, attract new members, and support the thriving artistic community here in C-U.&lt;/p&gt;
+&lt;p&gt;On the training side, I offered three sessions - one on &lt;a href=&quot;http://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;; one on radio automation (using &lt;a href=&quot;http://zararadio.org&quot;&gt;ZaraRadio&lt;/a&gt;); and one on live sound.  For those curious about live sound, you will see by searching the Internet that most training guides or courses are not free.  Here are some links to free information to get you started: &lt;a href=&quot;http://www.tiem.utk.edu/~gross/sounden2.txt&quot;&gt;Basic Introduction&lt;/a&gt; by Lou Gross; &lt;a href=&quot;http://en.wikipedia.org/wiki/Sound_reinforcement_system&quot;&gt;sound reinforcement system&lt;/a&gt; article on Wikipedia; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Live_sound_mixing&quot;&gt;mixing article&lt;/a&gt; from Wikipedia.&lt;/p&gt;
+&lt;p&gt;Nearly everything else this month has been about preparing for the summer.  For the IMC as a whole, this has meant the recruiting of over a dozen summer youth positions, funded through the &lt;a href=&quot;http://www.illwa17.com/&quot;&gt;Champaign Consortium&lt;/a&gt; and organized by Nicole, while making internal space and institutional improvements for staff and guests.  For me, this has meant getting ready for my last two months as a CTC*VISTA and working towards leaving a useful legacy in media training documentation.  So far this year, I have offered dozens on hands-on workshops, helped to create and organize two large fundraisers, built partnerships with other local organizations, formalized working group procedures, and updated and suggested improvements to the IMC&#039;s production facilities, all of which have involved networking and collaborating and spending long hours at the IMC working with others.  Throughout the course of these last ten months, I have kept detailed notes and drafted some training materials, but seldom have had the time to sit down and compile it all.  So, from now until mid-July I will be working more independently on creating and archiving training documents, and have already begun doing more research to this end.&lt;/p&gt;
+&lt;p&gt;During April and May I did most of the substantive budget and curriculum development for the first session of the Don Moyers Boys &amp;amp; Girls Club&#039;s Teen Computer Lab program, which will begin in June.  This has included outlining computer workstation and media peripheral specifications (with guidance from VISTA Leader Josh King), compiling training materials and exercises, organizing meetings of team partners, and researching new and innovative technologies, especially Free and Open-Source Software (FOSS) for use in the lab.&lt;/p&gt;
+&lt;p&gt;Here are just a few links that I have found to be very helpful in my research and documentation:&lt;br /&gt;
+- &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_open_source_software_packages&quot;&gt;List of open source software packages&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&quot;http://en.flossmanuals.net/&quot;&gt;FLOSS Manuals&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&quot;http://osswin.sourceforge.net/&quot;&gt;The OSSWin Project: Open Source for Windows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is much more available, but those are decent places to start.&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/1497#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1075">concerts</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/39">curriculum</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/894">event organizing</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/610">free software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/238">music</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/952">Open Source software</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/851">volunteer coordination</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/85">youth media</category>
+ <pubDate>Sat, 09 May 2009 23:18:53 +0000</pubDate>
+ <dc:creator>Stephen Fonzo</dc:creator>
+ <guid isPermaLink="false">1497 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

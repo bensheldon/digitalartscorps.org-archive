@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - lan</title>
+ <link>http://digitalartscorps.org/taxonomy/term/781/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>OpenWRT, RAID Crashes, and a Truck</title>
+ <link>http://digitalartscorps.org/node/969</link>
+ <description>&lt;p&gt;My first day at my host org, I arrived minutes before the moving truck.  My organization got new digs and I was just in time to help set up.  On Weds of that week, we had the annual staff retreat out on Watauga Lake, and I got a good introduction to all the staff and various projects going on here.  As an environmental nonprofit, much of our work is the type of advocacy campaign that VISTA wants me to step carefully around.  My project is more of an education program -- teaching landowners about sustainable forestry techniques -- so that&#039;s my main focus.&lt;/p&gt;
+&lt;p&gt;Early in my second week, I sat down with several folks in the organization to get an in-depth feel for the sustainable forestry project and it&#039;s future.  We&#039;re planning a forum for landowners and forestry professionals, as both an online community and an information resource.  Much of the initial planning is done, but I get to carry the ball into the endzone.  This means working with the project partners, finding and arranging hosting, working with a professional web design company, developing initial content, and recruiting others to continue the content ....seems like most other aspects of the project (hopefully, with the exception of fundraising!).  Our in-house meeting went well and I&#039;m arranging a conference call to introduce myself to our project partners.  &lt;/p&gt;
+&lt;p&gt;I&#039;m also working on maintaining and extending their technical capacity, by assessing their needs and expanding their current capabilities.  I&#039;ve already extended their LAN and WirelessLAN capabilities with an older Linksys WiFi router (I *heart* OpenWRT!).  The WiFi router provided by our DSL supplier, it turns out, doesn&#039;t play nicely with newer MacBooks.  &lt;/p&gt;
+&lt;p&gt;I&#039;m working through an issue with their fileserver (minor things, ya know, like replacing a drive in the main RAID set that decided that Friday afternoon was the perfect time to die).  One drive dropped out of the RAID mirror, and I got the local volunteer who built the server to stop by and help me kick off a rebuild.  Most of the time this works fine and things are back to normal (the rebuild takes forever, but you can still access the existing drive).    Unfortunately, around 3pm last Friday I realized the network drive wasn&#039;t accessible, and sure enough the rebuild had encountered a serious problem with the offline drive (think &quot;click of death&quot;).  I consulted our volunteer, rebooted the server, and waited until everyone was done for the day before trying the rebuild again.  Sure enough, the problem drive started making its click of death again, and the server locked up.  Now we&#039;re up and running, but without a mirror, and waiting for a replacement drive to come in.&lt;/p&gt;
+&lt;p&gt;I&#039;m also rolling out an intranet webserver so I can evaluate and demo the CMS systems we&#039;re considering for my project.  The hard part in all of this is making it sustainable: documenting the setups and configurations that make all of this work, so that other techies can understand, duplicate, and extend the work I&#039;ve done while I&#039;m here.  Fighting tech fires is fun and all, but I won&#039;t be here forever, and those tech fires always flare up no matter how robustly the system is designed.  I&#039;m thinking an intranet CMS could play that role here.&lt;/p&gt;
+&lt;p&gt;Can anyone tell me if WDS is really helpful?  I&#039;m debating the right way to make sure our facility is adequately covered by WiFi, and right now I&#039;ve got two AP&#039;s that don&#039;t really cooperate.  (Well, only one answers DHCP, so it&#039;s cooperation, but our laptop users still see two different networks.)  I don&#039;t think I can get our DSL router to do much in the way of WDS, but I can probably get someone to donate another Linksys, then setup WDS between the two, one at the front of the facility and one in back, and just turn off the DSL router&#039;s WiFi altogether.  Any tips?&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/969#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/782">fileserver</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/482">first day</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/781">lan</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/780">moving truck</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/783">raid</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/492">wifi</category>
+ <pubDate>Tue, 10 Jul 2007 16:03:53 +0000</pubDate>
+ <dc:creator>Sil Greene</dc:creator>
+ <guid isPermaLink="false">969 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

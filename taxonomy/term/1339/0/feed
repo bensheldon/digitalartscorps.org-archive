@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - digital video</title>
+ <link>http://digitalartscorps.org/taxonomy/term/1339/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Messages in Motion Video Making Tool-Kit</title>
+ <link>http://digitalartscorps.org/node/1838</link>
+ <description>&lt;p&gt;Very simple step-by-step guide for making a short video &quot;postcard&quot; expressing your own insights and opinions about any topic. Addresses generating content and staying aware of the formal and technical aspects of video making. Developed by Messages in Motion (&lt;a href=&quot;http://messagesinmotion.com/&quot; title=&quot;http://messagesinmotion.com/&quot;&gt;http://messagesinmotion.com/&lt;/a&gt;). (see attached PDF)&lt;/p&gt;
+</description>
+ <category domain="http://digitalartscorps.org/taxonomy/term/1339">digital video</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/mim_toolkit_0.pdf" length="2013875" type="application/pdf" />
+ <pubDate>Tue, 21 Sep 2010 15:40:50 +0000</pubDate>
+ <dc:creator>Goda Trakumaite</dc:creator>
+ <guid isPermaLink="false">1838 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

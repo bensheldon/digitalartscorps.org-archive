@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - microphone</title>
+ <link>http://digitalartscorps.org/taxonomy/term/536/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Good microphone recommendations?</title>
+ <link>http://digitalartscorps.org/node/528</link>
+ <description>&lt;p&gt;I&#039;m doing a train-the-trainer digital storytelling workshop next month using PC&#039;s and probably Windows Movie Maker (or possibly something like Adobe Premiere Elements) and I was wondering if anyone had any recommendations on a microphone ($50 or under) that I could use to get a good, clear voice narration.  My friend Colin recommended using a &lt;a href=&quot;http://www.bhphotovideo.com/bnh/controller/home?O=productlist&amp;amp;A=details&amp;amp;Q=&amp;amp;sku=150434&amp;amp;is=REG&amp;amp;addedTroughType=categoryNav&lt;br /&gt;
+igation&quot;&gt;Sony ECM-MS907&lt;/a&gt;, but that was on a Mac.   I&#039;ve tried USB mic&#039;s but they usually sound awful.&lt;/p&gt;
+&lt;p&gt;Ben just got an &lt;a href=&quot;http://www.rolandus.com/products/productdetails.aspx?ObjectId=757&quot;&gt;Edirol mp3 recorder&lt;/a&gt;, which is sweet, but again, out of my budget!  &lt;/p&gt;
+&lt;p&gt;[Oh and attached is a little bit of what my voice sounds like, recorded by Ben&#039;s recorder...I&#039;ve never lost my voice this badly with a cold before...]&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/528#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/521">digital storytelling</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/536">microphone</category>
+ <enclosure url="http://digitalartscorps.org/sites/digitalartscorps.org/files/files/sick danielle voice.mp3" length="149701" type="application/x-unknown" />
+ <pubDate>Wed, 14 Feb 2007 21:11:53 +0000</pubDate>
+ <dc:creator>danielle martin</dc:creator>
+ <guid isPermaLink="false">528 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

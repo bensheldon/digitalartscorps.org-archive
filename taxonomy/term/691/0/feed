@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - VISTA Resource</title>
+ <link>http://digitalartscorps.org/taxonomy/term/691/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>CTCVISTA IRC channel</title>
+ <link>http://digitalartscorps.org/node/867</link>
+ <description>&lt;p&gt;Just wanted to let everyone know (or at least everyone who reads this blog) that there is a new resource available for VISTAs! Matt Isaacs and I have started an irc channel at Freenode.&lt;/p&gt;
+&lt;p&gt;To use this channel, you&#039;ll need to have an IRC client. Xchat is probably the most popular program for linux, but there is also a Windows client that might be fruitful. iChat seems to be the mac equivalent (any guidance on that point would be useful).&lt;/p&gt;
+&lt;p&gt;For more details, check out &lt;a href=&quot;http://freenode.net/using_the_network.shtml&quot;&gt;http://freenode.net/using_the_network.shtml&lt;/a&gt;. That URL will take you to the Freenode site, which will link you to popular clients, information about how to configure them, etc.&lt;/p&gt;
+&lt;p&gt;Once you have it set up and ready to roll, be sure and join the #ctcvista channel!&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/867#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/691">VISTA Resource</category>
+ <pubDate>Fri, 25 May 2007 16:54:52 +0000</pubDate>
+ <dc:creator>Ross Musselman</dc:creator>
+ <guid isPermaLink="false">867 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>

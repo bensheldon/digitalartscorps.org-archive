@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://digitalartscorps.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Digital Arts Service Corps - biography</title>
+ <link>http://digitalartscorps.org/taxonomy/term/62/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>First Post</title>
+ <link>http://digitalartscorps.org/node/63</link>
+ <description>&lt;p&gt;Just testing the blog feature.  I&amp;#39;m currently sitting at the PSO learning about the features on this website. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I will be working at &lt;a href=&quot;www.aspirationtech.org&quot;&gt;Aspiration Tech&lt;/a&gt; in San Francisco.  Up until now I have been working as an Engineer for &lt;a href=&quot;www.jhuapl.edu&quot;&gt;Johns Hopkins Applied Physics Lab&lt;/a&gt; in Laurel, MD.  I worked in the Space Department designing and testing electrical equipment for spacecraft.  I worked on &lt;a href=&quot;http://messenger.jhuapl.edu/&quot;&gt;MESSENGER&lt;/a&gt; and most recently on &lt;a href=&quot;http://stereo.gsfc.nasa.gov/&quot;&gt;STEREO&lt;/a&gt; (which will launch one of these days, not that I&#039;m bitter or anything).  &lt;/p&gt;
+&lt;p&gt;I went to &lt;a href=&quot;www.cmu.edu&quot;&gt;Carnegie Mellon University&lt;/a&gt; where I earned a BS in Electrical and Computer Engineering with a double-major in Mathematics.&lt;/p&gt;
+&lt;p&gt;I&#039;m really looking forward to my year at Aspiration, and to making more posts that will hopefully have some more interesting content than this one. :-)&lt;/p&gt;
+</description>
+ <comments>http://digitalartscorps.org/node/63#comments</comments>
+ <category domain="http://digitalartscorps.org/taxonomy/term/62">biography</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/45">pso</category>
+ <category domain="http://digitalartscorps.org/taxonomy/term/61">test post</category>
+ <pubDate>Thu, 07 Sep 2006 18:49:17 +0000</pubDate>
+ <dc:creator>Tim Wescott</dc:creator>
+ <guid isPermaLink="false">63 at http://digitalartscorps.org</guid>
+</item>
+</channel>
+</rss>
